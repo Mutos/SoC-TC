@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Spob">
- <pos x="0.000000" y="0.000000"/>
+ <pos x="-728.721099" y="927.463217"/>
  <GFX>
   <space>M03</space>
   <exterior>aquatic3</exterior>
  </GFX>
  <presence>
-  <faction>Testers</faction>
+  <faction>Shoden Clusters</faction>
   <base>100.000000</base>
   <bonus>50.000000</bonus>
   <range>3</range>
