@@ -5,14 +5,9 @@
   <space>M00.png</space>
   <exterior>forest2.png</exterior>
  </GFX>
- <presence>
-  <faction>Core League</faction>
-  <value>500.000000</value>
-  <range>5</range>
- </presence>
  <general>
   <class>M</class>
-  <population>1500500000</population>
+  <population>1.5005e+09</population>
   <hide>1.000000</hide>
   <services>
    <land/>
@@ -23,20 +18,6 @@
    <outfits/>
    <shipyard/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>Sshaad Food</commodity>
-   <commodity>Shapeshifter Food</commodity>
-   <commodity>Pupeteer Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-   <commodity>Medicine</commodity>
-   <commodity>Luxury Goods</commodity>
-   <commodity>Ziffelan Minidragons</commodity>
-  </commodities>
   <description>Earth is the cradleworld of the Human species and has a rich but dramatic history. At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status.
 
 But in the ensuing years, the giants concerns actually outgrew the planetside states, tying them into a network of economic chains. Power-hungry policorpos conquered the solar system, settled Mars and began to expand into outer space by sublight sleeper convoys. Battling one another for the most lucrative positions, they sided together every time Earthers would attempt to restrain them.
@@ -49,8 +30,5 @@ But some people could not accept that mankind's cradleworld be ruled from the di
   </description>
   <bar>The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...  </bar>
  </general>
- <tech>
-  <item>All Ships</item>
-  <item>All Outfits</item>
- </tech>
+ <tech/>
 </spob>
