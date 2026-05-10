@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="Stars Of Call">
+ <author>Hoshikaze DevTeam</author>
+ <version>0.1.0</version>
+ <naev_version>&gt;=0.13.0</naev_version>
+ <priority>1</priority>
+ <total_conversion/>
+ <description>Hoshikaze 2250 is a universe developped (in French) by a small team of writers and illustrators. As of 2026, it has been developped into novels, short stories, a Table Top Role-Playing Game and several illustrations. It also features a wiki on our website, containing more than 900 articles. There is also a videogame, named Stars of Call, which used NAEV 0.6 several years ago. The goal of this TC is to upgrade SoC to an up-to-date version of NAEV.</description>
+ <source>https://codeberg.org/naev/plugin-total-conversion-example.git</source>
+</plugin>

@@ -1,0 +1,13 @@
+scenario_name = "Stars of Call"
+ship_name = "El Shipo"
+ship_acquired = "Your first space-worthy ship!"
+ship_model = "Llama"
+credits = 30000
+system = "Sys"
+system_position = [-1250, -350]
+chapter = "0"
+date = "UST 100:1000.1000"
+gui_default = "slim"
+spob_lua_default = "spob/lua/default.lua"
+dtype_default = "energy"
+local_map_default = ""
