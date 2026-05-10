@@ -7,9 +7,9 @@ Hoshikaze 2250 is ao universe developped (in French) by a small team of writers 
 1/ Download and run NAEV from https://naev.org/
 
 2/ Clone this repository into the NAEV plugins folder :
-	Linux		~/.local/share/naev/plugins
-	MacOS		~/Library/Application Support/org.naev.Naev/plugins
-	Windows		%APPDATA%\naev\plugins
+- Linux		~/.local/share/naev/plugins
+- MacOS		~/Library/Application Support/org.naev.Naev/plugins
+- Windows		%APPDATA%\naev\plugins
 
 3/ Run NAEV and launch the Plugin Manager
 
