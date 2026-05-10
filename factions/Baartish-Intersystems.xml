@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Baartish Intersystems">
+ <ai>independent</ai>
+ <static />
+ <invisible />
+ <known />
+ <player>3</player>
+ <colour>blue</colour>
+ <spawn>testers</spawn>
+ <equip>testers</equip>
+ <standing>static</standing>
+</faction>

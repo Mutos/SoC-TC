@@ -9,7 +9,7 @@ local function spawn_solitary_civilians ()
    return pilots
 end
 
-local ftesters = faction.get("Testers")
+local ftesters = faction.get("Independent")
 -- @brief Creation hook.
 function create ( max )
    local weights = {}

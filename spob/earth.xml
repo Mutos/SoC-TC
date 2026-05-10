@@ -7,9 +7,9 @@
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <base>0.000000</base>
-  <bonus>0.000000</bonus>
-  <range>0</range>
+  <value>500.000000</value>
+  <bonus>50.000000</bonus>
+  <range>5</range>
  </presence>
  <general>
   <class>M</class>
@@ -24,6 +24,20 @@
    <outfits/>
    <shipyard/>
   </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
   <description>Earth is the cradleworld of the Human species and has a rich but dramatic history. At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status.
 
 But in the ensuing years, the giants concerns actually outgrew the planetside states, tying them into a network of economic chains. Power-hungry policorpos conquered the solar system, settled Mars and began to expand into outer space by sublight sleeper convoys. Battling one another for the most lucrative positions, they sided together every time Earthers would attempt to restrain them.
