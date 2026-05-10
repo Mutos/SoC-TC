@@ -10,10 +10,5 @@
   <spob>Asteroids Marker</spob>
   <spob>Earth</spob>
  </spobs>
- <jumps>
-  <jump target="Sys">
-   <pos x="-1921.615831" y="4949.174595"/>
-   <hide>1.000000</hide>
-  </jump>
- </jumps>
+ <jumps/>
 </ssys>
