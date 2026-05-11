@@ -1,0 +1,10 @@
+<tech name = "Standard Core Outfits">
+	<!-- Base Core Systems that equip each new ship by default -->
+	<item>Std Sml Hull Plating</item>			<item>Std Med Hull Plating</item>			<item>Std Lrg Hull Plating</item>
+	<item>Std Sml Powerplant</item>				<item>Std Med Powerplant</item>				<item>Std Lrg Powerplant</item>
+	<item>Std Sml Computer</item>				<item>Std Med Computer</item>				<item>Std Lrg Computer</item>
+	<item>Std Sml Warp Engine</item>			<item>Std Med Warp Engine</item>			<item>Std Lrg Warp Engine</item>
+	<item>Std Ftr Jump Drive</item>				<item>Std Sml Jump Drive</item>				<item>Std Med Jump Drive</item>				<item>Std Lrg Jump Drive</item>
+	<item>Std Sml Verniers</item>				<item>Std Med Verniers</item>				<item>Std Lrg Verniers</item>
+	<item>Std Ftr Shield</item>					<item>Std Sml Shield</item>					<item>Std Med Shield</item>					<item>Std Lrg Shield</item>
+</tech>
