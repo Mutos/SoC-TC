@@ -1,0 +1,6 @@
+<commodity>
+ <name>Generic Food</name>
+ <description>Food is necessary to sustain life. Generic food is engineered to be biocompatible with all sentient species and their common ecosystems. So it is slightly more expensive than species-specific food.</description>
+ <price>	  15.00</price>
+ <gfx_store>sustipacks</gfx_store>
+</commodity>
