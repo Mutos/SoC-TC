@@ -1,0 +1,4 @@
+<asteroid_group name="typeA-poor">
+ <type weight="8">Iron-Nickel</type>
+ <type weight="2">Gold-Platinum</type>
+</asteroid_group>
