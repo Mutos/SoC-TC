@@ -1,0 +1,7 @@
+<commodity>
+ <name>Generic Food</name>
+ <description>Basic food suitable for all species.</description>
+ <price>15</price>
+ <gfx_store>_default</gfx_store>
+ <price_constant/>
+</commodity>

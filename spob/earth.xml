@@ -36,5 +36,7 @@ But some people could not accept that mankind's cradleworld be ruled from the di
   </description>
   <bar>The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...  </bar>
  </general>
- <tech/>
+ <tech>
+  <item price_mod="1">Food</item>
+ </tech>
 </spob>
