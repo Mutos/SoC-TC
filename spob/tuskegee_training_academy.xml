@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Tuskegee Training Academy">
- <pos x="-19012.995956" y="-30540.038801" />
+ <pos x="-19012.995956" y="-30540.038801"/>
  <GFX>
   <space>Asteroid-Base-001-Fighters-Base.png</space>
   <exterior>station03.png</exterior>
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <value>100.000000</value>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
   <range>5</range>
  </presence>
  <general>
@@ -23,16 +24,6 @@
    <outfits/>
    <shipyard/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-   <commodity>Medicine</commodity>
-   <commodity>Ziffelan Minidragons</commodity>
-  </commodities>
   <description>With its name a tribute to the glory days of the fight for equality in the army, the Tuskegee Training Academy, or TTA for shorts, is the most famous station in the Sol Training Network. It holds 2 courses, the first one for cadets and the second one a Top Gun session. It is established on an asteroid, which orbit is often modified by warpless thruster burns under strict in-base directions, so its exact position is never known outside a restricted circle of Core League military officials.
 
 Statistics show that TTA cadets are more likely than other STN cadets to achieve Elite status in the fighter and bomber units, and are also susceptible to reach higher ranks in the military hierarchy.
@@ -43,8 +34,5 @@ The Tiger Meet regular fighting units contest is occasionally held at Tuskegee, 
   </description>
   <bar>Mostly spacemen, with some gound crew.</bar>
  </general>
- <tech>
-  <item>All Ships</item>
-  <item>All Outfits</item>
- </tech>
+ <tech/>
 </spob>

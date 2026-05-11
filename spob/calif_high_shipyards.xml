@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Calif High Shipyards">
- <pos x="-5183.720370" y="6008.673264" />
+ <pos x="-5183.720370" y="6008.673264"/>
  <GFX>
   <space>Station-SSY004.png</space>
   <exterior>station04.png</exterior>
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <value>50.000000</value>
+  <base>0.000000</base>
+  <bonus>0.000000</bonus>
   <range>0</range>
  </presence>
  <general>
@@ -22,7 +23,6 @@
    <outfits/>
    <shipyard/>
   </services>
-  <commodities/>
   <description>Calif High is the main shipyards in Earth orbit. It is named for the California region of the American continent.
 
 It was initially the headquarters of the Kreuzer-Malcolm Corporation, back in the first days of the Orbital era. When KMC became the first company to manufacture ionic spaceships for the Earth-Mars Colonization Noria, a shipyard extension was built. Little by little, it became larger, until it totally enclosed the HQ building.
@@ -31,8 +31,5 @@ During the Cartel Sol era, it was one of the main military shipyard of Sol and, 
   </description>
   <bar>All kinds and species of Spacers can be found here.</bar>
  </general>
- <tech>
-  <item>All Ships</item>
-  <item>All Outfits</item>
- </tech>
+ <tech/>
 </spob>
