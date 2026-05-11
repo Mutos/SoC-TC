@@ -1,0 +1,4 @@
+<asteroid_group name="typeB-poor">
+ <type weight="8">Silicate-Olivine</type>
+ <type weight="2">Rhodium-Yttrium</type>
+</asteroid_group>

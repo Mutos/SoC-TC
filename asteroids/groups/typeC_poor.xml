@@ -1,0 +1,4 @@
+<asteroid_group name="typeC-poor">
+ <type weight="8">Water-Clay</type>
+ <type weight="2">Gold-Rhodium</type>
+</asteroid_group>

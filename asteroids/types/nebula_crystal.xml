@@ -1,0 +1,29 @@
+<asteroid name="Nebula Crystal">
+ <scanned>rare</scanned>
+ <gfx>NC01</gfx>
+ <gfx>NC02</gfx>
+ <gfx>NC03</gfx>
+ <gfx>NC04</gfx>
+ <gfx>NC05</gfx>
+ <gfx>NC06</gfx>
+ <gfx>NC07</gfx>
+ <gfx>NC08</gfx>
+ <gfx>NC09</gfx>
+ <gfx>NC10</gfx>
+ <gfx>NC11</gfx>
+ <gfx>NC12</gfx>
+ <gfx>NC13</gfx>
+ <gfx>NC14</gfx>
+ <armour_min>2500</armour_min>
+ <armour_max>3500</armour_max>
+ <absorb>90</absorb>
+ <commodity>
+  <name>Silicate</name>
+  <quantity>30</quantity>
+ </commodity>
+ <commodity>
+  <name>Nebula Crystals</name>
+  <quantity>30</quantity>
+  <rarity>2</rarity>
+ </commodity>
+</asteroid>

@@ -1,0 +1,5 @@
+<asteroid_group name="typeC-standard">
+ <type weight="6">Water-Clay</type>
+ <type weight="3">Gold-Rhodium</type>
+ <type weight="1">Kermite</type>
+</asteroid_group>

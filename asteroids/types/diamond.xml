@@ -1,0 +1,21 @@
+<asteroid name="diamond">
+ <scanned>common</scanned>
+ <gfx>asteroid-D00</gfx>
+ <gfx>asteroid-D07</gfx>
+ <gfx>asteroid-D08</gfx>
+ <gfx>asteroid-D09</gfx>
+ <gfx>asteroid-D10</gfx>
+ <gfx>asteroid-D11</gfx>
+ <gfx>asteroid-D12</gfx>
+ <gfx>asteroid-D13</gfx>
+ <armour_min>250</armour_min>
+ <armour_max>350</armour_max>
+ <commodity>
+  <name>Ore</name>
+  <quantity>60</quantity>
+ </commodity>
+ <commodity>
+  <name>Diamond</name>
+  <quantity>20</quantity>
+ </commodity>
+</asteroid>

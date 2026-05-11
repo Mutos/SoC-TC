@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Saturn">
- <pos x="-37798.726620" y="-29591.413228" />
+ <pos x="-37798.726620" y="-29591.413228"/>
  <GFX>
   <space>I07.png</space>
   <exterior>mining5.png</exterior>

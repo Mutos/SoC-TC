@@ -1,0 +1,23 @@
+<asteroid name="Mossy">
+ <scanned>uncommon</scanned>
+ <gfx>moss01</gfx>
+ <gfx>moss02</gfx>
+ <gfx>moss03</gfx>
+ <gfx>moss04</gfx>
+ <armour_min>70</armour_min>
+ <armour_max>90</armour_max>
+ <absorb>20</absorb>
+ <commodity>
+  <name>Water</name>
+  <quantity>25</quantity>
+ </commodity>
+ <commodity>
+  <name>Clay</name>
+  <quantity>25</quantity>
+ </commodity>
+ <commodity>
+  <name>Space Moss</name>
+  <quantity>50</quantity>
+  <rarity>2</rarity>
+ </commodity>
+</asteroid>

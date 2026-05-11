@@ -1,0 +1,26 @@
+<asteroid name="Water-Clay">
+ <scanned>common</scanned>
+ <gfx>asteroid-D00</gfx>
+ <gfx>asteroid-D07</gfx>
+ <gfx>asteroid-D08</gfx>
+ <gfx>asteroid-D09</gfx>
+ <gfx>asteroid-D10</gfx>
+ <gfx>asteroid-D11</gfx>
+ <gfx>asteroid-D12</gfx>
+ <gfx>asteroid-D13</gfx>
+ <armour_min>70</armour_min>
+ <armour_max>90</armour_max>
+ <absorb>20</absorb>
+ <commodity>
+  <name>Water</name>
+  <quantity>25</quantity>
+ </commodity>
+ <commodity>
+  <name>Clay</name>
+  <quantity>25</quantity>
+ </commodity>
+ <commodity>
+  <name>Nickel</name>
+  <quantity>5</quantity>
+ </commodity>
+</asteroid>
