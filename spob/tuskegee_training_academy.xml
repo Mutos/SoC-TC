@@ -7,9 +7,9 @@
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <base>0.000000</base>
+  <base>200.000000</base>
   <bonus>0.000000</bonus>
-  <range>5</range>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>

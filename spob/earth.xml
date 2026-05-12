@@ -7,7 +7,7 @@
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <base>0.000000</base>
+  <base>500.000000</base>
   <bonus>50.000000</bonus>
   <range>5</range>
  </presence>

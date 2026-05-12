@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Jupiter Station">
- <pos x="25830.256130" y="24317.139217"/>
+ <pos x="3809.736307" y="27056.730199"/>
  <GFX>
   <space>station-commerce.png</space>
   <exterior>station05.png</exterior>
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <base>0.000000</base>
+  <base>180.000000</base>
   <bonus>0.000000</bonus>
   <range>3</range>
  </presence>
