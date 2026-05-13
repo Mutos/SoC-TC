@@ -3,6 +3,6 @@
  <name>K'Rinn Food</name>
  <description>Food, generally vegetable, produced on k'rinn-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
  <price>10</price>
- <gfx_store>_default</gfx_store>
+ <gfx_store>spices</gfx_store>
  <price_constant/>
 </commodity>
