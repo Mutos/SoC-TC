@@ -37,6 +37,7 @@ But some people could not accept that mankind's cradleworld be ruled from the di
   <bar>The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...  </bar>
  </general>
  <tech>
-  <item price_mod="1">Food</item>
+  <item price_mod="0.8">Generic Food</item>
+  <item price_mod="1.2">K'Rinn Food</item>
  </tech>
 </spob>

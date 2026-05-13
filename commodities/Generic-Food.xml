@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <commodity>
  <name>Generic Food</name>
- <description>Basic food suitable for all species.</description>
+ <description>Food is necessary to sustain life. Generic food is engineered to be biocompatible with all sentient species and their common ecosystems. So it is slightly more expensive than species-specific food.</description>
  <price>15</price>
  <gfx_store>_default</gfx_store>
  <price_constant/>
