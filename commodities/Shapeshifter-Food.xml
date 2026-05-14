@@ -3,6 +3,6 @@
  <name>Shapeshifter Food</name>
  <description>Food produced on shapeshifter-biocompatible ecosystems. Warning : medium risk of not being edible for other species.</description>
  <price>10</price>
- <gfx_store>animal_products</gfx_store>
+ <gfx_store>produce</gfx_store>
  <price_constant/>
 </commodity>
