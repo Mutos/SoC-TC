@@ -45,5 +45,6 @@ But some people could not accept that mankind's cradleworld be ruled from the di
   <item price_mod="1.3">Shapeshifter Food</item>
   <item price_mod="1.3">Pupeteer Food</item>
   <item price_mod="1.0">Industrial Goods</item>
+  <item price_mod="1.0">Medicine</item>
  </tech>
 </spob>
