@@ -7,8 +7,8 @@ description = '''Hoshikaze 2250 is ao universe developped (in French) by a small
 license = "CC0"
 release_status = "development"
 tags = [ "Hoshikaze", "TC" ]
-image_url = "https://codeberg.org/naev/plugin-total-conversion-example/raw/branch/main/mayo.jpg"
+image_url = "Logo-Hoshikaze.png"
 naev_version = ">= 0.13.0"
 priority = 1
 total_conversion = true
-source = { git = "https://codeberg.org/naev/plugin-total-conversion-example" }
+source = { git = "https://github.com/Mutos/SoC-TC" }
