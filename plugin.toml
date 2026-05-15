@@ -7,7 +7,7 @@ description = '''Hoshikaze 2250 is ao universe developped (in French) by a small
 license = "CC0"
 release_status = "development"
 tags = [ "Hoshikaze", "TC" ]
-image_url = "Logo-Hoshikaze.png"
+image_url = "https://raw.githubusercontent.com/Mutos/SoC-TC/refs/heads/Logo/Logo-Hoshikaze.png"
 naev_version = ">= 0.13.0"
 priority = 1
 total_conversion = true
