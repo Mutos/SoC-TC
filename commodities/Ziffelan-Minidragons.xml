@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Ziffelan Minidragons</name>
+ <description>It was already illegal to get minidragons out of Ziffel IV, even before the quarantine, hence their exorbitant price. Plus, the huge requirements of cryosleep make that a one-ton container can only hold a dozen bird-sized dragons.</description>
+ <gfx_store>minidragon</gfx_store>
+ <price>1000</price>
+ <price_constant/>
+</commodity>
