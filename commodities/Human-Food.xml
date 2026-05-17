@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <commodity>
  <name>Human Food</name>
- <description>Food, often vegetable and animal products, produced on human-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+ <description>Food, often a mix of vegetable and animal products, produced on human-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
  <price>10</price>
- <gfx_store>animal_products</gfx_store>
+ <gfx_store>luxury_mealpacks</gfx_store>
  <price_constant/>
 </commodity>
