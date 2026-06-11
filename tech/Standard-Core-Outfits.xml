@@ -1,4 +1,11 @@
 <tech name = "Standard Core Outfits">
-	<!-- Base Core Systems that equip each new ship by default -->
-	<item>Active Plating</item>
+	<!-- Base Core Systems taken from the Eresslih -->
+	<item>Std Sml Hull Plating</item>
+	<item>Std Sml Powerplant</item>
+	<item>Std Sml Computer</item>
+	<item>Std Sml Warp Engine</item>
+	<item>Std Sml Jump Drive</item>
+	<item>Std Sml Verniers</item>
+	<item>Std Sml Shield</item>
+	<item>Small Ion Flak Turret</item>
 </tech>
