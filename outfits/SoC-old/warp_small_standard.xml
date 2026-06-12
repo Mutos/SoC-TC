@@ -7,14 +7,20 @@
   <price>10000</price>
   <description>The warp engine that most manufacturers install in their ships at assembly. Usually the first component pilots upgrade.</description>
   <gfx_store>hk2250/Warp-001</gfx_store>
+  <priority>3</priority>
  </general>
  <specific type="modification">
-  <thrust>250</thrust>							<!-- Main purpose	: thrust directs acceleration -->
-  <speed>300</speed>							<!-- Main purpose	: maximum absolute speed - unrealistic but needed ! -->
   <misc_reverse_thrust>1</misc_reverse_thrust>	<!-- Main purpose	: allows the ship to decelerate as well as accelerate, albeit with less power -->
-  <engine_limit>400</engine_limit>				<!-- Mass Limit		: engine is less efficient for ships past that limit -->
-  <mass_rel>50</mass_rel>						<!-- Mass cost		: the verniers array is not the heaviest outfit, but it certainly adds to a ship's mass -->
-  <energy_usage>6</energy_usage>				<!-- Energy cost	: defines energy consumption -->
-  <ew_hide>0</ew_hide>
+  <lua_inline>
+   require('outfits.lib.multicore').init({
+      {'mass', 6, 14},
+      {'accel', 299, 116},
+      {'turn', 181, 109},
+      {'speed', 295, 222},
+      {'fuel', 400, 100},
+      {'energy_regen_malus', 2.6, 3.6},
+      {'engine_limit', 160, 185},
+   })
+  </lua_inline>
  </specific>
 </outfit>
