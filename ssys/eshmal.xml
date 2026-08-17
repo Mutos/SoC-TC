@@ -7,10 +7,10 @@
   </general>
   <pos x="-4800.296" y="951.024"/>
   <spobs>
-    <spob>Aan-in-Mali</spob>
-    <spob>Mali</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Irsh-Mal</spob>
+    <spob>Aan-in-Mali</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Mali</spob>
   </spobs>
   <jumps>
     <jump target="IC 0049">

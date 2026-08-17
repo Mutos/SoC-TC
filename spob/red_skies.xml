@@ -22,10 +22,21 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Red Skies takes its name from the gas giant around which it revolves, which gives its sky a reddish color. It was colonized by New Light domains that associated with Spacers from the Wandering Domains. There is an effort to built co-colonies with other species, but it is hampered by the low biocompatibility of the local biosphere. However, gengineers from Read Skies are always creating new bridge species to mitigate the annoyance.
   </description>
     <bar>Many locals on various bearers and a few Spacers, most of the latest from the Wandering Domains</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+  </tech>
 </spob>

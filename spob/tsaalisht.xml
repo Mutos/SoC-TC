@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>As most sshaad planets, Tsaa'lisht is a forest world. It has been colonised by the Hash'riss and as such, has also been occupied by the Shodens before the beginning of the Complementarist Splitup.
 
@@ -32,4 +32,12 @@ Now, Tsaa'lisht is a complementarist model world, living for the most part off t
   </description>
     <bar>The bar is filled with Sshaad and Shapeshifter patrons, with occasionnal off-planet visitors</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,10 +22,16 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>With oceans, forests and deserts, Hirvaam has everything a planet's settler can desire, except maybe enough polar caps for a satisfying climate stability. It has lots of erratic meteorological phenomenons, to which the indigenous fauna has well adapted. The new Hirvaameers, however, have devised numbers of strategies to prevent, mitigate and lessen their consequences, including observing and imitating the local fauna.
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+  </tech>
 </spob>

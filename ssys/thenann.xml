@@ -7,9 +7,9 @@
   </general>
   <pos x="2268.952" y="-2422.032"/>
   <spobs>
-    <spob>Thenann Relay</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Thenann</spob>
+    <spob>Thenann Relay</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0047">

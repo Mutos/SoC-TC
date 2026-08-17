@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This newly-commissioned station was built when the link between the Ashioto Cluster and the Long Run was discovered. Its aim is to prevent a rush of smugglers upon potentially dangerous purgatorian technologies.
   </description>
     <bar>Cluster Guard members are everywhere, spying every move of everyone</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
+  </tech>
 </spob>

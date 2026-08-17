@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This border station lies on the Sshaad side of the interface between Baartish and Arythem spaces. Of course, the two States are formally allies and jointly maintain the Joint Peacekeeper Corps, but marauders, smugglers and pirates exist on both sides. So the route is guarded by a station on each side, and Biimis is the Baartish side firewall. 
 
@@ -30,4 +30,14 @@ It is of notice that the station is named after the colored stripes that show on
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

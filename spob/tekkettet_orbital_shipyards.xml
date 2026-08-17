@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>These are the famous shipyards that build a great part of the T'Kalt used during the Second Fringe War. After the war, they were oversized and under a threat of shutting down. Just as what happened with the planetside facilities, workers united to claim them back. In less than two decades, they managed to convert them to building cargo ships like the famous L'Lintir and recycling old ships into new careers.
 
@@ -30,4 +30,12 @@ The Tek'Kettet shipyard is now a major shipbuilder of k'rinn space, on a par wit
   </description>
     <bar>Workers ans Spacers talking about ships</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

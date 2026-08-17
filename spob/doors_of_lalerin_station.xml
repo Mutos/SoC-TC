@@ -22,10 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Orbiting around the same gas giant as the jump point itself, this Border Station was originally a mere refuelling outpost for exploration beyond the Lalerin system. When the route to the Instrumentality Company was discovered, it was hastily extended to become both a trading station and a military base.
   </description>
     <bar>Sshaads from all the species' States, some Shapeshifters and a few non-Complementarists, mainly Humans and Pupeteers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,10 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This old mining outpost was hastily converted to a border station when the Corridor link between Rith and Sshaad Spheres was discovered. The coincidence of its name with the Irali spaceship class is a well-known joke among rithai Spacers.
   </description>
     <bar>Instrumentality Guard pilots and a mixed lot of sshaad and rith merchantbeings.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

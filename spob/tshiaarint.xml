@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planet is very special, being the Shapeshifters' cradleworld. It had been settled by a joint effort between Baartish Intersystem and Hash'riss Colonisation Corporation, but elements had been kept secret from the colonists by the exploration compagny that discovered the planet : satellites had been found and destroyed, and places showed signs of civilisation, seemingly hidden or destroyed on purpose.
 
@@ -38,4 +38,13 @@ Now, Tshiaa'rint is split between a generally Complementarist population, a numb
   </description>
     <bar>You see numerous Sshaads... or are they Shapeshifters ? You know they often indulge in sshaad shape. Several ones are recognizable, either only partially transformed or in their plain natural shape.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>One of the most successful Irilia colonies, Irilia-7 was initially established by Irilia-1 people in search of further expansion. The oceanic world proved to be a great reservoir of marine life which was, despite a low biocompatibility, mostly harmless for skaraean life.
 
@@ -32,4 +32,13 @@ The mix of populations with very different views on life has prompted some conce
   </description>
     <bar>A mixed lot of Rithai of diverse ethnies and mostly Ka'Raltian K'Rinns</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This lush world on the border of Read Quadrant League and Thirteen Planets, originately settled by Pupeteers, has developed a multi-species colony with a Spacer-inspired culture. Its good if not excellent biocompatibility and the existence of many species well suited to become bearers earned it fame quite early.
 
@@ -30,4 +30,18 @@ It is a favorite among Spacers as a haven of peace, as it willingly removed itse
   </description>
     <bar>A diverse crowd of Spacers from all the known universe, no species, state of origin or culture is absent in Svenia's numerous bars</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

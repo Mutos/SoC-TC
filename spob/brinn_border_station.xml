@@ -22,10 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Brinn is the outer limit of the Purple Trail into the infamous Gamma Sector. Its garrison is here to stand against possible pirate attacks.
   </description>
     <bar>Mainly Purple Trail soldiers and pilots, plus a few techs.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

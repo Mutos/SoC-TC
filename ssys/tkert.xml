@@ -7,11 +7,11 @@
   </general>
   <pos x="2460.496" y="-8.768"/>
   <spobs>
-    <spob>T'Ker'T</spob>
-    <spob>K'Nin'k</spob>
-    <spob>K'Tern</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>T'Ker'T</spob>
     <spob>Erlithal</spob>
+    <spob>K'Tern</spob>
+    <spob>K'Nin'k</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0001">

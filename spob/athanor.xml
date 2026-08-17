@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A patchwork of forests and waterlands, this very fertile planet has been colonized independently by Baartish and Arythem settlers. It was the first place where Sshaads and Rithai began to fight what would later be known as the "New Fringe War".
 
@@ -30,4 +30,13 @@ Despite the introduction of many Complementarist danebs and the spreading of you
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

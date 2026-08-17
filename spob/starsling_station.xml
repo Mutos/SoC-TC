@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This slingshot station, the first of its kind in the Human Sphere, was built at the end of the Corporate and Fringe Wars, with the help of the K'Rinn Council in exchange for Planetarist support against the Arythem Clan. At the time, it was the main Planetarist asset and its location was even more secret than Sanctuary's. During its first two years, it allowed the Alliance to launch surprise raids on distant Cartel Sol systems, but was used sparsely, because after raiding, the ships would be alone to fly back to Planetarist space.
 
@@ -32,4 +32,18 @@ After peace was signed and the Commonwealth was created, Starsling Station urned
   </description>
     <bar>The bar is host to a mixed crowd consisting mainly of Humans, K'Rinns and Rithai, with occasional visitors of all other species</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

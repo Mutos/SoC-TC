@@ -7,10 +7,10 @@
   </general>
   <pos x="-81.128" y="-792.528"/>
   <spobs>
-    <spob>Nouvelle-Hong-Kong</spob>
-    <spob>Nouvelle-Shenzen</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Virtual Pirate Small</spob>
+    <spob>Nouvelle-Shenzen</spob>
+    <spob>Nouvelle-Hong-Kong</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri-CL - 1 - 1">

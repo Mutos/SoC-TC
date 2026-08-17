@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>As its name implies, Ocean is a wet planet, with a temperate climate and lush ecosystems, a delight for Pupeteer settlers. It is the latest colony of the Thirteen Planets. Its major ecosystems are or course marine, but it is also known for its airborne creatures : gigantic medusae floating near the stratosphere amidst clouds of aerial plancton and manta-like flyers following the jetstreams using naturally occuring pulsoreactors.
   </description>
     <bar>The floating station's bar is crowded by Pupeteers and a few other sentients</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

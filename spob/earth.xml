@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Earth is the cradleworld of the Human species and has a rich but dramatic history. At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status.
 
@@ -36,4 +36,18 @@ But some people could not accept that mankind's cradleworld be ruled from the di
   </description>
     <bar>The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...  </bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

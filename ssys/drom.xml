@@ -7,31 +7,31 @@
   </general>
   <pos x="2920.408" y="-1340.304"/>
   <spobs>
-    <spob>Irgal uneo Irmoth</spob>
-    <spob>Nahae</spob>
+    <spob>Ortir</spob>
+    <spob>Ermel</spob>
+    <spob>Ud Nahus</spob>
+    <spob>Ferem</spob>
+    <spob>Virtual Irmothem Area</spob>
     <spob>Raltir</spob>
-    <spob>Irilia</spob>
-    <spob>Skarae</spob>
-    <spob>Amthy</spob>
     <spob>Miktei</spob>
-    <spob>Mithtir</spob>
+    <spob>Nahae</spob>
     <spob>Virtual Arythem Area</spob>
     <spob>Darnath ud Irilia</spob>
+    <spob>Dirnae</spob>
     <spob>Anath Dirnae</spob>
+    <spob>Jahyle</spob>
+    <spob>Skarae</spob>
+    <spob>Jathdororam</spob>
+    <spob>Irgal uneo Irmoth</spob>
+    <spob>Ledim</spob>
+    <spob>Mithtir</spob>
     <spob>Erganir tud Liro</spob>
     <spob>Kerithal</spob>
-    <spob>Ermel</spob>
-    <spob>Jahyle</spob>
-    <spob>Dirnae</spob>
-    <spob>Ortir</spob>
-    <spob>Irnalth</spob>
-    <spob>Ferem</spob>
-    <spob>Jathdororam</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ledim</spob>
     <spob>Anath ud Irali</spob>
-    <spob>Virtual Irmothem Area</spob>
-    <spob>Ud Nahus</spob>
+    <spob>Irilia</spob>
+    <spob>Amthy</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irnalth</spob>
   </spobs>
   <jumps>
     <jump target="Duran">

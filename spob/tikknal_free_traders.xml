@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This Free Traders station has been established by smugglers groups in need of a base for exporting illegally Purgatorian artifacts from Ashioto.
   </description>
     <bar>A weird lot of Spacers talking, mostly about shadow running</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

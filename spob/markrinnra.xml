@@ -22,10 +22,23 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Mar'K'Rinn'Ra was the first k'rinn colony and is a local capitol, renowned for its sandy smaller continent. Many Irilia Rithai have made the months-long space voyage to settle it, establishing a de facto k'rinn-rith co-colony. It is however still under Council jurisdiction and will stay so under the agreement between Council and Irilia Clan.
   </description>
     <bar>A crowd of K'Rinns mixed with a sizeable number of Rithai and a few other sentients from all the known universe</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

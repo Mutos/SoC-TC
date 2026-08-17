@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Thalin Station is a carved-out asteroid, once home of the pirate Clan of the same name during the Fringe Wars. Back then, it was a stronghold of pirate incursions in both Alliance and Irilia space. It was first officiously but notoriously backed by Cartel Sol through the Avenir-Woodsfield-Inferno route, then passed under direct Solar control.
 
@@ -34,4 +34,18 @@ Since the Council-Irilia-Alliance victory and the founding of the Commonwealth, 
   </description>
     <bar>The bar is filled with a diverse crowd of mainly Humans and Rithai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

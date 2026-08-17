@@ -7,8 +7,8 @@
   </general>
   <pos x="-1672.62048" y="-1494.07488"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Banshee War Museum</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="GL 283 A">

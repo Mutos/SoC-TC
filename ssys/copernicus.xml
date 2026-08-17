@@ -7,13 +7,13 @@
   </general>
   <pos x="-2180.216" y="-327.504"/>
   <spobs>
-    <spob>Lipperhey</spob>
-    <spob>Harriot</spob>
-    <spob>Galilee</spob>
-    <spob>Bruno</spob>
-    <spob>Cunitz</spob>
     <spob>Janssen</spob>
+    <spob>Galilee</spob>
+    <spob>Harriot</spob>
+    <spob>Cunitz</spob>
     <spob>Brahe</spob>
+    <spob>Bruno</spob>
+    <spob>Lipperhey</spob>
   </spobs>
   <jumps>
     <jump target="CL 0015">

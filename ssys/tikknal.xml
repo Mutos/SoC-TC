@@ -7,8 +7,8 @@
   </general>
   <pos x="-554.6" y="-44.304"/>
   <spobs>
-    <spob>Tikk'Nal Free Traders</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tikk'Nal Free Traders</spob>
   </spobs>
   <jumps>
     <jump target="AC-KC - 1 - 3">

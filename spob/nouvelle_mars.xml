@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Nouvelle Mars was one of the thriving Better Worlds colonies which were initially contacted by the Planetarist Alliance. During the Corporate Wars, several battles were fought in the system, but the planet, although it forcibly shifted sides for each battle's victor, was left relatively unharmed. It even became a major smuggling base, taking advantage of the planetside population's general hostility towards the war.
 
@@ -32,4 +32,14 @@ Nowadays, Nouvelle Mars shows the classical League-Alliance border ambiance, wit
   </description>
     <bar>Mostly Human merchants talking business, some K'Rinns playing cargoes on Spiraxy</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

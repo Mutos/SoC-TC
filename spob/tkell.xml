@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station was built as soon as the jump tunnel leading to the Rith Core, unknown at the time of the Fringe Wars, was discovered.
 
@@ -30,4 +30,9 @@ It is k'rinned with the elitemost pilots in the Secession fleet and always has a
   </description>
     <bar>Tense k'rinn-only patrol crews, regarding any non-k'rinn with defiance.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

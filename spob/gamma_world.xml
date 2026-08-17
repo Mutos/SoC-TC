@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A small barren, desolate planet, first colonized by marrooned pirates, then expanded as a refuel point on the main alternate road from Purple Trail to Hoshi no Hekka.
 
@@ -34,4 +34,10 @@ Fallen Sun, a gas giant lying in the same system, is now exploited for hydrogen,
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

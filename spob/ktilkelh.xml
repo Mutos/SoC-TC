@@ -22,10 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A snowy world, recently settled by the Secession. There are discussions going on with the Rithai Kemae for allowing Rithai settlers on parts of the planet, where they would be able to thrive far easier than K'Rinns. That would be the first Ka'Raltian co-colony.
   </description>
     <bar>A mixed crowd of mainly K'Rinns and some Rithai, along with Spacers of diverse species</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

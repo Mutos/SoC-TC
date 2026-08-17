@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>When an advance party from the Shoden Northern Cluster discovered Bamara Station after an extended exploration, they never returned and were presumed lost. It was only a few weeks after, that Rarilash intelligence in the Human Sphere border became to speak of fleet movements towards a system beyond Nyotekundu. Hints were crossed and an armed exploration squad was launched, which came back after destroying human explorers in the buffer systems. A new border with the Human Sphere was being discovered. Stealth drones were sent to investigate the other end of the jump route.
 
@@ -38,4 +38,12 @@ Recently, daring human and sshaad captains have come to seek profit from the bor
   </description>
     <bar>Sshaad pilots and merchants, the latter screening an occasional Human partner from the former.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

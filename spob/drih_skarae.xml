@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Orbiting the gas giant Irol, this large double-cylinder habitat is one of the Free Adrimai strongholds in the sector, and the first waypoint on the road from Irilia space to Child of the Eclipse. It protects the 6-jumps so-called "Road of Perils" to Skaeth Border Station, bordering on Gham Garri space, where, despite heavy patrols from both stations, Adrim exfiltration ships often get attacked.
   </description>
     <bar>Several Rithai, most of them Adrimai, and some Pupeteers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

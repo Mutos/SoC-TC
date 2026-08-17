@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planet evenly split between water and barren deserts has next to no ground life, but its small native ecosystems mostly grow on the oceans. It was colonized as a mining resource and has since grown far above the outpost status. Despite the proximity to the Long Link, a once proposed plan for a rith-shaad co-colony has been discouraged by the planetside authorities.
 
@@ -30,4 +30,9 @@ Among Long Link travellers, Jaltha is rumored to be a staging ground for xenopho
   </description>
     <bar>Hardened miners, looking down on non-Rithai with contempt</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planet was the one from which originated Stars-Strider-7, the explorer who made a dramatic first contact with the Rithai.
 
@@ -34,4 +34,13 @@ Now, the situation is nearly regular, but some locals still frown on rith presen
   </description>
     <bar>The open-air bar is home to a large crowd of locals mounted on various bearers, among which a few Rithai can easily be spotted</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

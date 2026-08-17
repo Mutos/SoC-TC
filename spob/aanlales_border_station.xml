@@ -22,10 +22,17 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This Border Station was built when the route to the Candidate Systems was discovered, to serve as a trade outpost as well as a military deterrent.
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

@@ -7,8 +7,8 @@
   </general>
   <pos x="-2749.128" y="-1039.88"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Sheng Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="CL-PT - 1 - 2">

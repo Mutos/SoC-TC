@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The Cartel Sol invasion fleet came by Hermes when it attacked the Harushita Pocket. As the new Hoshi no Hekka State was created in the Eden Conference, the hastily built Fortresses rushed to the then-known 3 jump routes from Sol to Eden. One of these 1st-generation Fortresses, the Banshee, sacrificed itself to stop the incoming fleet dead in its track in the Eldorado system.
 
@@ -34,4 +34,13 @@ Hermes Border Station now also dubs as a major trade exchange center, nearly on 
   </description>
     <bar>Numerous HnHers and Spacers stand at the bar, laughing about the planetside States.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

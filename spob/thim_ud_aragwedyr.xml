@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This is the main waypoint for the so-called "ghost ships" heading from Irilia space to the Aragwedyr planet of Amarynn-Woodsfield. It lies near Thim Humae and both stations mutually protect themselves.
 
@@ -30,4 +30,10 @@ Under Irilia protection by treaty, but administered by Free Adrimai, the station
   </description>
     <bar>The bar is filled with Rithai, most of them Free Adrimai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+  </tech>
 </spob>

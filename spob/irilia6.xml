@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The sixth Irilia colony links the first two arms of Irilia extension. It's another water-rich world, colonized by an expedition comprised of nearly only Irilia-5 natives, it has always maintained strong ties with its parent world.
 
@@ -30,4 +30,15 @@ As native pseudo-whales were discovered to be semi-sentient, Pupeteer help was a
   </description>
     <bar>A crowd of richly-clad Irilia people and a few Pupeteers looking at marine life around their underwater facilities</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

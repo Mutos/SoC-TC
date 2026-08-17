@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The Rith Homeworld and the Rith Core systems are ruled in parts by all 3 Major Clans. To settle constant disputes, they agreed to give the formal authority on the planet to the major inter-clan organisation, the Rithai Kemae Guild.
 
@@ -36,4 +36,18 @@ Later, as the Major Clans began a race for space, a group of tribes unwilling to
   </description>
     <bar>Proud locals, always friendly but sometimes looking down on off-planet visitors</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

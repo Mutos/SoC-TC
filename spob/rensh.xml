@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>From space, Ren'sh seems a harsh and barren planet, but its underground hydrographic network is far more extended than its outside desert-like appearance betrays. With Traanil, it forms a dual-body system orbiting around its center of mass, rather than the regular planet-satellite system.
 
@@ -30,4 +30,13 @@ The Ren'sh Planetary Council is the closest thing in the Sshaad Sphere to a full
   </description>
     <bar>You stand among a crowd of proud Ren'shers with some spacesshaads and an occasional offworld merchant</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

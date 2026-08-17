@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planet has been colonized at around the same time by Baartish and Arythem explorers. As both groups were only small subfactions of their respective States, they explored only the surroundings of their own landing zone and made no extensive survey of the whole world. So the colonies didn't come into contact before a few years. When this happenned, a rampant war began. To their Arythem neighbors, the Sshaads, young and adults alike, were no more than honorless marauders careless of other people's property, while to the Baartish people, the Rithai were invaders who lawlessly razzied their hard-working colonies.
 
@@ -34,4 +34,12 @@ Now the co-colonies, and Urshaal in particular, are examples of what can be done
   </description>
     <bar>The bar's sign shows Rithai, Sshaads and Shapeshifters drinking in unison, and that's just what you'll find inside !</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

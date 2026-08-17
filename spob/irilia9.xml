@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>While colder than most Irilia worlds, Irilia-9 has extensive forest lands and a large oceanic mass. It is famous for its polar caps and its exceptional, entirely natural well-moonedness.
 
@@ -30,4 +30,10 @@ However, the appearances have proved deceptive and, with a low biocompatibility 
   </description>
     <bar>A small crowd of poorly-clad Rithai, with only few Thiskai and next to no Idrimar</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

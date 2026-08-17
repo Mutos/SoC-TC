@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Irilia-18 is a recent colony founded by Irilia-14 people, originally established as a surrogate mining settlement.
 
@@ -30,4 +30,14 @@ Its living conditions are not excellent, even compared to Irilia-14, with an ath
   </description>
     <bar>A gloomy ambiance with miners talking of their home planet</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+  </tech>
 </spob>

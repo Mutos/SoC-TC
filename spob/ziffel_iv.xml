@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Ziffel IV has always been quite a secretive world. It was a Better Worlds colony gone awry on landing, that had been isolated for decades. Rediscovered by investigators after the Better Worlds affair, it joined Cartel Sol and thrived on exotic goods export. From 2232 HOC on, it has been subject to a quarantine after a plague broke out and decimated a large part of the population.
 
@@ -38,4 +38,9 @@ When news broke of a plague decimating the Ziffelan population, a quarantine was
   </description>
     <bar>The bar is peopled with Humans and you wonder... none of them seems to be sick</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+  </tech>
 </spob>

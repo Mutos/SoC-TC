@@ -8,10 +8,10 @@
   <pos x="-1205.914" y="-893.413333"/>
   <spobs>
     <spob>Mir</spob>
+    <spob>Voronin</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Oryol</spob>
     <spob>LiangXi Mechanics</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Voronin</spob>
   </spobs>
   <jumps>
     <jump target="Nouvelle Mars">

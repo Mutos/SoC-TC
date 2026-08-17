@@ -22,10 +22,16 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Entry to Shoden space is always guarded by armed stations, and Shoin is no exception. It lies on a short jump route to the Baartish, which, as a sshaad State, is not deemed very dangerous by the Shoden, except for advocating Complementarism, which is viewed as a treason of the entire sshaad species.
   </description>
     <bar>Proud pilots and patrol officers on Shoden markings, joking on the "blobs invasion" and ready to fight any non-Sshaad who would dare to enter the bar</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

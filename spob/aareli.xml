@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Of the twin planets that give its name to the system, Aareli is the most adapted to complementarist life, with its forests covering most of the continents and good biocompatibility to sshaad life, even if shapeshifters must be wary of some chemically aggressive local fauna. Of course, the very sturdy Rithai do not have this problem. It has a population roughly 1/3 Sshaads, 1/3 Shapeshifters and 1/3 Rithai and is mainly administered by Baartish, with Arythem representatives.
 
@@ -30,4 +30,13 @@ The co-colonies were designed from the start with cooperation in mind and are po
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

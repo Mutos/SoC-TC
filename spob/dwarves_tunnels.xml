@@ -22,10 +22,17 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planetoid is by far ore-richer than many asteroids belts, and despite hellish conditions, its mining settlement is thriving.
   </description>
     <bar>Mostly Human miners dreaming aloud of their future wealth</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

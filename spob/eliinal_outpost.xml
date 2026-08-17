@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This outpost lies in orbit around one of the most spectacular gas giant of the known universe, among the very rich asteroids comprising the planet's rings.
 
@@ -30,4 +30,11 @@ It is a base for expanding the Intrumentality Company into unknown regions of sp
   </description>
     <bar>Sshaads, mainly Spacers.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

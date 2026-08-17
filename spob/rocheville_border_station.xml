@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station lies on the main border between the Human and Rith Spheres, between the Planetarist Alliance and Irilia Clan. Built as a joint military outpost during the last phases of the war, it thrived in peace on the trade between the two winning States. However, with the development of the Three-Jumps-Route, it is slowly becoming obsolescent and is more and more used as a backdoor to its border States. 
   </description>
     <bar>Mostly human patrons, either hailing from the Alliance or Independent Spacers, drinking mild intoxicants with Irilia merchants</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

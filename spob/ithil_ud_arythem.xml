@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This massive station is known as "The Shield of the Arythem". It was first established against a possible K'Rinn Council attack, but that role has become obsolete since the end of the Fringe Wars. It now defends the Clan's core territory against sshaad and human incursions, respectively from the Ergal border zone or the Hoshi no Hekka.
   </description>
     <bar>Proud Arythem pilots and a mix of rith, sshaad, human and k'rinns merchants</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
+  </tech>
 </spob>

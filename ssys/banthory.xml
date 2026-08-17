@@ -7,15 +7,15 @@
   </general>
   <pos x="-2507.24" y="9.264"/>
   <spobs>
-    <spob>Huoxing</spob>
-    <spob>Banthory IV</spob>
-    <spob>Shuixing</spob>
-    <spob>Tuxing</spob>
-    <spob>Beuzeley-la-Bastille</spob>
     <spob>Jinxing</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Beuzeley-la-Bastille</spob>
     <spob>Taibai</spob>
     <spob>Muxing</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tuxing</spob>
+    <spob>Shuixing</spob>
+    <spob>Banthory IV</spob>
+    <spob>Huoxing</spob>
   </spobs>
   <jumps>
     <jump target="CL 0032">

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Initially established as a mere mining outpost, the colony has thrived with trade when a route to the Planetarist Alliance was discovered.
 
@@ -30,4 +30,11 @@ However, its harsh living conditions don't encourage new settlers to come in and
   </description>
     <bar>Hardened miners talking of their latest discoveries</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

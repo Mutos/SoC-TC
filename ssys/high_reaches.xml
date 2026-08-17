@@ -8,8 +8,8 @@
   <pos x="-247.016" y="-3851.088"/>
   <spobs>
     <spob>Fire in the Sky</spob>
-    <spob>High Reaches</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>High Reaches</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0026">

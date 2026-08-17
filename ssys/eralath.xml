@@ -7,10 +7,10 @@
   </general>
   <pos x="5031.26368" y="-1294.06272"/>
   <spobs>
-    <spob>Eralth</spob>
     <spob>Eralath Border Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Lothinal</spob>
+    <spob>Eralth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0101">

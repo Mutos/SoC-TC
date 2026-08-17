@@ -8,8 +8,8 @@
   <pos x="174.344" y="64.48"/>
   <spobs>
     <spob>K'Til'n 0003</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>L'Tenet'Kan</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ek'In">

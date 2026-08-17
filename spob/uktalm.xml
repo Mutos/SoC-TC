@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Uktalm is the second k'rinn colony. A quite verdant planet with all climates and a variety of ecosystems, it has been colonized by the K'Rinns only a few decades after Mar'K'Rinn'Ra.
   
@@ -30,4 +30,14 @@ When the route by KT64 to Planetarist space was discovered, the planet became a 
   </description>
     <bar>A diverse bunch of tradesbeings, mostly K'Rinns and Humans</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

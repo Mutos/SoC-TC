@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Shoosoln is an ore-rich moon around a gas giant. Located in the local lifezone, it did already possess some lifeforms, up to amphibians.
 
@@ -34,4 +34,13 @@ When Complementarism began to spread into the Baartish, the Anarchs were fervent
   </description>
     <bar>The bar is filled with Sshaads and Shapeshifters, many of them talking eagerly about Complementarism</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Lalerin is a small mainly oceanic moon around a gas giant. Its continents are green with vast forests suitable for sshaad life and its oceans are full of very lively ecosystems, all with a good biocompatibility to sshaad-like life.
 
@@ -32,4 +32,13 @@ The planet has always had contacts with other sentients and has evolved into a r
   </description>
     <bar>Groups of Sshaads and Shapeshifters, most of the latter mimicing Sshaads but a few relaxed on their natural form, play along other sentients</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

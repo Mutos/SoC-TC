@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This half-desert world in surface holds far more water than it seems, thanks to a underground hydrographic network, albeit only meters to dizains of meters under the surface. Its deserts are roamed by herds of millions cow-sized animals, that follow the underground water current from oasis to oasis. They can eat bare an entire oasis, but from their tracks, new vegetation grows and gives life to new, ephemereal enchanting trails. The oasis also regrows a while after their passage and thrives until another herd erases it from the tundra. This feature is so peculiar the planet has been named from it.
 
@@ -32,4 +32,10 @@ The great six-legged beasts and their associated fauna are fascinating and many 
   </description>
     <bar>A chattering crowd of Pupeteers on local, garr-looking bearers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -7,9 +7,9 @@
   </general>
   <pos x="-1231.976" y="-3116.688"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Fire Ruler</spob>
     <spob>Red Skies</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0001">

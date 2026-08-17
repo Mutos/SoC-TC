@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A lush oceanic planet with forests on the continents, Ssaalin is a perfect world for the Sshaads. Its biocompatibility is one of the highest ever found, as it is nearly 90% biocompatible with all known ecosystems. Furthermore, the sight of Ershell in the sky makes Ssaalin a renowned touristic place.
 
@@ -30,4 +30,11 @@ After the first hived daneb ever, the Irshiinal Hive, was destroyed while trying
   </description>
     <bar>A mixed crowd of Shapeshifters and Sshaads, fervent about Complementarism</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -7,11 +7,11 @@
   </general>
   <pos x="-4563.56" y="-1715.28"/>
   <spobs>
-    <spob>Ettin</spob>
     <spob>Ilnir Border Station</spob>
-    <spob>Shaanil</spob>
-    <spob>Ulna</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shaanil</spob>
+    <spob>Ettin</spob>
+    <spob>Ulna</spob>
   </spobs>
   <jumps>
     <jump target="BI 0109">

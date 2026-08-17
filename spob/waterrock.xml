@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The yet-unnamed Colony 15 was the latest world settled by the Pupeteers at the time it accepted to enter an alliance for establishing trade relations with the other species, which was the beginning of the 13-Planets League. Other worlds refused that alliance and stayed independant. When the Red Quadrant League was founded, it gathered most of them, the remaining ones formed the Independant Stars.
 
@@ -32,4 +32,14 @@ A discussion is under way to name the colony, with proposals in the line of "Can
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

@@ -7,10 +7,10 @@
   </general>
   <pos x="280.024" y="-2892.048"/>
   <spobs>
+    <spob>Gentle Light</spob>
     <spob>Burning Clouds</spob>
     <spob>Beautiful Sands</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Gentle Light</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0032">

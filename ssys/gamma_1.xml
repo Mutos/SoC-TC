@@ -8,8 +8,8 @@
   <pos x="-2604.008" y="-1295.376"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Black Hole</spob>
     <spob>Dim Ember</spob>
+    <spob>Black Hole</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 2">

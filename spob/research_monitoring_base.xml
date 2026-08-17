@@ -22,10 +22,16 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>No-one can land on Purgatoire, except after having been registered and controlled on the Base.
   </description>
     <bar>A small group of security personnel and visiting Spacers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+  </tech>
 </spob>

@@ -7,9 +7,9 @@
   </general>
   <pos x="-1308.008" y="1911.792"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Biimis Border Station</spob>
     <spob>Estiis Base</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0159">

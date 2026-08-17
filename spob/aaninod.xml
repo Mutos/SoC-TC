@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station has been built by a small group of pirates to be able to intercept convoys running the Aan-route between Aan-Lales in Instrumentality space and Lalerin in the Candidate Systems.
 
@@ -30,4 +30,11 @@ A recently discovered route to Tsaa'lisht now enables them to also prey on the B
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

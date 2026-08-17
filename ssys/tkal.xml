@@ -7,8 +7,8 @@
   </general>
   <pos x="-889.832" y="671.088"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>T'Kal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="AC 0017">

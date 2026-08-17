@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>One of the recent Irilia colonies, Irilia-15 is a desert world quite akin to Irilia itself, with a remarkable well-moonedness. Thus, its three moons have been named for their Great Irilia counterparts.
 
@@ -30,4 +30,13 @@ Still quite a backyards place, it nonetheless keeps attracting a growing pool of
   </description>
     <bar>Eager settlers and hardened desert-dwelling natives, with quite a large number of Thiskai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

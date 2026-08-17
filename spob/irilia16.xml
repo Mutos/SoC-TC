@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planet covered in oceans and ice caps has been selected by the Irilia clan for its natural riches, in both biodiversity and ores. Its biocompatibility with skaraean life is excellent and its life conditions are good.
 
@@ -30,4 +30,15 @@ Irilia-16 is also steadily becoming a co-colonies with K'Rinns, Humans and Pupet
   </description>
     <bar>A mixed lot of Rithai, K'Rinns, Humans and Pupeteers, with more than usual Irilia Idrimarai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

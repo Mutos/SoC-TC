@@ -8,9 +8,9 @@
   <pos x="3378.04" y="-2708.016"/>
   <spobs>
     <spob>Kerloth Transfer Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Heth</spob>
     <spob>Heth no Dirnae</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0136">
