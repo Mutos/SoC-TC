@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Mir">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1205.914" y="-893.413333"/>
+  <spobs>
+    <spob>LiangXi Mechanics</spob>
+    <spob>Oryol</spob>
+    <spob>Voronin</spob>
+    <spob>Mir</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Nouvelle Mars">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Peschinka">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tripoint">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Vikra">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

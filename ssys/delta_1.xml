@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Delta 1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1723.304" y="513.84"/>
+  <spobs>
+    <spob>Freeport 6</spob>
+  </spobs>
+  <jumps>
+    <jump target="Delta 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 8">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

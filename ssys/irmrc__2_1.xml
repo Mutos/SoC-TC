@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irm-RC - 2 -1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="3330.35872" y="-902.49792"/>
+  <spobs/>
+  <jumps>
+    <jump target="Maeva">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ramlan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

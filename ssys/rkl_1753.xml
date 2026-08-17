@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RkL 1753">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-276.392" y="-291.408"/>
+  <spobs/>
+  <jumps>
+    <jump target="AC-KC - 1 - 5">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 24 - Han'Tenelin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 3521">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

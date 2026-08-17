@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irm 0072">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="4506.712" y="-626.64"/>
+  <spobs/>
+  <jumps>
+    <jump target="Irm 0067">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm 0075">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm 0076">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

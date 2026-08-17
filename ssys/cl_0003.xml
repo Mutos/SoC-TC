@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="CL 0003">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2291.464" y="-659.704"/>
+  <spobs/>
+  <jumps>
+    <jump target="CL 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gliese 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Procyon">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

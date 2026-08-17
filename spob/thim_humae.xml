@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Thim Humae">
+  <pos x="-7428.854621" y="4024.817907"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>200.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>50450</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The name of this station means "Door to Mankind" in Irilia. It has been built at the very end of the Fringe Wars, to prevent incursions from the Thalin pirate clans, backed by Cartel Sol.
+
+The station has once been a major waypoint for Free Adrimai exfiltration on the road towards Woodsfield and more generally, the Human Sphere, but always remained under full Irilia administration.
+
+Since the nearby Thim ud Aragwedyr station was built under Irilia protection but Free Adrimai government, most Free Adrimai traffic now passes through it.
+  </description>
+    <bar>A crowd mainly dominated by Rithai and Humans, along with Spacers of all origins</bar>
+  </general>
+</spob>

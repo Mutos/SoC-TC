@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ghilan">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-8.552" y="-2463.504"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Light of Dawn</spob>
+    <spob>Ghilan's Pride</spob>
+  </spobs>
+  <jumps>
+    <jump target="PA 0091">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0093">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0094">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

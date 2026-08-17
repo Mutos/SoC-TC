@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 3622">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1313.768" y="-409.824"/>
+  <spobs/>
+  <jumps>
+    <jump target="38 Geminorum">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="39 Leonis">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Heaven (Delta Pavonis)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Kapteyns">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

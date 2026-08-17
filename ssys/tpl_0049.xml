@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="TPL 0049">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="763.864" y="-3284.304"/>
+  <spobs/>
+  <jumps>
+    <jump target="Child of the Eclipse">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0050">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPl 0048">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

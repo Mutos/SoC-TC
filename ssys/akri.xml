@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ak'ri">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2540.072" y="1123.824"/>
+  <spobs>
+    <spob>Irnaali</spob>
+    <spob>Nali</spob>
+    <spob>Shar'b Derelict Border Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="Maetel">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sh'Rak">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

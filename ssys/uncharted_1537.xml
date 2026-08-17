@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Uncharted 1537">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3777.32" y="-3133.968"/>
+  <spobs/>
+  <jumps>
+    <jump target="CS 0068">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CS 0070">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Uncharted 2316">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Uncharted 2412">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

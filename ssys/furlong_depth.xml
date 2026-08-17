@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Furlong Depth">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-818.4656" y="-3031.69344"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Furlong Depth</spob>
+  </spobs>
+  <jumps>
+    <jump target="RQL 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0015">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0023">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL-RQL - 2 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

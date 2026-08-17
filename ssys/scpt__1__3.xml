@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="SC-PT - 1 - 3">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2472.8" y="-1418.368"/>
+  <spobs/>
+  <jumps>
+    <jump target="GJ 1097">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gamma 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC-PT - 1 - 4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sc-PT - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

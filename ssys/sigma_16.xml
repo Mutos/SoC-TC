@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sigma 16">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="252.376" y="2627.184"/>
+  <spobs>
+    <spob>Telshk</spob>
+    <spob>Skaasht Base</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shiinal</spob>
+  </spobs>
+  <jumps>
+    <jump target="Sigma 14">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 17">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 18">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 19">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 20">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

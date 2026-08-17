@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Jokers Patrol Base">
+  <pos x="-2103.243329" y="-772.076665"/>
+  <GFX>
+    <space>Asteroid-Base-003-Outpost.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ashioto Cluster</faction>
+    <value>100.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>24500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This Patrol Base was built when the Raumbahn Sieben Route was made public. The Ashioto Cluster feared it could become a smuggling back door for Purgatorian artefacts.
+  </description>
+    <bar>Proud human and k'rinn fighter pilots and patrol ships crew members.</bar>
+  </general>
+</spob>

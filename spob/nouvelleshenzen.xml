@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nouvelle-Shenzen">
+  <pos x="3046.33432" y="126.311423"/>
+  <GFX>
+    <space>Station-SCO004.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pei Clan-Family</faction>
+    <value>100.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>250000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

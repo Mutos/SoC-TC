@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irmothem-8">
+  <pos x="-2453.606395" y="-2415.268795"/>
+  <GFX>
+    <space>Planet-007-archipelago.png</space>
+    <exterior>aquatic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irmothem Clan</faction>
+    <value>300.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>248200</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The latest Irmothem colony is an aquatic planet. Its situatiion near the Independant Stars border lifted it from the status of a backyards world to a small traing hub.
+  </description>
+    <bar>A small Irmothem crowd with some merchants, both Rithai and Pupeteers</bar>
+  </general>
+</spob>

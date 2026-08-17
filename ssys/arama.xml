@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Arama">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2748.648" y="-2168.712"/>
+  <spobs>
+    <spob>Moonless</spob>
+    <spob>The Watcher</spob>
+    <spob>Bone Pearl</spob>
+    <spob>Blue Water</spob>
+    <spob>Jade</spob>
+    <spob>Rhombus-1</spob>
+    <spob>Rhombus-2</spob>
+    <spob>Garden's Wall</spob>
+    <spob>Mim'Sa</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Hyena Pup</spob>
+    <spob>Jasp</spob>
+    <spob>Onyx</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ab Yoht">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Krisebii">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Shaeb">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Yaheb">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

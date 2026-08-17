@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ernalthor">
+  <pos x="2617.961106" y="2262.983329"/>
+  <GFX>
+    <space>moon-M06.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>100.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>8960000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This forest world is the latest Arythem planetary colony. It was originally to become a co-colony with Sshaads and Shapeshifters, but was a little too far from the Long Link to Baartish and did not have much success. There are still a few complementarist danebs along the eastern continent shores, living in quite a good harmony with the rithai colonists.
+
+With the opening of the Sigma Sector and given the hostility of Jaltha to non-Rithai, Ernalthor has become the last meeting point of explorers heading for the oft-rumoured purgatorian remains. K'Rinn and sshaad settlements have recently been created, and negociations are under way with the Planetarist Alliance for human settlements. It seems a new potential is dawning for a rebirth and extension of the original co-colony concept.
+  </description>
+    <bar>A fairly mixed crowd, dominated by Rithai and Sshaads, but with people of all the other species</bar>
+  </general>
+</spob>

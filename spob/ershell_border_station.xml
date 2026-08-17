@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ershell Border Station">
+  <pos x="-8544.695434" y="1078.502791"/>
+  <GFX>
+    <space>Station-SR001.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Shoden Clusters</faction>
+    <value>300.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>287000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This strongly armored station is facing Sshiinan Border Station, near a Baartish jump route linking the CorpState's main territory to newly colonized space on the sshaad side of the Long Link. Shoden forces from Ershell sometimes raid the rich supply road to the new colonies. As such, the base is sshaaded by elite Shoden raider squadrons and has a strong defense perimeter.
+  </description>
+    <bar>Shoden pilots joking on their Baartish counterparts</bar>
+  </general>
+</spob>

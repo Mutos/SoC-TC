@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nicophar">
+  <pos x="-2042.627324" y="2484.276475"/>
+  <GFX>
+    <space>M03.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Alliance</faction>
+    <value>200.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Nicophar is a world of deep waters and high cliffs. Carplanes and boats are the main way to go from a mountain-island to another or to "land" in the leaf-like structure that floats on the Global Ocean. Cetaceans are considered as citizens by the authorities of this water planet. </description>
+    <bar>Tourists, merchants and locals are sipping some drinks at the bar, under the curious eyes of all sorts of cetaceans on the other side of the reverse aquarium windows. </bar>
+  </general>
+</spob>

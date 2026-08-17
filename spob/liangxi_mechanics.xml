@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="LiangXi Mechanics">
+  <pos x="4570.33888" y="-0.0"/>
+  <GFX>
+    <space>Asteroid-Base-007a-Mining-Facility.png</space>
+    <exterior>scrapped_station.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>120.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>16700</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The station was originally built as a mobile home for a small group of Spacers. After having roamed the inner Human Sphere for some years, they choose to settle in the Mir system and make a living out of their skills as starship mechanics. They attached the station to an asteroid and scrapped the main engines, leaving only position-keeping verniers.
+
+Among the founders were Cody and Jun Nakamura, a couple of former Stellar Police fighter pilots turned bounty hunters. Their company, which began as a small squadron known as the Bosozoku HeadHunting Squad, has since grown to include twelve squadrons. Their heavily customized and lavishly painted fighters, often flying Stellar Police warrants, are a common view through most of the Human Sphere.
+
+The station is now well-known among Spacers, particularly fighter squadrons, for its extensive customization workshops. Here, you can get any part available in the known universe and build the most extreme starships, be your goal efficiency or show.</description>
+    <bar>A host of Spacers, mostly Humans, including some Bosozoku wingmen</bar>
+  </general>
+</spob>

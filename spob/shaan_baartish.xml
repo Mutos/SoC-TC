@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Shaan Baartish">
+  <pos x="1059.957963" y="-1258.700081"/>
+  <GFX>
+    <space>M00.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>1875654000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This planet covered with woodlands and oceans was viewed by the Baartish people as a paradise and named "New Baartish" for its similarities to their capitol planet.
+
+Its reputation has since soared even higher as it is becoming a successful Complementarist co-colony and now counts more permanent residents from other species than Baartish itself. This success has given rise to an intense trade flow and you can now find most commodities there.
+  </description>
+    <bar>Proud and wealthy locals of all species talking with a few high-class merchants</bar>
+  </general>
+</spob>

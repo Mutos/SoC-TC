@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RkL 3521">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-138.24" y="-248.832"/>
+  <spobs>
+    <spob>T'Eltin</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>K'Til'n 0002</spob>
+    <spob>L'Laler</spob>
+  </spobs>
+  <jumps>
+    <jump target="KT 258">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 59 (K'Tinaalt)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 1753">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="T'Kilnath (KT 242)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

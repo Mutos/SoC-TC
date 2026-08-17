@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Control Point 2">
+  <pos x="-8581.711017" y="631.687885"/>
+  <GFX>
+    <space>Station-009-Outpost.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>250.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

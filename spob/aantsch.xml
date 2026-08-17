@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aan'Tsch'">
+  <pos x="6766.763876" y="-6877.694431"/>
+  <GFX>
+    <space>moon-P00.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Daneb Anarchs</faction>
+    <value>250.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>1000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Thalin">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-45.0992" y="-1265.0528"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Thalin</spob>
+  </spobs>
+  <jumps>
+    <jump target="Althaim">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Inferno">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nouvelle-Hong-Kong">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Wayne's World">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

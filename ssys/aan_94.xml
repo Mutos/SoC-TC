@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aan 94">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-6516.2" y="-1568.4"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eriin-Harsh Remnants</spob>
+  </spobs>
+  <jumps>
+    <jump target="Aan 23">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 39">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 51">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

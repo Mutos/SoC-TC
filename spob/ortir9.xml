@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ortir-9">
+  <pos x="1272.149211" y="-2346.717638"/>
+  <GFX>
+    <space>moon-D02.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>2.0</hide>
+    </services>
+  </general>
+</spob>

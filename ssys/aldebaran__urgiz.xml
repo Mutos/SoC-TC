@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aldebaran - Urgiz">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="653.272" y="-2002.128"/>
+  <spobs>
+    <spob>Hastur</spob>
+    <spob>Higgez</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0034">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0181">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Rocheville">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

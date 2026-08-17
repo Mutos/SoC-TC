@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ind 0006">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2085.608" y="-3035.472"/>
+  <spobs/>
+  <jumps>
+    <jump target="Achernar (K'igin)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Eshii-K'tin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ind 0003">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ind 0019">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

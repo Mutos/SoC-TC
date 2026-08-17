@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ziffel">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2276.12" y="-503.464"/>
+  <spobs>
+    <spob>Ziffel IV Quarantine Station</spob>
+    <spob>Ziffel EWS Buoy #2</spob>
+    <spob>Ziffel IV</spob>
+    <spob>Ziffel EWS Buoy #3</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ziffel EWS Buoy #1</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0005">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0007">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

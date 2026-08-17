@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irmothem-4">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3848.632" y="-1423.248"/>
+  <spobs>
+    <spob>Athorm</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irmothem-4</spob>
+  </spobs>
+  <jumps>
+    <jump target="Irm 0003">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm 0006">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm 0036">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm 0042">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

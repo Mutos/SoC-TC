@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Reedal Ebii Trading Station">
+  <pos x="-2736.747499" y="-1027.828246"/>
+  <GFX>
+    <space>003.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ren'sh Planetary Council</faction>
+    <value>150.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>97500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Reedal was the original station built as a staging ground for Ren'sh planetfall. It has since expanded into a prosperous trading station, selling Ren'sh specialties and importing supplies from the outside.
+  </description>
+    <bar>A host merchantsshaads and a few non-Sshaads, including small groups of Shapeshifters, share the lounge, chattering heartily.</bar>
+  </general>
+</spob>

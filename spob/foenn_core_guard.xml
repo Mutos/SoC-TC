@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Foenn Core Guard">
+  <pos x="-1840.204796" y="-3680.409593"/>
+  <GFX>
+    <space>D03.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Rithai Kemae</faction>
+    <value>100.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>25000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

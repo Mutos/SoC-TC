@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Rencard (Gl 229)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1556.352" y="-546.48"/>
+  <spobs>
+    <spob>Rencard Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Cul-de-Sac">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Kapteyns">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Little Sol">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="New Earth (Eta Cassiopeia)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Wolf 359">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

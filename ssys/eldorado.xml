@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eldorado">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1672.62048" y="-1494.07488"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Banshee War Museum</spob>
+  </spobs>
+  <jumps>
+    <jump target="GL 283 A">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Hermes">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

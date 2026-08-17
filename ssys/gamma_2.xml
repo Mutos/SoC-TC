@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gamma 2">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2743.976" y="-1338.576"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gamma 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gamma 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gamma 8">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0032">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

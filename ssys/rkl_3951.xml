@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RkL 3951">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="901.84" y="-1.856"/>
+  <spobs/>
+  <jumps>
+    <jump target="KT 89">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 96">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 3528">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

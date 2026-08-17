@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irniish">
+  <pos x="1001.456402" y="847.386187"/>
+  <GFX>
+    <space>G03.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Shoden Clusters</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>216000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Irniish is the first planet settled by the Shoden. They use it as an agricultural base, but the barren planet has to be esshiinformed first, which is a long process. Athmospheric processors and the equivalent of t-bacts are used for that.
+
+Large dome cities house the bulk of the population, comprising habitats, woodlands for the young and hydroponic land zones. Settlements growing adapted crops try to thrive outside, with hardship at first, but faring better and better with time, as the climates slowly softens.
+
+Fortunately, the indigenous biotopes, quite simple, are around 85% biocompatible with esshiin lifeforms. The presence of numerous bridge species hastens the esshiinforming process and eases the life conditions outside the domes.
+  </description>
+    <bar>Typical Shoden landspeople, mildly hostile with non-Sshaads but quite ordinary otherwise</bar>
+  </general>
+</spob>

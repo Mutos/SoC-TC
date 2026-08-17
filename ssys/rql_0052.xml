@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RQL 0052">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-425.0" y="-3248.016"/>
+  <spobs/>
+  <jumps>
+    <jump target="PA-TPL-RQL 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0051">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL-RQL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

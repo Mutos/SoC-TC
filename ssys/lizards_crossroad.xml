@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Lizard's Crossroad">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3564.864" y="-509.76"/>
+  <spobs/>
+  <jumps>
+    <jump target="Asdrubal's Stronghold">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI-ShC - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT-IC - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

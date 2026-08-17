@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hath Border Station">
+  <pos x="-3941.93454" y="-1474.069871"/>
+  <GFX>
+    <space>Outpost-Halisht-001-Base.png</space>
+    <exterior>oceanic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>300.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>285720</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Hath is a border station between the Rith Core and the Arythem space.
+  </description>
+    <bar>Many Rithai and a few spacers, along with some tourists of all species</bar>
+  </general>
+</spob>

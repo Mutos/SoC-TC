@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ssu'Eltth">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-5710.952" y="-891.024"/>
+  <spobs>
+    <spob>Ssu'Eltth</spob>
+  </spobs>
+  <jumps>
+    <jump target="Aan 42">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 48">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ssi'Fer">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thom Aareli-4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

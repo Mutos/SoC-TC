@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Rocks Mist">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-761.96" y="-3968.592"/>
+  <spobs>
+    <spob>Eclaireur-4</spob>
+    <spob>Rock Bottom</spob>
+  </spobs>
+  <jumps>
+    <jump target="Miners' Crossroad">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ocean">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0019">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0028">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

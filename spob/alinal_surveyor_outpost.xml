@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Alinal Surveyor Outpost">
+  <pos x="-7832.140929" y="-2100.876811"/>
+  <GFX>
+    <space>002.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Joint Peacekeepers Corps</faction>
+    <value>150.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>128700</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station is a major base of the Joint Peacekeepers Corps. It has been formally granted to Arythem by the Baartish, with mandate to protect the system from both Shoden and pro-war Arythem incursions.
+  </description>
+    <bar>Peacekeepers mingled crews of Rithai and Sshaads.</bar>
+  </general>
+</spob>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Edge">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1962.92" y="-2681.232"/>
+  <spobs>
+    <spob>Edge Border Station</spob>
+    <spob>K'Talth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Edge</spob>
+  </spobs>
+  <jumps>
+    <jump target="RQL 0043">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0044">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC 00011">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC 0009">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

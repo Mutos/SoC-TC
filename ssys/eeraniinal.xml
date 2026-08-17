@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eeraniinal">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2655.848" y="-2933.52"/>
+  <spobs>
+    <spob>Eeraniinal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Aareli">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CS 0050">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KC-CS - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Raam'Lik">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

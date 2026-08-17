@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eliinal Outpost">
+  <pos x="-1409.461803" y="-1907.389656"/>
+  <GFX>
+    <space>Asteroid-Base-006-Split-Asteroid.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Instrumentality Company</faction>
+    <value>250.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>67200</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This outpost lies in orbit around one of the most spectacular gas giant of the known universe, among the very rich asteroids comprising the planet's rings.
+
+It is a base for expanding the Intrumentality Company into unknown regions of space. At least 2 jump points have been discovered in the system, but not explored so far.
+  </description>
+    <bar>Sshaads, mainly Spacers.</bar>
+  </general>
+</spob>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RkL 2836">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="14.416" y="129.72"/>
+  <spobs>
+    <spob>K'Til'n 0004</spob>
+    <spob>T'Timor</spob>
+    <spob>T'Tamen</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ek'In">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 23">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 1825">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

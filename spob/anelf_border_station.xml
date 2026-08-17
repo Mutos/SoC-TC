@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Anel'f Border Station">
+  <pos x="266.233333" y="-9264.919982"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>300.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>17700</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Carved out of a large asteroid, that station secures the main trade lane between Human and K'Rinn Spheres.
+  </description>
+    <bar>A number of K'Rinns and Humans, many of them playing Spiraxy.</bar>
+  </general>
+</spob>

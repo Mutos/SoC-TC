@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irilia-9">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2815.13824" y="-2874.768"/>
+  <spobs>
+    <spob>Irilia-9</spob>
+    <spob>Ortir-9</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Raltir-9</spob>
+    <spob>Ermel-9</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0120">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0122">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0132">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

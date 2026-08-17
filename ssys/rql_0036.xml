@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RQL 0036">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-232.616" y="-3007.536"/>
+  <spobs/>
+  <jumps>
+    <jump target="RQL 0025">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0027">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Savory Clouds">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

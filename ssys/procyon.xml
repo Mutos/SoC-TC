@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Procyon">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2251.728" y="-913.984"/>
+  <spobs/>
+  <jumps>
+    <jump target="CL 0003">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL-PT - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="McLeod">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC-PT - 1 - 4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

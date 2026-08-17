@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irilia-18">
+  <pos x="2186.163298" y="-4041.089733"/>
+  <GFX>
+    <space>G00.png</space>
+    <exterior>methane.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>125600</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Irilia-18 is a recent colony founded by Irilia-14 people, originally established as a surrogate mining settlement.
+
+Its living conditions are not excellent, even compared to Irilia-14, with an athmosphere smelling like rotten eggs and a low level of luminosity due to the air being of a steady yellow, but the honor reward is good and the world is ore-rich. So the colony, although quite recent, is thriving.
+  </description>
+    <bar>A gloomy ambiance with miners talking of their home planet</bar>
+  </general>
+</spob>

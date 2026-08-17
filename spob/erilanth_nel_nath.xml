@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Erilanth nel Nath">
+  <pos x="-2318.658043" y="2583.647534"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>250.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>15300</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This small asteroid-based station around a gas giant was originally only a refueling relay for exploration.</description>
+    <bar>A diverse crowd of mainly sshaad and rith merchants and spacers</bar>
+  </general>
+</spob>

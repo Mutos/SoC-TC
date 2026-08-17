@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Doors of Lalerin Station">
+  <pos x="-7025.170442" y="4350.552581"/>
+  <GFX>
+    <space>Station-001-Comm-Hub.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Candidate Systems</faction>
+    <value>600.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>143000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Orbiting around the same gas giant as the jump point itself, this Border Station was originally a mere refuelling outpost for exploration beyond the Lalerin system. When the route to the Instrumentality Company was discovered, it was hastily extended to become both a trading station and a military base.
+  </description>
+    <bar>Sshaads from all the species' States, some Shapeshifters and a few non-Complementarists, mainly Humans and Pupeteers</bar>
+  </general>
+</spob>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tsaahm es Lalerin">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-4029.608" y="-2568.912"/>
+  <spobs>
+    <spob>Aniinal</spob>
+    <spob>NehS Tsaahm</spob>
+    <spob>Doors of Lalerin Station</spob>
+    <spob>E'zral</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ram'az</spob>
+  </spobs>
+  <jumps>
+    <jump target="CS 0046">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CS-IC - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ka'Alai">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irmothem-7">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="4547.42368" y="-265.90272"/>
+  <spobs>
+    <spob>Elirth</spob>
+    <spob>Irmothem-7</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Lanith</spob>
+  </spobs>
+  <jumps>
+    <jump target="Irm 0145">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm 0149">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

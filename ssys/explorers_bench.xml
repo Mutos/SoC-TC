@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Explorers' Bench">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="5083.376" y="-2834.816"/>
+  <spobs>
+    <spob>Explorers' Bench</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>The Eye</spob>
+  </spobs>
+  <jumps>
+    <jump target="IS 0028">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IS 0030">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IS 0033">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

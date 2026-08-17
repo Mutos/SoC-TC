@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Nobara">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1266.11872" y="-1989.86112"/>
+  <spobs>
+    <spob>Rosiere</spob>
+    <spob>Oscar</spob>
+  </spobs>
+  <jumps>
+    <jump target="Devereau's Holds">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 480">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Koishi">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0022">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0026">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="The Ring">
+  <pos x="-2736.562388" y="-5480.605345"/>
+  <GFX>
+    <space>moon-M00.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>250.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>285430000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The Ring system and planetary colony are named, not from a feature of the planet itself or a nearby orbital body in the system, but after a feature of the hyperspace links around it, which form a ring af several systems.
+
+The planet is a lively world with diverse ecosystems ranging from deserts to ice caps, with the most of the lands covered with verdant forests.
+  </description>
+    <bar>A crowd of diverse merchantbeings from all species and cultures</bar>
+  </general>
+</spob>

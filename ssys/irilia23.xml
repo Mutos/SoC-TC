@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irilia-23">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1641.8" y="-3779.8"/>
+  <spobs>
+    <spob>High-Woods Memento</spob>
+    <spob>Irilia-23</spob>
+  </spobs>
+  <jumps>
+    <jump target="Aareli">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Eltth-Ssaan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Kalausi (Kli'gat)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

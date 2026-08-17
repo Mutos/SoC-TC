@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Freiheit Raumstation">
+  <pos x="1258.700081" y="-1854.926435"/>
+  <GFX>
+    <space>Asteroid-Base-007c-Mining-Facility.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Alliance</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>24500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A small asteroid mining and trading station, formally hailing from the Alliance but actually quite independant. Its position in a 5-jumppoints system, with 2-jumps links with Starsling and Sanctuary, ensures a large traffic, that allows the station to thrive.
+  </description>
+    <bar>A numerous, mostly human, crowd of merchants and Spacers</bar>
+  </general>
+</spob>

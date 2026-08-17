@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aareli">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2291.24" y="-3781.968"/>
+  <spobs>
+    <spob>Thim Aareli</spob>
+    <spob>Black Rose</spob>
+    <spob>Eb'Aareli</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Eeraniinal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Eltth-Ssaan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gogen">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irilia-23">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Raam'Lik">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thom Aareli-1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

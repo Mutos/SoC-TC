@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gala'as Border Station">
+  <pos x="4548.152769" y="6300.855543"/>
+  <GFX>
+    <space>asteroid-D16.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>200.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>250000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Uktalm (KT 121)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="81.216" y="-409.536"/>
+  <spobs>
+    <spob>T'Telnar</spob>
+    <spob>T'Ilnet</spob>
+    <spob>Alin'T</spob>
+    <spob>El'Tinal</spob>
+    <spob>Uktalm</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>A'Ilnet</spob>
+  </spobs>
+  <jumps>
+    <jump target="KT 35">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 47">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 49">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

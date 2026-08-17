@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Morpheus">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-5332.52" y="-77.136"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Morpheus Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="PR 0001">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PR 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PR 0003">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PR 0004">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

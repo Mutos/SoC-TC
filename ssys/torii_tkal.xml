@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Torii T'Kal">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-668.648" y="176.88"/>
+  <spobs>
+    <spob>Torii T'Kal Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="AC-KC - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Maru">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

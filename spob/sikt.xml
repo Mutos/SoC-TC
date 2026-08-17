@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sikt">
+  <pos x="2289.606662" y="3647.396659"/>
+  <GFX>
+    <space>L00.png</space>
+    <exterior>mining5.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>125600</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A mining co-colony between Irilia and the K'Rinn Council, well-known for its wealth in tilkath, an ore with a combination of metals and rare earths, used in high-energy spacetime warping systems.
+
+Tilkath can of course be synthetized, but natural supplies considerably reduce the cost of starship main engines, hyperspace motivators and shield generators.
+
+At the beginning of Sikt settling, it was attacked by Ka'Ralt commandos, aimed at stealing its precious tilkath supplies, of which by that time Ka'Ralt was in desperate need. The attack was a failure and the commandos were all executed afterwards.
+
+This episode fueled renewed hostility between the Council and Ka'Ralt and from then on, Sikt's garrison is on a par with H'Rkann itself.
+  </description>
+    <bar>Tense Defenders, for now fighting nothing but boredom, telling all sort of bad jokes about the Secession</bar>
+  </general>
+</spob>

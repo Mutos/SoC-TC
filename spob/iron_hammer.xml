@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Iron Hammer">
+  <pos x="-670.477655" y="-1724.64918"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Purple Trail</faction>
+    <value>250.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>9500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The latest station built by the Purple Trail, this asteroid platform guards the State's side of the jump to the Candidate Systems border, completing a cluster of small outposts already scattered in the system.
+
+It is by this route that Humans and Sshaads came first into contact and it has long been a contended sector, before the Candidate Systems formed to enter the Commonwealth and came to a truce with the Purple Trail. Now the two States are allies and the station is manned by a mixed crew.
+
+Its basic role is to protect the route from piracy, along with Alshiinal station on the Candidate Systems side, as stated in the agreements between the two States.
+  </description>
+    <bar>Mean-looking and proud Purple Guard and Candidate Systems pilots, along with some merchants and an occasionnal Shapeshifters group.</bar>
+  </general>
+</spob>

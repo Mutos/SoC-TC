@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pupeteers' Third Earth">
+  <pos x="1188.280805" y="-2310.011835"/>
+  <GFX>
+    <space>moon-M06.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>400.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2500000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

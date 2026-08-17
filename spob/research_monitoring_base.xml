@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Research Monitoring Base">
+  <pos x="2138.37897" y="-1880.427975"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ashioto Cluster</faction>
+    <value>250.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>28000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>No-one can land on Purgatoire, except after having been registered and controlled on the Base.
+  </description>
+    <bar>A small group of security personnel and visiting Spacers</bar>
+  </general>
+</spob>

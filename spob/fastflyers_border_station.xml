@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="FastFlyers Border Station">
+  <pos x="2041.122218" y="6611.461098"/>
+  <GFX>
+    <space>Asteroid-Base-007c-Mining-Facility.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent Stars</faction>
+    <value>500.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>45000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>When the jump route was discovered to Irmothem space, the Independant Stars quickly built this station to protect their space from what they perceived as ruthless beings with no respect for life.
+  </description>
+    <bar>Proud Independant Stars pilots looking down on a few daring Irmothem merchants.</bar>
+  </general>
+</spob>

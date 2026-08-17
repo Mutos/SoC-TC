@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ary-IS - 1 - 1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3926.104" y="-528.144"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary 0062">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IS 0069">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

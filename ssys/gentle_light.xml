@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gentle Light">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="280.024" y="-2892.048"/>
+  <spobs>
+    <spob>Burning Clouds</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Gentle Light</spob>
+    <spob>Beautiful Sands</spob>
+  </spobs>
+  <jumps>
+    <jump target="RQL 0032">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="The Line">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ares">
+  <pos x="-5391.224989" y="3461.033327"/>
+  <GFX>
+    <space>K05.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>300.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>500000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Ares is the second planet colonized in the Tau Ceti System, as one of the first Human Colonies.</description>
+    <bar>None</bar>
+  </general>
+</spob>

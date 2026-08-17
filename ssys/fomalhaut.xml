@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Fomalhaut">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-792.1392" y="-1052.0688"/>
+  <spobs>
+    <spob>Dagon</spob>
+    <spob>Coronis</spob>
+  </spobs>
+  <jumps>
+    <jump target="FK Aquarii">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0057">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Telian">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

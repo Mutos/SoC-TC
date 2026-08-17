@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Arcadia">
+  <pos x="2186.163298" y="-3246.121261"/>
+  <GFX>
+    <space>M07.png</space>
+    <exterior>aquatic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Purple Trail</faction>
+    <value>350.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>62281000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Arcadia is the first planet colonized from Cartel. A water world with lots of islands, it shows far better living conditions than Cartel and actually, the most wealthy Cartelists are progressively relocating on the newly colonized world as more and more islands are offered for sale to private concerns.
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

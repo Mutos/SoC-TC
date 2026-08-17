@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irilia-16">
+  <pos x="2119.915925" y="-1457.442199"/>
+  <GFX>
+    <space>P01.png</space>
+    <exterior>aquatic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>358000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This planet covered in oceans and ice caps has been selected by the Irilia clan for its natural riches, in both biodiversity and ores. Its biocompatibility with skaraean life is excellent and its life conditions are good.
+
+Irilia-16 is also steadily becoming a co-colonies with K'Rinns, Humans and Pupeteers coming to settle it along with Irilia people, and its future looks quite bright.
+  </description>
+    <bar>A mixed lot of Rithai, K'Rinns, Humans and Pupeteers, with more than usual Irilia Idrimarai</bar>
+  </general>
+</spob>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Naarse">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-4632.68" y="1201.584"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Naarse</spob>
+  </spobs>
+  <jumps>
+    <jump target="IC 0067">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0069">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

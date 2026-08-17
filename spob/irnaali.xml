@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irnaali">
+  <pos x="3028.670394" y="2530.281595"/>
+  <GFX>
+    <space>M05.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>400.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2000000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

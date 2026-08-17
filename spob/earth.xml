@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Earth">
- <pos x="-5010.877660" y="5649.122024"/>
- <GFX>
-  <space>M00.png</space>
-  <exterior>forest2.png</exterior>
- </GFX>
- <presence>
-  <faction>Core League</faction>
-  <base>500.000000</base>
-  <bonus>50.000000</bonus>
-  <range>5</range>
- </presence>
- <general>
-  <class>M</class>
-  <population>1.5005e+09</population>
-  <hide>1.000000</hide>
-  <services>
-   <land/>
-   <refuel/>
-   <bar/>
-   <missions/>
-   <commodity/>
-   <outfits/>
-   <shipyard/>
-   <blackmarket/>
-  </services>
-  <description>Earth is the cradleworld of the Human species and has a rich but dramatic history. At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status.
+  <pos x="-5010.87766" y="5649.122024"/>
+  <GFX>
+    <space>M00.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>500.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>1500500000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Earth is the cradleworld of the Human species and has a rich but dramatic history. At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status.
 
 But in the ensuing years, the giants concerns actually outgrew the planetside states, tying them into a network of economic chains. Power-hungry policorpos conquered the solar system, settled Mars and began to expand into outer space by sublight sleeper convoys. Battling one another for the most lucrative positions, they sided together every time Earthers would attempt to restrain them.
 
@@ -33,13 +26,8 @@ Discovery of the jump drive prompted two dramatic events. The Policorpos attempt
 
 From these two events rose a new opposition to Sol: Planetarism, and a new state: the Planetarist Alliance. The Corporate Wars began, and lasted for several decades. They ended with the Planetarists taking over Sol and Earth itself, using K'Rinn-supplied advanced jump technologies.
 
-But some people could not accept that mankind's cradleworld be ruled from the distant Sanctuary system. With population and politicians support, they rallied a few colonies. The situation was heading to breaking point, when the K'Rinn Council stepped in as mediator. The Alliance accepted the creation of a new state: the Core League, with capitol on Earth, in the Forbidden City of Beijin, mostly rebuilt after the 2154 HTO earthquake, ancient-looking, yet with up-to-date amenities.
+But some people could not accept that mankind's cradleworld be ruled from the distant Sanctuary system. With population and politicians support, they rallied a few colonies. The situation was heading to breaking point, when the K'Rinn Council stepped in as mediator. The Alliance accepted the creation of a new state: the Core League, with its capital on Earth, in the Forbidden City of Beijin, mostly rebuilt after the 2154 HTO earthquake, ancient-looking, yet with up-to-date amenities.
   </description>
-  <bar>The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...  </bar>
- </general>
- <tech>
-  <item price_mod="1.0">All Commodities</item>
-  <item price_mod="1.0">TEST Outfits Llama</item>
-  <item price_mod="1.0">Standard Core Outfits</item>
- </tech>
+    <bar>The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...  </bar>
+  </general>
 </spob>

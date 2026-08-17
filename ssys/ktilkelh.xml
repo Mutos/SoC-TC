@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="K'Tilk'Elh">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2276.44" y="-1072.752"/>
+  <spobs>
+    <spob>K'Tilk'Elh</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="KR 0038">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

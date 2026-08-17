@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Le Manege">
+  <pos x="-222.902511" y="1266.086264"/>
+  <GFX>
+    <space>Station-SR001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>150.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>950</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A no-fuss miners' station, despite its name that sounds like a joke, because it is indeed a joke on the classical surname of wheel-shaped stations.</description>
+    <bar>Sullen miners and busy traders</bar>
+  </general>
+</spob>

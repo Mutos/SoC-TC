@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fallen Sun">
+  <pos x="-2529.216662" y="-4148.80277"/>
+  <GFX>
+    <space>I02.png</space>
+    <exterior>station01.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.1</hide>
+    </services>
+  </general>
+</spob>

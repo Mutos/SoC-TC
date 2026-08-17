@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ziffel IV Quarantine Station">
+  <pos x="5697.463304" y="-6121.295872"/>
+  <GFX>
+    <space>Station-SR002.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>250.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>85900</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Since the Quarantine has been enforced, the Trading Station that ensured planetfall control to Ziffel IV, thus enforcing the treaty between the planetside Ziffelian Empire and the Core League, has been converted to a Quarantine Station.
+
+It's nearly the only place where planetfall visas to the "Sick Planet" can officially be delivered.
+  </description>
+    <bar>You see Ziffel IV through the glass walls and group of tourists after group of tourists gobble their guide's speech on the Sick Planet</bar>
+  </general>
+</spob>

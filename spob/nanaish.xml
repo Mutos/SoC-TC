@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nanai'Sh">
+  <pos x="2370.087484" y="-1418.826555"/>
+  <GFX>
+    <space>J04.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.1</hide>
+    </services>
+  </general>
+</spob>

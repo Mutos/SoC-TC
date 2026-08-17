@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Dhreb">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2937.648" y="-2112.712"/>
+  <spobs>
+    <spob>Obscure</spob>
+    <spob>Claire</spob>
+    <spob>Sea Foam</spob>
+  </spobs>
+  <jumps>
+    <jump target="'Ha'Rtiish">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Pitspii Khser">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Shaeb">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Yaheb">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

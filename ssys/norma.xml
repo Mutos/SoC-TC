@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Norma">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2766.616" y="-1554.576"/>
+  <spobs>
+    <spob>Norma Core Guard</spob>
+  </spobs>
+  <jumps>
+    <jump target="Fehnouil">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Halisht">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

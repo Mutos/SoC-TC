@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Barnard's Star">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1728.68" y="-310.744"/>
+  <spobs>
+    <spob>Barnard e</spob>
+    <spob>Barnard c</spob>
+    <spob>Barnard d</spob>
+    <spob>Barnard b</spob>
+  </spobs>
+  <jumps>
+    <jump target="Gl 3001">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 534.1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="McLeod">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sol">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

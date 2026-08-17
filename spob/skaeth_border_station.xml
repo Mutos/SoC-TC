@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Skaeth Border Station">
+  <pos x="-3527.59166" y="1486.469442"/>
+  <GFX>
+    <space>Asteroid-Base-007a-Mining-Facility.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>250.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>54000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This small asteroid station is formally under Irilia dominion, but is used by the Free Adrimai as the farthest waypoint on the road from Irilia space to Child of the Eclipse.
+
+It protects the 6-jumps so-called "Road of Perils" to Drih Skarae, bordering on Gham Garri space, where, despite heavy patrols from both stations, Adrim exfiltration ships often get attacked.
+  </description>
+    <bar>Mostly Pupeteers and Rithai, some of the latter ostensibly bearing dri'h markings.</bar>
+  </general>
+</spob>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Telian Zone">
+  <pos x="-2928.566661" y="-2289.606662"/>
+  <GFX>
+    <space>Station-SR001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Traders</faction>
+    <value>150.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>62400</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station is a small trading post.
+  </description>
+    <bar>Merchantbeings, mostly Humans.</bar>
+  </general>
+</spob>

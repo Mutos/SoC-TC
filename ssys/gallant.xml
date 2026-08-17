@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gallant">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3542.888" y="-1443.408"/>
+  <spobs>
+    <spob>Paradiso</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Gallant's Moon</spob>
+  </spobs>
+  <jumps>
+    <jump target="PT 0052">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0053">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0055">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0056">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0057">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

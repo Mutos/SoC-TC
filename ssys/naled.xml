@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Naled">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1574.12" y="-3249.744"/>
+  <spobs>
+    <spob>Naled VIII.2</spob>
+    <spob>Naled VI</spob>
+    <spob>Naled VI.1</spob>
+    <spob>Naled VIII.4</spob>
+    <spob>Naled III</spob>
+    <spob>Naled X</spob>
+    <spob>Naled I</spob>
+    <spob>Naled VII</spob>
+    <spob>Naled VIII</spob>
+    <spob>Naled VIII.3</spob>
+    <spob>Naled V</spob>
+    <spob>Naled VIII.1</spob>
+    <spob>Naled IX</spob>
+    <spob>Naled II</spob>
+    <spob>Naled IV</spob>
+  </spobs>
+  <jumps>
+    <jump target="CS-TPL-RQL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ind 0004">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ind 0007">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

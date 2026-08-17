@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Estan Core Guard">
+  <pos x="6026.670708" y="1656.184317"/>
+  <GFX>
+    <space>001.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Rithai Kemae</faction>
+    <value>200.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>25000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

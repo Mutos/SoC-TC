@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ind 0008">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2059.688" y="-3496.848"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gogen">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ind 0001">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ind 0009">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="AC 0011">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-738.848" y="578.872"/>
+  <spobs/>
+  <jumps>
+    <jump target="AC 0007">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="AC 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="AC 0017">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Chalawan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="New Earth">
+  <pos x="-2451.152789" y="-2517.400161"/>
+  <GFX>
+    <space>O03.png</space>
+    <exterior>snow.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>450.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>170000000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The 3rd of the Sublight Colonies, New Earth sided with Earth and Mars during the Secession Crisis that finally gave birth to the Core League.
+  </description>
+    <bar>Mainly human patrons with a few representatives of the other species</bar>
+  </general>
+</spob>

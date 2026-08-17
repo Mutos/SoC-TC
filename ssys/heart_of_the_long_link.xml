@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Heart of the Long Link">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-160.616" y="2037.936"/>
+  <spobs/>
+  <jumps>
+    <jump target="BI-Ary-Shc - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gizzard">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tsaahm Arythem">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

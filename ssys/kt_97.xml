@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 97">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1147.216" y="212.416"/>
+  <spobs/>
+  <jumps>
+    <jump target="RkL 1863">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 5178">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

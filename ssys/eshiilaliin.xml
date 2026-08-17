@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eshii-Laliin">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-4743.272" y="-631.824"/>
+  <spobs>
+    <spob>Lee-Laliin</spob>
+    <spob>Isht'ish</spob>
+  </spobs>
+  <jumps>
+    <jump target="BI 0073">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0075">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0082">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

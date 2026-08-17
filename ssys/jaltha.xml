@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Jaltha">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1119.832" y="1567.92"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Jaltha nel Nalth</spob>
+    <spob>Jaltha</spob>
+    <spob>Eral ud Nal</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ary 0069">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0134">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Erilanth">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 12">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 35">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thim Baartish">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

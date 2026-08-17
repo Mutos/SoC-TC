@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KR 0016">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1864.6" y="-649.176"/>
+  <spobs/>
+  <jumps>
+    <jump target="KR 0015">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nat'Erka">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

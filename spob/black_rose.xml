@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Black Rose">
+  <pos x="-6140.793223" y="-7802.155956"/>
+  <GFX>
+    <space>Asteroid-Base-003-Outpost.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>50.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2500</population>
+    <hide>0.65</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This miners' settlement is well hidden in the middle of a dense Asteroids Field and is itself built from an asteroid, an ideal camouflage.
+
+It trades everything that comes near to it, thanks to its captain's many connections, and gathers raw minerals from the local asteroid fields and a few independant systems beyond the nearby jump point.
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

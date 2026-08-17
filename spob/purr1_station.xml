@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Purr-1 Station">
+  <pos x="3418.698255" y="-2211.849136"/>
+  <GFX>
+    <space>Outpost-PurrSphere-001-Base-100px.png</space>
+    <exterior>Outpost-PurrSphere-001-Base-400px.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>50.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>175</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The first of the Purr Sphere lineage, and the origin of its name : its characteristic the low rumble.</description>
+    <bar>A crowd of Pupeteer merchants and Spacers of all species.</bar>
+  </general>
+</spob>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KR 0008">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1645.648" y="-1126.536"/>
+  <spobs/>
+  <jumps>
+    <jump target="KR 0007">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0009">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0010">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0040">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0049">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

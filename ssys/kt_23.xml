@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 23">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="145.744" y="214.392"/>
+  <spobs/>
+  <jumps>
+    <jump target="RkL 2163">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 2356">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 2836">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

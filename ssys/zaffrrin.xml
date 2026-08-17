@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Zaffrr'in">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2752.616" y="2020.656"/>
+  <spobs>
+    <spob>Zaff'Rin</spob>
+  </spobs>
+  <jumps>
+    <jump target="CSS 005">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="I'Zfraal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nii'Zun">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

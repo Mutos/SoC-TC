@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Musashi">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="319.768" y="-2639.76"/>
+  <spobs>
+    <spob>Musashi Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Haasen</spob>
+    <spob>Al Nour</spob>
+  </spobs>
+  <jumps>
+    <jump target="PA 0096">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA-Iri - 3 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="BI 0082">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-4687.976" y="-737.232"/>
+  <spobs/>
+  <jumps>
+    <jump target="BI 0073">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0083">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Eshii-Laliin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ram'Rit">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

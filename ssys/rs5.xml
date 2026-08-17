@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RS-5">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1465.256" y="69.744"/>
+  <spobs/>
+  <jumps>
+    <jump target="RS-4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-5.1 - Delta Backdoor">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-6">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

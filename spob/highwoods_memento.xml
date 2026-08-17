@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="High-Woods Memento">
+  <pos x="-2484.84444" y="-1042.74722"/>
+  <GFX>
+    <space>Station-001-Comm-Hub.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Complementarist Protectorate</faction>
+    <value>50.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

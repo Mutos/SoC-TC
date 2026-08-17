@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Talshimaal">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3588.968" y="-322.512"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Talshimaal Border Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="BI 0052">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0054">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI-ShC - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

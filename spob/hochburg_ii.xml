@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hochburg II">
+  <pos x="-2928.566661" y="2768.826661"/>
+  <GFX>
+    <space>Planet-010-farmland.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Purple Trail</faction>
+    <value>200.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>100000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nat'Erka">
+  <pos x="6359.747776" y="-3643.605497"/>
+  <GFX>
+    <space>moon-H02.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ka'Ralt Secession</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2215324000</population>
+    <hide>2.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This new colony is the last from the Ka'Ralt Secession. It is thriving as a new jump route has been discovered to the Rith Sphere via Arythem space.
+  </description>
+    <bar>A chattering crowd of Ka'Ralters, naturally with a large proportion of Defenders</bar>
+  </general>
+</spob>

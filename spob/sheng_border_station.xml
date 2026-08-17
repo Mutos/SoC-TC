@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sheng Border Station">
+  <pos x="-2203.204085" y="-1155.526618"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Purple Trail</faction>
+    <value>250.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>6300</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Sheng Station is named after Sheng Li Fong, the Commander of the "Purple Flag" supercruiser, that carried the Cartel Sol top-brass out of the Sol system to flee the Planetarist invasion and founded the Purple Trail.
+
+When the station was built, this naming had been perceived as a gesture of defiance againts the Planetarist Alliance. As it's on the shortest route from the Purple Trail to Sol, it is manned by elite squadrons and backed full-time by an insystem patrol fleet.
+  </description>
+    <bar>Several human pilots and merchants and few, if any nonhumans sit there</bar>
+  </general>
+</spob>

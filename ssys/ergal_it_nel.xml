@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ergal it Nel">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="520.216" y="1287.984"/>
+  <spobs>
+    <spob>Ergal ud Kajath</spob>
+    <spob>Ergajith Border Station</spob>
+    <spob>Rakh ud Ergal</spob>
+    <spob>Kajath</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ary 0071">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary-ShC - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="HnH-Ary - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

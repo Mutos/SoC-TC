@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Kadzyek Thurn">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="1142.296" y="-1229.712"/>
+  <spobs>
+    <spob>Kadzyek Thurn</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri-PA-CL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri-PA-CL - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

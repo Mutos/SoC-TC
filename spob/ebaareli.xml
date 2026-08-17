@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eb'Aareli">
+  <pos x="-1959.773144" y="2181.634255"/>
+  <GFX>
+    <space>M09.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Candidate Systems</faction>
+    <value>100.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>100000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

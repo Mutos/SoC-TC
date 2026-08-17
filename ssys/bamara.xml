@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Bamara">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2417.384" y="539.76"/>
+  <spobs>
+    <spob>Virtual Miner Local</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Bamara Border Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0042">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0045">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="ShC-CL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

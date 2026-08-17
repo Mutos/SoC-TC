@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Iri 0119">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2492.00224" y="-3470.928"/>
+  <spobs/>
+  <jumps>
+    <jump target="Iri 0213">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0244">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL-Iri - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rochefort">
+  <pos x="-4267.897814" y="-1438.547442"/>
+  <GFX>
+    <space>M06.png</space>
+    <exterior>aquatic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>400.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>30000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sanctuary">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-852.8272" y="-1729.6128"/>
+  <spobs>
+    <spob>Sanctuary</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Mahavikra Flight School</spob>
+  </spobs>
+  <jumps>
+    <jump target="PA 0016">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0018">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0020">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

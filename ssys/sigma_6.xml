@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sigma 6">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="442.456" y="1778.736"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ari Sshiin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Erathan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Erathan Arn">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 5">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 7">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

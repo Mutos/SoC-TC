@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Black Hole">
+  <pos x="7103.513534" y="-6518.989004"/>
+  <GFX>
+    <space>Asteroid-Base-006-Split-Asteroid.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>750.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>450000</population>
+    <hide>2.5</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This pirate installation holds the border of the Gamma Sector nearest to the Hoshi no Hekka.
+
+The road to the Hoshi no Hekka is a small jump point only detected by powerful sensors, leading to Engelstadt in 3 jumps.
+  </description>
+    <bar>Pirates from absolutely all species are assembled there.</bar>
+  </general>
+</spob>

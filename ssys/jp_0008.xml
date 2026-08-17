@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="JP 0008">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="2090.968" y="373.872"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary 0015">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="JP 0003">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="JP 0004">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

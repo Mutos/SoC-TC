@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kerithal">
+  <pos x="1820.370508" y="1731.209504"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Rithai Kemae</faction>
+    <value>400.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>254300</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

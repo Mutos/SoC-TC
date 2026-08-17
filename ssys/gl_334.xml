@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 334">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2205.72448" y="-1283.86688"/>
+  <spobs/>
+  <jumps>
+    <jump target="Delanney's Freezer">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Engelstadt">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 314 B">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

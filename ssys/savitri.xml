@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Savitri">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1931.24" y="141.456"/>
+  <spobs>
+    <spob>Savitri A</spob>
+    <spob>Savitri C</spob>
+    <spob>Savitri B</spob>
+    <spob>Savitri D</spob>
+  </spobs>
+  <jumps>
+    <jump target="Anhui">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Le Manege">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Pollux">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-7 - Delta Lock">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Villera">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

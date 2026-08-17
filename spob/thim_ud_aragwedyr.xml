@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Thim ud Aragwedyr">
+  <pos x="-6851.364309" y="3848.657069"/>
+  <GFX>
+    <space>Asteroid-Base-003-Outpost.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Adrimai</faction>
+    <value>200.0</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>8900</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This is the main waypoint for the so-called "ghost ships" heading from Irilia space to the Aragwedyr planet of Amarynn-Woodsfield. It lies near Thim Humae and both stations mutually protect themselves.
+
+Under Irilia protection by treaty, but administered by Free Adrimai, the station proudly wears the color of the Dri'h on its hull and flag.
+  </description>
+    <bar>The bar is filled with Rithai, most of them Free Adrimai</bar>
+  </general>
+</spob>

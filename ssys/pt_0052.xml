@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PT 0052">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3554.984" y="-1308.624"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gallant">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0043">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0053">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

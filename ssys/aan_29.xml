@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aan 29">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-6740.84" y="-1383.504"/>
+  <spobs/>
+  <jumps>
+    <jump target="Aan 38">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 51">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 61">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan-Relink">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

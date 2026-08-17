@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="TPL 0148">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="1043.8" y="-4264.08"/>
+  <spobs/>
+  <jumps>
+    <jump target="TPL 0147">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0149">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thundering Mountains">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

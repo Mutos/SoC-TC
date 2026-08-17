@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gliese 1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2201.608" y="-632.056"/>
+  <spobs/>
+  <jumps>
+    <jump target="CL 0003">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Trappist-1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

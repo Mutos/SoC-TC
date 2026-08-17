@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tek'Kettet Orbital Shipyards">
+  <pos x="-3208.387243" y="-1846.758267"/>
+  <GFX>
+    <space>station-shipyard.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>100.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>23000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>These are the famous shipyards that build a great part of the T'Kalt used during the Second Fringe War. After the war, they were oversized and under a threat of shutting down. Just as what happened with the planetside facilities, workers united to claim them back. In less than two decades, they managed to convert them to building cargo ships like the famous L'Lintir and recycling old ships into new careers.
+
+The Tek'Kettet shipyard is now a major shipbuilder of k'rinn space, on a par with the orbital facilities around planetary colonies and even H'Rkann. Their ships are used throughout the whole of the known universe.
+  </description>
+    <bar>Workers ans Spacers talking about ships</bar>
+  </general>
+</spob>

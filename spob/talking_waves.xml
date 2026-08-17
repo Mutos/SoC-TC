@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Talking Waves">
+  <pos x="1258.700081" y="-2053.668553"/>
+  <GFX>
+    <space>M07.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>49245000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Talking Waves took its name from its proteiform ocean life, that seems to pass from a shape to another with not much logic, and whose higher species are thought to be near-sentient.
+
+The local searchers have formally requested the help of Shapeshifters to study than peculiar fauna, as shapeshifting seem to be a defining feature of most of its species. As of now, only a few Hives answered the call, but the movement is expected to grow.
+  </description>
+    <bar>Mainly researchers in biology and sentience, along with a few local people on bearers. With luck, you could spot a group of Shapeshifters</bar>
+  </general>
+</spob>

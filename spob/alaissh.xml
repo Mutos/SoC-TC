@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Alaissh">
+  <pos x="-13081.530991" y="6299.266909"/>
+  <GFX>
+    <space>asteroid-D44.png</space>
+    <exterior>mining4.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>98500</population>
+    <hide>2.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This asteroid is home to a pirate organization preying on the Sigma Sector and the Long Link. It has initially founded by sshaad smugglers and has quickly been joined by rithai fugitives from the Thalin Clan. The system is remotely linked to the Shoden Clusters, but the pirates often frown on their xenophobic, Sshaadkind-supremacy dogma and take great care to avoid falling under Shoden influence.
+  </description>
+    <bar>Pirate crews on leave, mainly Sshaads of various origins and a fair number of Rithai bearing the Thalin Dragon coat of arms.</bar>
+  </general>
+</spob>

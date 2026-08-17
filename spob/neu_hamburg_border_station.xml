@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Neu Hamburg Border Station">
+  <pos x="-5167.295068" y="596.226354"/>
+  <GFX>
+    <space>002.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Purple Trail</faction>
+    <value>380.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>35400</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>At the border of the Sshaad and Human Spheres, this station, originally only a border outpost, is steadily growing as a trading marketplace, both legal and smuggling. You can find just anything in Neu Hamburg, even Ziffelan Minidragons.
+  </description>
+    <bar>A mixed lot of Sshaads, Shapeshifters and Humans with a few occasional representatives of the other species</bar>
+  </general>
+</spob>

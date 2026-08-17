@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="T'Tilkan">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2051.744" y="-2528.608"/>
+  <spobs>
+    <spob>T'Tilkan Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="SC 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC 0007">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

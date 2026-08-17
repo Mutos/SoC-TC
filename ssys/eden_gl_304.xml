@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eden (Gl 304)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1910.2816" y="-1285.27264"/>
+  <spobs>
+    <spob>Utsukushi</spob>
+    <spob>Eden</spob>
+    <spob>Eden High</spob>
+    <spob>Tanuki</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="GJ 3466">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="GJ 3500">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Meetpoint (Gl 291)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

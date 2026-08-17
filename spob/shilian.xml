@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Shilian">
+  <pos x="-3828.784624" y="1716.8344"/>
+  <GFX>
+    <space>moon-O01.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Instrumentality Company</faction>
+    <value>300.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>974300</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This lush moon originally had a low biocompatibility with sshaadoid life, but is rich in many other aspects and as such, was quickly colonized by the Instrumentality Company. The colonists' efforts, however, were vastly successful at gengineering efficient bridge species. Now, the planet has extensive agriculture harmoniously merged within the original ecosystems.
+  </description>
+    <bar>Mainly miners, peasants and merchants, along with some tourists</bar>
+  </general>
+</spob>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Leenan Outpost">
+  <pos x="4632.459991" y="-1725.191997"/>
+  <GFX>
+    <space>Asteroid-Base-003-Outpost.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>150.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>45000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This small refueling station orbiting around the Ainal gas giant was originally built by a group of nomad masters who called themselves the Iish Leenan, which means "Travelling Explorers" in common Baartish.
+
+However, when exploration ships found out a nearby jump point, which was found to be a new doorway to the Long Link, Baartish Intersystems stepped in and turned the station into a border surveyor and trading outpost.
+
+Despite all the money invested, it was still quite away from main routes to planets and never developed any regular trade. It instead became a smuggling place and was soon known as "the back door to the Long Link".
+
+With the prison ship that got trapped inside a purgatorian planetoid emerging into Leenan space, the station suddenly came into the spotlight. Media coverage soon died out and, while Jaltha became the official entry point to the so-called Sigma Sector, Leenan soon became an unofficial starting-block for the smugglers' race to the new purgatorian treasure hold.
+  </description>
+    <bar>Many Sshaads and a few Rithai drinking various mild intoxicants.</bar>
+  </general>
+</spob>

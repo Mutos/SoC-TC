@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Hythin">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2851.288" y="-1134.672"/>
+  <spobs>
+    <spob>Hythin</spob>
+    <spob>Hythin Core Guard</spob>
+  </spobs>
+  <jumps>
+    <jump target="Duran">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thaim Krinai">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Seynbeg Kemae">
+  <pos x="-3067.138554" y="-4395.637521"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Adrimai</faction>
+    <value>190.0</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>145000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station, named for Sara Seynberg, the human xenoethnologist who publicly revealed the presence of Adrimai on Irilia-17 at the ties of the Fringe Wars and sparkled a major part of the Adrimai freedom movement, was built to become a major Free Adrimai base.
+
+It has since become a gathering point for the Adrimai seeking to flee the Rith Sphere and the start of the exfiltration routes to Pupeteer space.
+  </description>
+    <bar>Proud Drih-marked Rithai</bar>
+  </general>
+</spob>

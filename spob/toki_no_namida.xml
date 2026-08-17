@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Toki no Namida">
+  <pos x="1192.322044" y="-1838.223348"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ashioto Cluster</faction>
+    <value>50.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Toki no Namida is meaning "Tears of time" in old Hekka / Japanese. Burrowed in a hollowed Moonlet orbiting Ashioto, this Station was originally a policorporatist base and spaceyard, until it was taken by Harmand's Irregulars troops, and became a major headquarter for the rebellion.
+  After wars, it was refurbished to a Transit Station, and before the creation of the Ashioto Cluster, it was not rare it host small traffics and reunion for somewhat illegal business. Now, under the supervision, these activity should have ended, and it is still a crowded transit Spacestation,
+  still renowned for its Restaurant who serve various nice meals from all the sophontness. Except the Aligot. Awful. Don't try it. </description>
+    <bar>Old style Restaurant crowded with spacers, tourists and legal merchants, enjoying the view of Ashioto, who seems to somewhat slowly turning green again ... </bar>
+  </general>
+</spob>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sector 52 (KT 52)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-158.384" y="300.792"/>
+  <spobs>
+    <spob>Sector 52 Memorial</spob>
+    <spob>Sector 52 Derelicts</spob>
+  </spobs>
+  <jumps>
+    <jump target="KT 123">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 253">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 41">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Meg-Ur-K'ik">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tsaahm Shuman">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3440.36" y="-1946.832"/>
+  <spobs/>
+  <jumps>
+    <jump target="Biim'Irsh">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Control Point">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

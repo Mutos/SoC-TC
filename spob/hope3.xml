@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hope-3">
+  <pos x="5754.61148" y="-3918.342677"/>
+  <GFX>
+    <space>J05.png</space>
+    <exterior>methane.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>10000</population>
+    <hide>0.1</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Hope-3 is a gas giant with a number of floating extraction plants that provide fuel to spaceships. It has been exploited ever since the Hope ships colonized the planet, in the times even before Cartel Sol and the Corporate Wars.
+  </description>
+    <bar>Gas miners are a rough lot and it shows !</bar>
+  </general>
+</spob>

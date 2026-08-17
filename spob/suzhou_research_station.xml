@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Suzhou Research Station">
+  <pos x="7287.521205" y="7102.636946"/>
+  <GFX>
+    <space>003.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>22500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Orbiting around the Giant Gaz Planet Suzhou, this habitat is a Rockstealer and Jovian Fauna Research Station.
+</description>
+    <bar>Astrobiologists and Spatiologists from all the known Universe taking a lunch, between two studies of Space fauna.</bar>
+  </general>
+</spob>

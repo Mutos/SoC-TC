@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PA 0100">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="203.992" y="-2242.32"/>
+  <spobs/>
+  <jumps>
+    <jump target="PA 0086">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0099">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ulaan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

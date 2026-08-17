@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kerloth Transfer Station">
+  <pos x="-5853.653389" y="-7086.215115"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Adrimai</faction>
+    <value>170.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>162000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station has been built near Irilia-17 to serve as a staging ground for Adrimai exfiltration from the Rith Sphere to the Thirteen Planets League by the Corridor.
+  </description>
+    <bar>Mainly Irilia people and Free Adrimai</bar>
+  </general>
+</spob>

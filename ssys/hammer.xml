@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Hammer">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3554.408" y="-1782.672"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Iron Hammer</spob>
+  </spobs>
+  <jumps>
+    <jump target="Alshiinal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0037">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0061">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KC-CS - 1 - 3">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2234.216" y="-2935.248"/>
+  <spobs/>
+  <jumps>
+    <jump target="Eshii-K'tin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KC-CS - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="AC 0013">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-545.312" y="604.792"/>
+  <spobs/>
+  <jumps>
+    <jump target="AC 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="AC 0014">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

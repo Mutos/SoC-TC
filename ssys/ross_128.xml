@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ross 128">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1949.32" y="-682.168"/>
+  <spobs>
+    <spob>Ross 128 b</spob>
+  </spobs>
+  <jumps>
+    <jump target="Hope (Tau Ceti)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Trappist-1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sshiinan Border Station">
+  <pos x="8350.380086" y="-1067.647373"/>
+  <GFX>
+    <space>003.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>250.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>267000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station is the main border point between Baartish space and the Shoden Clusters, on a weak point of the Baartish jump network. As such, it is heavily guarded and the patrol squadrons are sshaaded with the Baartish's elitemost pilots.
+  </description>
+    <bar>Pilots loudly boasting about their exploits and the "oh so easy Shoden targets"...</bar>
+  </general>
+</spob>

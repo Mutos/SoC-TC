@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="IS 0033">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="5074.736" y="-2910.848"/>
+  <spobs/>
+  <jumps>
+    <jump target="Explorers' Bench">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IS 0034">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

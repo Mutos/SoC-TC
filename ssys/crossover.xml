@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Crossover">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2035.784" y="595.632"/>
+  <spobs>
+    <spob>Abandoned Station</spob>
+    <spob>Marduk</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0044">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0051">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ary 0129">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="3101.08768" y="-68.91072"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary 0064">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0128">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Star Strider's Legacy">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

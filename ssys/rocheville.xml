@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Rocheville">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="342.496" y="-2012.424"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Rocheville Border Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="Aldebaran - Urgiz">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0072">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0084">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Devereau's Holds">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1690.05472" y="-1911.81312"/>
+  <spobs>
+    <spob>Devereau's Holds</spob>
+    <spob>Wai</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Control Point">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="GL 581 (Zarmina)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 480">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Koishi">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nobara">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Shadow Grave">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

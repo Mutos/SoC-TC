@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Foenn">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3146.776" y="-1855.248"/>
+  <spobs>
+    <spob>Foenn Core Guard</spob>
+    <spob>Fhouas</spob>
+  </spobs>
+  <jumps>
+    <jump target="Erde">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thim Irilia">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ythin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

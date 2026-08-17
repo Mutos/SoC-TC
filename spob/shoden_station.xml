@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Shoden Station">
+  <pos x="-600.873841" y="-785.7581"/>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Shoden Clusters</faction>
+    <value>250.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>387000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The Shoden were originally the weapon hand of other sshaad factions, like the Instrumentality Company and Baartish Intersystems. They took their name from their founding daneb in Tsiiar'sh, after which is also named their prime station.
+
+They developped an original ideology from the Instrumentality concept that Sshaads had lost their edge in the natural selection and that they had to retake it. However, while the Instrumentality was quite open to cooperation with the other species, including the Shapeshifters, the Shoden became more and more ruthless and xenophobic.
+
+They ended up clashing with influent Instrumentality Masters and seceded from their former partners. From then on, they locked out a number of systems, grouped in several regions, that became colloqually known as "the Shoden Cluster". Some of the Shoden clusters link sshaad space to other species' spheres, which is a concern for all species and factions involved.
+
+No-one currently kows precisely what the Shodens are up to. Their space is open to all sshaad-driven traffic, but closed to other species.
+  </description>
+    <bar>Most patrons here are Sshaads and look down on any other sentient who would dare to enter the bar</bar>
+  </general>
+</spob>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ka'Ralt">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1560.384" y="-825.984"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ren'Lin</spob>
+    <spob>Ka'Ralt</spob>
+  </spobs>
+  <jumps>
+    <jump target="KR 0001">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0006">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>
