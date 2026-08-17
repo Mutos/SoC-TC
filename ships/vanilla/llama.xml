@@ -1,0 +1,47 @@
+<ship name="Llama">
+ <points>20</points>
+ <base_type>Llama</base_type>
+ <gfx size="47">llama.gltf</gfx>
+ <sound>engine_melendez</sound>
+ <class>Yacht</class>
+ <price>120000</price>
+ <time_mod>1</time_mod>
+ <trail_generator x="-12" y="-16" h="-2">nebula</trail_generator>
+ <trail_generator x="-12" y="16" h="-2">nebula</trail_generator>
+ <trail_generator x="-12" y="-6" h="0">melendezS</trail_generator>
+ <trail_generator x="-12" y="0" h="0">melendezS</trail_generator>
+ <trail_generator x="-12" y="6" h="0">melendezS</trail_generator>
+ <fabricator>Melendez Corp.</fabricator>
+ <faction>Independent</faction>
+ <description>One of the most widely used ships in the galaxy. Renowned for its stability and stubbornness. The design hasn't been modified much since its creation many, many cycles ago. It was one of the first civilian use spacecrafts, first used by aristocracy and now used by everyone who cannot afford better.</description>
+ <characteristics>
+  <crew>2</crew>
+  <mass>60</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>20</cargo>
+ </characteristics>
+ <health>
+  <armour>30</armour>
+ </health>
+ <slots>
+  <weapon size="small" x="7" y="0" h="1"/>
+  <weapon size="small" x="-3" y="0" h="2"/>
+  <utility size="small" prop="systems" name="systems">Unicorp PT-16 Core System</utility>
+  <utility size="small" prop="accessory" name="accessory"/>
+  <utility size="small"/>
+  <utility size="small"/>
+  <utility size="small"/>
+  <structure size="small" prop="engines" name="engines">Unicorp Hawk 160 Engine</structure>
+  <structure size="small" prop="hull" name="hull">Unicorp D-2 Light Plating</structure>
+  <structure size="small"/>
+  <structure size="small"/>
+  <structure size="small"/>
+  <structure size="small"/>
+ </slots>
+ <stats/>
+ <tags>
+  <tag>standard</tag>
+  <tag>transport</tag>
+  <tag>civilian</tag>
+ </tags>
+</ship>
