@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aan-Relink">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-6645.8" y="-1276.368"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aan-Relink</spob>
+  </spobs>
+  <jumps>
+    <jump target="Aan 09">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 29">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

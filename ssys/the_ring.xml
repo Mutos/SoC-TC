@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="The Ring">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="706.84" y="-4651.152"/>
+  <spobs>
+    <spob>The Ring</spob>
+    <spob>Bubble</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="TPL 0141">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0143">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0144">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0159">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

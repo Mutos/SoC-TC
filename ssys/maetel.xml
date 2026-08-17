@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Maetel">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2560.808" y="1270.704"/>
+  <spobs>
+    <spob>Mae ud Matae</spob>
+    <spob>Aareli ud Mae</spob>
+    <spob>Matae</spob>
+    <spob>Aareli Rendez-Vous</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ak'ri">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary-IC-ShC - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iralii">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Lanilt'sh">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

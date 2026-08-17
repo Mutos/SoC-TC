@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Arnuil Orm Arythem">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2930.776" y="-384.72"/>
+  <spobs>
+    <spob>Gah'am</spob>
+    <spob>Arnuil</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ary 0006">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0059">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0061">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0063">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

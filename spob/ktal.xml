@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="K'Tal">
+  <pos x="-11117.903978" y="7348.039986"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>150.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>147000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station is one of the Council's main research outposts. It has been built as the Mar'Krinn'Ra planet was being colonized, to investigate new mining methods. Due to potential danger, it was located in the middle of a small asteroids field at the system's periphery.
+  </description>
+    <bar>Several research people and a few Spacers</bar>
+  </general>
+</spob>

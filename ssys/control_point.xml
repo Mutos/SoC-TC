@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Control Point">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2804.88672" y="-1980.67712"/>
+  <spobs>
+    <spob>Control Point</spob>
+    <spob>Buttercup</spob>
+    <spob>Control Point 2</spob>
+    <spob>Control Point 1</spob>
+    <spob>Bubbles</spob>
+    <spob>Blossom</spob>
+    <spob>Control Point 3</spob>
+  </spobs>
+  <jumps>
+    <jump target="'Ha'Rtiish">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Devereau's Holds">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gamma 10">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tsaahm Shuman">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irilia-13">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2379.544" y="-3030.288"/>
+  <spobs>
+    <spob>Irilia-13</spob>
+    <spob>Akeloth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0109">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0114">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0238">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

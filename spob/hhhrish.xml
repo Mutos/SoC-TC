@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hhhrish">
+  <pos x="4571.068714" y="1987.42118"/>
+  <GFX>
+    <space>J01.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.1</hide>
+    </services>
+  </general>
+</spob>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="McLeod">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1905.512" y="-523.776"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>McLeod Border Station</spob>
+    <spob>Ericson</spob>
+  </spobs>
+  <jumps>
+    <jump target="Barnard's Star">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Procyon">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

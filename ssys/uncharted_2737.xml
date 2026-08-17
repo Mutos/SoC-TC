@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Uncharted 2737">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-6867.46784" y="-3066.71424"/>
+  <spobs/>
+  <jumps>
+    <jump target="Uncharted 0538">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Uncharted 0732">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Weird Planetoid #2821">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

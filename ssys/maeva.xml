@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Maeva">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3053.464" y="-1245.264"/>
+  <spobs>
+    <spob>Danae</spob>
+    <spob>Aerith</spob>
+  </spobs>
+  <jumps>
+    <jump target="Irali">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irm-RC - 2 -1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aan-Hilit Border Station">
+  <pos x="8250.190644" y="2209.994455"/>
+  <GFX>
+    <space>Station-SR001.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>287000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station guards Baartish space against possible Shoden incursions from the nearby Shoin system. Being oldest than Aans, it have the same function as a Station on the historic road between the two sshaad states.
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

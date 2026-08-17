@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sen'Frrish">
+  <pos x="-5328.261628" y="-1117.009064"/>
+  <GFX>
+    <space>M10.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Confederated Sshaad Stars</faction>
+    <value>400.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2500000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

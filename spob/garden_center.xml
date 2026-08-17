@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Garden Center">
+  <pos x="3327.91666" y="-745.453332"/>
+  <GFX>
+    <space>Station-001-Comm-Hub.png</space>
+    <exterior>aquatic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Traders</faction>
+    <value>1.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>50</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

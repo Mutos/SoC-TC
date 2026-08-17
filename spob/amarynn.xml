@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Amarynn">
+  <pos x="-2517.400161" y="1788.679062"/>
+  <GFX>
+    <space>M02.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Aragwedyr Clan</faction>
+    <value>350.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>15243000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Amarynn, also known as Woodsfield, the famous forest-world ! Its human population of survivors from a Better Worlds expedition, gengineered to the likeness of legendary Elves ! Its lush woods and marshes and their ferocious fauna well-known to safari amateurs, that few have fought and fewer have returned alive to tell the tale ! Its famous Aragwedyr Rith-Human Clan of long-told courage, known among the Adrimai as "The Path from Eclipse to Sunlight" ! Its Complementarist danebs, born from the first ever Hive to have journeyed to a non-sshaad planet !
+
+If ever a planet is entitled to a legend of its own, Amarynn is that one. But beware, only the most courageous dare to struggle with this world, and only the most enduring survive the ordeal ! So, dear Spacer, let your ship only touch and go, and while the ground crew is working on it, DO NOT, repeat, DO NOT stray anywhere away from the landing field and surrounding buildings without due escort !
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

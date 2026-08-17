@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Nyotekundu">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2229.032" y="382.512"/>
+  <spobs>
+    <spob>Mhandari</spob>
+    <spob>Virtual Miner Local</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0041">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0043">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Hammerfall">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

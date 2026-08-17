@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ran (Epsilon Eridani)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-923.744" y="290.296"/>
+  <spobs>
+    <spob>Darius</spob>
+    <spob>Xerxes</spob>
+    <spob>Darius-Alpha</spob>
+    <spob>Darius-Twin</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ashioto - Purgatoire">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Backdoor">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Edasich">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

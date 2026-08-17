@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tikk'Nal">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-554.6" y="-44.304"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tikk'Nal Free Traders</spob>
+  </spobs>
+  <jumps>
+    <jump target="AC-KC - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="AC-KC - 1 - 5">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TC 002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

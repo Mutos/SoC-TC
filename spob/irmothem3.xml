@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irmothem-3">
+  <pos x="-2716.142279" y="-3113.626515"/>
+  <GFX>
+    <space>M00.png</space>
+    <exterior>snow.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irmothem Clan</faction>
+    <value>150.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>545273000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This quite backyard world was the third and last Irmothem world to be colonized by sublight ships.
+
+While colder than most rithai planets, its indigenous life is biocompatible at 90% with skaraean life and has given the Rithai quite a few domesticated species.
+
+It has never been heavily populated, even for a First Wave Colony, and even now lies well below the billion people.
+   </description>
+    <bar>A few Rithai trying to forget the lacklust world they live in</bar>
+  </general>
+</spob>

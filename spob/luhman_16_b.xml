@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Luhman 16 B">
+  <pos x="3578.175993" y="-4824.14799"/>
+  <GFX>
+    <space>Y00.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Moon">
+  <pos x="-4321.803174" y="6273.713507"/>
+  <GFX>
+    <space>moon-M00.png</space>
+    <exterior>uninhabited-rocky-airless-03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>100.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>250000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The Moon, also casually called Luna, is the natural satellite to Earth and the first permanent Human settlement.
+
+The first settlement, Lunardome, was built between 1979 and 1985 using the then 15-ships-strong Space Shuttles fleet. In 1986 HTO, the Challenger disaster grounded the fleet, prompting USA, Europe and USSR to mount an emergency "space bridge" of automated supply runs. When STS flights resumed, the first crew to land at Lunardome discovered a giant holographic display over the dome's arching doorway : a memorial to space casualties, from Vladimir Komarov to the Challenger crew.
+
+From the time asteroids mining was well established, the Moon's role as a mining colony dwindled and the settlement became more of a scientific and touristic place. Notably, it has become tradition in spacer culture to pay a pilgrimage to the Spacers' Memorial at least once in a lifetime. With the advent of interstellar jump, the tradition, although seldom followed, calls for a visit whenever a spacer enters Sol system.
+
+As space exploration resumed its pace, every time a disaster ensued with Human spacer casualties, they were added to the "Spacers Memorial". The latest to be granted this honor are the crews of the EDSE Persephone and Tempest Outpost.
+
+Luna's population is now split between nearly a hundred domes. The most recent, Clouds City, is larger than Paris with its 20km diameter, and is dedicated to the needs of Non-Human tourists.
+
+It has been proposed, that a second Hall of Honor be built for Non-Human spacers in Clouds City, but this has been rejected as discriminatory. Instead, the whole Memorial, which has since grown from a simple hologram to a full hall, is to be given its own dome. The original Lunardome memorial will only keep the figures of pre-warp Humans, which had grown widely famous as the "Guardians", as per the Leslie Fish song.
+
+The first non-Humans to be inducted in the new Honor Dome will be the crew of the Crystal Crescent who discovered Irilia-17 and suffered a catastrophic warp engines failure while close to a Navigator ship. This has been much discuted among the Rithai Kemae, as the expedition's survivors were then declared Adrim, but modernists finally gained the upper hand over traditionalists.
+  </description>
+    <bar>The bar is crowded by tourists, both Humans and non-Humans, with a predominance of Rithai.</bar>
+  </general>
+</spob>

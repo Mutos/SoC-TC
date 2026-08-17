@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tempest LRS">
+  <pos x="-7127.311732" y="-7428.582264"/>
+  <GFX>
+    <space>Station-SR001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>HnH</faction>
+    <value>100.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>5</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+    </services>
+    <description>This new Long Range Surveyor replaced the one that had been destroyed during what is now called "the Persephone encounter", the attack of a former exploration vessel whose crew became bloody madmen after being gengineered on a lost purgatorian research station.
+  </description>
+  </general>
+</spob>

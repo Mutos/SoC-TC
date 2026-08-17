@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Waterzooi">
+  <pos x="2400.927529" y="-6609.612255"/>
+  <GFX>
+    <space>station-agriculture.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>250.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

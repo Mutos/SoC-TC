@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ishaal">
+  <pos x="-2551.402773" y="-5139.782397"/>
+  <GFX>
+    <space>J03.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

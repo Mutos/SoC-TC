@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="SC 0013">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1772.84" y="-2347.728"/>
+  <spobs/>
+  <jumps>
+    <jump target="Elathon">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Orkaria">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

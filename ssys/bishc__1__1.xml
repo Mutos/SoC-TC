@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="BI-ShC - 1 - 1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3516.392" y="-382.992"/>
+  <spobs/>
+  <jumps>
+    <jump target="Eshodal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Lizard's Crossroad">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Talshimaal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

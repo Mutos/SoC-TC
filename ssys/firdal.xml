@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Firdal">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2773.528" y="-1319.568"/>
+  <spobs>
+    <spob>Firdal-1</spob>
+    <spob>Nethi ud Firdal</spob>
+    <spob>Arimeth</spob>
+  </spobs>
+  <jumps>
+    <jump target="Alethai">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Drom">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Shakt-Firdal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

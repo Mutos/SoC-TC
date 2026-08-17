@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="TPL 0156">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="871.576" y="-4603.632"/>
+  <spobs/>
+  <jumps>
+    <jump target="TPL 0140">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0157">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0158">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0159">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

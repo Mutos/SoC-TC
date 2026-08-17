@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ary 0121">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="4383.26368" y="739.79328"/>
+  <spobs/>
+  <jumps>
+    <jump target="Mieriuth">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RQL 0057">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-82.856" y="-3305.04"/>
+  <spobs/>
+  <jumps>
+    <jump target="Howling Comets">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL-RQL - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL-RQL - 1 - 4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

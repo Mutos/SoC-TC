@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irgal uneo Irmoth">
+  <pos x="1264.119241" y="427.652533"/>
+  <GFX>
+    <space>002.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

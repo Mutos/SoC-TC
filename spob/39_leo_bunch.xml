@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="39 Leo Bunch">
+  <pos x="-6889.726758" y="3378.616006"/>
+  <GFX>
+    <space>asteroids-001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Miner</faction>
+    <value>50.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>50</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

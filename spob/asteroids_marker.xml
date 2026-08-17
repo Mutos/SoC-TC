@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Asteroids Marker">
- <pos x="-3674.019993" y="4020.123325"/>
- <GFX>
-  <space>jumpbuoy.png</space>
-  <exterior>forest2.png</exterior>
- </GFX>
- <general>
-  <class>A</class>
-  <population>0</population>
-  <hide>0.250000</hide>
-  <services/>
- </general>
+  <pos x="0.0" y="0.0"/>
+  <GFX>
+    <space>jumpbuoy.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
 </spob>

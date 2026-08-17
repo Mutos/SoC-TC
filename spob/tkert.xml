@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="T'Ker'T">
+  <pos x="1810.386663" y="-1703.89333"/>
+  <GFX>
+    <space>Station-SCV002.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>250.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>167000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A large, joint K'Rinn-Rith trading station on the edge of K'Rinn Council and Arythem Clan territories.
+  </description>
+    <bar>A crowd of merchantbeings, mainly Rithai and K'Rinns, playing spiraxy and holochess</bar>
+  </general>
+</spob>

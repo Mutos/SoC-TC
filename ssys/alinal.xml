@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Alinal">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2002.664" y="1951.536"/>
+  <spobs>
+    <spob>Alinal Surveyor Outpost</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Alshain</spob>
+    <spob>Athanor</spob>
+  </spobs>
+  <jumps>
+    <jump target="BI 0116">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0133">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0157">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

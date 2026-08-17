@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Zeta 2 Reticuli">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1126.312" y="-1185.424"/>
+  <spobs>
+    <spob>Lithene</spob>
+    <spob>Nicophar</spob>
+    <spob>Nufar</spob>
+  </spobs>
+  <jumps>
+    <jump target="Alphecca">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 86">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Hermes">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nouvelle Mars">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Vikra">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

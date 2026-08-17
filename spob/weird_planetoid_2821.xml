@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Weird Planetoid #2821">
+  <pos x="-14839.411478" y="-2517.400161"/>
+  <GFX>
+    <space>moon-D02.png</space>
+    <exterior>asteroid.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+    </services>
+    <description>Seemingly an old Purgatorian base with corridors in all directions, carved through the asteroid's innards.
+  </description>
+  </general>
+</spob>

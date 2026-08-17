@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Daleth ud Eralth">
+  <pos x="-2884.194439" y="865.258332"/>
+  <GFX>
+    <space>002.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>50.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>70</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This Eralth class station has been built as a simple relay for travellers with short-ranged ships.</description>
+    <bar>Mostly Rithai with a few Humans, waiting for maintenance and refuelling on their ships.</bar>
+  </general>
+</spob>

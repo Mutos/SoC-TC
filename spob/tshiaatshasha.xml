@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tshiaa'Tshasha">
+  <pos x="1517.529997" y="-6469.469987"/>
+  <GFX>
+    <space>O03.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>250.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>100000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

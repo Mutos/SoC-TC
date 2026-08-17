@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Skamh">
+  <pos x="5380.131934" y="-868.956017"/>
+  <GFX>
+    <space>asteroid-D15.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Gham Garri</faction>
+    <value>150.0</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>7500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This carved-out asteroid is used by the Gham Garri as a staging ground for raids on the main Rith-Human roads between Irilia and Planetarist spaces.
+  </description>
+    <bar>Fiery-looking Gham Garri looking down on any non-Rith daring enough to enter the bar</bar>
+  </general>
+</spob>

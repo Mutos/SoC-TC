@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Uncharted 1382">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3466.76384" y="-4093.14624"/>
+  <spobs/>
+  <jumps>
+    <jump target="Thom Aareli-1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Uncharted 2052">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

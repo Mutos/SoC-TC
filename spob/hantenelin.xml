@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Han'Tenelin">
+  <pos x="2583.647534" y="5896.016168"/>
+  <GFX>
+    <space>Asteroid-Base-007c-Mining-Facility.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>150.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>24500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station is one of the farthest outposts of the K'Rinn Council on the route to the Sshaad and Human Spheres. It acts as a border station between Council space and respectively the Baartish and Hoshi no Hekka.
+  </description>
+    <bar>Mostly K'Rinns and some Humans and Sshaads Spacers, chatting at the bar.</bar>
+  </general>
+</spob>

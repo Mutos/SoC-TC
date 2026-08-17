@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wayne's World">
+  <pos x="-2107.680551" y="1397.724997"/>
+  <GFX>
+    <space>M01.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Alliance</faction>
+    <value>250.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>25000000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

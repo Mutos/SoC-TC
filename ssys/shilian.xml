@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Shilian">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3815.336" y="1192.944"/>
+  <spobs>
+    <spob>Shilian</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shiren</spob>
+  </spobs>
+  <jumps>
+    <jump target="IC 0032">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0034">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0035">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

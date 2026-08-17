@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nalirith">
+  <pos x="4057.395992" y="-1629.347997"/>
+  <GFX>
+    <space>Planet-010-farmland.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>100.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>250000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

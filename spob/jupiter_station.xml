@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Jupiter Station">
- <pos x="3809.736307" y="27056.730199"/>
- <GFX>
-  <space>station-commerce.png</space>
-  <exterior>station05.png</exterior>
- </GFX>
- <presence>
-  <faction>Core League</faction>
-  <base>180.000000</base>
-  <bonus>0.000000</bonus>
-  <range>3</range>
- </presence>
- <general>
-  <class>A</class>
-  <population>564000</population>
-  <hide>0.250000</hide>
-  <services>
-   <land/>
-   <refuel/>
-   <bar/>
-   <missions/>
-   <commodity/>
-   <outfits/>
-   <shipyard/>
-  </services>
-  <description>Jupiter Station is one of the main trade hubs in Sol, humankind's cradle system.
+  <pos x="3809.736307" y="27056.730199"/>
+  <GFX>
+    <space>station-commerce.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>180.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>564000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Jupiter Station is one of the main trade hubs in Sol, humankind's cradle system.
 It is thus a place of influence in the Human Sphere.
   </description>
-  <bar>An undending flux of spacers and gravs, mainly merchants.</bar>
- </general>
- <tech/>
+    <bar>An undending flux of spacers and gravs, mainly merchants.</bar>
+  </general>
 </spob>

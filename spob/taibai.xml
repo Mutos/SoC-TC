@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Taibai">
+  <pos x="-4764.729401" y="-3825.856561"/>
+  <GFX>
+    <space>I06.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Virtual Irmothem Area">
+  <pos x="None" y="None"/>
+  <presence>
+    <faction>Irmothem Clan</faction>
+    <value>550.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>None</class>
+    <population>0</population>
+    <hide>0.0</hide>
+    </services>
+  </general>
+</spob>

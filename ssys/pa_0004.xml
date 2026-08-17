@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PA 0004">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1004.304" y="-1468.912"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gl 86">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0017">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Spider's Web">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Theta 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Theta 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Iri 0099">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2752.93024" y="-2109.264"/>
+  <spobs/>
+  <jumps>
+    <jump target="Iri 0097">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0104">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irilia-8">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Mathdrom">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

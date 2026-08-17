@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sigma 14">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="309.4" y="2357.616"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ari Sshiin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 15">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 16">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 37">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 9">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

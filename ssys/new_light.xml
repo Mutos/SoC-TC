@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="New Light">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="32.92" y="-2957.712"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>New Light</spob>
+  </spobs>
+  <jumps>
+    <jump target="RQL 0025">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0027">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0029">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

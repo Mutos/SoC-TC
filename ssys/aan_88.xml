@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aan 88">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-7098.12128" y="-1747.35168"/>
+  <spobs/>
+  <jumps>
+    <jump target="Aan 19">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Aan 28">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Uncharted 0821">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

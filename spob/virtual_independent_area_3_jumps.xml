@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Virtual Independent Area 3 Jumps">
+  <pos x="None" y="None"/>
+  <presence>
+    <faction>Independent</faction>
+    <value>30.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>None</class>
+    <population>0</population>
+    <hide>0.0</hide>
+    </services>
+  </general>
+</spob>

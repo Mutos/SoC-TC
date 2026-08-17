@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="BI 0091">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-4622.312" y="-1457.808"/>
+  <spobs/>
+  <jumps>
+    <jump target="BI 0008">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0090">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0110">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="T'Kell">
+  <pos x="5896.016168" y="-3179.873888"/>
+  <GFX>
+    <space>Outpost-KTiln.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ka'Ralt Secession</faction>
+    <value>180.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>15700</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station was built as soon as the jump tunnel leading to the Rith Core, unknown at the time of the Fringe Wars, was discovered.
+
+It is k'rinned with the elitemost pilots in the Secession fleet and always has a small anti-fleet force at the ready. It conducts routine patrols on the nearby frontier system, as part of a border agreement with the Kemae, in which every side tolerates the other's patrols.
+  </description>
+    <bar>Tense k'rinn-only patrol crews, regarding any non-k'rinn with defiance.</bar>
+  </general>
+</spob>

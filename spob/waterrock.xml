@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Waterrock">
+  <pos x="-1523.689571" y="-2252.410671"/>
+  <GFX>
+    <space>M07.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>250.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>28635400</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The yet-unnamed Colony 15 was the latest world settled by the Pupeteers at the time it accepted to enter an alliance for establishing trade relations with the other species, which was the beginning of the 13-Planets League. Other worlds refused that alliance and stayed independant. When the Red Quadrant League was founded, it gathered most of them, the remaining ones formed the Independant Stars.
+
+The planet's main ecosystems are made of forest lands, with only small oceans, deserts and polar caps, but an extensive network of underground rivers and lakes. The Pupeteers mainly settled the so-called "canyon areas", where large rivers flow on the surface and provide an easy access to the underground waterways.
+
+A discussion is under way to name the colony, with proposals in the line of "Canyon" or "Waterflow".
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

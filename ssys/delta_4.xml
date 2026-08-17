@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Delta 4">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1584.72" y="590.4"/>
+  <spobs/>
+  <jumps>
+    <jump target="Delta 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 14">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 8">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

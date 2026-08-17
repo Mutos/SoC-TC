@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="BI-Ary-Shc - 1 - 1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-371.432" y="1719.984"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary-ShC - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 13">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Erathan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Heart of the Long Link">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tsaahm Arythem">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

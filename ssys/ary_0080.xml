@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ary 0080">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="3156.38368" y="473.68128"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary 0077">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0082">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0084">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nurnae">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

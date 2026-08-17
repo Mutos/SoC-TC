@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dirnae">
+  <pos x="-1425.149496" y="-975.778033"/>
+  <GFX>
+    <space>M07.png</space>
+    <exterior>mining6.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irmothem Clan</faction>
+    <value>250.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>89000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Dirnae is currently under Skaraeformation by the Irmothem Clan, but have already some dome habitats.</description>
+    <bar>Prouds Arythem pionners devising about their future world.</bar>
+  </general>
+</spob>

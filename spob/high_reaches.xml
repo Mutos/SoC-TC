@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="High Reaches">
+  <pos x="-3049.306353" y="-3701.964906"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>gas.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>35759000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>High Reaches is a quite small planet orbiting a very spectacular red gas giant. Its exotic indigenous life, with very low biocompatibility with all other known lifeforms, is a very interesting subject for League scientists. And Pupeteers being what they are, science is a path that attracts many people. So, despite harsh living conditions, High Reaches study missions gather many candidates.
+  </description>
+    <bar>Many Pupeteer scientists, most of them biologists, gengineers and terraformers</bar>
+  </general>
+</spob>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="51 Pegasi">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2335.696" y="-229.536"/>
+  <spobs>
+    <spob>Dimidium</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0020">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0023">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0028">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

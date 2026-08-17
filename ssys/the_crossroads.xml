@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="The Crossroads">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="604.888" y="-4051.536"/>
+  <spobs>
+    <spob>Crossroads Relay</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="TPL 0071">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0074">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0080">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0081">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

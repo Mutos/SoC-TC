@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Anhui Habitat">
+  <pos x="-3278.614191" y="-3502.714456"/>
+  <GFX>
+    <space>station-sphere.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>68500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This small Bernal Sphere was a tentative settlement on the fringes of the Core League. it was used as a foothold during the 2233 attempt to create a mafia-state on the borders of the Human Sphere. Now it's just another habitat, more closely monitored than others by the Stellar Police.
+  </description>
+    <bar>Spacers and stationers alike.</bar>
+  </general>
+</spob>

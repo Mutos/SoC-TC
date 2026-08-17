@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="K'Til'n 0004">
+  <pos x="4215.361103" y="-3727.266659"/>
+  <GFX>
+    <space>Outpost-KTiln.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+    </services>
+    <description>(null)</description>
+  </general>
+</spob>

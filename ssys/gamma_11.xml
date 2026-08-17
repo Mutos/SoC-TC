@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gamma 11">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-2799.272" y="-1787.856"/>
+  <spobs/>
+  <jumps>
+    <jump target="Brinn">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gamma 10">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gamma 7">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

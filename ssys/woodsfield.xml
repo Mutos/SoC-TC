@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Woodsfield">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-435.64" y="-1055.712"/>
+  <spobs>
+    <spob>Amarynn</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Gl 48">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0058">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0111">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0112">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Scholzs Star">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

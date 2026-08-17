@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aniinal">
+  <pos x="-7105.632756" y="3222.635346"/>
+  <GFX>
+    <space>station-agriculture.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Candidate Systems</faction>
+    <value>100.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>100000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

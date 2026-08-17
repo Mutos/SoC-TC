@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Algol">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1977.0" y="-1609.0"/>
+  <spobs>
+    <spob>Parma Centrale</spob>
+  </spobs>
+  <jumps>
+    <jump target="Akai Jigoku (Gl 268)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 250 A">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

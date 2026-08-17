@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="IC 0053">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-4857.32" y="913.008"/>
+  <spobs/>
+  <jumps>
+    <jump target="Esh-Mal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0054">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0055">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0075">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KC-Ary - 2 - 2">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1491.352" y="671.088"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0132">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="JP 0007">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KC-Ary - 2 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Meg-Ur-K'ik">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-278.25824" y="108.17472"/>
+  <spobs/>
+  <jumps>
+    <jump target="33 G Librae">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="HnH-Ary - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ralith T'Kal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sector 52 (KT 52)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

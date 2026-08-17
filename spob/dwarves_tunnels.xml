@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dwarves' Tunnels">
+  <pos x="3050.590272" y="5121.293971"/>
+  <GFX>
+    <space>A03.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <presence>
+    <faction>HnH</faction>
+    <value>350.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>67000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This planetoid is by far ore-richer than many asteroids belts, and despite hellish conditions, its mining settlement is thriving.
+  </description>
+    <bar>Mostly Human miners dreaming aloud of their future wealth</bar>
+  </general>
+</spob>

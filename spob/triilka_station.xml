@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="T'Riil'Ka Station">
+  <pos x="-529.978981" y="-1126.205335"/>
+  <GFX>
+    <space>station-agriculture.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>500.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>78000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>An important station in the k'rinn expansion, that lead to the discovery of Irilia-12, alo known as KT-134 for the K'Rinns, and to the contact with the rith Irilia Clan.
+  </description>
+    <bar>A crowd of merchantbeings, mostly K'rinns and a few Rithai and Humans</bar>
+  </general>
+</spob>

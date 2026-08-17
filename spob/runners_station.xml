@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Runners' Station">
+  <pos x="-4504.821342" y="2053.668553"/>
+  <GFX>
+    <space>Station-SSY004.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>300.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>87700</population>
+    <hide>2.5</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station is a base for all smugglers, pirates, corsairs and blockade runners in the Human Sphere.
+
+It is of common knowledge, that almost every cargo can be traded there, albeit for a price that can greatly vary, and depends mostly on luck and random arrivals.
+  </description>
+    <bar>Mean-looking Spacers, mostly Humans, with a few Rithai and K'Rinns and an occassional Sshaad</bar>
+  </general>
+</spob>

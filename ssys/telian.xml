@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Telian">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-865.064" y="-1114.512"/>
+  <spobs>
+    <spob>Telian</spob>
+    <spob>Telian Zone</spob>
+  </spobs>
+  <jumps>
+    <jump target="Alphecca">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Fomalhaut">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Vega (Alpha Lyrae)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

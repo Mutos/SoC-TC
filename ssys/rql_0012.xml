@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RQL 0012">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-931.304" y="-2990.544"/>
+  <spobs/>
+  <jumps>
+    <jump target="Furlong Depth">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0010">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0011">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0015">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

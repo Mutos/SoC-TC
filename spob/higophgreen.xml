@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Higop'h-Green">
+  <pos x="-11517.046906" y="-4206.250006"/>
+  <GFX>
+    <space>Station-HQ-001-Blue.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>1.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

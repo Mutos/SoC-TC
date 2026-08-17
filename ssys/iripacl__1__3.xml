@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Iri-PA-CL - 1 - 3">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="1665.88" y="-1437.072"/>
+  <spobs/>
+  <jumps>
+    <jump target="Irilia-17">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Kadzyek Thurn">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Orkaria">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1911.08" y="-2371.92"/>
+  <spobs>
+    <spob>Enaiposha</spob>
+  </spobs>
+  <jumps>
+    <jump target="SC 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="SC 0013">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

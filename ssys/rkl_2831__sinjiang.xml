@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RkL 2831 - Sinjiang">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-266.976" y="-660.672"/>
+  <spobs>
+    <spob>Embruns</spob>
+    <spob>Vertigo</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Sinjiang Trading Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="Anel'f T'en">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Nouvelle-Hong-Kong">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA-KC - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-1 - Freiheit Turen">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

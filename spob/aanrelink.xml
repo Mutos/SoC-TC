@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aan-Relink">
+  <pos x="-9605.869037" y="7684.69523"/>
+  <GFX>
+    <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>400.0</value>
+    <range>8</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>125850</population>
+    <hide>2.5</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Another pirate base posing as an abandonned station, Aan-Relink lies near the Aan-route, but it has more hardships to overcome than Aan-Inod, because it has no link to another target zone.
+
+However, it is rumored that some nearby systems might have been purgatorian colonies millenia ago and still hold valuable remnants. This has prompted exploration expeditions, some of which never came back...
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

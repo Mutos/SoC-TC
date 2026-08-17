@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Savage Lands Border Station">
+  <pos x="3838.197215" y="4415.036102"/>
+  <GFX>
+    <space>Outpost-PurrSphere-003-Military-100px.png</space>
+    <exterior>Outpost-PurrSphere-003-Military-400px.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Red Quadrant League</faction>
+    <value>100.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>29500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>None</description>
+    <bar>None</bar>
+  </general>
+</spob>

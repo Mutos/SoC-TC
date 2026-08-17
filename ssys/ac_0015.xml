@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="AC 0015">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-517.664" y="385.336"/>
+  <spobs/>
+  <jumps>
+    <jump target="Errai">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Issun-T'Til'Ak">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

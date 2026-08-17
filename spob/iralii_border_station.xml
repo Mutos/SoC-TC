@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Iralii Border Station">
+  <pos x="3343.323682" y="-2973.555164"/>
+  <GFX>
+    <space>Asteroid-Base-007b-Mining-Facility.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Instrumentality Company</faction>
+    <value>300.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>21600</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This old mining outpost was hastily converted to a border station when the Corridor link between Rith and Sshaad Spheres was discovered. The coincidence of its name with the Irali spaceship class is a well-known joke among rithai Spacers.
+  </description>
+    <bar>Instrumentality Guard pilots and a mixed lot of sshaad and rith merchantbeings.</bar>
+  </general>
+</spob>

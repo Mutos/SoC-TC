@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Neel'Rilk Border Station">
+  <pos x="-2527.707344" y="-1526.379928"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ashioto Cluster</faction>
+    <value>350.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>13300</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Neel'Rilk controls the K'Rinn Council side of the Ashioto Cluster. Any ship passing through the system must dock at the station to be minutiously inspected.
+  </description>
+    <bar>A mixed lot of K'Rinns and Humans, mainly pilots and custom officers of the Ashioto Guard</bar>
+  </general>
+</spob>

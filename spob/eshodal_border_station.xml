@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eshodal Border Station">
+  <pos x="-7882.193506" y="955.246618"/>
+  <GFX>
+    <space>Station-SR001.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Shoden Clusters</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>287000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Entry to the Southern Shoden Cluster from Baartish space is guarded by this armed station, separated from Talshimaal Station by a disputed system.
+  </description>
+    <bar>Proud Shoden warriors and fighter pilots</bar>
+  </general>
+</spob>

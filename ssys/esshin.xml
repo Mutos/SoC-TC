@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Esshin">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-4717.352" y="-927.312"/>
+  <spobs>
+    <spob>Tshiaa'Shaan</spob>
+    <spob>K'Aareli</spob>
+    <spob>Tshiaa'Tshasha</spob>
+    <spob>Tshiaa'Han</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ub'Ul</spob>
+    <spob>I'An</spob>
+    <spob>Tshiaa'rsh</spob>
+    <spob>Ol'Gam</spob>
+    <spob>Tsch'Ishin</spob>
+    <spob>Aan'Tsch'</spob>
+  </spobs>
+  <jumps>
+    <jump target="Al'Fagal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ka'Rkara">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ram'Rit">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

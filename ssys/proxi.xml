@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Proxi">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2376.776" y="-139.632"/>
+  <spobs>
+    <spob>Proxi b</spob>
+    <spob>Proxi d</spob>
+    <spob>Proxi c</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0026">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CL 0033">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Rigil Kent">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Toliman">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

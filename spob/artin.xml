@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Artin">
+  <pos x="1656.184317" y="-4902.305578"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>200.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>125000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A trading station on a major meeting point in Irilia space.
+  </description>
+    <bar>Many Rithai and some Humans and K'Rinns, most of them merchants.</bar>
+  </general>
+</spob>

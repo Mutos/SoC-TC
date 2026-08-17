@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="H'Rkann">
+  <pos x="-4697.122742" y="1262.073789"/>
+  <GFX>
+    <space>M04.png</space>
+    <exterior>oceanic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>K'Rinn Council</faction>
+    <value>1000.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>924654000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>H'Rkann is home to the K'Rinn and Ha'Tinkar species. Only the former survived their encounter, however, and that is a strain on the essentially pacifist K'Rinns.
+
+H'Rkann is now the capitol world of the K'Rinn Council and as such, of 4/5 of K'Rinn space, the notable exception being the Ka'Ralt Secession.
+  </description>
+    <bar>Wealthy and powerful K'Rinns playing holochess and spiraxy, and discussing with spacers and tradesbeings of all species</bar>
+  </general>
+</spob>

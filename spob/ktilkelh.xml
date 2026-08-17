@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="K'Tilk'Elh">
+  <pos x="-1523.689571" y="-4372.326596"/>
+  <GFX>
+    <space>M09.png</space>
+    <exterior>snow.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ka'Ralt Secession</faction>
+    <value>450.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>768000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A snowy world, recently settled by the Secession. There are discussions going on with the Rithai Kemae for allowing Rithai settlers on parts of the planet, where they would be able to thrive far easier than K'Rinns. That would be the first Ka'Raltian co-colony.
+  </description>
+    <bar>A mixed crowd of mainly K'Rinns and some Rithai, along with Spacers of diverse species</bar>
+  </general>
+</spob>

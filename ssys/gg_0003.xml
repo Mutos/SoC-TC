@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GG 0003">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1377.88" y="-3125.904"/>
+  <spobs/>
+  <jumps>
+    <jump target="GG 0002">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gham Dromae">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0231">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0240">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

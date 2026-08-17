@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aimaa">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3761.768" y="-108.24"/>
+  <spobs>
+    <spob>Eraan'tsh</spob>
+    <spob>Ets'aalin</spob>
+    <spob>Aimaa</spob>
+    <spob>Oreel</spob>
+    <spob>Eraanol</spob>
+    <spob>Hiini</spob>
+    <spob>Anil'haan</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="BI 0050">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0051">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0054">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0055">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

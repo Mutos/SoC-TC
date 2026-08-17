@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Uncharted 2611">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3780.776" y="-3393.168"/>
+  <spobs/>
+  <jumps>
+    <jump target="Al'Taas">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thom Aareli-2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

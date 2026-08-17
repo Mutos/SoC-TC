@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 86">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1050.776" y="-1355.36"/>
+  <spobs>
+    <spob>Icarus</spob>
+  </spobs>
+  <jumps>
+    <jump target="Alphecca">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0004">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Theta 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Zeta 2 Reticuli">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

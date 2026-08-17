@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ary 0061">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2987.8" y="-476.304"/>
+  <spobs/>
+  <jumps>
+    <jump target="Arnuil Orm Arythem">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0059">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0062">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

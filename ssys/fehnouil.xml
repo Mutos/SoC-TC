@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Fehnouil">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2870.296" y="-1442.256"/>
+  <spobs>
+    <spob>Nalirith</spob>
+  </spobs>
+  <jumps>
+    <jump target="Drom">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Norma">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

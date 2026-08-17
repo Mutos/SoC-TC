@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Darius-Twin">
+  <pos x="3088.465866" y="-2919.131287"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ashioto Cluster</faction>
+    <value>0.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

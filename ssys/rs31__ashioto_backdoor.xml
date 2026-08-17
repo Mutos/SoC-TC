@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RS-3.1 - Ashioto Backdoor">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-990.056" y="24.816"/>
+  <spobs>
+    <spob>Neufreistadt</spob>
+    <spob>Raumhansa</spob>
+  </spobs>
+  <jumps>
+    <jump target="Backdoor">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-3 - Hochbergspitze">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

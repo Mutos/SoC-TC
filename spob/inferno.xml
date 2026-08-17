@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Inferno">
+  <pos x="7287.210994" y="5564.779304"/>
+  <GFX>
+    <space>K03.png</space>
+    <exterior>mining3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Alliance</faction>
+    <value>150.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>3860800</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Inferno is a small planetoid orbiting Hades, a gas giant. Its crust is rich in the mix of precious ores rithai miners call tilkath. As such, it is exploited by a Human-Rith concern.
+  </description>
+    <bar>A dull place populated by miners, mainly Rithai and Humans</bar>
+  </general>
+</spob>

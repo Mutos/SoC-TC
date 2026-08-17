@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Delta 2">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1893.512" y="552.144"/>
+  <spobs>
+    <spob>Delta 2 C</spob>
+    <spob>Delta 2 B</spob>
+    <spob>Delta 2 A</spob>
+    <spob>Delta 2 D</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0051">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Crossover">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 9">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-7 - Delta Lock">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

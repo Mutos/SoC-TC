@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fort Asdrubal">
+  <pos x="-3412.046393" y="5750.639989"/>
+  <GFX>
+    <space>001.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Purple Trail</faction>
+    <value>200.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>25000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gala'as">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3914.984" y="-1109.328"/>
+  <spobs>
+    <spob>Chi'chim</spob>
+    <spob>Och'am</spob>
+    <spob>Gala'as Border Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="Toba'al">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tsaahm E'gam">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Iri 0120 (KT 76)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1166.488" y="-403.728"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ek'Dal">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0119 (KT 38)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irilia-12 (KT-134)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

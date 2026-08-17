@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="TPL 0206">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="1621.15936" y="-5066.5632"/>
+  <spobs/>
+  <jumps>
+    <jump target="Roaming Herds">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0207">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Uncharted 1570">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

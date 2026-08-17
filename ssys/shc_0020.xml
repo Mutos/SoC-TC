@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="ShC 0020">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3274.472" y="111.216"/>
+  <spobs/>
+  <jumps>
+    <jump target="ShC 0015">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="ShC 0023">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="ShC 0039">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

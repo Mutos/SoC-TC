@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Duran">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2894.488" y="-1241.808"/>
+  <spobs>
+    <spob>Duran-Duran</spob>
+  </spobs>
+  <jumps>
+    <jump target="Drom">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Hythin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

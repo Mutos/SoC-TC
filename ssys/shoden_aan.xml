@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Shoden Aan">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-3457.64" y="188.976"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shoden Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="ShC 0013">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="ShC 0016">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

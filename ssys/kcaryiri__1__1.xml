@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KC-Ary-Iri - 1 - 1">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1605.4" y="-267.216"/>
+  <spobs/>
+  <jumps>
+    <jump target="Irilia-12 (KT-134)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KC-Ary-Iri - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 106">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

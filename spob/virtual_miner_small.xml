@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Virtual Miner Small">
+  <pos x="None" y="None"/>
+  <presence>
+    <faction>Miner</faction>
+    <value>80.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>None</class>
+    <population>0</population>
+    <hide>0.0</hide>
+    </services>
+  </general>
+</spob>

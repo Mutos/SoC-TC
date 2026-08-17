@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Carnright">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-2945.384" y="-1035.752"/>
+  <spobs>
+    <spob>Wotan</spob>
+    <spob>Carnright High Spaceyard</spob>
+  </spobs>
+  <jumps>
+    <jump target="Cartel">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0004">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Torii T'Kal Station">
+  <pos x="1650.646663" y="-9051.933316"/>
+  <GFX>
+    <space>station-sphere.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Ashioto Cluster</faction>
+    <value>500.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

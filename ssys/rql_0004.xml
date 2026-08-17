@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RQL 0004">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1432.424" y="-3061.392"/>
+  <spobs/>
+  <jumps>
+    <jump target="RQL 0006">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

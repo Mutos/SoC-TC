@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aan-Lales Border Station">
+  <pos x="-3588.399353" y="-5612.624629"/>
+  <GFX>
+    <space>Asteroid-Base-007a-Mining-Facility.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Instrumentality Company</faction>
+    <value>550.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>250340</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This Border Station was built when the route to the Candidate Systems was discovered, to serve as a trade outpost as well as a military deterrent.
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

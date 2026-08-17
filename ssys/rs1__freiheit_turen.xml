@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RS-1 - Freiheit Turen">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-499.88" y="-486.096"/>
+  <spobs>
+    <spob>Freiheit Tueren</spob>
+  </spobs>
+  <jumps>
+    <jump target="KT 93">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-2.1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RS-2.2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 2831 - Sinjiang">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Thorn">
+  <pos x="-2218.611107" y="2311.053236"/>
+  <GFX>
+    <space>K03.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>250.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2500000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

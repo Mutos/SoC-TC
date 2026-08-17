@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Theta 3">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1257.896" y="-1468.176"/>
+  <spobs/>
+  <jumps>
+    <jump target="GJ 1001">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Theta 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Theta 4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

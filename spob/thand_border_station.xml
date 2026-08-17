@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Thand Border Station">
+  <pos x="-8374.985244" y="-4214.840403"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>200.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>67000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station guards entry of the Core League border with the aggressive Shoden Clusters, protecting the defenseless planet Banthory from their raids, and preventing incursions into the Ziffel, Villera and Nyotekundu sectors.
+  </description>
+    <bar>Core League pilots on leave between scramble duty, along with a few merchants</bar>
+  </general>
+</spob>

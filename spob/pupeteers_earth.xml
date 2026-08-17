@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pupeteers' Earth">
+  <pos x="2924.864525" y="-2559.201726"/>
+  <GFX>
+    <space>moon-M00.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>400.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2568278000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The Pupeteers' cradleworld is a lush world, which has been named with the local world meaning "soil". It is often designated as "Pupeteers' Earth" in whatever language the map you're reading is written - here, Terranglo. It is also colloquially known as "The Cradle", from its stellar system's most used name.
+
+The system itself is remarkable with its one-jump exit, that slowed the Pupeteers' initial access to the hyperspace technology, as its discovery occurred only centuries after the system was fully explored and colonized.
+  </description>
+    <bar>A crowd of well-off Pupeteers on bearers richly decorated from both gengineered and manufactured jewels, and an occasional non-Pupeteer visitor</bar>
+  </general>
+</spob>

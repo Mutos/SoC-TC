@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="HN Bootis">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1742.92" y="-579.064"/>
+  <spobs>
+    <spob>Agrios</spob>
+    <spob>Thoas</spob>
+  </spobs>
+  <jumps>
+    <jump target="Hope (Tau Ceti)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Little Sol">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Wolf 359">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

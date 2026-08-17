@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tsaahm Arythem">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-578.792" y="2010.288"/>
+  <spobs/>
+  <jumps>
+    <jump target="BI 0156">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0217">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI-Ary-Shc - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Heart of the Long Link">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

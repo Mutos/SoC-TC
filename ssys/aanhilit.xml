@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aan-Hilit">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-4034.792" y="121.584"/>
+  <spobs>
+    <spob>Aan-Hilit Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="BI 0056">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0061">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI-ShC - 2 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

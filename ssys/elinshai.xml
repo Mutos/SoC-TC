@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Elin-Shai">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-4648.232" y="1389.936"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eliinal</spob>
+    <spob>Eliinal Outpost</spob>
+  </spobs>
+  <jumps>
+    <jump target="IC 0066">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0082">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0083">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

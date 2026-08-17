@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ermel">
+  <pos x="-6179.872355" y="-4700.430619"/>
+  <GFX>
+    <space>moon-C01.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>2.0</hide>
+    </services>
+  </general>
+</spob>

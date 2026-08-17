@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Budiharto Asteroids Cluster">
+  <pos x="-19018.503333" y="-30696.017545"/>
+  <GFX>
+    <space>asteroids-001.png</space>
+    <exterior>asteroids-001.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Asteroids</faction>
+    <value>1e-06</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>Z</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

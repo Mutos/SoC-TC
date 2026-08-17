@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Wayne's World">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-300.75296" y="-1379.816"/>
+  <spobs>
+    <spob>Wayne's World</spob>
+  </spobs>
+  <jumps>
+    <jump target="PA 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA 0031">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Rith no Doa">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sora no Shikyuu">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thalin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

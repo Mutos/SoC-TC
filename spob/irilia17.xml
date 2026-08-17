@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irilia-17">
+  <pos x="-3540.352576" y="-4424.482052"/>
+  <GFX>
+    <space>G03.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>450.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>5483000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Irilia-17, also known as "The large Seed", after a legend of the original settlers, is one of the latest Irilia colonies, as the Clan slowed down its pace on settling after the Fringe Wars.
+
+Actually, it had previously been settled by the crew of an exploration ship that encountered a Navigator ship and got sucked into its artificial jump point. As the ship disappeared and the crew was declared as dead, their descendents were seen as Adrim by the colonists that settled the planet decades later.
+
+Other Rithai see the Adrimai as mere ghosts, but this doesn't prevent them to ruthlessly exploit the Adrimai' work. In the case of the early Irilia-17 colonists, only the Leinth tribe insisted that their relatives were still alive, and they nearly got banned from the Irilia clan for that.
+
+It was on Irilia-17 that the famous human xeno-ethnologist Sara Seynberg studied the mix of old sand-dwellers traditions and modern ways that was common at the time, near the end of the Fringe Wars, on newly settled Irilia worlds far from the Rith Core.
+
+The planet has since become a major centre for ex-Adrim "return to honorable life" and is now deeply linked to the Dri'h Kemae.
+  </description>
+    <bar>A large crowd of Irilia Rithai, with more than a few displaying dri'h marks</bar>
+  </general>
+</spob>

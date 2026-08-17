@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Thaim Krinai">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2806.36" y="-820.176"/>
+  <spobs/>
+  <jumps>
+    <jump target="Hath">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Hythin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0034">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sigma 4">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="174.616" y="1148.016"/>
+  <spobs/>
+  <jumps>
+    <jump target="Sigma 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 5">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Sigma 7">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

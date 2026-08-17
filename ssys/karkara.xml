@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ka'Rkara">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-4810.664" y="-1013.712"/>
+  <spobs/>
+  <jumps>
+    <jump target="BI 0087">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0173">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Esshin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

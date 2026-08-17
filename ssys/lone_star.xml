@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Lone Star">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3701.464" y="-3201.36"/>
+  <spobs>
+    <spob>Lone Star</spob>
+  </spobs>
+  <jumps>
+    <jump target="KR-TPL-IS - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR-TPL-IS - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR-TPL-IS - 1 - 4">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="The Corridor">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

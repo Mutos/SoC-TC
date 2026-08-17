@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Estiis Base">
+  <pos x="-7019.439029" y="437.559413"/>
+  <GFX>
+    <space>Station-HQ-001-Red.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>100.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>16200</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

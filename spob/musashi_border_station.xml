@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Musashi Border Station">
+  <pos x="-5339.969698" y="-1142.422134"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Alliance</faction>
+    <value>100.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>15700</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This station guards the Alliance space on its Irilia border. It has been built when the route to Irilia-14 was discovered. At the time, some investors gambled on the fact it would develop far beyond the military outpost the Alliance intended to build. But as Irilia-14 can hardly accomodate more population, the main trade remained of raw ores from its rich crust, and the station never developped.
+  </description>
+    <bar>Alliance space pilots and merchants, mainly Humans, along with some Irilia Rithai.</bar>
+  </general>
+</spob>

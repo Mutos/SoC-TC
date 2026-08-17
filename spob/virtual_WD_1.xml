@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Virtual WD Area 1">
+  <pos x="None" y="None"/>
+  <presence>
+    <faction>Wandering Domains</faction>
+    <value>450.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>None</class>
+    <population>0</population>
+    <hide>0.0</hide>
+    </services>
+  </general>
+</spob>

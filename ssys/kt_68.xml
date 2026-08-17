@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 68">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="325.456" y="407.928"/>
+  <spobs/>
+  <jumps>
+    <jump target="KT 114">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 184">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 62">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

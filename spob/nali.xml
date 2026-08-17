@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nali">
+  <pos x="2951.995194" y="3680.409593"/>
+  <GFX>
+    <space>Asteroid-Base-006-Split-Asteroid.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>0.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

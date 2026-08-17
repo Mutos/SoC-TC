@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="AG-18">
+  <pos x="5398.62036" y="2976.636568"/>
+  <GFX>
+    <space>station-sphere.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>1000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

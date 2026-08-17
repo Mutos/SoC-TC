@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Thenann Relay">
+  <pos x="-2773.263883" y="-1841.447219"/>
+  <GFX>
+    <space>Outpost-Halisht-002-Series.png</space>
+    <exterior>Outpost-Halisht-002-Series.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>50.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>40</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Among the earliest enhanced Halisht-class relays, this station was built to further exploration from Irilia-6.
+  </description>
+    <bar>A few spacepeople of varied origin.</bar>
+  </general>
+</spob>

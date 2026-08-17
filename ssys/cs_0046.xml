@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="CS 0046">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3848.168" y="-2520.528"/>
+  <spobs/>
+  <jumps>
+    <jump target="CS 0047">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ka'Alai">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tsaahm es Lalerin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

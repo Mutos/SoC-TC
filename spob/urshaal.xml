@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Urshaal">
+  <pos x="-2782.389652" y="-4173.584478"/>
+  <GFX>
+    <space>M07.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>250.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>786592000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This planet has been colonized at around the same time by Baartish and Arythem explorers. As both groups were only small subfactions of their respective States, they explored only the surroundings of their own landing zone and made no extensive survey of the whole world. So the colonies didn't come into contact before a few years. When this happenned, a rampant war began. To their Arythem neighbors, the Sshaads, young and adults alike, were no more than honorless marauders careless of other people's property, while to the Baartish people, the Rithai were invaders who lawlessly razzied their hard-working colonies.
+
+After 5 years of struggle, as Complementarism began to spread throughout Baartish space, some people proposed to establish experimental complementarist danebs near the Arythem settlements to prevent the youngpacks from assaulting the Rithai. This worked so well that the so-called "firewall villages" multiplied and soon came to a complete peace with their neighbors.
+
+When Baartish and Arythem began a large-scale influence struggle for the New Confines, as that sector of space was quickly named on the rith side, it became increasingly difficult for pacifists to be heard, despite their remarkable achievments. But with the Candidate Systems stepping in as mediators, the co-colonies jumped on the occasion and pushed for the final treaty to be concluded.
+
+Now the co-colonies, and Urshaal in particular, are examples of what can be done when three species work in peace. The planet is the Joint Peacekeepers Corps' main rear base, helping this Baartish-Arythem elite force to prevent any hostile faction like the Shodens or Gham Garri to try refiring the old sshaad-rithai conflict.
+  </description>
+    <bar>The bar's sign shows Rithai, Sshaads and Shapeshifters drinking in unison, and that's just what you'll find inside !</bar>
+  </general>
+</spob>

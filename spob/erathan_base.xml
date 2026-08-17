@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Erathan Base">
+  <pos x="-8296.256624" y="-10406.204773"/>
+  <GFX>
+    <space>asteroid-D16.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Gham Garri</faction>
+    <value>250.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>66300</population>
+    <hide>2.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Erathan Base has been secretely built by the Gham Garri to prevent Adrim exfiltration to the Baartish Intersystem. It is a lonely stealth station with a fanatic crew of patrol pilots, eager to wait for days hidden in the Long Link systems until they detect a would-be "ghost ship" to ambush.
+  </description>
+    <bar>Only Gham Garri people, mostly pilots, eager to fight any non-Rith who would try showing up</bar>
+  </general>
+</spob>

@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spob name="Saturn">
- <pos x="-37798.726620" y="-29591.413228"/>
- <GFX>
-  <space>I07.png</space>
-  <exterior>mining5.png</exterior>
- </GFX>
- <general>
-  <class>A</class>
-  <population>0</population>
-  <hide>0.250000</hide>
-  <services/>
- </general>
+  <pos x="-37798.72662" y="-29591.413228"/>
+  <GFX>
+    <space>I07.png</space>
+    <exterior>mining5.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
 </spob>

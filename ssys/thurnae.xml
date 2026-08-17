@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Thurnae">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2714.776" y="308.208"/>
+  <spobs>
+    <spob>Thorn</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ary 0018">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0029">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0073">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

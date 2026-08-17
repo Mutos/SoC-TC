@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GJ 3500">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1866.17248" y="-1164.58688"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Virtual Pirate Small</spob>
+  </spobs>
+  <jumps>
+    <jump target="Eden (Gl 304)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Gl 293.2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

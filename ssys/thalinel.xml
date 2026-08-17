@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Thalinel">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1268.44" y="-1808.592"/>
+  <spobs>
+    <spob>Thalinel</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Thalinel Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0010">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0024">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

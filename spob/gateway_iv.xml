@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gateway IV">
+  <pos x="-2898.322554" y="1886.209916"/>
+  <GFX>
+    <space>Planet-001-earthlikeWarm.png</space>
+    <exterior>desertic4.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>400.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>120000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

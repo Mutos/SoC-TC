@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Arythem-5">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2258.584" y="531.12"/>
+  <spobs>
+    <spob>Arythem-5 EWS Buoy #1</spob>
+    <spob>Arythem-5</spob>
+    <spob>Arythem-5 EWS Buoy #3</spob>
+    <spob>Themia</spob>
+    <spob>Karnil Quarantine Station</spob>
+    <spob>Arythem-5 EWS Buoy #2</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Ary 0011">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0012">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0014">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ary 0015">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

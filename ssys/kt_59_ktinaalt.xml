@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 59 (K'Tinaalt)">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3.456" y="-224.64"/>
+  <spobs/>
+  <jumps>
+    <jump target="KT 258">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 47">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 3481">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RkL 3521">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

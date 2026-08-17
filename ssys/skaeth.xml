@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Skaeth">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1141.144" y="-3142.032"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Skaeth Border Station</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0242">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri-TPL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri-TPL - 1 - 2">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

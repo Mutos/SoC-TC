@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Child of the Eclipse">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="864.088" y="-3241.104"/>
+  <spobs>
+    <spob>Child of the Eclipse</spob>
+    <spob>Freedom Portal</spob>
+    <spob>SkyRuler</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri-TPL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="TPL 0049">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

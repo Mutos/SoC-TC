@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Higgez">
+  <pos x="-5636.692122" y="-597.427599"/>
+  <GFX>
+    <space>Station-SSY004.png</space>
+    <exterior>desertic4.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Traders</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>200</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

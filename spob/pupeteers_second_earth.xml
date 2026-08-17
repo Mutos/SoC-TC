@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Pupeteers' Second Earth">
+  <pos x="3165.51524" y="-1077.450109"/>
+  <GFX>
+    <space>moon-M03.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Thirteen Planets League</faction>
+    <value>400.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2500000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gates of Thunder">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-1226.6" y="-203.2"/>
+  <spobs/>
+  <jumps>
+    <jump target="Altair">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Broken Stair">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Van Maanen">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

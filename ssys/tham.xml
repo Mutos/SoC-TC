@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tham">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1892.824" y="-2564.304"/>
+  <spobs>
+    <spob>Tham Relay</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tham</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0068">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0072">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri 0073">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

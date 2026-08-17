@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 185">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-932.888" y="-537.744"/>
+  <spobs/>
+  <jumps>
+    <jump target="GJ 9209">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Iri-CL - 1 - 1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="StH5">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

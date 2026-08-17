@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Oliirth">
+  <pos x="-6108.524976" y="2444.081588"/>
+  <GFX>
+    <space>I06.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.1</hide>
+    </services>
+  </general>
+</spob>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rencard Station">
+  <pos x="2216.253897" y="-4470.71563"/>
+  <GFX>
+    <space>Station-SCV002.png</space>
+    <exterior>station01.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>350.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>2.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Rencard lives by its name : it's the place where Spacers meet...
+
+It has been built by an association of nomad spacers in the asteroids belt of a remote system, near the beginning of the Planetarist Wars. During the war, more jump points were discovered in the system, but the station was not a major concern for the Policorpos. In fact, it gave them a "grey zone" where smuggled items could be exchanged and secret negociations with their opponents could be conducted.
+
+The station thus thrived on the war and after it ended, its reputation was well established, so it kept to attract Spacers from all the Human Sphere, then gradually from the K'Rinn and Rith Spheres.
+  </description>
+    <bar>A few Spacers stand at the bar, most of them Humans, with a fair number of K'Rinns and Rithai and a few occasional visitor from the other species</bar>
+  </general>
+</spob>

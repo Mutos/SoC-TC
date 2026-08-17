@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Melaneth Cache">
+  <pos x="2839.822217" y="5812.7611"/>
+  <GFX>
+    <space>asteroid-D42.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>15</population>
+    <hide>5.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This carved-out asteroid is a hidden smuggling cache. Everything can be bought and sold there, for those who know it.
+  </description>
+    <bar>A few captains and crewpeople, mainly Rithai with markings of many Clans and Tribes.</bar>
+  </general>
+</spob>

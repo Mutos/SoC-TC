@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Halisht">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="2355.352" y="-1729.104"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Halisht</spob>
+    <spob>Halisht Relay</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0102">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Irilia-1">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Norma">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

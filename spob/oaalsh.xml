@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Oaalsh">
+  <pos x="5038.096055" y="1818.028546"/>
+  <GFX>
+    <space>moon-H02.png</space>
+    <exterior>desertic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>2.0</hide>
+    </services>
+  </general>
+</spob>

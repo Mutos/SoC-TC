@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Morpheus Station">
+  <pos x="5508.44161" y="5536.1989"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteous Resistance</faction>
+    <value>500.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>25650</population>
+    <hide>1.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>This remote station is the first Resistance settlement outside Tshiaa'rint.
+
+It has been founded by a Hive that rebelled against the sshaad oppression after witnessing the destruction of nearby complementarist Hives.
+
+It is secretly conducting an ambitious exploration program to find a sshaads-free colonizable planet to terraform into a new capitol-world for an autonomous Shapeshifters State.
+  </description>
+    <bar>Lots of Shapeshifters from diverse Hives, nearly all of them in their natural shape</bar>
+  </general>
+</spob>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Virtual Pirate Heavy">
+  <pos x="None" y="None"/>
+  <presence>
+    <faction>Pirate</faction>
+    <value>600.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>None</class>
+    <population>0</population>
+    <hide>0.0</hide>
+    </services>
+  </general>
+</spob>

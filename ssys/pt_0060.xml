@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PT 0060">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3457.64" y="-728.592"/>
+  <spobs/>
+  <jumps>
+    <jump target="Asdrubal's Stronghold">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PT 0044">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Utopia">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

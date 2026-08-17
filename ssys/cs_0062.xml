@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="CS 0062">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3141.416" y="-3498.576"/>
+  <spobs/>
+  <jumps>
+    <jump target="CS 0061">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CS 0063">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CS 0064">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

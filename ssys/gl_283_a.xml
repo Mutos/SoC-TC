@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GL 283 A">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1834.63776" y="-1543.42656"/>
+  <spobs/>
+  <jumps>
+    <jump target="Akai Jigoku (Gl 268)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Dwarves' Tunnels (Gl 261)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Eldorado">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

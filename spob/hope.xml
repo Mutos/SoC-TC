@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hope">
+  <pos x="-5167.295068" y="1656.184317"/>
+  <GFX>
+    <space>M06.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <value>350.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>10000000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Hope is one of the First Human Colonies, also knows as Sublight Colonies in the Human Sphere. When the Core League seceded from the Planetarist Alliance, a referendum was organised on Hope and decided, with a small majority, in favor of secession.
+
+Since then, the planet, which is roughly at the centre of the Human Sphere, has remained a link between the League, Alliance and Hoshi no Hekka. Recently, some major businesses have elected to move their headquarters away from Earth, Mars or Sanctuary. Some relocated on Hope, which is now the rising planet in the Human Sphere.
+  </description>
+    <bar>The bar is crowded by a mix of wealthy patrons, corpsuits and a few spacers, most of them human, but with some K'rinns and Rithai</bar>
+  </general>
+</spob>

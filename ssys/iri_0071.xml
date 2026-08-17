@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Iri 0071">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1870.072" y="-2696.496"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0072">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

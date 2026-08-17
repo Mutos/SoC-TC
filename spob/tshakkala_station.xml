@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tshak'kala Station">
+  <pos x="4233.849529" y="-406.74537"/>
+  <GFX>
+    <space>Station-001-Comm-Hub.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Joint Peacekeepers Corps</faction>
+    <value>250.0</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>25000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

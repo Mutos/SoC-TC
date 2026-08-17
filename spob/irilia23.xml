@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irilia-23">
+  <pos x="-1737.912034" y="-2052.215274"/>
+  <GFX>
+    <space>H03.png</space>
+    <exterior>mining6.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>100.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>100000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

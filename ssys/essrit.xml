@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ess'Rit">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-5033.576" y="-490.128"/>
+  <spobs/>
+  <jumps>
+    <jump target="BI 0188">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0190">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="BI 0191">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

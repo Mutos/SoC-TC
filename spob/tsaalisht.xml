@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tsaa'lisht">
+  <pos x="1058.117758" y="-2668.296955"/>
+  <GFX>
+    <space>moon-M06.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>600.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>258964000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>As most sshaad planets, Tsaa'lisht is a forest world. It has been colonised by the Hash'riss and as such, has also been occupied by the Shodens before the beginning of the Complementarist Splitup.
+
+When Baartish decided to side with the Complementarists, Tsaa'lisht was second to be taken back. Learning from the lessons of the Ishaaln Tragedy, the Baartish forces took over the planet in one fast move, preventing the Shodens from reacting.
+
+Now, Tsaa'lisht is a complementarist model world, living for the most part off the agricultural wealth of a highly biocompatible indigenous life and also harboring a small mining industry and some touristic vistas.
+  </description>
+    <bar>The bar is filled with Sshaad and Shapeshifter patrons, with occasionnal off-planet visitors</bar>
+  </general>
+</spob>

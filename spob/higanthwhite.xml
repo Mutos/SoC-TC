@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Higanth-White">
+  <pos x="-2177.014526" y="-1916.961596"/>
+  <GFX>
+    <space>Shield-Emitter-001.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>10000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+</spob>

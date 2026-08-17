@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Eralath Border Station">
+  <pos x="3172.613883" y="-8874.444427"/>
+  <GFX>
+    <space>Asteroid-Base-001-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irmothem Clan</faction>
+    <value>350.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>52000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A border station built on the recently discovered jump route from Irmothem to the Independant Stars.</description>
+    <bar>A few rith and pupeteer spacers, mainly pilots and merchants.</bar>
+  </general>
+</spob>

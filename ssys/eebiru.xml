@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eebiru">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="3145.048" y="-1431.888"/>
+  <spobs/>
+  <jumps>
+    <jump target="Malgari">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Otheli">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ythin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

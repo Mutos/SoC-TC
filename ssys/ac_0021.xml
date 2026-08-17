@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="AC 0021">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-701.48" y="914.736"/>
+  <spobs/>
+  <jumps>
+    <jump target="Delta 10">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Delta 11">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Persephone's Bane">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

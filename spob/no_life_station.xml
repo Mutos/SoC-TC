@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="No Life Station">
+  <pos x="3997.197678" y="-1815.563423"/>
+  <GFX>
+    <space>Asteroid-Base-007a-Mining-Facility.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <value>50.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>5</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+    </services>
+    <description>New Life was a promising Colony established in the Ventose Planet, if it wasn't managed by the Better Worlds Company. Now its transit station remain empty, its "New Life" panel tagged with a big "No".
+In the early XXIII century, it has hosted some installations from the dreaded Hopper's Ogres, a branch of the Hopper Connexion, who start to house an Human farm on the abandonned domes in the planetary surface.
+They where countered by the "Furet" squad and the help of some hired mercenaries, who exfiltred the poors victims of the farm.
+The derelict station house now sometimes somes squatters, spacer or smugglers in its abandonned halls.</description>
+  </general>
+</spob>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="T'Kell's Reaches">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="1963.6" y="-912.264"/>
+  <spobs>
+    <spob>T'Kell Outpost</spob>
+  </spobs>
+  <jumps>
+    <jump target="KR 0017">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0019">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0020">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KR 0028">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

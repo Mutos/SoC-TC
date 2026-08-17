@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kadzyek Thurn">
+  <pos x="2987.137994" y="-5182.675545"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>120.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>467000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Thurnae means "Rewards". The station was built by an independant rith faction that preyed on space traffic : basically space pirates. It was later handed over to the Irilia Clan. It is now an outpost between the Rith and Human Spheres.</description>
+    <bar>A crowd of Rithai and Humans Spacers, and a few Rithai officials displaying emblems of Irilia subclans.</bar>
+  </general>
+</spob>

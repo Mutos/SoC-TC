@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Aan-in-Mali">
+  <pos x="2108.567996" y="-3130.903994"/>
+  <GFX>
+    <space>G03.png</space>
+    <exterior>desertic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Instrumentality Company</faction>
+    <value>550.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>28365000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A relatively new colony.
+  </description>
+    <bar>None</bar>
+  </general>
+</spob>

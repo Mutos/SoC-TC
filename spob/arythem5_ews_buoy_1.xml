@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Arythem-5 EWS Buoy #1">
+  <pos x="1716.9408" y="-694.24128"/>
+  <GFX>
+    <space>jumpbuoy.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>None</faction>
+    <value>100.0</value>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    </services>
+  </general>
+</spob>

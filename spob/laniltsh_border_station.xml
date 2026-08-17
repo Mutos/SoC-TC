@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lanilt'sh Border Station">
+  <pos x="1960.321178" y="-5547.902529"/>
+  <GFX>
+    <space>000.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>350.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>13300</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Lanilt'sh Border Station guards the entry into Baartish space from the Long Link, that network of interstate jump routes linking Instrumentality, Baartish and Shoden spaces on the Sshaad side with Arythem territory on the Rith Sphere.
+
+Its situation makes it also crucial as the link between main Baartish space and the Northern Cluster, a group of recently discovered systems linked by a dense network and hosting a few newly founded colonies.
+  </description>
+    <bar>A mainly sshaad crowd proudly displaying Baartish markings, and some Rithai visibly of Arythem allegiance</bar>
+  </general>
+</spob>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Drih Skarae">
+  <pos x="3616.336104" y="-3682.894437"/>
+  <GFX>
+    <space>Station-SCO004.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Adrimai</faction>
+    <value>300.0</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>341000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Orbiting the gas giant Irol, this large double-cylinder habitat is one of the Free Adrimai strongholds in the sector, and the first waypoint on the road from Irilia space to Child of the Eclipse. It protects the 6-jumps so-called "Road of Perils" to Skaeth Border Station, bordering on Gham Garri space, where, despite heavy patrols from both stations, Adrim exfiltration ships often get attacked.
+  </description>
+    <bar>Several Rithai, most of them Adrimai, and some Pupeteers</bar>
+  </general>
+</spob>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Shaeaku'">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3260.648" y="-2093.712"/>
+  <spobs>
+    <spob>Ol'Gash</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="'Ha'Rtiish">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="CS 0018">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

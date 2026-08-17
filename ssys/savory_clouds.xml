@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Savory Clouds">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-466.76" y="-2942.448"/>
+  <spobs>
+    <spob>Savory Clouds</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Divers' Beach</spob>
+  </spobs>
+  <jumps>
+    <jump target="RQL 0023">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0025">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="RQL 0036">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

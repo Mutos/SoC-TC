@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Sholash">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-3917.288" y="847.344"/>
+  <spobs>
+    <spob>Linaal</spob>
+    <spob>Ha'Rsshiinan Base</spob>
+    <spob>Eresh</spob>
+    <spob>Sshain al Linaal</spob>
+    <spob>Oshiin</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+  </spobs>
+  <jumps>
+    <jump target="IC 0006">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0014">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="IC 0021">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ud Nurn">
+  <pos x="4102.576259" y="-3170.125754"/>
+  <GFX>
+    <space>moon-M01.png</space>
+    <exterior>aquatic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Arythem Clan</faction>
+    <value>200.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>128451000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>The second Arythem planetary colony is a water-covered moon, in the line of the first. It has been settled by sublight ships and civilisation was maintained by regular support convoys from the homeworld.
+
+The three planets Hathil, Ud Nurn and Eresh are called "The three fingers".
+
+When hyperspace was explored, the colonists waited for decades for their system to be brought back into the network of space routes. That day was very long to come, for Ud Nurn lies very far from other Arythem colonies on the hyperspace network.
+
+It is known for the legend of Kaharagh, a Rockstealer that alledgedly swallowed whole the escape capsule from a wrecked Arythem exploration ship's, including the four surviving crewrithai and spit it a few weeks later in Ud Nurn orbit, to be recovered by the Ud Nurn orbital patrol.
+
+Still now, while the planet is naturally a rich agricultural world thanks to its flourishing ecosystems, its late hyperspace linking and its isolated position in the jump network had always kept it at a somewhat backyard status.
+  </description>
+    <bar>Typical marine-dweller local Arythem, with only a few visitors from off-planet</bar>
+  </general>
+</spob>

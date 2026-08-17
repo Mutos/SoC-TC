@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Oshiinal">
+  <pos x="2512.596244" y="-1800.671701"/>
+  <GFX>
+    <space>moon-M01.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <value>300.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>195649000</population>
+    <hide>2.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>Oshiinal is a mainly oceanic moon, with a few rich land masses and an ecosystem 80% biocompatible with esshiinan life.
+
+It was initially colonized to become a seafood source for the Baartish. Then, numerous jump routes were discovered, linking the new colony to other important planets. So, Oshiinal also became a de facto trade nexus, far wealthier than expected by the first settlers. It is now becoming a resort for the most richest people in the entire Baartish.
+  </description>
+    <bar>The patrons at the bar are mainly so-called "golden beaks" Sshaads : insanely well-off master-merchants</bar>
+  </general>
+</spob>

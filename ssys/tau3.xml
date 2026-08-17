@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tau3">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="-1405.8" y="-710.04"/>
+  <spobs/>
+  <jumps>
+    <jump target="New Earth (Eta Cassiopeia)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Peschinka">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Teegarden">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Tripoint">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

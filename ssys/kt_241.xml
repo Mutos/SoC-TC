@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 241">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>0.0<interference>
+  </general>
+  <pos x="-164.072" y="-37.392"/>
+  <spobs/>
+  <jumps>
+    <jump target="KT 253">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="KT 75">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="T'Kilnath (KT 242)">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

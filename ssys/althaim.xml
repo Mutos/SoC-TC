@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Althaim">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="299.536" y="-1427.208"/>
+  <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Freeport 1</spob>
+  </spobs>
+  <jumps>
+    <jump target="Iri 0001">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="PA-Iri - 1 - 3">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Rith no Doa">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thalin">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Thim Humae">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>

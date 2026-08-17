@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Irilia-15">
+  <pos x="-1004.207093" y="1240.72301"/>
+  <GFX>
+    <space>L00.png</space>
+    <exterior>desertic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Irilia Clan</faction>
+    <value>250.0</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>1286350000</population>
+    <hide>1.0</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>One of the recent Irilia colonies, Irilia-15 is a desert world quite akin to Irilia itself, with a remarkable well-moonedness. Thus, its three moons have been named for their Great Irilia counterparts.
+
+Still quite a backyards place, it nonetheless keeps attracting a growing pool of confident settlers, sure that a well-mooned planet such as this is a promise of fortune.
+  </description>
+    <bar>Eager settlers and hardened desert-dwelling natives, with quite a large number of Thiskai</bar>
+  </general>
+</spob>

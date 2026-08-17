@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Explorers' Cabin">
+  <pos x="-3407.78666" y="-8093.493317"/>
+  <GFX>
+    <space>002.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Red Quadrant League</faction>
+    <value>150.0</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>65000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>A small outpost for exploring the 3 recently discovered systems nearby.</description>
+    <bar>A small number of Spacers tending to their exploration ships</bar>
+  </general>
+</spob>

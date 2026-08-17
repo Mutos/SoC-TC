@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Norma Core Guard">
+  <pos x="6589.274987" y="7010.811097"/>
+  <GFX>
+    <space>station-fleetbase.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Rithai Kemae</faction>
+    <value>150.0</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>57600</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+    </services>
+    <description>None</description>
+    <bar>None</bar>
+  </general>
+</spob>

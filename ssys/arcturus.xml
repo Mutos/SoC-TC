@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Arcturus">
+  <general>
+    <radius>10000.0<radius>
+    <spacedust>400<spacedust>
+    <interference>100.0<interference>
+  </general>
+  <pos x="7.0" y="-2237.136"/>
+  <spobs/>
+  <jumps>
+    <jump target="PA 0076">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+    <jump target="Ulaan">
+      <autopos/>
+      <hide>1.250000</hide>
+    </jump>
+  </jumps>
+</ssys>
