@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A typical Irilia planet, mostly divided between sand deserts, tundras and forests, with small polar ice caps and oceans. Its wide biodiversity and rich ecosystems make it a prime provider of food for all the neighbouring sectors, and its high biocompatibility with all known lifeforms still enhanced this tendancy.
 
@@ -30,4 +30,18 @@ The drawback to this highly agricultural orientation is that the technological l
   </description>
     <bar>A varied crowd of all sentients, most of them somewhat linked to some agricultural concern</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

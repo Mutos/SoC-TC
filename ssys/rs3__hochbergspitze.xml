@@ -7,9 +7,9 @@
   </general>
   <pos x="-1047.08" y="-198.096"/>
   <spobs>
-    <spob>Fafnir</spob>
     <spob>Erinath Habitat</spob>
     <spob>Alaith</spob>
+    <spob>Fafnir</spob>
   </spobs>
   <jumps>
     <jump target="RS-2.1">

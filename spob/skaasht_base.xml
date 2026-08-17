@@ -22,10 +22,22 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This base was established by explorers, former survivors of the prison ship incident. They never found the purgatorian artefacts they were searching for, but established instead a smuggling route between Arythem and Baartish, going around the patrolled Long Link and the Joint Peacekeeper Corps.
   </description>
     <bar>Mostly sshaad and rithai Spacers, celebrating freedom and free traders with large gulps of various intoxicants, probably smuggled in by passing ships !</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

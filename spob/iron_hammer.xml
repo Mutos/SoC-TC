@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The latest station built by the Purple Trail, this asteroid platform guards the State's side of the jump to the Candidate Systems border, completing a cluster of small outposts already scattered in the system.
 
@@ -32,4 +32,13 @@ Its basic role is to protect the route from piracy, along with Alshiinal station
   </description>
     <bar>Mean-looking and proud Purple Guard and Candidate Systems pilots, along with some merchants and an occasionnal Shapeshifters group.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

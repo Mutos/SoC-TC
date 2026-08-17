@@ -7,8 +7,8 @@
   </general>
   <pos x="-5090.6" y="-358.8"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Tshiaa'rint</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0106">

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This planet is named after the ancient Toshic philosopher who discovered the law of natural selection. It has earned its name due to the ferocity of biological competition among its indigenous biosphere, split evenly between oceans and wood-covered lands.
 
@@ -32,4 +32,12 @@ Now the planet is, like the Instrumentality itself, in majority hostile to Compl
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

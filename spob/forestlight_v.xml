@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>ForestLight is a lush and varied world, of woodlands and oceans, great mountains and some deserts. It has long been settled by Pupeteers from the Cradle and was named for its bioluminescent woodlands.
 
@@ -34,4 +34,17 @@ Most creatures from ForestLight tend to have metallic hues in their skins, rangi
   </description>
     <bar>A large crowd of Pupeteers, Rithai and Humans, locals of all species standing out by their skin's metallic hues</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

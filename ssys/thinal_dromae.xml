@@ -7,10 +7,10 @@
   </general>
   <pos x="4238.872" y="-1768.848"/>
   <spobs>
-    <spob>Salinath</spob>
-    <spob>Ainal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Thinal</spob>
+    <spob>Salinath</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ainal</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0049">

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This small independent shipyard was originally a trading station that got bankrupt, and whose hulk was left rotting for years. It finally happened to be bought by a pair of spaceship mechanics, who had travelled some years around known space and gathered a small, but gifted crew around them.
 
@@ -32,4 +32,18 @@ Due to the many connections of the station's owners, it is always well-stocked i
   </description>
     <bar>The viewports show crafts being refitted and customized and the patrons are mainly Spacers of all species.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

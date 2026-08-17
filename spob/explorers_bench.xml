@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Orbiting a spectacular gas giant named The Eye, this aquarium station was once the main staging ground for exploration in the Independent Stars. Now that it's no more on the fringes of explored sectors, this role has waned somehow.
 
@@ -30,4 +30,12 @@ It is still a breeding station for marine-derived exploration ships, famous for 
   </description>
     <bar>Pupeteers on both ground and water bearers, along with a few other sentients, enjoying the station's vista on The Eye</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

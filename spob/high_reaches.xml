@@ -22,10 +22,16 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>High Reaches is a quite small planet orbiting a very spectacular red gas giant. Its exotic indigenous life, with very low biocompatibility with all other known lifeforms, is a very interesting subject for League scientists. And Pupeteers being what they are, science is a path that attracts many people. So, despite harsh living conditions, High Reaches study missions gather many candidates.
   </description>
     <bar>Many Pupeteer scientists, most of them biologists, gengineers and terraformers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

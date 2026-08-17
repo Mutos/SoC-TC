@@ -7,11 +7,11 @@
   </general>
   <pos x="-4275.56" y="-942.288"/>
   <spobs>
-    <spob>Eshiil-Inaal</spob>
-    <spob>Irselissh</spob>
     <spob>Baartish</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eshiil-Inaal</spob>
     <spob>Tshonaal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irselissh</spob>
   </spobs>
   <jumps>
     <jump target="BI 0023">

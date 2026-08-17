@@ -7,8 +7,8 @@
   </general>
   <pos x="-1980.424" y="-359.032"/>
   <spobs>
-    <spob>Luhman 16 B</spob>
     <spob>Freeport 2</spob>
+    <spob>Luhman 16 B</spob>
   </spobs>
   <jumps>
     <jump target="Argelanders Star">

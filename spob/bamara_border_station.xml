@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Bamara has been built as an outpost for epxloiting the Neufeld Asteroids Field. After a few months, seemingly sshaad ships jumped in from an uncharted jump point and an attempt to take over Bamara was repelled. A Core Navy Fleet visiting Nyotekundu was rerouted and the outpost was turned into a military base.
 
@@ -34,4 +34,14 @@ Ships willing to land on Bamara need a military accreditation from the Core Leag
   </description>
     <bar>Human pilots and merchants, the latter sometimes screening an occasional Sshaad partner from the former.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

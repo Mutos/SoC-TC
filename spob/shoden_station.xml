@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The Shoden were originally the weapon hand of other sshaad factions, like the Instrumentality Company and Baartish Intersystems. They took their name from their founding daneb in Tsiiar'sh, after which is also named their prime station.
 
@@ -34,4 +34,11 @@ No-one currently kows precisely what the Shodens are up to. Their space is open 
   </description>
     <bar>Most patrons here are Sshaads and look down on any other sentient who would dare to enter the bar</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

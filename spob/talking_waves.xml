@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Talking Waves took its name from its proteiform ocean life, that seems to pass from a shape to another with not much logic, and whose higher species are thought to be near-sentient.
 
@@ -30,4 +30,11 @@ The local searchers have formally requested the help of Shapeshifters to study t
   </description>
     <bar>Mainly researchers in biology and sentience, along with a few local people on bearers. With luck, you could spot a group of Shapeshifters</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+  </tech>
 </spob>

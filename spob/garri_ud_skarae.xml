@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The "Land of the Watchdogs" is the Gham Garri's main base, it controls the Gham Dromae system and a few adjacent systems.
 
@@ -30,4 +30,13 @@ From this base, the "Watchdogs of Honor" launch regular attacks on the Free Adri
   </description>
     <bar>You stand among fierce-looking Rithai, each of which would easily kill any being who would come in the path of the Gham Garri.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

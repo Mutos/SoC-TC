@@ -7,11 +7,11 @@
   </general>
   <pos x="-2560.808" y="1270.704"/>
   <spobs>
-    <spob>Aareli ud Mae</spob>
     <spob>Mae ud Matae</spob>
+    <spob>Aareli Rendez-Vous</spob>
     <spob>Matae</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Aareli Rendez-Vous</spob>
+    <spob>Aareli ud Mae</spob>
   </spobs>
   <jumps>
     <jump target="Ak'ri">

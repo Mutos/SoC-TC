@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Mars was the first world to be colonized by the human species, in its very first century of space exploration. Domed cities were established first, with t-farms for cultivating terraforming bacteria. The terraforming process itself took nearly a century and never turned Mars into a green planet as Earth, but mae it a semi-desertic world quite akin to what Irilia is naturally.
 
@@ -30,4 +30,18 @@ Mars has always been left in shadows by the proximity of Earth. It is nonetheles
   </description>
     <bar>The bar is crowded, mainly by Human patrons, with quite a few K'Rinns and Rithai and some other sentients from the entire known universe</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

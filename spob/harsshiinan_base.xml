@@ -22,11 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
       <blackmarket/>
     </services>
     <description>Posing as a seemingly abandoned station, this pirate base is the mainstay of smugglers presence in Instrumentality space. It orbits along with a large asteroids cloud, so its precise position is difficult to locate.
   </description>
     <bar>The bar is filled with mean-looking sshaad pirates and smugglers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

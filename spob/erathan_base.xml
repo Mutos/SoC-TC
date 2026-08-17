@@ -22,10 +22,17 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Erathan Base has been secretely built by the Gham Garri to prevent Adrim exfiltration to the Baartish Intersystem. It is a lonely stealth station with a fanatic crew of patrol pilots, eager to wait for days hidden in the Long Link systems until they detect a would-be "ghost ship" to ambush.
   </description>
     <bar>Only Gham Garri people, mostly pilots, eager to fight any non-Rith who would try showing up</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

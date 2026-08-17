@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The planet Irilia-12 was initially colonized by both Irilia and Arythem Clans, whose settlers maintained an armed truce, whith the K'Rinn Council orbital station serving as a neutral place, as the Council had good diplomatic relations with both Clans.
 
@@ -38,4 +38,17 @@ This was the beginning of the Fringe Wars, that turned the universe into chaos f
   </description>
     <bar>A crowd of tourists of many species, mostly K'Rinns and Rithai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

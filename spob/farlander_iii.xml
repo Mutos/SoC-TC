@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Farlander III was a far away Planetarist colony, that thrived in relative isolation until it was found to be between the main two jump routes to Irilia space. It then became a trade nexus on the Planetarist side of these routes.
 
@@ -30,4 +30,14 @@ Not long after the end of the Fringe Wars, a diplomatic ship from New Light, hea
   </description>
     <bar>A chattering crowd of tradesbeings, mostly Humans and Rithai, with a some Pupeteers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

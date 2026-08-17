@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station has been built near Irilia-17 to serve as a staging ground for Adrimai exfiltration from the Rith Sphere to the Thirteen Planets League by the Corridor.
   </description>
     <bar>Mainly Irilia people and Free Adrimai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

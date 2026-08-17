@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This aquatic moon, very near its parent gas giant, has been settled by Clan Erdil, using pupeteers-inspired biotechs. Its high-amplitude tides that daily wash hundreds of square kilometers spawned a variety of tideline animals and plants, whose biocompatibility with skaraen life is excellent. So Erdil-1 and its tidal fishing platforms have quickly become a major supplier of seafood, renowned throughout Irmothem space. The magnificent vista of planet Alarane also did help to make the small fishing moon a first-class tourist resort.
 
@@ -30,4 +30,18 @@ However, being close to Irilia space and a byproduct of the progressive and rebe
   </description>
     <bar>Many Rithai with Erdil markings, some Pupeteers and tradesbeings of various species</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

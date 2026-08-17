@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Ilnir is a trade hub and surveillance station between Baartish and Candidate spaces. It has been built at the beginning of Baartish expansion into what would later become the Candidate Systems. It never thrived so much, but the secession of the Candidate Systems prompted the Baartish to reactivate it as a police and patrol station.
   </description>
     <bar>Several sshaad pilots and merchants sit there, along with a few nonshaad beings</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

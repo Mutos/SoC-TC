@@ -7,9 +7,9 @@
   </general>
   <pos x="4048.792" y="-2176.656"/>
   <spobs>
+    <spob>Erdil-1</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Alarane</spob>
-    <spob>Erdil-1</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0052">

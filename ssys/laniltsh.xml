@@ -8,8 +8,8 @@
   <pos x="-2681.768" y="1688.88"/>
   <spobs>
     <spob>Lanilt'sh Border Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Lanilt'sh</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0108">

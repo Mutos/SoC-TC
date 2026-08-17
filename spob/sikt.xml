@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A mining co-colony between Irilia and the K'Rinn Council, well-known for its wealth in tilkath, an ore with a combination of metals and rare earths, used in high-energy spacetime warping systems.
 
@@ -34,4 +34,10 @@ This episode fueled renewed hostility between the Council and Ka'Ralt and from t
   </description>
     <bar>Tense Defenders, for now fighting nothing but boredom, telling all sort of bad jokes about the Secession</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

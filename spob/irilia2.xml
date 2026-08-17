@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The second Irilia colony was a lush world. It would have seemed more suited for the Irmothem, with their long history of wood dwellers, but it was the best world Irilia could give its colonists at the time.
 
@@ -32,4 +32,11 @@ But it was colonized before hyperspace was discovered and was later found to be 
   </description>
     <bar>Mainly natives regarding strangers with defiance</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

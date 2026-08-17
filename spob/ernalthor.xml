@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This forest world is the latest Arythem planetary colony. It was originally to become a co-colony with Sshaads and Shapeshifters, but was a little too far from the Long Link to Baartish and did not have much success. There are still a few complementarist danebs along the eastern continent shores, living in quite a good harmony with the rithai colonists.
 
@@ -30,4 +30,16 @@ With the opening of the Sigma Sector and given the hostility of Jaltha to non-Ri
   </description>
     <bar>A fairly mixed crowd, dominated by Rithai and Sshaads, but with people of all the other species</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+  </tech>
 </spob>

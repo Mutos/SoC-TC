@@ -7,8 +7,8 @@
   </general>
   <pos x="-1532.36448" y="-1750.10688"/>
   <spobs>
-    <spob>Gl 555 b</spob>
     <spob>Gl 555 c</spob>
+    <spob>Gl 555 b</spob>
   </spobs>
   <jumps>
     <jump target="33 G Librae">

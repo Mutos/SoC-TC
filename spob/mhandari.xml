@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Despite the proximity to its star, the reddish sub-G Nyotekundu, Mhandari is a lush world. It is the most recent Core League settlement and a great success in terraforming and adapting the indigenous lifeforms, which were already 75% biocompatible with terran life.
 
@@ -34,4 +34,12 @@ But the Core League Explorastro Corps also thinks there could be a connexion to 
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+  </tech>
 </spob>

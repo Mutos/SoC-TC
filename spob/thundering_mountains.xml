@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This green and blue planet, equally split between oceans and verdant continents, takes its name from its many active volcanoes. It have been bestowed quite recently, after decades of being only known as Colony 9.
 
@@ -30,4 +30,11 @@ It is 13-Planets-League custom to name a colony after a major feature of the pla
   </description>
     <bar>Small groups of locals and an occasional Spacer</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A lush paradise orbiting a spectacular gas giant named "Utsukushi", the Japanese word for "beautiful", Eden is the only largely colonized planet in the Hoshi no Hekka and is a legend in its own right among Spacers.
 
@@ -32,4 +32,14 @@ The planet and the entire system are fiercely protected by all HnH people. There
   </description>
     <bar>Proud Hekkan people telling some tourists embellished tales of deep space adventures.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

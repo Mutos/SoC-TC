@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Apparently a lush planet well suited to be settled, but its biotope was later discovered to be only 35% biocompatible with skaraean life. Native and skaraformed lands are now separated by large border zones where the two lifesystems wage a ruthless war, with little or no bridge species.
 
@@ -34,4 +34,17 @@ It has also been discovered that the original biotope is largely biocompatible w
  </description>
     <bar>Sentients from all species eagerly chatting together</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

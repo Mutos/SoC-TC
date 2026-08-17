@@ -22,10 +22,15 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station is one of the Council's main research outposts. It has been built as the Mar'Krinn'Ra planet was being colonized, to investigate new mining methods. Due to potential danger, it was located in the middle of a small asteroids field at the system's periphery.
   </description>
     <bar>Several research people and a few Spacers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

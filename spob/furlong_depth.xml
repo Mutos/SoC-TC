@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A seemingly oceanic planet but with no really deep waters, Furlong Depth is rather a planetwide swamp with land masses scattered around. Its lush and vibrant ecosystems have given the Pupeteer many famous bearer species, even if its colonization is somewhat recent. It is of notice, that the ecosystem has good biocompatibility with Ziffelan species and that some species of Ziffelan Minidragons have begun to be raised there.
 
@@ -30,4 +30,18 @@ Furlong Depth was the second secessionist colony from the Thirteen Planets. Both
   </description>
     <bar>Locals on various bearers, along with a fair number of non-symbiotic tourists and residents. You notice a few minidragons hovering around</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>An old outpost converted to border station, R'itll has been extended over time with multiple modules, giving it a ragtag look. This is quite deceptive, as the station is k'rinned by some of the best squadrons of the Council Fleet. A few merchants hail from the station, mainly trading in raw minerals.
   </description>
     <bar>A small complement of pilots and a crowd of merchants, mainly regular K'Rinns and Rithai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

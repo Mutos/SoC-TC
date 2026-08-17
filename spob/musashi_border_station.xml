@@ -22,10 +22,17 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station guards the Alliance space on its Irilia border. It has been built when the route to Irilia-14 was discovered. At the time, some investors gambled on the fact it would develop far beyond the military outpost the Alliance intended to build. But as Irilia-14 can hardly accomodate more population, the main trade remained of raw ores from its rich crust, and the station never developped.
   </description>
     <bar>Alliance space pilots and merchants, mainly Humans, along with some Irilia Rithai.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

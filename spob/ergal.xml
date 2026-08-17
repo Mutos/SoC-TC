@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Of the twin planets that give its name to the system, Ergal, the ocean planet with a lush ecosystem biocompatible to all known life, is the most adapted to rithkind. Its population roughly amounts to 2/3 Rithai, 1/6 Sshaads and 1/6 Shapeshifters, the complementarist communities residing mostly on the large eastern continent. It is administered by Arythem, with Baartish representatives.
 
@@ -30,4 +30,13 @@ The co-colonies were designed from the start with cooperation in mind and are po
   </description>
     <bar>Lots of Rithai and some Sshaads and Shapeshifters, most of them involved with marine life</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

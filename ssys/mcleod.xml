@@ -7,9 +7,9 @@
   </general>
   <pos x="-1905.512" y="-523.776"/>
   <spobs>
+    <spob>Ericson</spob>
     <spob>McLeod Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ericson</spob>
   </spobs>
   <jumps>
     <jump target="Barnard's Star">

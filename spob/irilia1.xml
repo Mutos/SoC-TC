@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The very first Irilia colony, a resources-rich, but rough environment, that pushed to their limits the already enduring Irilia people.
 
@@ -32,4 +32,14 @@ When hyperspace was discovered, the route to Drom was easily found and the local
   </description>
     <bar>Some wealthy Iirilia Idrimarai, numerous people of the Rith and some Thiskai</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station guards the Baartish side of the border with the Shoden Clusters, opposite the Eshodal Border Station. As it is quite near the Shoden research facility at Rarilash, where new weapon systems and ships are continually designed and tested, the station is equipped with the most up-to-date sensors and AI packages and sshaaded by the elitemost patrol and fighter pilots.
   </description>
     <bar>Elite Baartish pilots wondering and betting on the next doomsday weapon Rarilash Station could well spawn</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

@@ -22,11 +22,21 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This small asteroid-based station around a gas giant was originally only a refueling relay for exploration. When Jaltha has been colonized, it has been renamed, meaning "Jaltha Relay".
 
 As Jaltha planetary authorities generally frown on Sshaads landing on the planetside starport, it has gradually become the main staging ground for Long Link convoys en-route to or from Arythem core space.</description>
     <bar>A diverse crowd of mainly sshaad and rith merchants and spacers</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

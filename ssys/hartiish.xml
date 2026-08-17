@@ -8,9 +8,9 @@
   <pos x="-3030.648" y="-2052.712"/>
   <spobs>
     <spob>Hey'ett</spob>
-    <spob>Koh'alish</spob>
     <spob>Rumett'</spob>
     <spob>Sperah</spob>
+    <spob>Koh'alish</spob>
   </spobs>
   <jumps>
     <jump target="Control Point">

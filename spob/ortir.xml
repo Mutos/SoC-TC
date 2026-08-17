@@ -20,10 +20,15 @@
       <bar/>
       <missions/>
       <refuel/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Ortir hasa been settled mainly as a mining planetoid, but its small ecosystem allowed the miners to be comfortable and it became more successful than expected. It doubles up as an entry zone to Irilia and often as smugglers' fence.
   </description>
     <bar>Proud Irilia miners and spacers.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Irmothem-6 is an apparently harsh and barren planet, where life seems to concentrate on a few mountains, canyons and great lakes, the rest of the planet being covered in arid deserts. But actually, there is a whole network of underground rivers, totalling at least thrice the visible living surface.
 
@@ -32,4 +32,11 @@ Indigenous life has a good biocompatibility with skaraean life, which decided th
   </description>
     <bar>Desert-dwellers and woodrunners talking with a few spacer merchants</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

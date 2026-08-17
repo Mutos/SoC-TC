@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Originally one of the "Better Worlds Colonies", Redrose was basically bent on agriculture, and several secondary mining settlements were built on easily accessible ore deposits. The planet thrived to its own small level of prosperity, despite harsh conditions, and stayed away from the turmoils of the Human Sphere. It was never directly involved in the Planetarist War or the Fringe Wars.
 
@@ -32,4 +32,14 @@ From then on, Cartel became the Capitol of the Purple Flag. Massive enclosed arc
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

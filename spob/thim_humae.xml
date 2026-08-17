@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The name of this station means "Door to Mankind" in Irilia. It has been built at the very end of the Fringe Wars, to prevent incursions from the Thalin pirate clans, backed by Cartel Sol.
 
@@ -32,4 +32,16 @@ Since the nearby Thim ud Aragwedyr station was built under Irilia protection but
   </description>
     <bar>A crowd mainly dominated by Rithai and Humans, along with Spacers of all origins</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

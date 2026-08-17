@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A strange planet with remnants of living creatures from divers biospheres. Several isolated ecosystems were found to be long-time descendents of similar lifeforms from many known planets, including at least 3 cradleworlds of Commonwealth species : Earth, Tshi'arsh and Skarae.
 
@@ -34,4 +34,13 @@ The planet's perils include the well-known "organic lakes", vast areas of protop
   </description>
     <bar>Scientists of all species and human colonists</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

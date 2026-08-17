@@ -7,10 +7,10 @@
   </general>
   <pos x="-3355.928" y="-1221.192"/>
   <spobs>
+    <spob>Furnace</spob>
     <spob>Purple Grill Outpost</spob>
     <spob>Asteroid Field</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Furnace</spob>
   </spobs>
   <jumps>
     <jump target="PT 0022">

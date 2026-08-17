@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Aimaa is a relatively recently settled Baartish world, and one of the first co-colony based on Complementarist concepts and a contract with the K'Rinn Council. On a nice world, although a little cold for K'Rinns and Sshaads, but unique for its unusually good biocompatibility to sshaad, shapeshifter and k'rinn ecosystems alike.
 
@@ -34,4 +34,14 @@ Whether from Council or Secession, every K'Rinn volunteering for Aimaa has to be
   </description>
     <bar>(null)</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

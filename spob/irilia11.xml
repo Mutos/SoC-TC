@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>A planetwide ocean with many islands clusters and a single large continent, Irilia-11 is a renowned source of quality seafood in the Rith Sphere and even beyond. Also, most of its indigenous ecosystems are largely biocompatible with the needs of all sentient species, and fit for making generic food.
 
@@ -30,4 +30,16 @@ Its mountains' ore is also highly valuable, largely making for the quasi-absence
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+  </tech>
 </spob>

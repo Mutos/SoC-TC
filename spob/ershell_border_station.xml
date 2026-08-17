@@ -22,10 +22,16 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This strongly armored station is facing Sshiinan Border Station, near a Baartish jump route linking the CorpState's main territory to newly colonized space on the sshaad side of the Long Link. Shoden forces from Ershell sometimes raid the rich supply road to the new colonies. As such, the base is sshaaded by elite Shoden raider squadrons and has a strong defense perimeter.
   </description>
     <bar>Shoden pilots joking on their Baartish counterparts</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

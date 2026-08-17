@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This 13-Planets colony has yet to be named. Proposals currently go from "Great Reefs" to "Whales' Paradise" or "Othersea". They are all related to oceans, which take an important part of the planet's surface. The colony's population is still quite low and so is the number of visitors from other species, but this is expected to change in the coming decades, given the potential of the local ecosystems.
 
@@ -32,4 +32,12 @@ Most werewhale symbionts are at first awed by these magnificent creatures and fe
   </description>
     <bar>Pupeteers on small bearers and a few non-Pupeteers, all of them admiring the werewhales through glass panels</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

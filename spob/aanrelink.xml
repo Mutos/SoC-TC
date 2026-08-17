@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Another pirate base posing as an abandonned station, Aan-Relink lies near the Aan-route, but it has more hardships to overcome than Aan-Inod, because it has no link to another target zone.
 
@@ -30,4 +30,11 @@ However, it is rumored that some nearby systems might have been purgatorian colo
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

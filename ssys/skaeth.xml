@@ -7,8 +7,8 @@
   </general>
   <pos x="1141.144" y="-3142.032"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Skaeth Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0242">

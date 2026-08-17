@@ -8,9 +8,9 @@
   <pos x="-1953.248" y="-2239.456"/>
   <spobs>
     <spob>Salam</spob>
-    <spob>Freeport 5</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Nour</spob>
+    <spob>Freeport 5</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">

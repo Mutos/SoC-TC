@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>As the twin planet of H'Rkann, Kirt is the first colonized world of the Ek'In system. In usual k'rinn fashion, it has been first thoroughly h'rkannformed during many decades before the first domed city could be built. Since that first city, many more have developped and over time, they have grown outside their domes.
 
@@ -34,4 +34,17 @@ But this point of view is mostly spread by Humans, Sshaads and Rithai, who find 
   </description>
     <bar>A large crowd of Kirters and Spacers, mostly K'Rinns, but people from all known sentient species can also be seen</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

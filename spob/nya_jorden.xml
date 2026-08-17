@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The Akta Manniskor movement owes its name to a pre-space neo-humanist expression, from a Swedish movement born in 2004 to oppose nano and bionic enhancement. They refuse any alteration to the original human stock and are ready to oppose whoever they see as traitors to the Human race, using force if they deem it necessary.
 
@@ -36,4 +36,11 @@ The heavily endoctrinated population despises all non-Humans, depicted as either
   </description>
     <bar>You see only Humans in the Bar, and you feel non-Humans aren't welcome.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

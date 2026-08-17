@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>An old settlement, on a lush world with vast biological wealth, but low biocompatibility with pupeteers life, this planet has been settled by able gengineers, who quickly developped proper bridge species to help fuse the two originally incompatible ecosystems.
 
@@ -32,4 +32,12 @@ Its role has become more important when a route to Irilia space has been discove
   </description>
     <bar>None</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

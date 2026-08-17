@@ -8,10 +8,10 @@
   <pos x="2815.13824" y="-2874.768"/>
   <spobs>
     <spob>Raltir-9</spob>
-    <spob>Ortir-9</spob>
-    <spob>Irilia-9</spob>
     <spob>Ermel-9</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ortir-9</spob>
+    <spob>Irilia-9</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0120">

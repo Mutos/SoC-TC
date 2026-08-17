@@ -7,10 +7,10 @@
   </general>
   <pos x="-266.976" y="-660.672"/>
   <spobs>
-    <spob>Sinjiang Trading Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Embruns</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Vertigo</spob>
+    <spob>Sinjiang Trading Station</spob>
   </spobs>
   <jumps>
     <jump target="Anel'f T'en">

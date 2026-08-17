@@ -22,10 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The older asteroids ore trading center in the system, this station was never converted to a Fortress. Its position on the edge of a rich Asteroids Field and between the two main jump points explained its success. It is still a major trading center, despite the nearby presence of Hallier and Engelstadt in the system. In fact, it has been one of the reasons that prompted Urs Schreiber to built Engelstadt Station in this very system.
   </description>
     <bar>A host of miners and merchants, most of them Humans with some K'Rinns and Rithai from the nearby Shadow Complex</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+  </tech>
 </spob>

@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station bears the name of Jenac ud Arythem ud Althean, a Thisk officer from the ill-fated Arythem-5 colony, whose sacrifice became a legend. She gave her life to recon the first Na'imsh-infested villages, at the beginning of the Great Horror that destroyed the settlements. Her cybereye's transmissions were the first evidences that something was going awfully awry. The device's signal only stopped when they ran out of energy, hours after her actual death. Ground Control Officers had to watch her entire agony, as she was paralyzed and eaten alive by Na'imsh larvae during three full days. Despite being unable to move, she still could transmit and receive thoughts through her implants. She described her ordeal, desperately fighting to remain conscious and gather all information she could about the parasites that were killing her.
 
@@ -32,4 +32,10 @@ After the war, the JnI was outlawed by the Major Clans and the Rithai Kemae, and
   </description>
     <bar>Several mean-looking Rithai with a fanatical glare in their eyes.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

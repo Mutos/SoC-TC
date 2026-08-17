@@ -22,10 +22,20 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Niishin means spaceship shield and the name is appropriate for the station guarding the border between the Baartish and the Purple Trail. It doubles as a trading station but, given the general hostility of Purple Trail towards Sshaads, there is less traffic than Baartish mrchants originally hoped for. With the independance of the highly xenophobic Akta Manniskor, the Shield Station has been reinforced and is now sshaaded by elite squadrons instead of regular pilots.
   </description>
     <bar>Proud pilots exhibiting Baartish markings, mainly Sshaads but including some Shapeshifters, and looking down on a few merchants, Sshaads and Humans alike</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

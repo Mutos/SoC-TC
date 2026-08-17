@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Mir is an old human colony that never really thrived. Even in the worst days of the secession, the League and Alliance never bothered to seriously contend for it, only sending diplomats to try to get the colony's ruling body to their respective sides. The planetary senate finally decided to join the Alliance, despite its being on the Sol side of Vikra, in hope that the planet's border situation would attract juicy trade. This worked to some extent, but while Mir is no more a god-forsaken hole, it still can't be described as wealthy.
 
@@ -32,4 +32,13 @@ Its other prominent feature is the Stellar Police Pan-Kohl High Security Prison 
   </description>
     <bar>A mix of aged middle-class people along with some natives and Stellar Police officers on leave, all of them mainly Humans, with only a few Rithai and K'Rinns</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

@@ -8,8 +8,8 @@
   <pos x="-1633.44" y="-120.8"/>
   <spobs>
     <spob>Virtual Independent Local</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>McNab</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="CL 0061">

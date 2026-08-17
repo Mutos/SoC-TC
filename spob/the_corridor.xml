@@ -21,10 +21,24 @@
       <missions/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The Corridor is a Pupeteers-run closed O'Neill habitat build between the 13-Planets and the Independant Stars. At first a small wheel-type outpost, it has then been discovered that it was linked to several other states by 3- to 5-jumps routes. Under impulse from the 13-Planets, the original outpost has been replaced by an extended terrarium-type habitat.
   </description>
     <bar>Locals and visitors of all species and cultures make up a chattering, diverse crowd</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+  </tech>
 </spob>

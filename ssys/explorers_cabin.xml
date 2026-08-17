@@ -7,8 +7,8 @@
   </general>
   <pos x="-863.912" y="-2639.76"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Explorers' Cabin</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0017">

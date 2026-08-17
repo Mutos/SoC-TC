@@ -8,13 +8,13 @@
   <pos x="0.0" y="0.0"/>
   <spobs>
     <spob>Jor'Nilka</spob>
-    <spob>H'Rkann</spob>
-    <spob>Jor'Nilom</spob>
-    <spob>Jor'Ka</spob>
     <spob>K'H'An Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>H'Rkann</spob>
+    <spob>Jor'Ka</spob>
     <spob>Hanil</spob>
     <spob>Kirt</spob>
+    <spob>Jor'Nilom</spob>
   </spobs>
   <jumps>
     <jump target="KT 145">

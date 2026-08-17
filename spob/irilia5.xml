@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The fifth Irilia colony is considered as both the last of the rithai sublight colonies or the first of the jump colonies. Its sleeper-ship was launched just before the hyperspace breakthrough. When it arrived at destination, the planet was already occupied by a small party of forward explorers, who had prepared infrastructure for the colonists.
 
@@ -36,4 +36,13 @@ Another decisive event was the heroic deeds of a couple of ex-Adrimai smuggled f
   </description>
     <bar>A crowd of natives in their peculiar sea-dweller attire, with a few Thiskai and Idrimarai wearing distinctive Irilia markings</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

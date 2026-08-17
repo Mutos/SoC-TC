@@ -22,10 +22,19 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This station guards entry of the Core League border with the aggressive Shoden Clusters, protecting the defenseless planet Banthory from their raids, and preventing incursions into the Ziffel, Villera and Nyotekundu sectors.
   </description>
     <bar>Core League pilots on leave between scramble duty, along with a few merchants</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

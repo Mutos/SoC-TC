@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This cold yet rich world was the second sublight colony of the Irmothem Clan. It was later linked to Irmothem itself by a jump route, which from then on became a major artery of the Clan's space.
 
@@ -30,4 +30,11 @@ From it departed many expeditions to settle new planets a few jumps beyond, or s
    </description>
     <bar>A nearly exclusively rith crowd, with many Thiskai proudly dislpaying various subclans markings, and merchants in spacer attire</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

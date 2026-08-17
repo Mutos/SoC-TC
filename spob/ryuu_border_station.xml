@@ -22,10 +22,16 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>The brand-new so-called "Dragon Station" has been built to guard the Planetarist side of a major route leading to the Hoshi no Hekka, Shadow Complex and farther on to the Candidate Systems.
   </description>
     <bar>Planetarist Patrol pilots boasting on their Hekka homologues and talking of their victories over smugglers and pirates</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+  </tech>
 </spob>

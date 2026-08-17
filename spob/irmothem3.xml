@@ -22,7 +22,7 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>This quite backyard world was the third and last Irmothem world to be colonized by sublight ships.
 
@@ -32,4 +32,11 @@ It has never been heavily populated, even for a First Wave Colony, and even now 
    </description>
     <bar>A few Rithai trying to forget the lacklust world they live in</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>

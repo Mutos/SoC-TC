@@ -22,10 +22,18 @@
       <outfits/>
       <refuel/>
       <shipyard/>
-      <commodities/>
+      <commodity/>
     </services>
     <description>Despite its peaceful name evocative of a small trading post, this station is the main stronghold of the Joint Peacekeeper Corps, established on the Long Link jump route between Arythem Clan and Baartish Intersystem. Its very presence near Instrumentality and Shoden borders often leads to diplomatic issues.
   </description>
     <bar>Battle-hardened sshaad and rith veteran pilots play at the various wargame tables, along with a few visiting merchantbeings plotting complex Spiraxy, Chess or Sshaalin strategies.</bar>
   </general>
+  <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
+  </tech>
 </spob>
