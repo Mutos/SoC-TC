@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>A supply depot on a small asteroid, with a few underground holds and tanks, and a crude facility : a bar, some rooms to rent and a lobby with a few dust-covered mission terminals.
 

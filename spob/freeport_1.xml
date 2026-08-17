@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <blackmarket/>
     </services>
     <description>This station was founded by independent spacerithai and -men in the wake of the Fringe Wars, in a system that was called "Althaim", meaning "The crossing" in Irilia. They wanted to built a place where any sentient could come and go freely, to learn the ways of other people and trade any possible goods.
 

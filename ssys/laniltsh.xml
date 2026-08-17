@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Lanilt'sh">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-2681.768" y="1688.88"/>
   <spobs>
     <spob>Lanilt'sh Border Station</spob>
-    <spob>Lanilt'sh</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Lanilt'sh</spob>
   </spobs>
   <jumps>
     <jump target="BI 0108">

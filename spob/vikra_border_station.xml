@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Stellar Police</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The Vikra ("Force") station guards the main passage between Planetarist Alliance and Core League. Manned by the joint Stellar Police, its main purpose is to prevent smuggling through the border. Additionally, it also serves as a deterrent against outlaws from the Hoshi no Hekka and the Theta sector.
   </description>

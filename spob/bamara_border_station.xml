@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Bamara has been built as an outpost for epxloiting the Neufeld Asteroids Field. After a few months, seemingly sshaad ships jumped in from an uncharted jump point and an attempt to take over Bamara was repelled. A Core Navy Fleet visiting Nyotekundu was rerouted and the outpost was turned into a military base.
 

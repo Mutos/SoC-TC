@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ashioto Cluster</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Any ship pretending to enter the Ashioto Cluster from the Core League must dock at Ohashi Border Station and submit to a thorough search. Security is strict and any attempt at smuggling a Purgatorian relic from the Inner Cluster is very likely to be detected.
   </description>

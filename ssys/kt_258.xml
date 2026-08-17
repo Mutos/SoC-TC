@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="KT 258">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-50.112" y="-146.88"/>
   <spobs>
-    <spob>T'Talin</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>T'Talin</spob>
     <spob>K'Til'n 0001</spob>
   </spobs>
   <jumps>

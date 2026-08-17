@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This small Bernal Sphere was a tentative settlement on the fringes of the Core League. it was used as a foothold during the 2233 attempt to create a mafia-state on the borders of the Human Sphere. Now it's just another habitat, more closely monitored than others by the Stellar Police.
   </description>

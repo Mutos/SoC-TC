@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Drom">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="2920.408" y="-1340.304"/>
   <spobs>
-    <spob>Ferem</spob>
-    <spob>Erganir tud Liro</spob>
-    <spob>Anath ud Irali</spob>
-    <spob>Jathdororam</spob>
-    <spob>Miktei</spob>
-    <spob>Darnath ud Irilia</spob>
-    <spob>Amthy</spob>
     <spob>Irgal uneo Irmoth</spob>
-    <spob>Dirnae</spob>
-    <spob>Virtual Irmothem Area</spob>
-    <spob>Irnalth</spob>
-    <spob>Jahyle</spob>
-    <spob>Anath Dirnae</spob>
-    <spob>Raltir</spob>
     <spob>Nahae</spob>
-    <spob>Skarae</spob>
-    <spob>Ledim</spob>
-    <spob>Virtual Arythem Area</spob>
+    <spob>Raltir</spob>
     <spob>Irilia</spob>
-    <spob>Ortir</spob>
-    <spob>Ermel</spob>
-    <spob>Kerithal</spob>
+    <spob>Skarae</spob>
+    <spob>Amthy</spob>
+    <spob>Miktei</spob>
     <spob>Mithtir</spob>
+    <spob>Virtual Arythem Area</spob>
+    <spob>Darnath ud Irilia</spob>
+    <spob>Anath Dirnae</spob>
+    <spob>Erganir tud Liro</spob>
+    <spob>Kerithal</spob>
+    <spob>Ermel</spob>
+    <spob>Jahyle</spob>
+    <spob>Dirnae</spob>
+    <spob>Ortir</spob>
+    <spob>Irnalth</spob>
+    <spob>Ferem</spob>
+    <spob>Jathdororam</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ledim</spob>
+    <spob>Anath ud Irali</spob>
+    <spob>Virtual Irmothem Area</spob>
     <spob>Ud Nahus</spob>
   </spobs>
   <jumps>

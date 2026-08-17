@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A strange planet with remnants of living creatures from divers biospheres. Several isolated ecosystems were found to be long-time descendents of similar lifeforms from many known planets, including at least 3 cradleworlds of Commonwealth species : Earth, Tshi'arsh and Skarae.
 

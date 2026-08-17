@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,7 @@
     <services>
       <land/>
       <bar/>
+      <refuel/>
     </services>
     <description>These are the remnants of the smuggling station where the Shadow Company was decimated while trying to discover the HnH-Alliance route for Cartel Sol.
 

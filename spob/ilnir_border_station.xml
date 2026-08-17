@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Ilnir is a trade hub and surveillance station between Baartish and Candidate spaces. It has been built at the beginning of Baartish expansion into what would later become the Candidate Systems. It never thrived so much, but the secession of the Candidate Systems prompted the Baartish to reactivate it as a police and patrol station.
   </description>

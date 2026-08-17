@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Zeta 1 Reticuli">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-905.17472" y="-1272.66304"/>
   <spobs>
-    <spob>Yana</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Yana</spob>
   </spobs>
   <jumps>
     <jump target="Alphecca">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pirate</faction>
-    <value>400.0</value>
+    <base>400.0</base>
+    <bonus>0</bonus>
     <range>8</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Another pirate base posing as an abandonned station, Aan-Relink lies near the Aan-route, but it has more hardships to overcome than Aan-Inod, because it has no link to another target zone.
 

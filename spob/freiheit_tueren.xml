@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Stellar Police</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This station used to be secret. It was established by the Wurth Group to serve as a border station guarding the entry on the Pei side of the Raumbahn Sieben jump route.
 

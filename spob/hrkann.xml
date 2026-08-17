@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>1000.0</value>
+    <base>1000.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>H'Rkann is home to the K'Rinn and Ha'Tinkar species. Only the former survived their encounter, however, and that is a strain on the essentially pacifist K'Rinns.
 

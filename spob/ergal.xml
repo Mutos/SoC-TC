@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Arythem Clan</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Of the twin planets that give its name to the system, Ergal, the ocean planet with a lush ecosystem biocompatible to all known life, is the most adapted to rithkind. Its population roughly amounts to 2/3 Rithai, 1/6 Sshaads and 1/6 Shapeshifters, the complementarist communities residing mostly on the large eastern continent. It is administered by Arythem, with Baartish representatives.
 

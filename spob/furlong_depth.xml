@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Red Quadrant League</faction>
-    <value>560.0</value>
+    <base>560.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A seemingly oceanic planet but with no really deep waters, Furlong Depth is rather a planetwide swamp with land masses scattered around. Its lush and vibrant ecosystems have given the Pupeteer many famous bearer species, even if its colonization is somewhat recent. It is of notice, that the ecosystem has good biocompatibility with Ziffelan species and that some species of Ziffelan Minidragons have begun to be raised there.
 

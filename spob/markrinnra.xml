@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Mar'K'Rinn'Ra was the first k'rinn colony and is a local capitol, renowned for its sandy smaller continent. Many Irilia Rithai have made the months-long space voyage to settle it, establishing a de facto k'rinn-rith co-colony. It is however still under Council jurisdiction and will stay so under the agreement between Council and Irilia Clan.
   </description>

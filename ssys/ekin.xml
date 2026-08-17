@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Ek'In">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="0.0" y="0.0"/>
   <spobs>
+    <spob>Jor'Nilka</spob>
     <spob>H'Rkann</spob>
+    <spob>Jor'Nilom</spob>
+    <spob>Jor'Ka</spob>
     <spob>K'H'An Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Hanil</spob>
     <spob>Kirt</spob>
-    <spob>Jor'Ka</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Jor'Nilka</spob>
-    <spob>Jor'Nilom</spob>
   </spobs>
   <jumps>
     <jump target="KT 145">

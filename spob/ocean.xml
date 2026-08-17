@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>As its name implies, Ocean is a wet planet, with a temperate climate and lush ecosystems, a delight for Pupeteer settlers. It is the latest colony of the Thirteen Planets. Its major ecosystems are or course marine, but it is also known for its airborne creatures : gigantic medusae floating near the stratosphere amidst clouds of aerial plancton and manta-like flyers following the jetstreams using naturally occuring pulsoreactors.
   </description>

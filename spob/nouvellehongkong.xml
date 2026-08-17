@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pei Clan-Family</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,12 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
+      <blackmarket/>
     </services>
     <description>Home of the human Pei clan, that dates back from the Planetarist Wars, this station is a major smugglers' route between the Planetarist Alliance, the Core League, the K'Rinn Council and the Irilia Clan. The Pei Clan is immensely proud of its home station and its display of wealth and power is always notable, although it has been seriously lessened by the Raumbahn Sieben affair, where it has lost the nearby Sinjiang Trading Station.
   </description>

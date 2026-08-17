@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Purple Trail</faction>
-    <value>380.0</value>
+    <base>380.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>At the border of the Sshaad and Human Spheres, this station, originally only a border outpost, is steadily growing as a trading marketplace, both legal and smuggling. You can find just anything in Neu Hamburg, even Ziffelan Minidragons.
   </description>

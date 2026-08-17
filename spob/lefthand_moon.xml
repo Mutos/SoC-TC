@@ -5,15 +5,10 @@
     <space>moon-O00.png</space>
     <exterior>aquatic3.png</exterior>
   </GFX>
-  <presence>
-    <faction>None</faction>
-    <value>100.0</value>
-    <range>0</range>
-  </presence>
   <general>
     <class>A</class>
     <population>0</population>
     <hide>2.0</hide>
-    </services>
+    <services/>
   </general>
 </spob>

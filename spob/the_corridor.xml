@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>800.0</value>
+    <base>800.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The Corridor is a Pupeteers-run closed O'Neill habitat build between the 13-Planets and the Independant Stars. At first a small wheel-type outpost, it has then been discovered that it was linked to several other states by 3- to 5-jumps routes. Under impulse from the 13-Planets, the original outpost has been replaced by an extended terrarium-type habitat.
   </description>

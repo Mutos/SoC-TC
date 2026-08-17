@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Copernicus">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2180.216" y="-327.504"/>
   <spobs>
+    <spob>Lipperhey</spob>
+    <spob>Harriot</spob>
     <spob>Galilee</spob>
-    <spob>Brahe</spob>
+    <spob>Bruno</spob>
     <spob>Cunitz</spob>
     <spob>Janssen</spob>
-    <spob>Lipperhey</spob>
-    <spob>Bruno</spob>
-    <spob>Harriot</spob>
+    <spob>Brahe</spob>
   </spobs>
   <jumps>
     <jump target="CL 0015">

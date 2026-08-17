@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>650.0</value>
+    <base>650.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The first skaraformed world, home of the renowned Clan Irilia, colonized at the beginning of the rith space age by a concern of small Clans hoping to escape the extended Irmothem-Arythem cold war that was taking place on Skarae at the time. While the major Clans were expending their strength launching sublight extradromal expeditions in a show of forces, the non-aligned used that very rivalry to their advantage to secure a colonization expedition to Irilia.
 

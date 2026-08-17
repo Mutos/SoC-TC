@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A small asteroid mining and trading station, formally hailing from the Alliance but actually quite independant. Its position in a 5-jumppoints system, with 2-jumps links with Starsling and Sanctuary, ensures a large traffic, that allows the station to thrive.
   </description>

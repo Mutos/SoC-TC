@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Red Quadrant League</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>A small outpost for exploring the 3 recently discovered systems nearby.</description>
     <bar>A small number of Spacers tending to their exploration ships</bar>

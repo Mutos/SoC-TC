@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Control Point">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2804.88672" y="-1980.67712"/>
   <spobs>
-    <spob>Control Point</spob>
-    <spob>Buttercup</spob>
-    <spob>Control Point 2</spob>
-    <spob>Control Point 1</spob>
-    <spob>Bubbles</spob>
-    <spob>Blossom</spob>
     <spob>Control Point 3</spob>
+    <spob>Bubbles</spob>
+    <spob>Control Point 2</spob>
+    <spob>Buttercup</spob>
+    <spob>Control Point 1</spob>
+    <spob>Blossom</spob>
+    <spob>Control Point</spob>
   </spobs>
   <jumps>
     <jump target="'Ha'Rtiish">

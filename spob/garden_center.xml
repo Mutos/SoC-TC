@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Traders</faction>
-    <value>1.0</value>
+    <base>1.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <refuel/>
+      <blackmarket/>
     </services>
     <description>(null)</description>
     <bar>(null)</bar>

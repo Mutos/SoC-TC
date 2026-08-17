@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Adrimai</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Orbiting the gas giant Irol, this large double-cylinder habitat is one of the Free Adrimai strongholds in the sector, and the first waypoint on the road from Irilia space to Child of the Eclipse. It protects the 6-jumps so-called "Road of Perils" to Skaeth Border Station, bordering on Gham Garri space, where, despite heavy patrols from both stations, Adrim exfiltration ships often get attacked.
   </description>

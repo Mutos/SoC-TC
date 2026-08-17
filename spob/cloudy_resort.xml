@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This newly built gas mining outpost orbiting Fallen Sun, jokingly named as a vacation resort, has increased tenfold the planet's hydrogen output, thus ensuring its status as a major refuel point in the area.
 

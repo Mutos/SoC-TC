@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Rithai Kemae</faction>
-    <value>750.0</value>
+    <base>750.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The Rith Homeworld and the Rith Core systems are ruled in parts by all 3 Major Clans. To settle constant disputes, they agreed to give the formal authority on the planet to the major inter-clan organisation, the Rithai Kemae Guild.
 

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -16,6 +17,8 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <missions/>
+      <refuel/>
     </services>
     <description>The third K'Til'n station is the better known one. It has been built in the first days of K'Rinn expansion into space, by the first L'Linal't expedition, made of sublight nanobuilder ships and named from a species of termite-like k'rinnoids that built large structures.
 

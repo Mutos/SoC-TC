@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Peschinka">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1202.28" y="-749.944"/>
   <spobs>
-    <spob>Medved</spob>
     <spob>Nova Russia</spob>
+    <spob>Medved</spob>
   </spobs>
   <jumps>
     <jump target="CL-KC - 1 - 1">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Adrimai</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Founded by exfiltrated Adrim Thrull dri'h Dlanhergh, one of the first to use "dri'h" as a honorific, the station is a small spaceship repair dock where many outfits ("toll" in Irilia) and weapons ("derr" in Irilia) are available. It is also a stopping point for Free Adrimai ships travelling through Planetarist space from the Irilia sector.
 

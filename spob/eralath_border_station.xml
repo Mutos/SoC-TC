@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irmothem Clan</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>A border station built on the recently discovered jump route from Irmothem to the Independant Stars.</description>
     <bar>A few rith and pupeteer spacers, mainly pilots and merchants.</bar>

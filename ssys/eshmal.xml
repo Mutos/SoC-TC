@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Esh-Mal">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-4800.296" y="951.024"/>
   <spobs>
-    <spob>Irsh-Mal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Aan-in-Mali</spob>
     <spob>Mali</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irsh-Mal</spob>
   </spobs>
   <jumps>
     <jump target="IC 0049">

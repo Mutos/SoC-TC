@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pirate</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This pirate base is the nearest to E'kin. It may seem surprising, that the Council never closed it down. In fact, they did so several times, but the base was ever rebuilt on a different asteroid, so at length, the Council gave up, prefering a known, mild threat to ever-spawning bases they could not easily locate.
 

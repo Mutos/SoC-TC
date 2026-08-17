@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station guards the Baartish side of the border with the Shoden Clusters, opposite the Eshodal Border Station. As it is quite near the Shoden research facility at Rarilash, where new weapon systems and ships are continually designed and tested, the station is equipped with the most up-to-date sensors and AI packages and sshaaded by the elitemost patrol and fighter pilots.
   </description>

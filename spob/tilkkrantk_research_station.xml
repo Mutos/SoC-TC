@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Joint Peacekeepers Corps</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>In 2243 HTC, a prison ship from Biimis crashed on a former purgatorian planet-base, which was destroyed when the survivors deactivated the generator that kept it in one piece. The Joint Peacekeeper Corps moved swiftly to secure the debris cloud on behalf of both Baartish Intersystems and Arythem Clan. With the maps they brough back, many explorers set out from Leenan and Jaltha. They progressively mapped what is now know as the Sigma Sector. They were followed by adventurers seeking purgatorian artefacts in the nearby stars.
 

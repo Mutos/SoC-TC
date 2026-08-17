@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Rencard (Gl 229)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1556.352" y="-546.48"/>
   <spobs>
-    <spob>Rencard Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Rencard Station</spob>
   </spobs>
   <jumps>
     <jump target="Cul-de-Sac">

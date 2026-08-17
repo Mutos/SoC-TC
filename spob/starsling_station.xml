@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This slingshot station, the first of its kind in the Human Sphere, was built at the end of the Corporate and Fringe Wars, with the help of the K'Rinn Council in exchange for Planetarist support against the Arythem Clan. At the time, it was the main Planetarist asset and its location was even more secret than Sanctuary's. During its first two years, it allowed the Alliance to launch surprise raids on distant Cartel Sol systems, but was used sparsely, because after raiding, the ships would be alone to fly back to Planetarist space.
 

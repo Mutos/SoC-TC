@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Ashioto - Purgatoire">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-788.96" y="333.496"/>
   <spobs>
-    <spob>Purgatoire EWS Buoy #2</spob>
-    <spob>Ashura</spob>
     <spob>Purgatoire EWS Buoy #1</spob>
-    <spob>Purgatoire EWS Buoy #3</spob>
-    <spob>Toki no Namida</spob>
     <spob>Research Monitoring Base</spob>
+    <spob>Ashura</spob>
+    <spob>Purgatoire EWS Buoy #3</spob>
     <spob>Okami</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Toki no Namida</spob>
     <spob>Purgatoire</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Purgatoire EWS Buoy #2</spob>
   </spobs>
   <jumps>
     <jump target="Chalawan">

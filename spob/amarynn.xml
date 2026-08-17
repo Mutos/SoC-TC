@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Aragwedyr Clan</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Amarynn, also known as Woodsfield, the famous forest-world ! Its human population of survivors from a Better Worlds expedition, gengineered to the likeness of legendary Elves ! Its lush woods and marshes and their ferocious fauna well-known to safari amateurs, that few have fought and fewer have returned alive to tell the tale ! Its famous Aragwedyr Rith-Human Clan of long-told courage, known among the Adrimai as "The Path from Eclipse to Sunlight" ! Its Complementarist danebs, born from the first ever Hive to have journeyed to a non-sshaad planet !
 

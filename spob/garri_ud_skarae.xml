@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Gham Garri</faction>
-    <value>650.0</value>
+    <base>650.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The "Land of the Watchdogs" is the Gham Garri's main base, it controls the Gham Dromae system and a few adjacent systems.
 

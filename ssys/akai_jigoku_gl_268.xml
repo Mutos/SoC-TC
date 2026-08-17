@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Akai Jigoku (Gl 268)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1874.25312" y="-1628.6592"/>
   <spobs>
-    <spob>Typhoon</spob>
+    <spob>Nemesis</spob>
     <spob>Tempest LRS</spob>
+    <spob>Typhoon</spob>
     <spob>Tempest</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Nemesis</spob>
   </spobs>
   <jumps>
     <jump target="Algol">

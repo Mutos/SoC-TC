@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Baartish">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-4275.56" y="-942.288"/>
   <spobs>
     <spob>Eshiil-Inaal</spob>
-    <spob>Baartish</spob>
-    <spob>Tshonaal</spob>
     <spob>Irselissh</spob>
+    <spob>Baartish</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tshonaal</spob>
   </spobs>
   <jumps>
     <jump target="BI 0023">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -16,6 +17,8 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This station, named after an Arythem word describing an outpost on a distant island, is spacers' declination of the K'Til'n concept, implemented by the Shadow Complex.
 

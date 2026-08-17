@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Traders</faction>
-    <value>230.0</value>
+    <base>230.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>The station was originally a small outpost established by an independant trader for storing goods. It was vastly expanded when Vigma-4's rings were put into exploitation. However, and despite the rings' continued mining, the so-called "Vigma gold rush" didn't last long. The small asteroid fell from most memories, exept those of spacers who have in the meantime come to use it as a relay between Alliance, Core and HnH. That's what it still is now.
   </description>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>280.0</value>
+    <base>280.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Irilia-13 has many oceans and a set of lush continents alternating vast deserts, tundras and forest-covered lands. The Irilia settlers originally intended to colonize the deserts first, then extend to the other environments, but skaraean life is much more biocompatible with ocean-borne indigenous life than land life. So, skaraformation has been largely successful around the oceans and in the immediate proximity of the shores, than on the land masses themselves. Now, the deserts and tundras are the skaraforming teams' current targets, but the large amazonias stay largely impenetrable.
 

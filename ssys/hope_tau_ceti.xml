@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Hope (Tau Ceti)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1807.152" y="-637.4"/>
   <spobs>
-    <spob>Hope</spob>
+    <spob>Hope-3</spob>
     <spob>Ares High</spob>
-    <spob>Tarkhov</spob>
-    <spob>Tau Ceti III</spob>
-    <spob>Tau Ceti II</spob>
-    <spob>Hope-3.1</spob>
     <spob>Hope-4</spob>
     <spob>Hope-5</spob>
-    <spob>Hope-3</spob>
-    <spob>Tau Ceti I</spob>
+    <spob>Hope-3.1</spob>
     <spob>Ares</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tau Ceti I</spob>
     <spob>Tau Ceti IV</spob>
+    <spob>Tau Ceti II</spob>
+    <spob>Tarkhov</spob>
+    <spob>Tau Ceti III</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Hope</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3753">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ashioto Cluster</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Toki no Namida is meaning "Tears of time" in old Hekka / Japanese. Burrowed in a hollowed Moonlet orbiting Ashioto, this Station was originally a policorporatist base and spaceyard, until it was taken by Harmand's Irregulars troops, and became a major headquarter for the rebellion.
   After wars, it was refurbished to a Transit Station, and before the creation of the Ashioto Cluster, it was not rare it host small traffics and reunion for somewhat illegal business. Now, under the supervision, these activity should have ended, and it is still a crowded transit Spacestation,

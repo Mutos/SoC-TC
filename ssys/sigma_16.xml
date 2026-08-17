@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Sigma 16">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="252.376" y="2627.184"/>
   <spobs>
-    <spob>Telshk</spob>
-    <spob>Skaasht Base</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shiinal</spob>
+    <spob>Telshk</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Skaasht Base</spob>
   </spobs>
   <jumps>
     <jump target="Sigma 14">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Lanilt'sh Border Station guards the entry into Baartish space from the Long Link, that network of interstate jump routes linking Instrumentality, Baartish and Shoden spaces on the Sshaad side with Arythem territory on the Rith Sphere.
 

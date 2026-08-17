@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Arythem Clan</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This massive station is known as "The Shield of the Arythem". It was first established against a possible K'Rinn Council attack, but that role has become obsolete since the end of the Fringe Wars. It now defends the Clan's core territory against sshaad and human incursions, respectively from the Ergal border zone or the Hoshi no Hekka.
   </description>

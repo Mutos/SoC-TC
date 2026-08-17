@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Thalin Station is a carved-out asteroid, once home of the pirate Clan of the same name during the Fringe Wars. Back then, it was a stronghold of pirate incursions in both Alliance and Irilia space. It was first officiously but notoriously backed by Cartel Sol through the Avenir-Woodsfield-Inferno route, then passed under direct Solar control.
 

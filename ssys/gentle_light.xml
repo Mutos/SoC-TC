@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Gentle Light">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="280.024" y="-2892.048"/>
   <spobs>
     <spob>Burning Clouds</spob>
+    <spob>Beautiful Sands</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Gentle Light</spob>
-    <spob>Beautiful Sands</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0032">

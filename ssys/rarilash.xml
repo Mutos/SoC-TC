@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Rarilash">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-3267.56" y="-346.704"/>
   <spobs>
-    <spob>Rarilash Research Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Rarilash Research Station</spob>
   </spobs>
   <jumps>
     <jump target="Eshodal">

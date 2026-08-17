@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Le Manege">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-2088.488" y="101.712"/>
   <spobs>
-    <spob>Le Manege</spob>
     <spob>Curacao</spob>
+    <spob>Le Manege</spob>
   </spobs>
   <jumps>
     <jump target="CL 0039">

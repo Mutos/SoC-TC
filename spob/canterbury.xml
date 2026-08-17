@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>25.0</value>
+    <base>25.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This is the scavenged hull of the Canterbury, the third Zheng-He-class Deep Space Explorer, commissionned in 2135 with its sistership the Tantra to investigate the presumed loss of the Persephone. The Canterbury suffered the same fate as the Persephone, but the outcome was different : the hull was transformed by its crew into a makeshift station.
 

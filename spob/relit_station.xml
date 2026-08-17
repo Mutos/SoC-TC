@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Arythem Clan</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This system previously held only a border station guarding barely explored systems where sshaad scouts have been sighted. Then, new systems beyond this border were explored, and the Emalthor and Ergal systems were settled, Arythem officially claimed the sector and the Long Route was opened towards Shoden and Hoshi no Hekka territories. So the initial station was replaced by a far larger terrarium-type habitat.
 

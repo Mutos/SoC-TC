@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Traders</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>9</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This station is an independant trading hub, in other words, a smuggling platform. It was built by a small sshaad-human concern, betting trade would rise between the Core League and Shoden Clusters after the Baatal-Bamara Incident. However, the Shoden blockade was never lifted and the tentative trade route never gained much success. Soon, blockade runners from the border began to use it as a link to the main Core League trade routes. So Ahn Trading Post slowly faded from the official maps and appeared on less official ones...
   </description>

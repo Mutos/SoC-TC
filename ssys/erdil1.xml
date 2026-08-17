@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Erdil-1">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="4048.792" y="-2176.656"/>
   <spobs>
-    <spob>Erdil-1</spob>
-    <spob>Alarane</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Alarane</spob>
+    <spob>Erdil-1</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0052">

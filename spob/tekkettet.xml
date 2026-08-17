@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This cold world was only a backyards mining colony when the Fringe Wars broke out. It was rushingly converted into a major production center for the Council's Sky Defense Forces. Mining plants extracted ore and hydrocarbons, converted them and fed them by mass drivers into the orbital yards. The Council's strategists though the mere situation of the mining moon, well into the Council's space, was enough to prevent any attack. So, they stationed relatively few Defenders there.
 

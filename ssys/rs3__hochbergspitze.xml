@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="RS-3 - Hochbergspitze">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-1047.08" y="-198.096"/>
   <spobs>
-    <spob>Alaith</spob>
     <spob>Fafnir</spob>
     <spob>Erinath Habitat</spob>
+    <spob>Alaith</spob>
   </spobs>
   <jumps>
     <jump target="RS-2.1">

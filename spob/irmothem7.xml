@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irmothem Clan</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Irmothem-7 is one of the last settled worlds of the Clan. It has a barren surface with some seas and great deserts. Just as Irmothem-6, it possesses an underground water cycle, but it is fuelled by a rich waterbed coming directly from the seas rather than rivers flowing from moutains.
 

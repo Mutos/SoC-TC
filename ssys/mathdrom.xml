@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Mathdrom">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="2595.68224" y="-2121.36"/>
   <spobs>
-    <spob>Matholn'ejj</spob>
-    <spob>Melaneth Cache</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Matholnisht</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Melaneth Cache</spob>
+    <spob>Matholn'ejj</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0099">

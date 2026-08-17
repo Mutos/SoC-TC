@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Aimaa is a relatively recently settled Baartish world, and one of the first co-colony based on Complementarist concepts and a contract with the K'Rinn Council. On a nice world, although a little cold for K'Rinns and Sshaads, but unique for its unusually good biocompatibility to sshaad, shapeshifter and k'rinn ecosystems alike.
 

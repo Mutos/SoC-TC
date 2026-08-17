@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Little Sol">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1662.96" y="-682.776"/>
   <spobs>
-    <spob>Megara</spob>
-    <spob>Fort Solis</spob>
     <spob>Hercules</spob>
     <spob>PIF High-Station</spob>
+    <spob>Fort Solis</spob>
+    <spob>Megara</spob>
   </spobs>
   <jumps>
     <jump target="CL-HnH - 2 - 1">

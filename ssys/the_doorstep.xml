@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="The Doorstep">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="302.488" y="-4215.696"/>
   <spobs>
-    <spob>Talinsa</spob>
     <spob>Teshinda</spob>
+    <spob>Talinsa</spob>
     <spob>Cresina</spob>
     <spob>Melina</spob>
-    <spob>Shesinda</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shesinda</spob>
   </spobs>
   <jumps>
     <jump target="Shine">

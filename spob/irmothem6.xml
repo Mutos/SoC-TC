@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irmothem Clan</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Irmothem-6 is an apparently harsh and barren planet, where life seems to concentrate on a few mountains, canyons and great lakes, the rest of the planet being covered in arid deserts. But actually, there is a whole network of underground rivers, totalling at least thrice the visible living surface.
 

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -16,6 +17,8 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This unk'rinned station, as all of the K'Til'n class, is little more than a structure with a few docking stations, a fuel hold and a mission computer, served by a semi-AI.
 

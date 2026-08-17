@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Heaven (Delta Pavonis)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1303.696" y="-496.824"/>
   <spobs>
-    <spob>Lilith</spob>
-    <spob>Cuisine de l'Enfer</spob>
-    <spob>Reve du Mineur</spob>
-    <spob>Venus 2</spob>
-    <spob>Markow's Place</spob>
-    <spob>Belter</spob>
-    <spob>Antartica</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Heaven</spob>
+    <spob>Cuisine de l'Enfer</spob>
+    <spob>Belter</spob>
+    <spob>Reve du Mineur</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Antartica</spob>
+    <spob>Markow's Place</spob>
+    <spob>Venus 2</spob>
+    <spob>Lilith</spob>
   </spobs>
   <jumps>
     <jump target="GJ 9209">

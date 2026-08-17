@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Oshiinal">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-4388.168" y="-1276.656"/>
   <spobs>
-    <spob>Lhass</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Nanai'Sh</spob>
     <spob>Altan'Ssh</spob>
+    <spob>Nanai'Sh</spob>
     <spob>Shiin</spob>
+    <spob>Lhass</spob>
     <spob>Oshiinal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0010">

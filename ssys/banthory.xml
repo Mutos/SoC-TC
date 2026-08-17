@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Banthory">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2507.24" y="9.264"/>
   <spobs>
-    <spob>Jinxing</spob>
-    <spob>Banthory IV</spob>
-    <spob>Muxing</spob>
-    <spob>Taibai</spob>
     <spob>Huoxing</spob>
-    <spob>Beuzeley-la-Bastille</spob>
-    <spob>Tuxing</spob>
+    <spob>Banthory IV</spob>
     <spob>Shuixing</spob>
+    <spob>Tuxing</spob>
+    <spob>Beuzeley-la-Bastille</spob>
+    <spob>Jinxing</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Taibai</spob>
+    <spob>Muxing</spob>
   </spobs>
   <jumps>
     <jump target="CL 0032">

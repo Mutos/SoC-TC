@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Daleth">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="1019.608" y="-2356.368"/>
   <spobs>
-    <spob>Daleth ud Eralth</spob>
     <spob>Ereth</spob>
-    <spob>Eral</spob>
+    <spob>Daleth ud Eralth</spob>
     <spob>Ghanilan</spob>
+    <spob>Eral</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>

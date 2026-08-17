@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A trading station built by independant merchants between the Villera, Banthory, Ziffel and Nyotekundu systems, and only 8 jumps from Sol. The original backers renamed the system "The Hub" for advertising and excavated a small asteroid to make a terrarium station. It offers ample zeegee docking space and one centrifuge ring at either end of its axis, to provide gravity quarters for travellers.
 

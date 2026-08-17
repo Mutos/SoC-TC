@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Joint Peacekeepers Corps</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This station was built by the Arythem Clan to exploit the system's rich asteroids fields. With the opening of the Long Link, it was given to the Joint Peacekeepers Corps to be used as a prison, making the prisoners work in the extraction teams. It was at this time, that it was renamed the "Gizzard". It also doubles as a patrol base for the JPC, covering the nearby systems, and particularly Heart of The Long Link, which is the Gham Garri entry point to threaten the trade route.
 

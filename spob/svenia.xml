@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This lush world on the border of Read Quadrant League and Thirteen Planets, originately settled by Pupeteers, has developed a multi-species colony with a Spacer-inspired culture. Its good if not excellent biocompatibility and the existence of many species well suited to become bearers earned it fame quite early.
 

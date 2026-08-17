@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Asdrubal's Stronghold">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-3563.048" y="-676.752"/>
   <spobs>
-    <spob>Stronghold II</spob>
     <spob>Grindylow</spob>
     <spob>Fort Asdrubal</spob>
+    <spob>Stronghold II</spob>
   </spobs>
   <jumps>
     <jump target="Lizard's Crossroad">

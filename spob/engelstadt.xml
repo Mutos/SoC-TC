@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>550.0</value>
+    <base>550.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Engelstadt is home to Humans gengineered to become flying beings. It was the dream of the former Hekka of the Mirai, Urs Schreiber. He choose the Hallier system for its ore-rich planet and asteroids, able to provide resources for the massive station required for his project. He even had the Council rename it Engelstadt, as the new station itself.
 

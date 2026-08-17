@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Instrumentality Company</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This old mining outpost was hastily converted to a border station when the Corridor link between Rith and Sshaad Spheres was discovered. The coincidence of its name with the Irali spaceship class is a well-known joke among rithai Spacers.
   </description>

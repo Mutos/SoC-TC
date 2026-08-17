@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shoden Clusters</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Entry into Shoden space is always guarded by armed stations. This is no exception, even if the nearby Core League worlds, Ziffel and Banthory, are not much of a threat. The station doubles up, as many border stations, as a small trade platform, dealing with raid bounty as well as legal commerce.
   </description>

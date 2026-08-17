@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ashioto Cluster</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -16,6 +17,8 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This station has been built by a L'Linal't expedition, made of nanobuilding ships. It was found by a human expedition from Ashioto and its presence was never explained before Humans came into contact with K'Rinns. It still serves its original purpose, should any ship become lost in its vicinity, but is monitored by the Ashioto Cluster forces to prevent its use by purgatorian artefacts smugglers.
   </description>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ziffel Empire</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Ziffel IV has always been quite a secretive world. It was a Better Worlds colony gone awry on landing, that had been isolated for decades. Rediscovered by investigators after the Better Worlds affair, it joined Cartel Sol and thrived on exotic goods export. From 2232 HOC on, it has been subject to a quarantine after a plague broke out and decimated a large part of the population.
 

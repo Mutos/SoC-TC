@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Purple Trail</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Utopia is the second planet colonized from Cartel, nearly as attractive as Arcadia, but closer to the border with the Instrumentality Company. It has thus become a trade center between human and sshaad spaces.
   </description>

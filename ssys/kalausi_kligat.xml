@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Kalausi (Kli'gat)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-1807.4" y="-3730.128"/>
   <spobs>
     <spob>Buru</spob>
-    <spob>Pas'tas</spob>
     <spob>Bugrett'</spob>
+    <spob>Pas'tas</spob>
   </spobs>
   <jumps>
     <jump target="Ind 0012">

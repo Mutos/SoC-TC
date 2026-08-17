@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Red Quadrant League</faction>
-    <value>560.0</value>
+    <base>560.0</base>
+    <bonus>0</bonus>
     <range>7</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Red Skies takes its name from the gas giant around which it revolves, which gives its sky a reddish color. It was colonized by New Light domains that associated with Spacers from the Wandering Domains. There is an effort to built co-colonies with other species, but it is hampered by the low biocompatibility of the local biosphere. However, gengineers from Read Skies are always creating new bridge species to mitigate the annoyance.
   </description>

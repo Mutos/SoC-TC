@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Gl 555">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1532.36448" y="-1750.10688"/>
   <spobs>
-    <spob>Gl 555 c</spob>
     <spob>Gl 555 b</spob>
+    <spob>Gl 555 c</spob>
   </spobs>
   <jumps>
     <jump target="33 G Librae">

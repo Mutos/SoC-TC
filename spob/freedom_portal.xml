@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Adrimai</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station is the door to Child of the Eclipse for Free Adrimai aspiring to relocate on the friendly pupeteer planet.
   </description>

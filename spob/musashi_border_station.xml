@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station guards the Alliance space on its Irilia border. It has been built when the route to Irilia-14 was discovered. At the time, some investors gambled on the fact it would develop far beyond the military outpost the Alliance intended to build. But as Irilia-14 can hardly accomodate more population, the main trade remained of raw ores from its rich crust, and the station never developped.
   </description>

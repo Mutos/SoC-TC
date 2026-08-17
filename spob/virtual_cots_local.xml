@@ -3,13 +3,14 @@
   <pos x="None" y="None"/>
   <presence>
     <faction>Children of the Stars</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
     <class>None</class>
     <population>0</population>
     <hide>0.0</hide>
-    </services>
+    <services/>
   </general>
 </spob>

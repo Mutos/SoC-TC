@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Stellar Police</faction>
-    <value>600.0</value>
+    <base>600.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Avenir is a seemingly barren world whose population, albeit small, is quite stable, split between self-sustaining farming communities and a few mining settlements. It boasts a dozain million-large cities with small starports. The closest to a capitol is Shantaabad, named from the planet's discoverer, Shanta Patel, flying on behalf of the Harushita Explorastro Corps.
 

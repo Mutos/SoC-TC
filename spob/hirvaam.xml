@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>With oceans, forests and deserts, Hirvaam has everything a planet's settler can desire, except maybe enough polar caps for a satisfying climate stability. It has lots of erratic meteorological phenomenons, to which the indigenous fauna has well adapted. The new Hirvaameers, however, have devised numbers of strategies to prevent, mitigate and lessen their consequences, including observing and imitating the local fauna.
   </description>

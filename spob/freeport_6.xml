@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This independant station is the entry point for the dangerous Delta Sector. In the past, it had a protection contract with the Wurth Interstellar Concern. When it was revealed the Concern used this contract to cover up preparation for creating a new state along with local mafias, the contract was replaced by a force made up of independant mercenary squadrons.</description>
     <bar>Fighter pilots and traders, mainly Humans, but some RIthai and Sshaads.</bar>

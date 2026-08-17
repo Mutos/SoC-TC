@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -16,6 +17,7 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <refuel/>
     </services>
     <description>This new Long Range Surveyor replaced the one that had been destroyed during what is now called "the Persephone encounter", the attack of a former exploration vessel whose crew became bloody madmen after being gengineered on a lost purgatorian research station.
   </description>

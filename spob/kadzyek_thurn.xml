@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>120.0</value>
+    <base>120.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <blackmarket/>
     </services>
     <description>Thurnae means "Rewards". The station was built by an independant rith faction that preyed on space traffic : basically space pirates. It was later handed over to the Irilia Clan. It is now an outpost between the Rith and Human Spheres.</description>
     <bar>A crowd of Rithai and Humans Spacers, and a few Rithai officials displaying emblems of Irilia subclans.</bar>

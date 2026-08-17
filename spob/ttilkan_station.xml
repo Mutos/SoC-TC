@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This small station was originally populated by ka'raltian renegades, defenderized against their will during the Fringe Wars. After the war, they left k'rinn space in search of a place to settle in peace and forget the horrors they lived. In Planetarist space, after having heard of the Shadow Complex, they choose to join the fledgling state and built their own station in an ore-rich stellar system.
 

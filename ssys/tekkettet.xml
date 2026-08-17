@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Tek'Kettet">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="1110.928" y="41.344"/>
   <spobs>
-    <spob>K'Tenat</spob>
-    <spob>Tek'Kettet</spob>
-    <spob>Tek'Kettet Orbital Shipyards</spob>
     <spob>K'Tanet</spob>
+    <spob>Tek'Kettet Orbital Shipyards</spob>
+    <spob>Tek'Kettet</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>K'Tenat</spob>
   </spobs>
   <jumps>
     <jump target="KT 149">

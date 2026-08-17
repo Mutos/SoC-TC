@@ -7,13 +7,14 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
     <class>A</class>
     <population>500</population>
     <hide>0.25</hide>
-    </services>
+    <services/>
   </general>
 </spob>

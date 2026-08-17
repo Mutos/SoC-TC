@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This Fortress-like station, built from an ore-processing ship like 1-st generation Fortresses, controls all landings on Eden. Its strict security is mirrored outside by elite fighter squadrons and supported by ne less than two Fortresses taking turns insystem.
   </description>

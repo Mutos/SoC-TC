@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Gamma 8">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-2788.904" y="-1482.0"/>
   <spobs>
-    <spob>Fallen Sun</spob>
-    <spob>Gamma World</spob>
     <spob>Cloudy Resort</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Fallen Sun</spob>
+    <spob>Gamma World</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 2">

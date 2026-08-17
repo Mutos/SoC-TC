@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>340.0</value>
+    <base>340.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A station orbiting Banthory IV, originally built in secrecy by an unidentified sshaad faction, that is thought to be related to the Shoden. Its goals would have been to observe Humans in situ to evaluate means of fighting them.
 

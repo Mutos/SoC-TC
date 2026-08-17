@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Gamma 1">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-2604.008" y="-1295.376"/>
   <spobs>
-    <spob>Black Hole</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Black Hole</spob>
     <spob>Dim Ember</spob>
   </spobs>
   <jumps>

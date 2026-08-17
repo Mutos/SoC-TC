@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Thim Humae">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="452.824" y="-1521.648"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Thim ud Aragwedyr</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Thim Humae</spob>
   </spobs>
   <jumps>

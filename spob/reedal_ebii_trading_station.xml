@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ren'sh Planetary Council</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Reedal was the original station built as a staging ground for Ren'sh planetfall. It has since expanded into a prosperous trading station, selling Ren'sh specialties and importing supplies from the outside.
   </description>

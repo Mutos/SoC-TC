@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This station, originally called Hochbergspitze was built to be the capitol of the Würth-Faradji Frei Gericht, a state that was to be created along the Raumbahn Sieben jump shortcut flanking the Planetarist Alliance and Core League and linking Villera and Nyotekundu to Sinjiang and Nouvelle Hong-Kong. As the creation of the new state, heavily backed by local mafias, would have destabilized the whole sector, central to the Spacegoing Species Community balance, the Stellar Police twarted the attempt.
   

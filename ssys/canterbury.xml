@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Canterbury">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="447.552" y="-190.08"/>
   <spobs>
-    <spob>Canterbury</spob>
     <spob>Annuschka</spob>
+    <spob>Canterbury</spob>
   </spobs>
   <jumps>
     <jump target="KT 143">

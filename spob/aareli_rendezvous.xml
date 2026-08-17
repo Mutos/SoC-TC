@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Joint Peacekeepers Corps</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Despite its peaceful name evocative of a small trading post, this station is the main stronghold of the Joint Peacekeeper Corps, established on the Long Link jump route between Arythem Clan and Baartish Intersystem. Its very presence near Instrumentality and Shoden borders often leads to diplomatic issues.
   </description>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This planet has been colonized at around the same time by Baartish and Arythem explorers. As both groups were only small subfactions of their respective States, they explored only the surroundings of their own landing zone and made no extensive survey of the whole world. So the colonies didn't come into contact before a few years. When this happenned, a rampant war began. To their Arythem neighbors, the Sshaads, young and adults alike, were no more than honorless marauders careless of other people's property, while to the Baartish people, the Rithai were invaders who lawlessly razzied their hard-working colonies.
 

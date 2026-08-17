@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Instrumentality Company</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A newly colonized world, Naarse is famed for its near-100% biocompatibility with sshaad life. Some xenobiologists even think it was seeded by Tshi'arsh life in a very remote past. The most ambitious theory even talks of the mysterious people that transplanted several biospheres to Heaven several hundred thousand years ago, thoug no clear evidence has been found so far.
 

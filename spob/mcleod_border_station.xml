@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Named after Rear Admiral Kenji McLeod, former commander of the Core Projection Force, this station is the door to the Core League from the Purple Trail and the Shadow Complex. As the first two States are locked in a protracted cold war, the station, key to the shortest route between Sol and Cartel, is rather a military outpost than a classical trading station.
   </description>

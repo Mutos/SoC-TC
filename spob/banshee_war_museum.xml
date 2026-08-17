@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>7</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>Here lay the remnants of the Banshee, the Fortress that stopped the Policorporate invasion fleet dead in its tracks during the Hoshi no Hekka Independance War, but was mercilessly nuked in the battle.
 

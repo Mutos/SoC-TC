@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Irali">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="3003.352" y="-1300.56"/>
   <spobs>
+    <spob>Irali Core Guard</spob>
     <spob>Gadhonex</spob>
     <spob>Irali</spob>
-    <spob>Irali Core Guard</spob>
   </spobs>
   <jumps>
     <jump target="Drom">

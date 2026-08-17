@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Daneb Anarchs</faction>
-    <value>400.0</value>
+    <base>400.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Shoosoln is an ore-rich moon around a gas giant. Located in the local lifezone, it did already possess some lifeforms, up to amphibians.
 

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Gham Garri</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>6</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This carved-out asteroid is used by the Gham Garri as a staging ground for raids on the main Rith-Human roads between Irilia and Planetarist spaces.
   </description>

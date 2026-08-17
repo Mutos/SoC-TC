@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="39 Leonis">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1205.92" y="-432.864"/>
   <spobs>
-    <spob>No Life Station</spob>
-    <spob>Ventose</spob>
     <spob>39 Leo Bunch</spob>
+    <spob>Ventose</spob>
+    <spob>No Life Station</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3622">

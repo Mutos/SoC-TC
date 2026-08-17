@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>700.0</value>
+    <base>700.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A lush paradise orbiting a spectacular gas giant named "Utsukushi", the Japanese word for "beautiful", Eden is the only largely colonized planet in the Hoshi no Hekka and is a legend in its own right among Spacers.
 

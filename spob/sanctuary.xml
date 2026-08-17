@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>750.0</value>
+    <base>750.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Sanctuary was settled as the Planetarist Movement rose, far from the center of the Human Sphere, by then Policorpos-controlled space. Its location stayed secret until the Alliance declared itself. Even then, it was known only to a few captains, commerce with outside the Alliance being handled via several buffer stations in border systems.
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Gizzard">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="342.232" y="1974.0"/>
   <spobs>
-    <spob>Gizzard Mining Prison</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Gizzard Mining Prison</spob>
   </spobs>
   <jumps>
     <jump target="Heart of the Long Link">
