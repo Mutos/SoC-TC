@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>Named "The Crescent's Center", this relay was the second to be built by the expedition from Irilia-6 that was to rediscover the Irilia-2 sublight colony.
   </description>

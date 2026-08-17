@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Arythem Clan</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This planet evenly split between water and barren deserts has next to no ground life, but its small native ecosystems mostly grow on the oceans. It was colonized as a mining resource and has since grown far above the outpost status. Despite the proximity to the Long Link, a once proposed plan for a rith-shaad co-colony has been discouraged by the planetside authorities.
 

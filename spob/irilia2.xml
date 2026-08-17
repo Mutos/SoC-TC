@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The second Irilia colony was a lush world. It would have seemed more suited for the Irmothem, with their long history of wood dwellers, but it was the best world Irilia could give its colonists at the time.
 

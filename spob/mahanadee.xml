@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>Mahanadee station was initially an advanced base for a small mining company willing to establish itself on the newly colonized Villera system. Despite the system's lack of suitable resources, nearby systems like Savitri were better endowed and Villera IV was a suitable market.
 

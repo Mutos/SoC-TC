@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This base was established by explorers, former survivors of the prison ship incident. They never found the purgatorian artefacts they were searching for, but established instead a smuggling route between Arythem and Baartish, going around the patrolled Long Link and the Joint Peacekeeper Corps.
   </description>

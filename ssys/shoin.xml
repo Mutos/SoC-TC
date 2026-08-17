@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Shoin">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-3706.472" y="223.536"/>
   <spobs>
-    <spob>Shoin Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shoin Border Station</spob>
   </spobs>
   <jumps>
     <jump target="BI-ShC - 2 - 1">

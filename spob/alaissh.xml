@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pirate</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This asteroid is home to a pirate organization preying on the Sigma Sector and the Long Link. It has initially founded by sshaad smugglers and has quickly been joined by rithai fugitives from the Thalin Clan. The system is remotely linked to the Shoden Clusters, but the pirates often frown on their xenophobic, Sshaadkind-supremacy dogma and take great care to avoid falling under Shoden influence.
   </description>

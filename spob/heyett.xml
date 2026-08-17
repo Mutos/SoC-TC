@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Candidate Systems</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>(null)</description>
     <bar>(null)</bar>

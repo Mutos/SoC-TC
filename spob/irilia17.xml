@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Irilia-17, also known as "The large Seed", after a legend of the original settlers, is one of the latest Irilia colonies, as the Clan slowed down its pace on settling after the Fringe Wars.
 

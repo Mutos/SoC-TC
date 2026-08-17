@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Irilia-16">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="1826.584" y="-3313.68"/>
   <spobs>
-    <spob>Irilia-16</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irilia-16</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0191">

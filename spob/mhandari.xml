@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Despite the proximity to its star, the reddish sub-G Nyotekundu, Mhandari is a lush world. It is the most recent Core League settlement and a great success in terraforming and adapting the indigenous lifeforms, which were already 75% biocompatible with terran life.
 

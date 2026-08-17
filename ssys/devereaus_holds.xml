@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Devereau's Holds">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1690.05472" y="-1911.81312"/>
   <spobs>
     <spob>Devereau's Holds</spob>
-    <spob>Wai</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Wai</spob>
   </spobs>
   <jumps>
     <jump target="Control Point">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Niishin means spaceship shield and the name is appropriate for the station guarding the border between the Baartish and the Purple Trail. It doubles as a trading station but, given the general hostility of Purple Trail towards Sshaads, there is less traffic than Baartish mrchants originally hoped for. With the independance of the highly xenophobic Akta Manniskor, the Shield Station has been reinforced and is now sshaaded by elite squadrons instead of regular pilots.
   </description>

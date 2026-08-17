@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Akta Manniskor</faction>
-    <value>600.0</value>
+    <base>600.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The Akta Manniskor movement owes its name to a pre-space neo-humanist expression, from a Swedish movement born in 2004 to oppose nano and bionic enhancement. They refuse any alteration to the original human stock and are ready to oppose whoever they see as traitors to the Human race, using force if they deem it necessary.
 

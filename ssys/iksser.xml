@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Iksser">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-3709.928" y="404.976"/>
   <spobs>

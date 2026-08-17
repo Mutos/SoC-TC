@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Arythem Clan</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>The first Arythem planetary colony is an endearing waterworld, well suitable for a Clan founded by Arythem ud Irol, the famous maritime explorer.
 

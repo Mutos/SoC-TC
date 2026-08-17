@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Shoosoln">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-4765.736" y="-460.752"/>
   <spobs>
     <spob>Oliirth</spob>
-    <spob>Shoosoln</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Hraasrnor</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shoosoln</spob>
   </spobs>
   <jumps>
     <jump target="BI 0075">

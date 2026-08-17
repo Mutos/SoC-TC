@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -16,6 +17,7 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <blackmarket/>
     </services>
     <description>New Life was a promising Colony established in the Ventose Planet, if it wasn't managed by the Better Worlds Company. Now its transit station remain empty, its "New Life" panel tagged with a big "No".
 In the early XXIII century, it has hosted some installations from the dreaded Hopper's Ogres, a branch of the Hopper Connexion, who start to house an Human farm on the abandonned domes in the planetary surface.

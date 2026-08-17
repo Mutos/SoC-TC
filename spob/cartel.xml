@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Purple Trail</faction>
-    <value>500.0</value>
+    <base>500.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Originally one of the "Better Worlds Colonies", Redrose was basically bent on agriculture, and several secondary mining settlements were built on easily accessible ore deposits. The planet thrived to its own small level of prosperity, despite harsh conditions, and stayed away from the turmoils of the Human Sphere. It was never directly involved in the Planetarist War or the Fringe Wars.
 

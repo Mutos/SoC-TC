@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Red Quadrant League</faction>
-    <value>370.0</value>
+    <base>370.0</base>
+    <bonus>0</bonus>
     <range>6</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The initial settlement of the Red Quadrant, that seceded along with Furlong Depth and soon send expeditions to settle new colonies.
 

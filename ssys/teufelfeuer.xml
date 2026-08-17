@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Teufelfeuer">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2075.072" y="-2125.984"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>FeuerRing</spob>
     <spob>FeuerRing Memorial</spob>
+    <spob>FeuerRing</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">

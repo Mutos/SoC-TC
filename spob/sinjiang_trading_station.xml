@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Sinjiang station was first opened as a mining outpost jointly operated by the K'Rinn Council and the Pei Clan-Family. It was then converted to a trading station when the route from Planetarist Alliance to K'Rinn Council was discovered. In fact, the system's most common name is still its RkL catalog number, of k'rinn origin.
 

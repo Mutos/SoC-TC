@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>7</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Uktalm is the second k'rinn colony. A quite verdant planet with all climates and a variety of ecosystems, it has been colonized by the K'Rinns only a few decades after Mar'K'Rinn'Ra.
   

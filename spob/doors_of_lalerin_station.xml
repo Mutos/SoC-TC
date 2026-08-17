@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Candidate Systems</faction>
-    <value>600.0</value>
+    <base>600.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Orbiting around the same gas giant as the jump point itself, this Border Station was originally a mere refuelling outpost for exploration beyond the Lalerin system. When the route to the Instrumentality Company was discovered, it was hastily extended to become both a trading station and a military base.
   </description>

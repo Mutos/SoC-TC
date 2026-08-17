@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>180.0</value>
+    <base>180.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>Jupiter Station is one of the main trade hubs in Sol, humankind's cradle system.
 It is thus a place of influence in the Human Sphere.

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>
  Lupe Godjaveri's own staryards, originally only a small drydock to manufacture on demand the Niglo-class smuggling ship. It has been built on orbit around Dwarves' Tunnels, which abundant raw metals it can use at a low price. It has then expanded to become a flourishing station that builds and repairs many smugglers' ships. It is currently managed by Lupe Godjaveri herself and her only child, her daughter Azra.

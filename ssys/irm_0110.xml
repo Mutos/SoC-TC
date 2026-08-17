@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Irm 0110">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="4183.99072" y="-815.26848"/>
   <spobs/>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ka'Ralt Secession</faction>
-    <value>650.0</value>
+    <base>650.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Ka'Ralt was the 3rd and last full-k'rinn planetary colony. During the 2nd Fringe War, its population refused to conclude a treaty with a non-k'rinn faction, the human Planetarist Alliance. In the face of an incoming Arythem siege fleet, it rather submitted itself to an emergency Defenderization plan, transforming thousands of volunteer regulars into Defenders.
 

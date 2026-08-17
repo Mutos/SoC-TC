@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Carved out of a large asteroid, that station secures the main trade lane between Human and K'Rinn Spheres.
   </description>

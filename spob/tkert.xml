@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Arythem Clan</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A large, joint K'Rinn-Rith trading station on the edge of K'Rinn Council and Arythem Clan territories.
   </description>

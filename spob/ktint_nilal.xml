@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This independent relay orbiting planet K'Tint is a meetpoint between the two major k'rinn States : the K'Rinn Council and the Ka'Ralt Secession. It has built its success on this position, in a crossroads system scattered by remnants of the Second Fringe War.
 

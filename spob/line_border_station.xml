@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Red Quadrant League</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -16,6 +17,8 @@
     <hide>0.75</hide>
     <services>
       <land/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This station is a small outpost guarding the entrance into the Pupeteer Sphere from Rith and Human space. It is maintained by the Red Quadrant League, with help from the other pupeteer States. Its name comes from its being the first line of entry into the Pupeteer Sphere.
   </description>

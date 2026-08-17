@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pirate</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,12 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
+      <blackmarket/>
     </services>
     <description>Posing as a seemingly abandoned station, this pirate base is the mainstay of smugglers presence in Instrumentality space. It orbits along with a large asteroids cloud, so its precise position is difficult to locate.
   </description>

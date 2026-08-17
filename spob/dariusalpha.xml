@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ashioto Cluster</faction>
-    <value>0.0</value>
+    <base>0.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>(null)</description>
     <bar>(null)</bar>

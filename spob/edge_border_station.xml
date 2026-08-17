@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>550.0</value>
+    <base>550.0</base>
+    <bonus>0</bonus>
     <range>7</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Edge guards the Shadow Complex border to the State's major trade route, leading to the Red Quadrant League and opening to both the Pupeteer and Sshaad Spheres. It is mainly a security station, but like most such outpsosts, it doubles up as a trading relay.
   </description>

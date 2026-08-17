@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Aldebaran - Urgiz">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="653.272" y="-2002.128"/>
   <spobs>
-    <spob>Hastur</spob>
     <spob>Higgez</spob>
+    <spob>Hastur</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0034">

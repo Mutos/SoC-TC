@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="High Reaches">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-247.016" y="-3851.088"/>
   <spobs>
+    <spob>Fire in the Sky</spob>
     <spob>High Reaches</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Fire in the Sky</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0026">

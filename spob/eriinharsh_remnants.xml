@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>No-one knows how this ages-old alien ship hull got encrusted into an asteroid, but it has been identified as a probable purgatorian remnant.
 

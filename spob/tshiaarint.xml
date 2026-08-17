@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Complementarist Protectorate</faction>
-    <value>600.0</value>
+    <base>600.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This planet is very special, being the Shapeshifters' cradleworld. It had been settled by a joint effort between Baartish Intersystem and Hash'riss Colonisation Corporation, but elements had been kept secret from the colonists by the exploration compagny that discovered the planet : satellites had been found and destroyed, and places showed signs of civilisation, seemingly hidden or destroyed on purpose.
 

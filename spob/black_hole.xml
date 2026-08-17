@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pirate</faction>
-    <value>750.0</value>
+    <base>750.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This pirate installation holds the border of the Gamma Sector nearest to the Hoshi no Hekka.
 

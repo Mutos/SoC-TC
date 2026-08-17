@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Toba'al">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-3977.62976" y="-1190.03712"/>
   <spobs>
-    <spob>Lilin'a</spob>
     <spob>Dadiida</spob>
+    <spob>Lilin'a</spob>
   </spobs>
   <jumps>
     <jump target="BI 0177">

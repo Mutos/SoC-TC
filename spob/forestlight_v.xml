@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Red Quadrant League</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>ForestLight is a lush and varied world, of woodlands and oceans, great mountains and some deserts. It has long been settled by Pupeteers from the Cradle and was named for its bioluminescent woodlands.
 

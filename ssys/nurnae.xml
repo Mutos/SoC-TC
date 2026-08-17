@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Nurnae">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="3033.69568" y="428.75328"/>
   <spobs>
-    <spob>Wahnurn</spob>
     <spob>Ud Nurn</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Onatham</spob>
-    <spob>Virtual Civilian Standard</spob>
     <spob>Iral</spob>
+    <spob>Wahnurn</spob>
+    <spob>Onatham</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Virtual Civilian Standard</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0076">

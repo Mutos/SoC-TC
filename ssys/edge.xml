@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Edge">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-1962.92" y="-2681.232"/>
   <spobs>
     <spob>Edge Border Station</spob>
-    <spob>K'Talth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Edge</spob>
+    <spob>K'Talth</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0043">

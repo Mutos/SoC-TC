@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Mir is an old human colony that never really thrived. Even in the worst days of the secession, the League and Alliance never bothered to seriously contend for it, only sending diplomats to try to get the colony's ruling body to their respective sides. The planetary senate finally decided to join the Alliance, despite its being on the Sol side of Vikra, in hope that the planet's border situation would attract juicy trade. This worked to some extent, but while Mir is no more a god-forsaken hole, it still can't be described as wealthy.
 

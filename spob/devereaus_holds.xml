@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>During the Corporate Wars, this stealth station hidden in planet Wai's rings was a crucial part of the Alliance EWS on the backside jump route from Sol to Sanctuary.
 

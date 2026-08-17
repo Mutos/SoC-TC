@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This small asteroid base is a memorial to all the fallen soldiers of the Battle of FeuerRing, be they Cartelists or Planetarists. It orbits the gas giant around which the battle was fought. The cloud of debris of the planetarist flagship, the Warden of Sanctuary, still lies nearby along with the shattered hulls of several Cartelist corvettes.
 

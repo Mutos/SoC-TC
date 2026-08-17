@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The planet Irilia-12 was initially colonized by both Irilia and Arythem Clans, whose settlers maintained an armed truce, whith the K'Rinn Council orbital station serving as a neutral place, as the Council had good diplomatic relations with both Clans.
 

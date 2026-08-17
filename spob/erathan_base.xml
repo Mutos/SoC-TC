@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Gham Garri</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Erathan Base has been secretely built by the Gham Garri to prevent Adrim exfiltration to the Baartish Intersystem. It is a lonely stealth station with a fanatic crew of patrol pilots, eager to wait for days hidden in the Long Link systems until they detect a would-be "ghost ship" to ambush.
   </description>

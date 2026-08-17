@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Void's Expanse">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="29.464" y="-3868.368"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Void's Expanse</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0092">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Candidate Systems</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Lalerin is a small mainly oceanic moon around a gas giant. Its continents are green with vast forests suitable for sshaad life and its oceans are full of very lively ecosystems, all with a good biocompatibility to sshaad-like life.
 

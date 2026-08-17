@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shoden Clusters</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The Shoden were originally the weapon hand of other sshaad factions, like the Instrumentality Company and Baartish Intersystems. They took their name from their founding daneb in Tsiiar'sh, after which is also named their prime station.
 

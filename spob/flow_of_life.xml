@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>An old settlement, on a lush world with vast biological wealth, but low biocompatibility with pupeteers life, this planet has been settled by able gengineers, who quickly developped proper bridge species to help fuse the two originally incompatible ecosystems.
 

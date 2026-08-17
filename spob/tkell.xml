@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ka'Ralt Secession</faction>
-    <value>180.0</value>
+    <base>180.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station was built as soon as the jump tunnel leading to the Rith Core, unknown at the time of the Fringe Wars, was discovered.
 

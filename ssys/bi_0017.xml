@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="BI 0017">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-4313.0" y="-1230.864"/>
   <spobs/>

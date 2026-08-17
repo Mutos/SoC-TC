@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ka'Ralt Secession</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A snowy world, recently settled by the Secession. There are discussions going on with the Rithai Kemae for allowing Rithai settlers on parts of the planet, where they would be able to thrive far easier than K'Rinns. That would be the first Ka'Raltian co-colony.
   </description>

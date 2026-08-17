@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Iralii">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-3585.512" y="1113.456"/>
   <spobs>
-    <spob>Iralii Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Iralii Border Station</spob>
   </spobs>
   <jumps>
     <jump target="IC 0003">

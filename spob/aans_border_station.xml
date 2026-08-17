@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Instrumentality Company</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This brand-new border station has been built to defend the Instrumentality border against the Shoden threat. Despite some common views on the prominent role of sshaadkind in the universe, the two States are constantly vying for power in the Sshaad Sphere.
   </description>

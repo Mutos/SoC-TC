@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Instrumentality Company</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This lush moon originally had a low biocompatibility with sshaadoid life, but is rich in many other aspects and as such, was quickly colonized by the Instrumentality Company. The colonists' efforts, however, were vastly successful at gengineering efficient bridge species. Now, the planet has extensive agriculture harmoniously merged within the original ecosystems.
   </description>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Gl 250 A">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2172.38848" y="-1651.41088"/>
   <spobs>
-    <spob>Cerberus Fortress</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Cerberus Fortress</spob>
   </spobs>
   <jumps>
     <jump target="33 G Librae">

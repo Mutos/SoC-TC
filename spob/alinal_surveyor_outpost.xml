@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Joint Peacekeepers Corps</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station is a major base of the Joint Peacekeepers Corps. It has been formally granted to Arythem by the Baartish, with mandate to protect the system from both Shoden and pro-war Arythem incursions.
   </description>

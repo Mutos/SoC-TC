@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A mining co-colony between Irilia and the K'Rinn Council, well-known for its wealth in tilkath, an ore with a combination of metals and rare earths, used in high-energy spacetime warping systems.
 

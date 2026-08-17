@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>500.0</value>
+    <base>500.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>An important station in the k'rinn expansion, that lead to the discovery of Irilia-12, alo known as KT-134 for the K'Rinns, and to the contact with the rith Irilia Clan.
   </description>

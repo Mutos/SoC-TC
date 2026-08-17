@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Aimaa">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-3761.768" y="-108.24"/>
   <spobs>
-    <spob>Eraan'tsh</spob>
-    <spob>Ets'aalin</spob>
     <spob>Aimaa</spob>
-    <spob>Oreel</spob>
-    <spob>Eraanol</spob>
+    <spob>Eraan'tsh</spob>
     <spob>Hiini</spob>
+    <spob>Eraanol</spob>
+    <spob>Oreel</spob>
     <spob>Anil'haan</spob>
+    <spob>Ets'aalin</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>

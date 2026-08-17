@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shoden Clusters</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Entry into Shoden space is always protected by armed stations. This one is the door to the link with Arythem space and, via the Sigma Sector, K'Rinn Council space. However, rare are non-Sshaads venturing into hostile Shoden space.
   </description>

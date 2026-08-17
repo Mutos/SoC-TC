@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Sora no Shikyuu is the farthest Sublight Colony from Sol by the jump network, although its star, 82 Eridani, is only 19 LY from Sol. It is an aquatic world with  several oceanias and three small continents. Its life's biocompatibility is quite good to Human, Sshaad and Shapeshifter ecosystems. This prompted the installation of a few Complementarist Hives, as part of an agreement between Baartish Instersystems and the Planetarist Alliance.
 

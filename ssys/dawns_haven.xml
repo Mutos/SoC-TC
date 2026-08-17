@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Dawn's Haven">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1907.456" y="-2482.528"/>
   <spobs>
-    <spob>Dusk Moon</spob>
-    <spob>Dawn Moon</spob>
     <spob>New Link Station</spob>
     <spob>Haven</spob>
+    <spob>Dawn Moon</spob>
+    <spob>Dusk Moon</spob>
   </spobs>
   <jumps>
     <jump target="PA-SC - 1 - 2">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Adrimai</faction>
-    <value>190.0</value>
+    <base>190.0</base>
+    <bonus>0</bonus>
     <range>6</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station, named for Sara Seynberg, the human xenoethnologist who publicly revealed the presence of Adrimai on Irilia-17 at the ties of the Fringe Wars and sparkled a major part of the Adrimai freedom movement, was built to become a major Free Adrimai base.
 

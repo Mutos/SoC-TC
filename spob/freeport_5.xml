@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Given the numerous connections of the Al-Wahid's Bluff system, this station was first established by the Planetarists as part of its EWS network just after the FeuerRing battle. It was converted to a trading post when the system was given to the Shadow Complex.
 

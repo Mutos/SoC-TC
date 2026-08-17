@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This small independent shipyard was originally a trading station that got bankrupt, and whose hulk was left rotting for years. It finally happened to be bought by a pair of spaceship mechanics, who had travelled some years around known space and gathered a small, but gifted crew around them.
 

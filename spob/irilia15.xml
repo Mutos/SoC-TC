@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>One of the recent Irilia colonies, Irilia-15 is a desert world quite akin to Irilia itself, with a remarkable well-moonedness. Thus, its three moons have been named for their Great Irilia counterparts.
 

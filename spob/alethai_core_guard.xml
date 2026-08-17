@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Rithai Kemae</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>The Rith part of the border between the Rith Core and the Ka'Ralt Secession, this station is rithed by the elitemost pilots and shiprithai of the Kemae fleet. It conducts routine patrols on the nearby frontier system, as part of a border agreement with the Secession, in which every side tolerates the other's patrols.
   </description>

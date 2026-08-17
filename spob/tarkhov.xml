@@ -7,16 +7,21 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>0.0</value>
+    <base>0.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
     <class>A</class>
-    <population>10</population>
+    <population>0</population>
     <hide>0.25</hide>
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>(null)</description>
     <bar>(null)</bar>

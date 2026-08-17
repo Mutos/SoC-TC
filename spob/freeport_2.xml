@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>Situated on the n-space route from Sol to New Earth, this station was the only one smuggling outpost established before Humans discovered hyperjump. It was abandoned, then rediscovered when the first hyperspace route passing thrugh the system was explored.
   </description>

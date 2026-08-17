@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Fork (Gl 302)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1506.88128" y="-640.29792"/>
   <spobs>
-    <spob>Fork II</spob>
     <spob>Fork III</spob>
     <spob>Fork I</spob>
+    <spob>Fork II</spob>
   </spobs>
   <jumps>
     <jump target="New Earth (Eta Cassiopeia)">

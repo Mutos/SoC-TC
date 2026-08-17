@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This small asteroid station is formally under Irilia dominion, but is used by the Free Adrimai as the farthest waypoint on the road from Irilia space to Child of the Eclipse.
 

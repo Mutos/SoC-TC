@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>470.0</value>
+    <base>470.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>On the shortest route from Sol to Eden, this station is, along with Hermes, one of the only two Hoshi no Hekka exchange points officially endorsed by the Core League.
 

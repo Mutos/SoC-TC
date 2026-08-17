@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Purple Trail</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Sheng Station is named after Sheng Li Fong, the Commander of the "Purple Flag" supercruiser, that carried the Cartel Sol top-brass out of the Sol system to flee the Planetarist invasion and founded the Purple Trail.
 

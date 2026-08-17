@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Aareli">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-2291.24" y="-3781.968"/>
   <spobs>
     <spob>Thim Aareli</spob>
     <spob>Black Rose</spob>
-    <spob>Eb'Aareli</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eb'Aareli</spob>
   </spobs>
   <jumps>
     <jump target="Eeraniinal">

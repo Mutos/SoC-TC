@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>500.0</value>
+    <base>500.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Earth is the cradleworld of the Human species and has a rich but dramatic history. At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status.
 

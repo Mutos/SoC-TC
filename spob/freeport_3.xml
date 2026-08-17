@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shadow Complex</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This asteroid base was built by the Hoshi no Hekka during the Corporate Wars, to be an EWS station for the Planetarist Alliance. At the end of the war, it was converted to a trading post between the two States. When the Shadow Complex was officially recognized, full sovereignty over the Shadow Grave system and its two stations was given to the new State by the Alliance as a token of peace.
   </description>

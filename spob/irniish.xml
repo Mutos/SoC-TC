@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shoden Clusters</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Irniish is the first planet settled by the Shoden. They use it as an agricultural base, but the barren planet has to be esshiinformed first, which is a long process. Athmospheric processors and the equivalent of t-bacts are used for that.
 

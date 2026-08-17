@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>HnH</faction>
-    <value>250.0</value>
+    <base>250.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Cerberus is one of the largest 1st-generation Fortresses still operational. Like many ex-OCS Fortresses, it has been converted to an insystem mobile station.
 

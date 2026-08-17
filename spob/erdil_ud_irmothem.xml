@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Erdil Clan</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The fifth Irmothem exocolony was as lush as the first, but also ripe with perils and dangers. Its low biocompatibility claimed the life of many colonists in the first few years. Biologists had a hard time to adapt local and skaraean species so they could bind together into successful ecosystems.
 

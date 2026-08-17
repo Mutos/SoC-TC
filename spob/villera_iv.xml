@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>540.0</value>
+    <base>540.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Villera IV is a small colony, that has been abruptly taken to the front scene when a 4-jumps route was discovered, leading directly to Sol.
 

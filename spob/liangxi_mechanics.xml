@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>120.0</value>
+    <base>120.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <blackmarket/>
     </services>
     <description>The station was originally built as a mobile home for a small group of Spacers. After having roamed the inner Human Sphere for some years, they choose to settle in the Mir system and make a living out of their skills as starship mechanics. They attached the station to an asteroid and scrapped the main engines, leaving only position-keeping verniers.
 

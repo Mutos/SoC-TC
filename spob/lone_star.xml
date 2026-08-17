@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>As its name states, Lone Star (or Solitaire) is a lonely independante PurrSphere Station, located in a system on the crossroad of the Independants Stars, 13-planets league and Ka'Ralt Secession.
 On only one jump of Corridor, it sometimes gives shelter to runaway Adrimai on the raod to Freedom.</description>

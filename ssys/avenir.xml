@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Avenir">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-701.48" y="-953.232"/>
   <spobs>
-    <spob>Avenir</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Avenir</spob>
   </spobs>
   <jumps>
     <jump target="Rho Indi">

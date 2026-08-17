@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>400.0</value>
+    <base>400.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The Pupeteers' cradleworld is a lush world, which has been named with the local world meaning "soil". It is often designated as "Pupeteers' Earth" in whatever language the map you're reading is written - here, Terranglo. It is also colloquially known as "The Cradle", from its stellar system's most used name.
 

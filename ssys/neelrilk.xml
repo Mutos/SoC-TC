@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Neel'Rilk">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-284.384" y="658.36"/>
   <spobs>
-    <spob>Neel'Rilk External Surveyor</spob>
+    <spob>Neel'Rilk Internal Surveyor</spob>
     <spob>Neel'Rilk Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Neel'Rilk Internal Surveyor</spob>
+    <spob>Neel'Rilk External Surveyor</spob>
   </spobs>
   <jumps>
     <jump target="AC 0014">

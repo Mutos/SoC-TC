@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A typical Irilia planet, mostly divided between sand deserts, tundras and forests, with small polar ice caps and oceans. Its wide biodiversity and rich ecosystems make it a prime provider of food for all the neighbouring sectors, and its high biocompatibility with all known lifeforms still enhanced this tendancy.
 

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>This Eralth class station has been built as a simple relay for travellers with short-ranged ships.</description>
     <bar>Mostly Rithai with a few Humans, waiting for maintenance and refuelling on their ships.</bar>

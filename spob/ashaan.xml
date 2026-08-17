@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Instrumentality Company</faction>
-    <value>850.0</value>
+    <base>850.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This planet is named after the ancient Toshic philosopher who discovered the law of natural selection. It has earned its name due to the ferocity of biological competition among its indigenous biosphere, split evenly between oceans and wood-covered lands.
 

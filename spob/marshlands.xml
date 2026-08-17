@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent Stars</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>8</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This pupeteer world has waited decades to be named, but it now seems that one have been chosen. This new name could be roughly translated to "Marshlands", which describes well the planet's main temperate ecosystems.
 

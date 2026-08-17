@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Shoden Clusters</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>When an advance party from the Shoden Northern Cluster discovered Bamara Station after an extended exploration, they never returned and were presumed lost. It was only a few weeks after, that Rarilash intelligence in the Human Sphere border became to speak of fleet movements towards a system beyond Nyotekundu. Hints were crossed and an armed exploration squad was launched, which came back after destroying human explorers in the buffer systems. A new border with the Human Sphere was being discovered. Stealth drones were sent to investigate the other end of the jump route.
 

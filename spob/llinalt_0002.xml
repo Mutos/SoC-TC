@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>K'Rinn Council</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -16,6 +17,8 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This unk'rinned station is one of the L'Linal't outposts, built by sublight nanoships before k'rinnkind discovered the jump drive.
 

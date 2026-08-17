@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>Ares is the second planet colonized in the Tau Ceti System, as one of the first Human Colonies.</description>
     <bar>None</bar>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irilia Clan</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A barren, desolate planet, save for an equatorial oceanic ring, it was among the first colonization targets to be found by rithkind, but was turned down by Arythem and Irmothem for not having enough indigenous lifeforms to support a sizeable colony.
 

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This station is a link between the Core Pupeteer Sphere and the Svenia Sector.</description>
     <bar>Spacers, mostly Pupeteers, but also representatives of all species.</bar>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>400.0</value>
+    <base>400.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This station lies on the main border between the Human and Rith Spheres, between the Planetarist Alliance and Irilia Clan. Built as a joint military outpost during the last phases of the war, it thrived in peace on the trade between the two winning States. However, with the development of the Three-Jumps-Route, it is slowly becoming obsolescent and is more and more used as a backdoor to its border States. 
   </description>

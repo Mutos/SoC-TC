@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>400.0</value>
+    <base>400.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This 13-Planets colony has yet to be named. Proposals currently go from "Great Reefs" to "Whales' Paradise" or "Othersea". They are all related to oceans, which take an important part of the planet's surface. The colony's population is still quite low and so is the number of visitors from other species, but this is expected to change in the coming decades, given the potential of the local ecosystems.
 

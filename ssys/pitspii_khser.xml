@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Pitspii Khser">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-3014.648" y="-2167.712"/>
   <spobs>
-    <spob>Tossch</spob>
     <spob>Sschot</spob>
+    <spob>Tossch</spob>
     <spob>Diidyi</spob>
   </spobs>
   <jumps>

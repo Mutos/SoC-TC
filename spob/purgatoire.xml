@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Ashioto Cluster</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,8 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <refuel/>
     </services>
     <description>This planet was the cradleworld of the sentient species currently called Purgatorians. They destroyed themselves some 8000 years before the first of the current major spacegoing species set up to space.
 

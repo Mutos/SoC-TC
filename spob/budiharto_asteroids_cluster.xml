@@ -7,13 +7,14 @@
   </GFX>
   <presence>
     <faction>Asteroids</faction>
-    <value>1e-06</value>
+    <base>1e-06</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
     <class>Z</class>
     <population>0</population>
     <hide>0.25</hide>
-    </services>
+    <services/>
   </general>
 </spob>

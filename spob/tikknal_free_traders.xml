@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Traders</faction>
-    <value>500.0</value>
+    <base>500.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This Free Traders station has been established by smugglers groups in need of a base for exporting illegally Purgatorian artifacts from Ashioto.
   </description>

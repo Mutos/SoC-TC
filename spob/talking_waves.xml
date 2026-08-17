@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Talking Waves took its name from its proteiform ocean life, that seems to pass from a shape to another with not much logic, and whose higher species are thought to be near-sentient.
 

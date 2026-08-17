@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="'Ha'Rtiish">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-3030.648" y="-2052.712"/>
   <spobs>
-    <spob>Sperah</spob>
-    <spob>Rumett'</spob>
     <spob>Hey'ett</spob>
     <spob>Koh'alish</spob>
+    <spob>Rumett'</spob>
+    <spob>Sperah</spob>
   </spobs>
   <jumps>
     <jump target="Control Point">

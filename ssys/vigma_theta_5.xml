@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Vigma (Theta 5)">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-1242.344" y="-1597.776"/>
   <spobs>
-    <spob>Ninh Long's Lair</spob>
-    <spob>Vigma-2.1</spob>
-    <spob>Vigma-2</spob>
-    <spob>Vigma-5</spob>
-    <spob>Vigma-4.1</spob>
-    <spob>Vigma-4.2</spob>
-    <spob>Vigma-3</spob>
-    <spob>Vigma-4</spob>
     <spob>Dumbach Meetpoint</spob>
+    <spob>Vigma-5</spob>
+    <spob>Vigma-4</spob>
+    <spob>Vigma-2</spob>
+    <spob>Vigma-4.2</spob>
+    <spob>Ninh Long's Lair</spob>
     <spob>Vigma-1</spob>
+    <spob>Vigma-4.1</spob>
+    <spob>Vigma-3</spob>
+    <spob>Vigma-2.1</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>

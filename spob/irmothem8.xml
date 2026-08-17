@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irmothem Clan</faction>
-    <value>300.0</value>
+    <base>300.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The latest Irmothem colony is an aquatic planet. Its situatiion near the Independant Stars border lifted it from the status of a backyards world to a small traing hub.
   </description>

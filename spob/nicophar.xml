@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Alliance</faction>
-    <value>200.0</value>
+    <base>200.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,10 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>Nicophar is a world of deep waters and high cliffs. Carplanes and boats are the main way to go from a mountain-island to another or to "land" in the leaf-like structure that floats on the Global Ocean. Cetaceans are considered as citizens by the authorities of this water planet. </description>
     <bar>Tourists, merchants and locals are sipping some drinks at the bar, under the curious eyes of all sorts of cetaceans on the other side of the reverse aquarium windows. </bar>

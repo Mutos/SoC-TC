@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Hermes">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-1555.112" y="-1345.488"/>
   <spobs>
     <spob>Hephaistos</spob>
-    <spob>Zeus</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Zeus</spob>
     <spob>Hermes Border Station</spob>
   </spobs>
   <jumps>

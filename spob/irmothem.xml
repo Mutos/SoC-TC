@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Irmothem Clan</faction>
-    <value>450.0</value>
+    <base>450.0</base>
+    <bonus>0</bonus>
     <range>4</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>The first extradromal world colonized by the Rithai was settled by plasma-driven sleeper ships built by the Irmothem Orbital Shipyards. This expedition prompted the Arythem-Irmothem "race for the stars" that took place just after the birth of the Irilia Clan.
 

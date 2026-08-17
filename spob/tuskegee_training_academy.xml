@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Core League</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>With its name a tribute to the glory days of the fight for equality in the army, the Tuskegee Training Academy, or TTA for shorts, is the most famous station in the Sol Training Network. It holds 2 courses, the first one for cadets and the second one a Top Gun session. It is established on an asteroid, which orbit is often modified by warpless thruster burns under strict in-base directions, so its exact position is never known outside a restricted circle of Core League military officials.
 

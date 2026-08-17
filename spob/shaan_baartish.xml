@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>This planet covered with woodlands and oceans was viewed by the Baartish people as a paradise and named "New Baartish" for its similarities to their capitol planet.
 

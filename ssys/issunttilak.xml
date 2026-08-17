@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Issun-T'Til'Ak">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-426.08" y="487.288"/>
   <spobs>
-    <spob>Issun b</spob>
     <spob>Issun Derelict 1</spob>
     <spob>Issun c</spob>
     <spob>Issun d</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>L'Linal't 0005</spob>
+    <spob>Issun b</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="AC 0014">

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Wolf 359">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1706.504" y="-501.072"/>
   <spobs>
-    <spob>Wolf-5</spob>
     <spob>Station-B</spob>
     <spob>Wolf-1</spob>
+    <spob>Wolf-5</spob>
   </spobs>
   <jumps>
     <jump target="Gl 534.1">

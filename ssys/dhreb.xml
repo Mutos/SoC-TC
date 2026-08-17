@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Dhreb">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="-2937.648" y="-2112.712"/>
   <spobs>
-    <spob>Obscure</spob>
-    <spob>Claire</spob>
     <spob>Sea Foam</spob>
+    <spob>Claire</spob>
+    <spob>Obscure</spob>
   </spobs>
   <jumps>
     <jump target="'Ha'Rtiish">

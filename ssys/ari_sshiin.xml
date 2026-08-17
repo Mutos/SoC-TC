@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Ari Sshiin">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="599.704" y="2190.0"/>
   <spobs>
-    <spob>Til'kk'Rantk Research Station</spob>
     <spob>Ari Shiin Debris Cloud</spob>
+    <spob>Til'kk'Rantk Research Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Free Adrimai</faction>
-    <value>220.0</value>
+    <base>220.0</base>
+    <bonus>0</bonus>
     <range>6</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Delri Base serves as an escort staging point for Adrimai exfiltration convoys from Irilia space to the 13-Planets League. Convoys going this way must be heavily escorted due to Gham Garri threat, the main routes to the Pupeteer Sphere passing only 3 jumps away from their Gham Dromae stronghold.
   </description>

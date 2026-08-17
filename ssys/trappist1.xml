@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Trappist-1">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2111.752" y="-585.4"/>
   <spobs>
-    <spob>Lambic</spob>
-    <spob>Kriek</spob>
-    <spob>Westmalle</spob>
-    <spob>Westvleteren</spob>
-    <spob>Zundert</spob>
     <spob>Chouffe</spob>
+    <spob>Orval</spob>
+    <spob>Kriek</spob>
+    <spob>Waterzooi</spob>
+    <spob>Lambic</spob>
     <spob>Speculoos Station</spob>
+    <spob>Westvleteren</spob>
+    <spob>Chimay</spob>
     <spob>Rochefort</spob>
     <spob>Gueuze</spob>
-    <spob>Chimay</spob>
+    <spob>Zundert</spob>
     <spob>La Trappe</spob>
-    <spob>Orval</spob>
-    <spob>Waterzooi</spob>
+    <spob>Westmalle</spob>
   </spobs>
   <jumps>
     <jump target="Gliese 1">

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Purple Trail</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>3</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Arcadia is the first planet colonized from Cartel. A water world with lots of islands, it shows far better living conditions than Cartel and actually, the most wealthy Cartelists are progressively relocating on the newly colonized world as more and more islands are offered for sale to private concerns.
   </description>

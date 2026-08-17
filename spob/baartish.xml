@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Baartish Intersystems</faction>
-    <value>350.0</value>
+    <base>350.0</base>
+    <bonus>0</bonus>
     <range>5</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>Home of the Baartish Intersystem Corporation-State, this lush moon orbiting around a gaz giant is one of the oldest sshaad colonies. It is ideal for sshaad life, with its continental masses nearly all covered with forests, with abundant oceanic and soft water, small polar caps and equatorial deserts just large enough to stabilize the climate. Moreover, their biocompatibility with the esshiinan ecosystems was found to be near 90%, with lots of bridge species to help integrate esshiinan species into the biotopes.
 

@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Thirteen Planets League</faction>
-    <value>50.0</value>
+    <base>50.0</base>
+    <bonus>0</bonus>
     <range>2</range>
   </presence>
   <general>
@@ -17,6 +18,9 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
     </services>
     <description>The first of the Purr Sphere lineage, and the origin of its name : its characteristic the low rumble.</description>
     <bar>A crowd of Pupeteer merchants and Spacers of all species.</bar>

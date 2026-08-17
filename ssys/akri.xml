@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Ak'ri">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-2540.072" y="1123.824"/>
   <spobs>
     <spob>Irnaali</spob>
-    <spob>Nali</spob>
     <spob>Shar'b Derelict Border Station</spob>
+    <spob>Nali</spob>
   </spobs>
   <jumps>
     <jump target="Maetel">

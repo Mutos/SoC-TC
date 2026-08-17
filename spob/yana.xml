@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Independent</faction>
-    <value>150.0</value>
+    <base>150.0</base>
+    <bonus>0</bonus>
     <range>0</range>
   </presence>
   <general>
@@ -17,6 +18,9 @@
     <services>
       <land/>
       <bar/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
     </services>
     <description>Yana is Captain Salomon's secret hideout. Its bays excavated from an asteroid are large enough to hold the Corda, Salomon's corvette, and often one or two friendly independent ships.
   </description>

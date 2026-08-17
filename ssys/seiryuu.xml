@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Seiryuu">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="-1503.272" y="-2150.736"/>
   <spobs>
+    <spob>Aoiyama</spob>
     <spob>Ryuu Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Aoiyama</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">

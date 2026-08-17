@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Ka'Ralt Crossing">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="1007.424" y="-654.912"/>
   <spobs>
-    <spob>Virtual Truce Local</spob>
-    <spob>K'Tint Nilal</spob>
     <spob>K'Tint</spob>
+    <spob>K'Tint Nilal</spob>
+    <spob>Virtual Truce Local</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0119 (KT 38)">

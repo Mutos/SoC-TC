@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="The Ring">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>0.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
   </general>
   <pos x="706.84" y="-4651.152"/>
   <spobs>
-    <spob>The Ring</spob>
     <spob>Bubble</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>The Ring</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0141">

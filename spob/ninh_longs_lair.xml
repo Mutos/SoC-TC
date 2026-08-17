@@ -7,7 +7,8 @@
   </GFX>
   <presence>
     <faction>Pirate</faction>
-    <value>100.0</value>
+    <base>100.0</base>
+    <bonus>0</bonus>
     <range>1</range>
   </presence>
   <general>
@@ -17,6 +18,11 @@
     <services>
       <land/>
       <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <commodities/>
     </services>
     <description>A hollow asteroid with a pirates' base within it, this base is so well hidden a regular ship could fly by it without detecting anything. The only way to locate it would be to follow pirate and smugglers traffic towards it.
 

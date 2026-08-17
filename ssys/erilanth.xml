@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ssys name="Erilanth">
   <general>
-    <radius>10000.0<radius>
-    <spacedust>400<spacedust>
-    <interference>100.0<interference>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
   </general>
   <pos x="1294.22176" y="1481.93472"/>
   <spobs>
     <spob>Erilanth</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Erilanth nel Nath</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0070">
