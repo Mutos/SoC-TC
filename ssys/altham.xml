@@ -7,10 +7,10 @@
   </general>
   <pos x="2484.952" y="-2525.712"/>
   <spobs>
-    <spob>Holin Altham</spob>
-    <spob>Altham Irla</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Holin Altham</spob>
     <spob>Altham Etrel</spob>
+    <spob>Altham Irla</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0044">
@@ -30,4 +30,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4326.291658" y="6167.738877"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9451.283315" y="-3017.311105"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2351.727773" y="-2995.124994"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1530.841664" y="10205.611091"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1331.166664" y="-1198.049998"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5635.272211" y="-2773.263883"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4015.686103" y="2351.727773"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

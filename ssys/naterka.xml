@@ -7,8 +7,8 @@
   </general>
   <pos x="2000.624" y="-561.68"/>
   <spobs>
-    <spob>Nat'Erka</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Nat'Erka</spob>
   </spobs>
   <jumps>
     <jump target="KR 0016">

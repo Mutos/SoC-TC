@@ -7,8 +7,8 @@
   </general>
   <pos x="-466.76" y="-2942.448"/>
   <spobs>
-    <spob>Savory Clouds</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Savory Clouds</spob>
     <spob>Divers' Beach</spob>
   </spobs>
   <jumps>
@@ -25,4 +25,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9340.352759" y="-2617.961106"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5058.433323" y="3483.219438"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -7,9 +7,9 @@
   </general>
   <pos x="255.832" y="-4087.824"/>
   <spobs>
-    <spob>Pink Dawn</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Setting Sun</spob>
+    <spob>Pink Dawn</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0083">
@@ -25,4 +25,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1624.023330" y="-958.439998"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2245.234440" y="-869.695554"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="8221.474310" y="-4984.911016"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1660.675715" y="-514.219743"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1202.487220" y="-93.181666"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

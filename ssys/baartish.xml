@@ -8,10 +8,10 @@
   <pos x="-4275.56" y="-942.288"/>
   <spobs>
     <spob>Baartish</spob>
-    <spob>Eshiil-Inaal</spob>
-    <spob>Tshonaal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Irselissh</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tshonaal</spob>
+    <spob>Eshiil-Inaal</spob>
   </spobs>
   <jumps>
     <jump target="BI 0023">

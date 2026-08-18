@@ -7,8 +7,8 @@
   </general>
   <pos x="-1202.28" y="-749.944"/>
   <spobs>
-    <spob>Nova Russia</spob>
     <spob>Medved</spob>
+    <spob>Nova Russia</spob>
   </spobs>
   <jumps>
     <jump target="CL-KC - 1 - 1">
@@ -24,4 +24,141 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4876.322328" y="4409.768642"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8386.349983" y="6256.483321"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9592.527552" y="-322.802591"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="22619.183955" y="4504.667991"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1456.674562" y="5756.988465"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="11767.883079" y="-4329.373063"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9387.098437" y="1833.704976"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-10547.073425" y="1934.106837"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9578.750740" y="-2310.950523"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3032.101846" y="3549.777771"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1446.333051" y="-9964.892614"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="22289.014238" y="3517.062262"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="313.760796" y="-9815.062071"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-643.397221" y="-9772.242388"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7173.373880" y="6474.098897"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2494.813400" y="-9814.100184"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8906.799172" y="4724.071882"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="10153.054028" y="-1656.604847"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="950.429925" y="-10551.882723"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3269.443301" y="-9375.152888"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3122.060787" y="3336.291296"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4070.924195" y="2894.878560"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3172.613883" y="-4237.547214"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2591.246342" y="4700.713862"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="21520.776220" y="2666.273581"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1175.134052" y="-9552.371046"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="11033.993148" y="-4869.460904"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

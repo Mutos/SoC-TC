@@ -7,10 +7,10 @@
   </general>
   <pos x="-1728.68" y="-310.744"/>
   <spobs>
-    <spob>Barnard b</spob>
     <spob>Barnard d</spob>
     <spob>Barnard e</spob>
     <spob>Barnard c</spob>
+    <spob>Barnard b</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3001">

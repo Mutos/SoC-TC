@@ -7,8 +7,8 @@
   </general>
   <pos x="-905.17472" y="-1272.66304"/>
   <spobs>
-    <spob>Yana</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Yana</spob>
   </spobs>
   <jumps>
     <jump target="Alphecca">
@@ -24,4 +24,56 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3557.659714" y="1993.655576"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2799.113064" y="-6715.269308"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8251.967469" y="4741.673453"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3131.088465" y="-6831.035776"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8906.799172" y="4724.071882"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4523.836791" y="1571.841597"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2706.547560" y="-6431.600828"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3124.647491" y="1414.068247"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3931.886057" y="1160.565215"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3051.213919" y="-6390.084266"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

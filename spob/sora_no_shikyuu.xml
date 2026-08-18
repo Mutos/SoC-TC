@@ -35,13 +35,13 @@ After the SnS terraformation effort, Legoupil successors failed to keep success 
     <bar>Proud locals boasting about the Birthplace of Planetarism and tourists, mostly Humans, attracted by the historic treasures, paradisiac vista and opportunity to meet celebrities.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

@@ -7,10 +7,10 @@
   </general>
   <pos x="-1907.456" y="-2482.528"/>
   <spobs>
-    <spob>Dawn Moon</spob>
-    <spob>Haven</spob>
     <spob>Dusk Moon</spob>
     <spob>New Link Station</spob>
+    <spob>Dawn Moon</spob>
+    <spob>Haven</spob>
   </spobs>
   <jumps>
     <jump target="PA-SC - 1 - 2">

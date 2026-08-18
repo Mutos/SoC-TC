@@ -7,8 +7,8 @@
   </general>
   <pos x="29.464" y="-3868.368"/>
   <spobs>
-    <spob>Void's Expanse</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Void's Expanse</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0092">
@@ -24,4 +24,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7299.230541" y="7521.091652"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8674.769427" y="4060.058325"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

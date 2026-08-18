@@ -7,13 +7,13 @@
   </general>
   <pos x="81.216" y="-409.536"/>
   <spobs>
-    <spob>Uktalm</spob>
+    <spob>A'Ilnet</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>T'Ilnet</spob>
-    <spob>El'Tinal</spob>
     <spob>Alin'T</spob>
     <spob>T'Telnar</spob>
-    <spob>A'Ilnet</spob>
+    <spob>Uktalm</spob>
+    <spob>T'Ilnet</spob>
+    <spob>El'Tinal</spob>
   </spobs>
   <jumps>
     <jump target="KT 35">
@@ -29,4 +29,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4810.966123" y="4336.498810"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3242.122850" y="-2448.147197"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2353.445846" y="-2908.509001"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9096.305538" y="-3827.104159"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4574.418412" y="2460.175611"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -7,8 +7,8 @@
   </general>
   <pos x="356.56" y="210.936"/>
   <spobs>
-    <spob>L'Linal't 0002</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>L'Linal't 0002</spob>
   </spobs>
   <jumps>
     <jump target="KT 53">
@@ -20,4 +20,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="11958.313865" y="-2507.030551"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="11558.963866" y="-931.816665"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="11159.613867" y="-1575.213886"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -8,8 +8,8 @@
   <pos x="1351.384" y="-2928.336"/>
   <spobs>
     <spob>Elthain</spob>
-    <spob>Irilia-18</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irilia-18</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0225">
@@ -25,4 +25,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3113.626515" y="-7949.684720"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2318.658043" y="-8214.674211"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

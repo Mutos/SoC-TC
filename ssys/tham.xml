@@ -7,9 +7,9 @@
   </general>
   <pos x="1892.824" y="-2564.304"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Tham</spob>
     <spob>Tham Relay</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0068">
@@ -25,4 +25,11 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3216.986105" y="-2107.680551"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

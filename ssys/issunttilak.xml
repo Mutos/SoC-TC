@@ -7,12 +7,12 @@
   </general>
   <pos x="-426.08" y="487.288"/>
   <spobs>
-    <spob>Issun b</spob>
-    <spob>Issun c</spob>
     <spob>Issun Derelict 1</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Issun b</spob>
     <spob>Issun d</spob>
     <spob>L'Linal't 0005</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Issun c</spob>
   </spobs>
   <jumps>
     <jump target="AC 0014">
@@ -24,4 +24,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3833.759992" y="-2635.709995"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-505.843332" y="-2129.866662"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-6655.833320" y="-7561.026652"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1996.749996" y="-2688.956661"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

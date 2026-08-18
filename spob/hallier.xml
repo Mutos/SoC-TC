@@ -35,8 +35,8 @@ Hallier never developped like Eden and for many people, it is not seen as a true
     <bar>Tradesbeings and spacers, mostly Humans as we are in the core of the Human Sphere</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

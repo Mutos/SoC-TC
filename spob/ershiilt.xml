@@ -31,10 +31,10 @@ Being relatively near to the Shoden border, the planet first followed their opin
     <bar>A large number of native Sshaads, some Shapeshifters and a few tourists</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

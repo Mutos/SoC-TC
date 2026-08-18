@@ -7,10 +7,10 @@
   </general>
   <pos x="2595.68224" y="-2121.36"/>
   <spobs>
-    <spob>Matholnisht</spob>
-    <spob>Melaneth Cache</spob>
-    <spob>Matholn'ejj</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Matholn'ejj</spob>
+    <spob>Melaneth Cache</spob>
+    <spob>Matholnisht</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0099">
@@ -30,4 +30,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2262.983329" y="-4814.386102"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2884.194439" y="-4747.827768"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2728.891661" y="-4858.758324"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2884.194439" y="5923.691655"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

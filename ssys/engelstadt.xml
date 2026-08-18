@@ -9,9 +9,9 @@
   <spobs>
     <spob>Smernya</spob>
     <spob>Krasnoia Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Engelstadt</spob>
     <spob>Hallier</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="GJ 1097">
@@ -23,4 +23,36 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4190.709868" y="1170.933640"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3913.383480" y="970.642359"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4098.267739" y="-3820.941350"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3528.207941" y="-4129.081782"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3444.863379" y="1258.700081"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3248.006276" y="1025.118267"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

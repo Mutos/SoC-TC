@@ -7,8 +7,8 @@
   </general>
   <pos x="-2175.296" y="-2343.712"/>
   <spobs>
-    <spob>Shadow Base</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shadow Base</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">
@@ -32,4 +32,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6932.715986" y="2843.371994"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6293.755988" y="2747.527995"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

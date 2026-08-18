@@ -8,8 +8,8 @@
   <pos x="-1706.504" y="-501.072"/>
   <spobs>
     <spob>Wolf-5</spob>
-    <spob>Wolf-1</spob>
     <spob>Station-B</spob>
+    <spob>Wolf-1</spob>
   </spobs>
   <jumps>
     <jump target="Gl 534.1">

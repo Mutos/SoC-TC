@@ -33,17 +33,17 @@ Sanctuarians have a reputation of being overly proud, especially the original se
     <bar>Proud and well-off Planetarist dignitaries and upper-class people, along with a host of wealthy visitors from all the known universe</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

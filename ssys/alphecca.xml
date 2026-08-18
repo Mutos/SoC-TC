@@ -7,8 +7,8 @@
   </general>
   <pos x="-1001.576" y="-1219.92"/>
   <spobs>
-    <spob>Astarte</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Astarte</spob>
   </spobs>
   <jumps>
     <jump target="Gl 86">
@@ -28,4 +28,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1862.632766" y="-659.364121"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1941.284718" y="-1035.351850"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1479.074071" y="-795.002313"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2495.937495" y="-776.513887"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

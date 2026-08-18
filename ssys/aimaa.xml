@@ -7,14 +7,14 @@
   </general>
   <pos x="-3761.768" y="-108.24"/>
   <spobs>
+    <spob>Oreel</spob>
+    <spob>Hiini</spob>
+    <spob>Eraanol</spob>
     <spob>Aimaa</spob>
     <spob>Ets'aalin</spob>
-    <spob>Eraan'tsh</spob>
-    <spob>Hiini</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Eraanol</spob>
     <spob>Anil'haan</spob>
-    <spob>Oreel</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eraan'tsh</spob>
   </spobs>
   <jumps>
     <jump target="BI 0050">
@@ -34,4 +34,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9007.561093" y="-3682.894437"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5213.736101" y="-2174.238885"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="22.186111" y="5524.341656"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

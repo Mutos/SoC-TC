@@ -31,10 +31,10 @@ The planet has long been stricly reserved for Sshaads only, but has recently bee
     <bar>Mainly sshaad science people with an occasional Shapeshifter and several Pupeteers.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

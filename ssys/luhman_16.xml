@@ -28,4 +28,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="954.002776" y="5923.691655"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3768.146624" y="2890.049107"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

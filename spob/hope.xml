@@ -31,13 +31,13 @@ Since then, the planet, which is roughly at the centre of the Human Sphere, has 
     <bar>The bar is crowded by a mix of wealthy patrons, corpsuits and a few spacers, most of them human, but with some K'rinns and Rithai</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

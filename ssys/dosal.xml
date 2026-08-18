@@ -7,9 +7,9 @@
   </general>
   <pos x="818.408" y="-1627.664"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Dosal Relay</spob>
     <spob>Dosal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0018">
@@ -25,4 +25,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4969.688879" y="2662.333328"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3172.613883" y="-4237.547214"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3882.569437" y="-2174.238885"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3017.311105" y="2307.355551"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8164.488873" y="-5080.619434"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

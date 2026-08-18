@@ -8,8 +8,8 @@
   <pos x="-3815.336" y="1192.944"/>
   <spobs>
     <spob>Shiren</spob>
-    <spob>Shilian</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shilian</spob>
   </spobs>
   <jumps>
     <jump target="IC 0032">
@@ -25,4 +25,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9073.581280" y="-3900.688922"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-980.087963" y="1290.861067"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2364.501293" y="4033.064395"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

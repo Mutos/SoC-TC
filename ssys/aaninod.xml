@@ -7,8 +7,8 @@
   </general>
   <pos x="-5584.808" y="-1169.232"/>
   <spobs>
-    <spob>Aan-Inod</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aan-Inod</spob>
   </spobs>
   <jumps>
     <jump target="Aan 14">

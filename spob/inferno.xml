@@ -29,9 +29,9 @@
     <bar>A dull place populated by miners, mainly Rithai and Humans</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

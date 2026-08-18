@@ -7,8 +7,8 @@
   </general>
   <pos x="-863.912" y="-2639.76"/>
   <spobs>
-    <spob>Explorers' Cabin</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Explorers' Cabin</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0017">
@@ -28,4 +28,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3727.266659" y="-9105.179982"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7800.636651" y="6309.729988"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3301.293327" y="-3035.059994"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2715.579995" y="-3381.163327"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

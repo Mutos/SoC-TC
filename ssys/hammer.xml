@@ -7,8 +7,8 @@
   </general>
   <pos x="-3554.408" y="-1782.672"/>
   <spobs>
-    <spob>Iron Hammer</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Iron Hammer</spob>
   </spobs>
   <jumps>
     <jump target="Alshiinal">
@@ -24,4 +24,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1036.063867" y="-1212.999537"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-511.167999" y="-958.439998"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-453.604850" y="-1703.160027"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-82.550727" y="-1189.082180"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

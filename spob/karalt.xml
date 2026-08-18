@@ -39,17 +39,17 @@ Nearly a century after the events, the role of Ka'Ralt in the war is still a top
     <bar>A varied crowd of Ka'Ralters, most of them dressed in the colorful attire their culture is known for</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

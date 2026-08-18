@@ -7,8 +7,8 @@
   </general>
   <pos x="-2396.648" y="399.792"/>
   <spobs>
-    <spob>Virtual Miner Local</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Virtual Miner Local</spob>
   </spobs>
   <jumps>
     <jump target="CL 0042">
@@ -24,4 +24,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2018.936107" y="4326.291658"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5080.619434" y="-1464.283330"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="954.002776" y="465.908332"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5768.388878" y="-133.116666"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

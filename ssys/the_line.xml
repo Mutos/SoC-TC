@@ -7,8 +7,8 @@
   </general>
   <pos x="299.032" y="-2791.824"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Line Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Gentle Light">
@@ -24,4 +24,11 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7711.317012" y="2147.430667"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

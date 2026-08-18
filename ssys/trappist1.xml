@@ -7,19 +7,19 @@
   </general>
   <pos x="-2111.752" y="-585.4"/>
   <spobs>
-    <spob>Waterzooi</spob>
-    <spob>Orval</spob>
+    <spob>Chimay</spob>
     <spob>Westmalle</spob>
-    <spob>Rochefort</spob>
-    <spob>Westvleteren</spob>
+    <spob>La Trappe</spob>
     <spob>Lambic</spob>
+    <spob>Kriek</spob>
+    <spob>Orval</spob>
+    <spob>Westvleteren</spob>
+    <spob>Waterzooi</spob>
+    <spob>Rochefort</spob>
+    <spob>Zundert</spob>
+    <spob>Chouffe</spob>
     <spob>Speculoos Station</spob>
     <spob>Gueuze</spob>
-    <spob>Chimay</spob>
-    <spob>Chouffe</spob>
-    <spob>Zundert</spob>
-    <spob>La Trappe</spob>
-    <spob>Kriek</spob>
   </spobs>
   <jumps>
     <jump target="Gliese 1">

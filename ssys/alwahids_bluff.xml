@@ -9,8 +9,8 @@
   <spobs>
     <spob>Salam</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Nour</spob>
     <spob>Freeport 5</spob>
+    <spob>Nour</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">
@@ -30,4 +30,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1941.284718" y="-4640.594898"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1368.143516" y="-4862.456009"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

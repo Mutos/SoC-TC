@@ -7,9 +7,9 @@
   </general>
   <pos x="-4027.74176" y="-1032.78912"/>
   <spobs>
-    <spob>Niishin Border Station</spob>
-    <spob>Nolaas</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Nolaas</spob>
+    <spob>Niishin Border Station</spob>
   </spobs>
   <jumps>
     <jump target="BI 0180">
@@ -29,4 +29,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3017.311105" y="-4508.217769"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7600.961652" y="110.930555"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="732.141665" y="860.821109"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

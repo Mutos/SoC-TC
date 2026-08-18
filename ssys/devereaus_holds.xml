@@ -7,9 +7,9 @@
   </general>
   <pos x="-1690.05472" y="-1911.81312"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Devereau's Holds</spob>
     <spob>Wai</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Control Point">
@@ -37,4 +37,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2640.147217" y="909.630554"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9451.283315" y="-2768.826661"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9672.116410" y="-993.710590"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

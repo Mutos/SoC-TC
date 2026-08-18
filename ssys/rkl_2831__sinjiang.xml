@@ -7,10 +7,10 @@
   </general>
   <pos x="-266.976" y="-660.672"/>
   <spobs>
-    <spob>Embruns</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Vertigo</spob>
     <spob>Sinjiang Trading Station</spob>
+    <spob>Vertigo</spob>
+    <spob>Embruns</spob>
   </spobs>
   <jumps>
     <jump target="Anel'f T'en">
@@ -30,4 +30,51 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-14141.113394" y="6720.172332"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3194.725454" y="-9354.432940"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8611.677837" y="-10815.679472"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-14292.001668" y="-4028.566117"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-13782.769840" y="6164.944146"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2210.298947" y="-943.513893"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4571.078417" y="10400.937613"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1632.890142" y="-7374.753924"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9451.283315" y="-2768.826661"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

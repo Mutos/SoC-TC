@@ -7,9 +7,9 @@
   </general>
   <pos x="2355.352" y="-1729.104"/>
   <spobs>
-    <spob>Halisht Relay</spob>
     <spob>Halisht</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Halisht Relay</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0102">
@@ -25,4 +25,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9562.213870" y="-2751.077772"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="825.323332" y="-905.193332"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

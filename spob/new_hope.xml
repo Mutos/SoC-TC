@@ -33,10 +33,10 @@ The planet is currently littered with terraformation sites using various technol
     <bar>A joyous crowd of Shapeshifters exhibiting all-out confidence in the Resistance. Sentients of other species are accepted, but Sshaads are often looked down upon, despite the fact the ones who get that far are allies to the Resistance.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

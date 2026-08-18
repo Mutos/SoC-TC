@@ -7,12 +7,12 @@
   </general>
   <pos x="-3917.288" y="847.344"/>
   <spobs>
-    <spob>Oshiin</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ha'Rsshiinan Base</spob>
     <spob>Sshain al Linaal</spob>
     <spob>Linaal</spob>
+    <spob>Oshiin</spob>
     <spob>Eresh</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ha'Rsshiinan Base</spob>
   </spobs>
   <jumps>
     <jump target="IC 0006">
@@ -28,4 +28,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7176.952247" y="5727.528811"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7810.731100" y="6287.794174"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4024.256972" y="-1520.601701"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

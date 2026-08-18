@@ -7,8 +7,8 @@
   </general>
   <pos x="-3672.776" y="-828.24"/>
   <spobs>
-    <spob>Nya Jorden</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Nya Jorden</spob>
   </spobs>
   <jumps>
     <jump target="Gleipnir">
@@ -24,4 +24,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="674.746311" y="5498.681835"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4852.297129" y="4797.304647"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4236.016266" y="5541.977357"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

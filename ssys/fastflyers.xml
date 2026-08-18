@@ -7,8 +7,8 @@
   </general>
   <pos x="5060.912" y="-2105.6"/>
   <spobs>
-    <spob>FastFlyers Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>FastFlyers Border Station</spob>
   </spobs>
   <jumps>
     <jump target="IS 0069">
@@ -24,4 +24,11 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2107.680551" y="6500.530543"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

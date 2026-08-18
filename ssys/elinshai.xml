@@ -7,9 +7,9 @@
   </general>
   <pos x="-4648.232" y="1389.936"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eliinal Outpost</spob>
     <spob>Eliinal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="IC 0066">
@@ -25,4 +25,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1560.801788" y="-2008.253248"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1329.696464" y="-2146.916442"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

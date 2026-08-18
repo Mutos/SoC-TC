@@ -8,12 +8,12 @@
   <pos x="-2180.216" y="-327.504"/>
   <spobs>
     <spob>Janssen</spob>
-    <spob>Galilee</spob>
-    <spob>Harriot</spob>
     <spob>Cunitz</spob>
-    <spob>Brahe</spob>
-    <spob>Bruno</spob>
+    <spob>Harriot</spob>
     <spob>Lipperhey</spob>
+    <spob>Bruno</spob>
+    <spob>Brahe</spob>
+    <spob>Galilee</spob>
   </spobs>
   <jumps>
     <jump target="CL 0015">

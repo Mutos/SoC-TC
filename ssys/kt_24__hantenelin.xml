@@ -7,8 +7,8 @@
   </general>
   <pos x="-458.984" y="-370.032"/>
   <spobs>
-    <spob>Han'Tenelin</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Han'Tenelin</spob>
   </spobs>
   <jumps>
     <jump target="BI-KC - 1 - 1">
@@ -24,4 +24,51 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4397.933273" y="2243.703776"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2512.113832" y="5815.667658"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4245.694781" y="2779.691231"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3607.635174" y="2618.387165"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4187.487624" y="2350.865317"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2197.914329" y="5343.399972"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2466.680238" y="5872.724994"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3055.390537" y="5828.639831"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3018.584003" y="5650.762676"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

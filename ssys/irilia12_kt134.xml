@@ -7,10 +7,10 @@
   </general>
   <pos x="1371.432" y="-334.088"/>
   <spobs>
-    <spob>KT-134 Station</spob>
     <spob>Elinth</spob>
-    <spob>Irilia-12</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>KT-134 Station</spob>
+    <spob>Irilia-12</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0120 (KT 76)">
