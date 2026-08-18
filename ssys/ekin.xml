@@ -7,14 +7,14 @@
   </general>
   <pos x="0.0" y="0.0"/>
   <spobs>
+    <spob>Jor'Ka</spob>
     <spob>Jor'Nilka</spob>
+    <spob>Kirt</spob>
     <spob>K'H'An Station</spob>
+    <spob>Jor'Nilom</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>H'Rkann</spob>
-    <spob>Jor'Ka</spob>
     <spob>Hanil</spob>
-    <spob>Kirt</spob>
-    <spob>Jor'Nilom</spob>
   </spobs>
   <jumps>
     <jump target="KT 145">
@@ -30,4 +30,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3138.821247" y="-1276.841162"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4182.081936" y="5228.526842"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9311.924877" y="3749.933686"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="8734.067755" y="-1024.806643"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

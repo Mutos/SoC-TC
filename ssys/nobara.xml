@@ -7,8 +7,8 @@
   </general>
   <pos x="-1266.11872" y="-1989.86112"/>
   <spobs>
-    <spob>Rosiere</spob>
     <spob>Oscar</spob>
+    <spob>Rosiere</spob>
   </spobs>
   <jumps>
     <jump target="Devereau's Holds">

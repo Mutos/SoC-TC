@@ -7,10 +7,10 @@
   </general>
   <pos x="-1662.96" y="-682.776"/>
   <spobs>
-    <spob>Fort Solis</spob>
+    <spob>Megara</spob>
     <spob>Hercules</spob>
     <spob>PIF High-Station</spob>
-    <spob>Megara</spob>
+    <spob>Fort Solis</spob>
   </spobs>
   <jumps>
     <jump target="CL-HnH - 2 - 1">
@@ -30,4 +30,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3301.293327" y="-3035.059994"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2848.985539" y="-4491.999012"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-931.816665" y="9650.958314"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="954.002776" y="465.908332"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

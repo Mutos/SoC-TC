@@ -31,17 +31,17 @@ The system itself is remarkable with its one-jump exit, that slowed the Pupeteer
     <bar>A crowd of well-off Pupeteers on bearers richly decorated from both gengineered and manufactured jewels, and an occasional non-Pupeteer visitor</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

@@ -8,8 +8,8 @@
   <pos x="-1856.16864" y="-2097.744"/>
   <spobs>
     <spob>Freeport 3</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shadow Grave</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">
@@ -29,4 +29,61 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="771.943502" y="6061.358634"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1436.026037" y="5296.236820"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4236.016266" y="5541.977357"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1456.674562" y="5756.988465"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4942.171422" y="5336.550402"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5032.045714" y="5875.796158"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4852.297129" y="4797.304647"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1910.824167" y="7083.067693"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1439.126034" y="6777.840001"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2427.895431" y="5427.841261"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="674.746311" y="5498.681835"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

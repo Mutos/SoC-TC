@@ -7,17 +7,17 @@
   </general>
   <pos x="-1242.344" y="-1597.776"/>
   <spobs>
-    <spob>Ninh Long's Lair</spob>
+    <spob>Vigma-4</spob>
+    <spob>Vigma-2.1</spob>
+    <spob>Vigma-1</spob>
+    <spob>Dumbach Meetpoint</spob>
+    <spob>Vigma-5</spob>
     <spob>Vigma-4.1</spob>
     <spob>Vigma-3</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Vigma-1</spob>
+    <spob>Ninh Long's Lair</spob>
     <spob>Vigma-4.2</spob>
-    <spob>Vigma-5</spob>
-    <spob>Dumbach Meetpoint</spob>
-    <spob>Vigma-2.1</spob>
     <spob>Vigma-2</spob>
-    <spob>Vigma-4</spob>
   </spobs>
   <jumps>
     <jump target="Theta 2">
@@ -33,4 +33,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2711.996008" y="2697.575702"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2089.192126" y="2588.379625"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

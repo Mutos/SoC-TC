@@ -7,11 +7,11 @@
   </general>
   <pos x="1019.608" y="-2356.368"/>
   <spobs>
-    <spob>Daleth ud Eralth</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ereth</spob>
     <spob>Ghanilan</spob>
     <spob>Eral</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ereth</spob>
+    <spob>Daleth ud Eralth</spob>
   </spobs>
   <jumps>
     <jump target="Iri 00174">
@@ -27,4 +27,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2129.866662" y="-1908.005552"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9495.655537" y="3106.055549"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3616.336104" y="3438.847215"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

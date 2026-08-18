@@ -7,11 +7,11 @@
   </general>
   <pos x="-1874.25312" y="-1628.6592"/>
   <spobs>
-    <spob>Tempest</spob>
-    <spob>Nemesis</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Tempest LRS</spob>
     <spob>Typhoon</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tempest</spob>
+    <spob>Tempest LRS</spob>
+    <spob>Nemesis</spob>
   </spobs>
   <jumps>
     <jump target="Algol">
@@ -23,4 +23,36 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4581.431935" y="4829.176842"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4022.341937" y="4696.060176"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4128.835270" y="-2252.629810"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4204.268047" y="8955.793501"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4182.081936" y="5228.526842"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3250.265271" y="4962.293509"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

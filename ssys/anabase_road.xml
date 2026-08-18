@@ -7,8 +7,8 @@
   </general>
   <pos x="-2749.128" y="-1039.88"/>
   <spobs>
-    <spob>Sheng Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Sheng Border Station</spob>
   </spobs>
   <jumps>
     <jump target="CL-PT - 1 - 2">
@@ -24,4 +24,36 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3434.752468" y="-1015.854789"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2476.555894" y="-1699.868358"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3770.120337" y="-409.103214"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2403.495366" y="-816.572143"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2588.379625" y="-1309.596834"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3281.695595" y="-1494.481093"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

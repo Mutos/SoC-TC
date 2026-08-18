@@ -7,8 +7,8 @@
   </general>
   <pos x="2276.44" y="-1072.752"/>
   <spobs>
-    <spob>K'Tilk'Elh</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>K'Tilk'Elh</spob>
   </spobs>
   <jumps>
     <jump target="KR 0038">
@@ -16,4 +16,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6506.289702" y="5637.744276"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2495.937495" y="-776.513887"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4862.597764" y="2718.319003"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3616.336104" y="3438.847215"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1611.608695" y="9147.405493"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3374.800421" y="8655.603872"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5521.314878" y="1935.403210"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

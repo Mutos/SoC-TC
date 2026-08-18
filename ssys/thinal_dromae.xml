@@ -7,10 +7,10 @@
   </general>
   <pos x="4238.872" y="-1768.848"/>
   <spobs>
-    <spob>Thinal</spob>
-    <spob>Salinath</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ainal</spob>
+    <spob>Salinath</spob>
+    <spob>Thinal</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0049">
@@ -26,4 +26,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3227.797725" y="3535.828596"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3775.486664" y="3824.468793"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

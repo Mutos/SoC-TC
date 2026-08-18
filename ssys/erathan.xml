@@ -7,10 +7,10 @@
   </general>
   <pos x="-37.928" y="1671.6"/>
   <spobs>
-    <spob>Erathan Base</spob>
-    <spob>Alaissh</spob>
-    <spob>Arythem 11 - Erathan</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Alaissh</spob>
+    <spob>Erathan Base</spob>
+    <spob>Arythem 11 - Erathan</spob>
   </spobs>
   <jumps>
     <jump target="BI-Ary-Shc - 1 - 1">
@@ -26,4 +26,56 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-6274.534322" y="1018.725496"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8611.677837" y="-10815.679472"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7333.932075" y="1154.011937"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5367.050845" y="-3742.011707"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-13546.638879" y="6002.769617"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-12790.536214" y="6423.418283"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8231.362450" y="-10384.945386"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7906.913202" y="-10846.641865"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7074.553988" y="1812.807579"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1091.615465" y="6927.590125"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

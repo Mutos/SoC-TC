@@ -7,9 +7,9 @@
   </general>
   <pos x="452.824" y="-1521.648"/>
   <spobs>
-    <spob>Thim ud Aragwedyr</spob>
-    <spob>Thim Humae</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Thim Humae</spob>
+    <spob>Thim ud Aragwedyr</spob>
   </spobs>
   <jumps>
     <jump target="Althaim">
@@ -29,4 +29,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7097.876654" y="4033.541328"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-6462.215789" y="3966.772102"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-6866.771331" y="3709.993875"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

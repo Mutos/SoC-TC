@@ -8,11 +8,11 @@
   <pos x="2258.584" y="531.12"/>
   <spobs>
     <spob>Arythem-5</spob>
-    <spob>Arythem-5 EWS Buoy #2</spob>
-    <spob>Themia</spob>
     <spob>Arythem-5 EWS Buoy #3</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Arythem-5 EWS Buoy #1</spob>
+    <spob>Arythem-5 EWS Buoy #2</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Themia</spob>
     <spob>Karnil Quarantine Station</spob>
   </spobs>
   <jumps>
@@ -33,4 +33,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7420.223479" y="6812.321069"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="12135.047239" y="-335.131137"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

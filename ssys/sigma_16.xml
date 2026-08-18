@@ -9,8 +9,8 @@
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shiinal</spob>
-    <spob>Skaasht Base</spob>
     <spob>Telshk</spob>
+    <spob>Skaasht Base</spob>
   </spobs>
   <jumps>
     <jump target="Sigma 14">
@@ -34,4 +34,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7848.234077" y="5742.607795"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9578.750740" y="-2310.950523"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1192.400756" y="-4108.025519"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9607.807001" y="2137.999516"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2379.563125" y="6541.307793"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1847.096460" y="6452.563349"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-10547.073425" y="1934.106837"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

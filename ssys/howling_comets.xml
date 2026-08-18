@@ -7,8 +7,8 @@
   </general>
   <pos x="-12.008" y="-3223.824"/>
   <spobs>
-    <spob>Howling Comets</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Howling Comets</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0034">
@@ -20,4 +20,36 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5391.224989" y="-3638.522215"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5746.202766" y="-2728.891661"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8142.302762" y="4903.130546"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4681.269435" y="8918.816649"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5014.061101" y="-3106.055549"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1686.144441" y="-2662.333328"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

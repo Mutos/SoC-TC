@@ -42,17 +42,17 @@ The first non-Humans to be inducted in the new Honor Dome will be the crew of th
     <bar>The bar is crowded by tourists, both Humans and non-Humans, with a predominance of Rithai.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

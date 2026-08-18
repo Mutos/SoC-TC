@@ -7,9 +7,9 @@
   </general>
   <pos x="989.48" y="-1803.92"/>
   <spobs>
-    <spob>Irilia-4</spob>
-    <spob>Skamh</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Skamh</spob>
+    <spob>Irilia-4</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0011">
@@ -25,4 +25,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6729.787024" y="-1257.212960"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5380.131934" y="-1442.097219"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4770.013879" y="-1109.305553"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5971.761562" y="-831.979165"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5916.296285" y="-1848.842589"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

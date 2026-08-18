@@ -7,9 +7,9 @@
   </general>
   <pos x="-852.8272" y="-1729.6128"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Sanctuary</spob>
     <spob>Mahavikra Flight School</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="PA 0016">
@@ -25,4 +25,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7617.231466" y="6230.599525"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="10128.649306" y="-1683.967717"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="10738.767360" y="-778.034849"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9296.670141" y="-2146.178365"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -37,10 +37,10 @@ The heavily endoctrinated population despises all non-Humans, depicted as either
     <bar>You see only Humans in the Bar, and you feel non-Humans aren't welcome.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

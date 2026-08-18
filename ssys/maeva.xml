@@ -7,8 +7,8 @@
   </general>
   <pos x="3053.464" y="-1245.264"/>
   <spobs>
-    <spob>Aerith</spob>
     <spob>Danae</spob>
+    <spob>Aerith</spob>
   </spobs>
   <jumps>
     <jump target="Irali">
@@ -20,4 +20,46 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4858.758324" y="3327.916660"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2210.298947" y="-943.513893"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-653.134459" y="1604.405056"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4852.297129" y="4797.304647"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6702.054385" y="-1278.782791"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="22.186111" y="5524.341656"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5923.691655" y="-6212.111099"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2706.547560" y="-6431.600828"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -7,11 +7,11 @@
   </general>
   <pos x="-844.256" y="411.256"/>
   <spobs>
-    <spob>Saffar</spob>
     <spob>Samh</spob>
     <spob>Titawin Ae</spob>
     <spob>Majriti</spob>
     <spob>Astrolabe</spob>
+    <spob>Saffar</spob>
   </spobs>
   <jumps>
     <jump target="AC 0007">

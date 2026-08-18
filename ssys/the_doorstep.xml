@@ -7,12 +7,12 @@
   </general>
   <pos x="302.488" y="-4215.696"/>
   <spobs>
-    <spob>Melina</spob>
-    <spob>Shesinda</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Talinsa</spob>
-    <spob>Teshinda</spob>
+    <spob>Melina</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shesinda</spob>
     <spob>Cresina</spob>
+    <spob>Teshinda</spob>
   </spobs>
   <jumps>
     <jump target="Shine">
@@ -32,4 +32,71 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3483.219438" y="4681.269435"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2884.194439" y="5324.666656"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2884.194439" y="4636.897213"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7942.627762" y="-5346.852767"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3438.847215" y="5102.805546"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2462.658328" y="-3638.522215"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3971.313881" y="-8852.258316"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9229.422204" y="3216.986105"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7299.230541" y="-4947.502768"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8164.488873" y="-5369.038878"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-13156.363863" y="-2595.774995"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2041.122218" y="-3549.777771"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8497.280539" y="-5280.294434"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

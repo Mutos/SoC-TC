@@ -7,9 +7,9 @@
   </general>
   <pos x="-3315.944" y="757.488"/>
   <spobs>
-    <spob>Sshiinan Border Station</spob>
-    <spob>Aarinel</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aarinel</spob>
+    <spob>Sshiinan Border Station</spob>
   </spobs>
   <jumps>
     <jump target="BI 0056">
@@ -25,4 +25,16 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="8186.674984" y="-1175.863887"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-1530.841664" y="9717.516648"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

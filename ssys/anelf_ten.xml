@@ -7,8 +7,8 @@
   </general>
   <pos x="-143.712" y="-492.48"/>
   <spobs>
-    <spob>Anel'f Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Anel'f Border Station</spob>
   </spobs>
   <jumps>
     <jump target="KT 35">
@@ -28,4 +28,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3301.293327" y="-2076.619996"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="8972.063316" y="-3887.006659"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1810.386663" y="-5484.406656"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -7,8 +7,8 @@
   </general>
   <pos x="1141.144" y="-3142.032"/>
   <spobs>
-    <spob>Skaeth Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Skaeth Border Station</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0242">
@@ -24,4 +24,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3061.683327" y="909.630554"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2462.658328" y="221.861111"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1974.563885" y="-2817.636106"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2307.355551" y="-3239.172216"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3571.963882" y="1575.213886"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2884.194439" y="-2773.263883"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6389.599987" y="7543.277763"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

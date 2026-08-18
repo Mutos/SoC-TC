@@ -7,8 +7,8 @@
   </general>
   <pos x="-1641.8" y="-3779.8"/>
   <spobs>
-    <spob>High-Woods Memento</spob>
     <spob>Irilia-23</spob>
+    <spob>High-Woods Memento</spob>
   </spobs>
   <jumps>
     <jump target="Aareli">

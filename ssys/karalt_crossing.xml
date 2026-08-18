@@ -7,9 +7,9 @@
   </general>
   <pos x="1007.424" y="-654.912"/>
   <spobs>
-    <spob>Virtual Truce Local</spob>
-    <spob>K'Tint Nilal</spob>
     <spob>K'Tint</spob>
+    <spob>K'Tint Nilal</spob>
+    <spob>Virtual Truce Local</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0119 (KT 38)">
@@ -29,4 +29,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6550.890818" y="1720.642141"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="22.186111" y="5524.341656"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2110.796194" y="9517.174010"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="10997.063863" y="-5896.016168"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3124.647491" y="1414.068247"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9096.305538" y="-3827.104159"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4510.838883" y="3240.889108"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

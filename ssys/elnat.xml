@@ -8,8 +8,8 @@
   <pos x="-3137.96" y="-3127.056"/>
   <spobs>
     <spob>Elnat</spob>
-    <spob>Elnat Relay</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Elnat Relay</spob>
   </spobs>
   <jumps>
     <jump target="CS 0054">

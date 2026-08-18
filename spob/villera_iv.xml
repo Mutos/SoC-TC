@@ -31,13 +31,13 @@ This has prompted an immigration boom, but also a crime rise. Mafias have taken 
     <bar>The bar is host to a bunch of locals, most of them Humans, feasting on some local event under the eyes of a few Spacers</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

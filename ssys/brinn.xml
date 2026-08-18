@@ -7,8 +7,8 @@
   </general>
   <pos x="-2961.704" y="-1805.136"/>
   <spobs>
-    <spob>Brinn Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Brinn Border Station</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 11">
@@ -24,4 +24,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6740.024134" y="-6028.168380"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5923.691655" y="-6212.111099"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5086.782243" y="-721.048610"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8611.677837" y="-10815.679472"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="881.281634" y="1275.701386"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -8,9 +8,9 @@
   <pos x="-1929.42432" y="-1438.3296"/>
   <spobs>
     <spob>Runners' Station</spob>
-    <spob>Dwarves' Tunnels</spob>
-    <spob>Godjaveri Staryards</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Godjaveri Staryards</spob>
+    <spob>Dwarves' Tunnels</spob>
   </spobs>
   <jumps>
     <jump target="Carrouf">
@@ -30,4 +30,11 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3949.127770" y="2196.424996"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

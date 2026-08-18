@@ -8,8 +8,8 @@
   <pos x="-2417.384" y="539.76"/>
   <spobs>
     <spob>Bamara Border Station</spob>
-    <spob>Virtual Miner Local</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Virtual Miner Local</spob>
   </spobs>
   <jumps>
     <jump target="CL 0042">
@@ -25,4 +25,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2240.797218" y="-3971.313881"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="479.219999" y="-3540.903326"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3833.759992" y="-4579.213324"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3038.321057" y="3399.625958"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1841.447219" y="4681.269435"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="13183.227161" y="8612.158447"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-7684.974428" y="1507.525704"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

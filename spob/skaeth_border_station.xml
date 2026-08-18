@@ -31,11 +31,11 @@ It protects the 6-jumps so-called "Road of Perils" to Drih Skarae, bordering on 
     <bar>Mostly Pupeteers and Rithai, some of the latter ostensibly bearing dri'h markings.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

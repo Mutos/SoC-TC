@@ -8,8 +8,8 @@
   <pos x="1954.456" y="285.744"/>
   <spobs>
     <spob>Jenac ud Althean</spob>
-    <spob>Iridian</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Iridian</spob>
   </spobs>
   <jumps>
     <jump target="JP 0002">
@@ -33,4 +33,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3113.626515" y="-3776.100242"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3404.810763" y="-4577.186401"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4437.222213" y="-4696.060176"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3181.022596" y="-4745.306243"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3856.103950" y="-4134.985141"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

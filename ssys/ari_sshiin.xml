@@ -7,9 +7,9 @@
   </general>
   <pos x="599.704" y="2190.0"/>
   <spobs>
-    <spob>Til'kk'Rantk Research Station</spob>
-    <spob>Ari Shiin Debris Cloud</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ari Shiin Debris Cloud</spob>
+    <spob>Til'kk'Rantk Research Station</spob>
   </spobs>
   <jumps>
     <jump target="Sigma 11">

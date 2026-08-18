@@ -35,8 +35,8 @@ The story was only revealed in 2242 outside of Fortresses-related circles and be
     <bar>Workers relaxing after their shift, along with a few Spacers, mainly ore haulers' crews</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

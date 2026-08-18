@@ -7,8 +7,8 @@
   </general>
   <pos x="-1429.192" y="-594.136"/>
   <spobs>
-    <spob>New Earth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>New Earth</spob>
   </spobs>
   <jumps>
     <jump target="Fork (Gl 302)">

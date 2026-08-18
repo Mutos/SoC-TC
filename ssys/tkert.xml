@@ -7,11 +7,11 @@
   </general>
   <pos x="2460.496" y="-8.768"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>T'Ker'T</spob>
-    <spob>Erlithal</spob>
-    <spob>K'Tern</spob>
     <spob>K'Nin'k</spob>
+    <spob>T'Ker'T</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>K'Tern</spob>
+    <spob>Erlithal</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0001">
@@ -27,4 +27,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2166.740801" y="2651.548413"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-4955.925273" y="2978.690838"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7344.013617" y="1078.491510"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6560.823354" y="-667.637602"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="9051.625175" y="-3171.278607"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

@@ -7,10 +7,10 @@
   </general>
   <pos x="-3355.928" y="-1221.192"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Furnace</spob>
     <spob>Purple Grill Outpost</spob>
     <spob>Asteroid Field</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="PT 0022">
@@ -26,4 +26,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6856.481245" y="-2460.843724"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7917.497198" y="-2692.662335"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7177.460861" y="-2942.313148"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

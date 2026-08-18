@@ -7,8 +7,8 @@
   </general>
   <pos x="-3079.208" y="695.28"/>
   <spobs>
-    <spob>Ershell Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ershell Border Station</spob>
   </spobs>
   <jumps>
     <jump target="ShC 0024">
@@ -28,4 +28,36 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2773.263883" y="-5195.247675"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3531.289345" y="-4751.525454"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8078.022676" y="1112.482841"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3032.101846" y="3549.777771"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2569.891199" y="-4529.664343"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-9225.724519" y="2662.333328"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

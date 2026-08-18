@@ -7,8 +7,8 @@
   </general>
   <pos x="-1672.62048" y="-1494.07488"/>
   <spobs>
-    <spob>Banshee War Museum</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Banshee War Museum</spob>
   </spobs>
   <jumps>
     <jump target="GL 283 A">
@@ -20,4 +20,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2995.124994" y="3594.149993"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3993.499992" y="-2928.566661"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3705.080548" y="7099.555542"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5857.133322" y="3039.497216"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-5435.597212" y="1198.049998"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

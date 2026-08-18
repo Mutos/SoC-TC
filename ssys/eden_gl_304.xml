@@ -7,11 +7,11 @@
   </general>
   <pos x="-1910.2816" y="-1285.27264"/>
   <spobs>
-    <spob>Tanuki</spob>
     <spob>Utsukushi</spob>
     <spob>Eden</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eden High</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tanuki</spob>
   </spobs>
   <jumps>
     <jump target="GJ 3466">
@@ -27,4 +27,41 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2587.787995" y="5686.743989"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-10383.099980" y="6357.651987"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-11181.799978" y="6229.859988"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="7294.793319" y="6629.209987"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-8338.427984" y="-5399.211989"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-10478.943979" y="5814.535989"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="6899.898802" y="7081.556717"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

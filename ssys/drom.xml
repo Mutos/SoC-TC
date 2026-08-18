@@ -7,31 +7,31 @@
   </general>
   <pos x="2920.408" y="-1340.304"/>
   <spobs>
-    <spob>Ortir</spob>
-    <spob>Ermel</spob>
-    <spob>Ud Nahus</spob>
-    <spob>Ferem</spob>
-    <spob>Virtual Irmothem Area</spob>
-    <spob>Raltir</spob>
-    <spob>Miktei</spob>
-    <spob>Nahae</spob>
-    <spob>Virtual Arythem Area</spob>
-    <spob>Darnath ud Irilia</spob>
-    <spob>Dirnae</spob>
-    <spob>Anath Dirnae</spob>
-    <spob>Jahyle</spob>
-    <spob>Skarae</spob>
-    <spob>Jathdororam</spob>
-    <spob>Irgal uneo Irmoth</spob>
-    <spob>Ledim</spob>
-    <spob>Mithtir</spob>
     <spob>Erganir tud Liro</spob>
-    <spob>Kerithal</spob>
-    <spob>Anath ud Irali</spob>
-    <spob>Irilia</spob>
+    <spob>Ermel</spob>
+    <spob>Skarae</spob>
     <spob>Amthy</spob>
+    <spob>Virtual Irmothem Area</spob>
+    <spob>Mithtir</spob>
+    <spob>Anath Dirnae</spob>
+    <spob>Anath ud Irali</spob>
+    <spob>Jathdororam</spob>
+    <spob>Raltir</spob>
+    <spob>Dirnae</spob>
+    <spob>Ud Nahus</spob>
+    <spob>Nahae</spob>
+    <spob>Ledim</spob>
+    <spob>Kerithal</spob>
+    <spob>Irgal uneo Irmoth</spob>
+    <spob>Miktei</spob>
+    <spob>Irilia</spob>
+    <spob>Ferem</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Irnalth</spob>
+    <spob>Ortir</spob>
+    <spob>Virtual Arythem Area</spob>
+    <spob>Darnath ud Irilia</spob>
+    <spob>Jahyle</spob>
   </spobs>
   <jumps>
     <jump target="Duran">
@@ -59,4 +59,21 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2067.108728" y="-2452.284267"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2811.781437" y="-2991.530022"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3325.348823" y="-2388.088344"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

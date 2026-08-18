@@ -7,15 +7,15 @@
   </general>
   <pos x="-1303.696" y="-496.824"/>
   <spobs>
-    <spob>Belter</spob>
-    <spob>Antartica</spob>
-    <spob>Reve du Mineur</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Markow's Place</spob>
-    <spob>Heaven</spob>
     <spob>Venus 2</spob>
-    <spob>Cuisine de l'Enfer</spob>
+    <spob>Reve du Mineur</spob>
     <spob>Lilith</spob>
+    <spob>Markow's Place</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Cuisine de l'Enfer</spob>
+    <spob>Belter</spob>
+    <spob>Heaven</spob>
+    <spob>Antartica</spob>
   </spobs>
   <jumps>
     <jump target="GJ 9209">

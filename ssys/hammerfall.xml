@@ -7,12 +7,12 @@
   </general>
   <pos x="-2282.6" y="259.824"/>
   <spobs>
-    <spob>Hammerfall</spob>
-    <spob>Heavy Clouds</spob>
-    <spob>Crusher</spob>
     <spob>Fahrenheit</spob>
+    <spob>Heavy Clouds</spob>
     <spob>Ahn Trading Post</spob>
+    <spob>Hammerfall</spob>
     <spob>Virtual Miner Local</spob>
+    <spob>Crusher</spob>
   </spobs>
   <jumps>
     <jump target="CL 0039">
@@ -28,4 +28,31 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-3122.060787" y="3336.291296"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4098.697106" y="6059.614913"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="-2451.152789" y="2186.163298"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="4864.939197" y="6115.767290"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="1446.503204" y="-4586.812689"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

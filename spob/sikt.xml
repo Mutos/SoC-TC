@@ -35,9 +35,9 @@ This episode fueled renewed hostility between the Council and Ka'Ralt and from t
     <bar>Tense Defenders, for now fighting nothing but boredom, telling all sort of bad jokes about the Secession</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

@@ -7,14 +7,14 @@
   </general>
   <pos x="-2077.68448" y="-1477.16288"/>
   <spobs>
-    <spob>Carrouf III</spob>
-    <spob>Carrouf VI</spob>
     <spob>Carrouf IV</spob>
+    <spob>Carrouf VII</spob>
+    <spob>Carrouf VI</spob>
+    <spob>Carrouf I</spob>
+    <spob>Carrouf III</spob>
+    <spob>Carrouf</spob>
     <spob>Carrouf V</spob>
     <spob>Carrouf II</spob>
-    <spob>Carrouf VII</spob>
-    <spob>Carrouf</spob>
-    <spob>Carrouf I</spob>
   </spobs>
   <jumps>
     <jump target="Anquan Tiankong">
@@ -34,4 +34,26 @@
       <hide>1.250000</hide>
     </jump>
   </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2372.681322" y="-4067.453696"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3301.293327" y="-3035.059994"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="21520.776220" y="2666.273581"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3856.103950" y="-4134.985141"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
 </ssys>

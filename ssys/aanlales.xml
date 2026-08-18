@@ -7,8 +7,8 @@
   </general>
   <pos x="-5284.136" y="1125.552"/>
   <spobs>
-    <spob>Aan-Lales Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aan-Lales Border Station</spob>
   </spobs>
   <jumps>
     <jump target="IC 0071">

@@ -35,10 +35,10 @@ No-one currently kows precisely what the Shodens are up to. Their space is open 
     <bar>Most patrons here are Sshaads and look down on any other sentient who would dare to enter the bar</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>
