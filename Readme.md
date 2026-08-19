@@ -13,6 +13,7 @@ This is a love-fueled project, developped in our hobby time, so don't expect pro
 https://github.com/Mutos/SoC-TC
 
 ==== Using this repository by hand
+
 	Warning : it's way better to get it directly from Naev's Plugin Manager !
 
 1/ Download and run NAEV from https://naev.org/
