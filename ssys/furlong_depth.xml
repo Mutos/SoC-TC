@@ -7,25 +7,25 @@
   </general>
   <pos x="-818.4656" y="-3031.69344"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Furlong Depth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0012">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RQL 0015">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RQL 0023">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL-RQL - 2 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

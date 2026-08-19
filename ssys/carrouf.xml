@@ -7,31 +7,31 @@
   </general>
   <pos x="-2077.68448" y="-1477.16288"/>
   <spobs>
-    <spob>Carrouf IV</spob>
-    <spob>Carrouf VII</spob>
+    <spob>Carrouf II</spob>
+    <spob>Carrouf V</spob>
     <spob>Carrouf VI</spob>
+    <spob>Carrouf VII</spob>
     <spob>Carrouf I</spob>
+    <spob>Carrouf IV</spob>
     <spob>Carrouf III</spob>
     <spob>Carrouf</spob>
-    <spob>Carrouf V</spob>
-    <spob>Carrouf II</spob>
   </spobs>
   <jumps>
     <jump target="Anquan Tiankong">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Dwarves' Tunnels (Gl 261)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="GJ 1097">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Meetpoint (Gl 291)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

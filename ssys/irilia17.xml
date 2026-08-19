@@ -8,23 +8,23 @@
   <pos x="2069.944" y="-1648.176"/>
   <spobs>
     <spob>Right-Hand Moon</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Seynbeg Kemae</spob>
     <spob>Irilia-17</spob>
+    <spob>Seynbeg Kemae</spob>
     <spob>Left-Hand Moon</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0015">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0039">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri-PA-CL - 1 - 3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

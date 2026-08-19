@@ -10,23 +10,23 @@
   <jumps>
     <jump target="BI 0215">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Leenan">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Sigma 14">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Sigma 18">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Sigma 38">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

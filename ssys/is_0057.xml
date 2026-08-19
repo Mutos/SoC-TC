@@ -10,15 +10,15 @@
   <jumps>
     <jump target="IS 0056">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IS 0058">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IS 0060">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

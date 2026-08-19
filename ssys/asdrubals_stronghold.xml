@@ -7,26 +7,26 @@
   </general>
   <pos x="-3563.048" y="-676.752"/>
   <spobs>
-    <spob>Fort Asdrubal</spob>
-    <spob>Grindylow</spob>
     <spob>Stronghold II</spob>
+    <spob>Grindylow</spob>
+    <spob>Fort Asdrubal</spob>
   </spobs>
   <jumps>
     <jump target="Lizard's Crossroad">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0044">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0060">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT-IC - 1 - 3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

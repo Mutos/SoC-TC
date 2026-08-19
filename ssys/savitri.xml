@@ -9,29 +9,29 @@
   <spobs>
     <spob>Savitri B</spob>
     <spob>Savitri C</spob>
-    <spob>Savitri A</spob>
     <spob>Savitri D</spob>
+    <spob>Savitri A</spob>
   </spobs>
   <jumps>
     <jump target="Anhui">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Le Manege">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Pollux">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-7 - Delta Lock">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="11063.104438" y="7499.151367"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Villera">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

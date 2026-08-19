@@ -7,25 +7,25 @@
   </general>
   <pos x="-3633.896" y="-2012.496"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Alshiinal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="CS 0002">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0003">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0017">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Hammer">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

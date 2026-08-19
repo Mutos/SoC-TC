@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0159">
+<ssys name="Sha'shing">
   <general>
     <radius>10000.0</radius>
     <spacedust>400</spacedust>
@@ -8,21 +8,21 @@
   <pos x="-1563.752" y="1948.08"/>
   <spobs/>
   <jumps>
+    <jump target="Arythem-17">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="BI 0158">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0160">
       <autopos/>
-      <hide>1.250000</hide>
-    </jump>
-    <jump target="BI 0163">
-      <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Biimis nal Estiis">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

@@ -7,21 +7,21 @@
   </general>
   <pos x="-3588.968" y="-322.512"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Talshimaal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0052">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0054">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI-ShC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

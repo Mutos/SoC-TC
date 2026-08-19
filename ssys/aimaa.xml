@@ -7,31 +7,31 @@
   </general>
   <pos x="-3761.768" y="-108.24"/>
   <spobs>
-    <spob>Oreel</spob>
-    <spob>Hiini</spob>
     <spob>Eraanol</spob>
+    <spob>Hiini</spob>
     <spob>Aimaa</spob>
-    <spob>Ets'aalin</spob>
-    <spob>Anil'haan</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eraan'tsh</spob>
+    <spob>Anil'haan</spob>
+    <spob>Oreel</spob>
+    <spob>Ets'aalin</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0050">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0051">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0054">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0055">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

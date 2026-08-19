@@ -7,19 +7,19 @@
   </general>
   <pos x="-1148.86432" y="365.8096"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ohashi Internal Surveyor</spob>
-    <spob>Ohashi Border Station</spob>
     <spob>Ohashi External Surveyor</spob>
+    <spob>Ohashi Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Crag Path">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Suna">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

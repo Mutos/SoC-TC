@@ -9,12 +9,12 @@
   <spobs/>
   <jumps>
     <jump target="RS-5">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="5757.738293" y="5692.733160"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-7 - Delta Lock">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-7960.345978" y="3120.473028"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

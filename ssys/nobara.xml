@@ -7,29 +7,29 @@
   </general>
   <pos x="-1266.11872" y="-1989.86112"/>
   <spobs>
-    <spob>Oscar</spob>
     <spob>Rosiere</spob>
+    <spob>Oscar</spob>
   </spobs>
   <jumps>
     <jump target="Devereau's Holds">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gl 480">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Koishi">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA 0022">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA 0026">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

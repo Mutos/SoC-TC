@@ -7,28 +7,28 @@
   </general>
   <pos x="-2507.24" y="9.264"/>
   <spobs>
-    <spob>Beuzeley-la-Bastille</spob>
-    <spob>Shuixing</spob>
-    <spob>Taibai</spob>
-    <spob>Jinxing</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Huoxing</spob>
-    <spob>Banthory IV</spob>
     <spob>Tuxing</spob>
     <spob>Muxing</spob>
+    <spob>Jinxing</spob>
+    <spob>Shuixing</spob>
+    <spob>Beuzeley-la-Bastille</spob>
+    <spob>Taibai</spob>
+    <spob>Huoxing</spob>
+    <spob>Banthory IV</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="CL 0032">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CL 0033">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thand">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

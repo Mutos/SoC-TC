@@ -7,29 +7,29 @@
   </general>
   <pos x="-932.384" y="368.056"/>
   <spobs>
-    <spob>Eldritch</spob>
     <spob>Hypatia</spob>
+    <spob>Eldritch</spob>
   </spobs>
   <jumps>
     <jump target="AC 0001">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="AC 0018">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ran (Epsilon Eridani)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Suna">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Titawin">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

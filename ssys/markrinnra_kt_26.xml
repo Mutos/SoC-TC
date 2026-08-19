@@ -7,22 +7,22 @@
   </general>
   <pos x="429.416" y="77.544"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Mar'K'Rinn'Ra</spob>
     <spob>K'Tal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="KT 58">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 86">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 98">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

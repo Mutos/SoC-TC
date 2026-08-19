@@ -7,27 +7,27 @@
   </general>
   <pos x="-1929.42432" y="-1438.3296"/>
   <spobs>
-    <spob>Runners' Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Godjaveri Staryards</spob>
     <spob>Dwarves' Tunnels</spob>
+    <spob>Runners' Station</spob>
+    <spob>Godjaveri Staryards</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Carrouf">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="GJ 3466">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="GL 283 A">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Meetpoint (Gl 291)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

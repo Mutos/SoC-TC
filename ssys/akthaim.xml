@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Akthaim">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-1442.792" y="1364.016"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ary-ShC - 1 - 1">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Ary-ShC - 1 - 2">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Arythem-14">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Arythem-15">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Maetel">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

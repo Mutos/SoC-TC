@@ -10,19 +10,19 @@
   <jumps>
     <jump target="BI 0158">
       <autopos/>
-      <hide>1.250000</hide>
-    </jump>
-    <jump target="BI 0159">
-      <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0161">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0162">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Sha'shing">
+      <autopos/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

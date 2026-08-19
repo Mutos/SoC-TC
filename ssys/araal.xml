@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ara'al">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-1290.0" y="1514.0"/>
+  <spobs/>
+  <jumps>
+    <jump target="Arythem-14">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Arythem-15">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Nf 0002">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

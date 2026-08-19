@@ -31,17 +31,17 @@ Nowadays, the station has become a full-fledged habitat, home to more than 3 mil
     <bar>Tradesrithai with markings of various tribes, most of them Arythem, often talking business with their human and sshaad partners, protected by secrecy fields</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

@@ -7,17 +7,17 @@
   </general>
   <pos x="3053.464" y="-1245.264"/>
   <spobs>
-    <spob>Danae</spob>
     <spob>Aerith</spob>
+    <spob>Danae</spob>
   </spobs>
   <jumps>
     <jump target="Irali">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irm-RC - 2 -1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

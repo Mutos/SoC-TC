@@ -7,22 +7,22 @@
   </general>
   <pos x="-1706.504" y="-501.072"/>
   <spobs>
-    <spob>Wolf-5</spob>
     <spob>Station-B</spob>
+    <spob>Wolf-5</spob>
     <spob>Wolf-1</spob>
   </spobs>
   <jumps>
     <jump target="Gl 534.1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="HN Bootis">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Rencard (Gl 229)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

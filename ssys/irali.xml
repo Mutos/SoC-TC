@@ -7,22 +7,22 @@
   </general>
   <pos x="3003.352" y="-1300.56"/>
   <spobs>
+    <spob>Gadhonex</spob>
     <spob>Irali Core Guard</spob>
     <spob>Irali</spob>
-    <spob>Gadhonex</spob>
   </spobs>
   <jumps>
     <jump target="Drom">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Maeva">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ythin">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

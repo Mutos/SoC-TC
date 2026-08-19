@@ -7,22 +7,22 @@
   </general>
   <pos x="-8.552" y="-2463.504"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ghilan's Pride</spob>
     <spob>Light of Dawn</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="PA 0091">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA 0093">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA 0094">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

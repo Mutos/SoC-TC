@@ -31,17 +31,17 @@ It is of common knowledge, that almost every cargo can be traded there, albeit f
     <bar>Mean-looking Spacers, mostly Humans, with a few Rithai and K'Rinns and an occassional Sshaad</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

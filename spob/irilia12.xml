@@ -41,10 +41,10 @@ Only the tilkath mining regions remains strictly under Irilia control, especiall
     <bar>A joyous, mixed crowd of sentients, mainly Rithai and K'Rinns, eagerly chatting</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

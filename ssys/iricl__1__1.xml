@@ -10,11 +10,11 @@
   <jumps>
     <jump target="Gl 185">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Nouvelle-Hong-Kong">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

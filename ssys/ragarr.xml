@@ -11,8 +11,8 @@
   </spobs>
   <jumps>
     <jump target="Drom">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-1684.170819" y="4514.338703"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

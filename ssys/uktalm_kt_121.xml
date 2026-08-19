@@ -8,25 +8,25 @@
   <pos x="81.216" y="-409.536"/>
   <spobs>
     <spob>A'Ilnet</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Alin'T</spob>
+    <spob>T'Ilnet</spob>
     <spob>T'Telnar</spob>
     <spob>Uktalm</spob>
-    <spob>T'Ilnet</spob>
     <spob>El'Tinal</spob>
+    <spob>Alin'T</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="KT 35">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 47">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 49">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -7,21 +7,21 @@
   </general>
   <pos x="4237.144" y="-901.392"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Irmothem-3</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0022">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irm 0069">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irm 0110">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

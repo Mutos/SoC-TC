@@ -7,21 +7,21 @@
   </general>
   <pos x="-5284.136" y="1125.552"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Aan-Lales Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="IC 0071">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IC 0074">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IC-CS - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

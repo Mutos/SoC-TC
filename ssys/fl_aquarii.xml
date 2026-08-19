@@ -11,8 +11,8 @@
   </spobs>
   <jumps>
     <jump target="FK Aquarii">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-2372.840459" y="-1372.225208"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

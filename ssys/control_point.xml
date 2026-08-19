@@ -7,30 +7,30 @@
   </general>
   <pos x="-2804.88672" y="-1980.67712"/>
   <spobs>
-    <spob>Bubbles</spob>
+    <spob>Control Point</spob>
+    <spob>Buttercup</spob>
+    <spob>Control Point 3</spob>
     <spob>Control Point 2</spob>
     <spob>Blossom</spob>
-    <spob>Control Point 3</spob>
     <spob>Control Point 1</spob>
-    <spob>Buttercup</spob>
-    <spob>Control Point</spob>
+    <spob>Bubbles</spob>
   </spobs>
   <jumps>
     <jump target="'Ha'Rtiish">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Devereau's Holds">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gamma 10">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Tsaahm Shuman">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

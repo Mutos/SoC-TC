@@ -7,27 +7,27 @@
   </general>
   <pos x="-2133.52" y="-86.112"/>
   <spobs>
+    <spob>Torche</spob>
+    <spob>Freeport 4</spob>
     <spob>Roussette</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Freeport 4</spob>
-    <spob>Torche</spob>
   </spobs>
   <jumps>
     <jump target="CL 0015">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CL 0028">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CL 0029">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Pollux">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -8,25 +8,25 @@
   <pos x="-1047.08" y="-198.096"/>
   <spobs>
     <spob>Alaith</spob>
-    <spob>Fafnir</spob>
     <spob>Erinath Habitat</spob>
+    <spob>Fafnir</spob>
   </spobs>
   <jumps>
     <jump target="RS-2.1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-2.2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-3.1 - Ashioto Backdoor">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="3194.042056" y="10668.432473"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-4">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-2275.116121" y="9396.728456"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

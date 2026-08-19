@@ -7,21 +7,21 @@
   </general>
   <pos x="-3706.472" y="223.536"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shoin Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI-ShC - 2 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0009">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0010">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

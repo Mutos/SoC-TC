@@ -29,9 +29,9 @@
     <bar>Proud pilots and patrol officers on Shoden markings, joking on the "blobs invasion" and ready to fight any non-Sshaad who would dare to enter the bar</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

@@ -7,21 +7,21 @@
   </general>
   <pos x="-4292.264" y="123.312"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Lal-ishh-Hiban</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0064">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0065">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI-IC - 1 -1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

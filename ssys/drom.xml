@@ -7,56 +7,56 @@
   </general>
   <pos x="2920.408" y="-1340.304"/>
   <spobs>
-    <spob>Erganir tud Liro</spob>
-    <spob>Ermel</spob>
-    <spob>Skarae</spob>
-    <spob>Amthy</spob>
-    <spob>Virtual Irmothem Area</spob>
+    <spob>Jathdororam</spob>
+    <spob>Kerithal</spob>
+    <spob>Miktei</spob>
     <spob>Mithtir</spob>
+    <spob>Nahae</spob>
+    <spob>Irilia</spob>
+    <spob>Dirnae</spob>
+    <spob>Jahyle</spob>
+    <spob>Ermel</spob>
+    <spob>Ledim</spob>
+    <spob>Virtual Irmothem Area</spob>
+    <spob>Raltir</spob>
+    <spob>Ud Nahus</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ortir</spob>
+    <spob>Erganir tud Liro</spob>
+    <spob>Skarae</spob>
+    <spob>Darnath ud Irilia</spob>
+    <spob>Amthy</spob>
     <spob>Anath Dirnae</spob>
     <spob>Anath ud Irali</spob>
-    <spob>Jathdororam</spob>
-    <spob>Raltir</spob>
-    <spob>Dirnae</spob>
-    <spob>Ud Nahus</spob>
-    <spob>Nahae</spob>
-    <spob>Ledim</spob>
-    <spob>Kerithal</spob>
-    <spob>Irgal uneo Irmoth</spob>
-    <spob>Miktei</spob>
-    <spob>Irilia</spob>
     <spob>Ferem</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Irnalth</spob>
-    <spob>Ortir</spob>
     <spob>Virtual Arythem Area</spob>
-    <spob>Darnath ud Irilia</spob>
-    <spob>Jahyle</spob>
+    <spob>Irgal uneo Irmoth</spob>
+    <spob>Irnalth</spob>
   </spobs>
   <jumps>
     <jump target="Duran">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Fehnouil">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Firdal">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irali">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ragarr">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thelae">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

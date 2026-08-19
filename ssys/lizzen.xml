@@ -7,21 +7,21 @@
   </general>
   <pos x="-2593.64" y="1004.592"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Lizzen IV</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Sh'Rak">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0055">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0061">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

@@ -7,27 +7,27 @@
   </general>
   <pos x="-1962.92" y="-2681.232"/>
   <spobs>
-    <spob>Edge</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>K'Talth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Edge Border Station</spob>
+    <spob>Edge</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0043">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RQL 0044">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="SC 00011">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="SC 0009">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -7,23 +7,23 @@
   </general>
   <pos x="-1907.456" y="-2482.528"/>
   <spobs>
+    <spob>Haven</spob>
+    <spob>Dawn Moon</spob>
     <spob>Dusk Moon</spob>
     <spob>New Link Station</spob>
-    <spob>Dawn Moon</spob>
-    <spob>Haven</spob>
   </spobs>
   <jumps>
     <jump target="PA-SC - 1 - 2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="SC 00011">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="SC 0002">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

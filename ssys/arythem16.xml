@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0169">
+<ssys name="Arythem-16">
   <general>
     <radius>10000.0</radius>
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-1643.24" y="1771.824"/>
+  <pos x="-1266.192" y="1591.192"/>
   <spobs/>
   <jumps>
-    <jump target="BI 0163">
+    <jump target="Nf 0002">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="BI 0168">
+    <jump target="Nf 0005">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="Urshaal">
+    <jump target="O'zod">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

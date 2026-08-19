@@ -8,21 +8,21 @@
   <pos x="-3815.336" y="1192.944"/>
   <spobs>
     <spob>Shiren</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shilian</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="IC 0032">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IC 0034">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IC 0035">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

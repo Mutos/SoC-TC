@@ -7,21 +7,21 @@
   </general>
   <pos x="3033.69568" y="428.75328"/>
   <spobs>
-    <spob>Wahnurn</spob>
     <spob>Ud Nurn</spob>
-    <spob>Onatham</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Iral</spob>
+    <spob>Onatham</spob>
     <spob>Virtual Civilian Standard</spob>
+    <spob>Wahnurn</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0076">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0080">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

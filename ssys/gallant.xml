@@ -8,29 +8,29 @@
   <pos x="-3542.888" y="-1443.408"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Gallant's Moon</spob>
     <spob>Paradiso</spob>
+    <spob>Gallant's Moon</spob>
   </spobs>
   <jumps>
     <jump target="PT 0052">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0053">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0055">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0056">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0057">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

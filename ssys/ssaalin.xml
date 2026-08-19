@@ -7,18 +7,18 @@
   </general>
   <pos x="-3298.664" y="-2399.568"/>
   <spobs>
+    <spob>Ershell</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ssaalin</spob>
-    <spob>Ershell</spob>
   </spobs>
   <jumps>
     <jump target="CS 0024">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0027">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

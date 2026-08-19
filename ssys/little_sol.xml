@@ -7,27 +7,27 @@
   </general>
   <pos x="-1662.96" y="-682.776"/>
   <spobs>
+    <spob>PIF High-Station</spob>
     <spob>Megara</spob>
     <spob>Hercules</spob>
-    <spob>PIF High-Station</spob>
     <spob>Fort Solis</spob>
   </spobs>
   <jumps>
     <jump target="CL-HnH - 2 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gl 3753">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="HN Bootis">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Rencard (Gl 229)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

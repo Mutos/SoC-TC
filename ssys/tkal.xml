@@ -7,21 +7,21 @@
   </general>
   <pos x="-889.832" y="671.088"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>T'Kal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="AC 0017">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="AC-Ary-ShC-IC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Persephone's Bane">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

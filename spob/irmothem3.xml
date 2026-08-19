@@ -33,10 +33,10 @@ It has never been heavily populated, even for a First Wave Colony, and even now 
     <bar>A few Rithai trying to forget the lacklust world they live in</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

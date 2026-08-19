@@ -7,35 +7,35 @@
   </general>
   <pos x="1119.832" y="1567.92"/>
   <spobs>
+    <spob>Jaltha nel Nalth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eral ud Nal</spob>
-    <spob>Jaltha nel Nalth</spob>
     <spob>Jaltha</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0069">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0134">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Erilanth">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Sigma 12">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Sigma 35">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thim Baartish">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

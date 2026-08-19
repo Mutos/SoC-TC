@@ -7,25 +7,25 @@
   </general>
   <pos x="-1852.73376" y="-1055.62784"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shin Yokosuka</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Delanney's Freezer">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="GJ 3500">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Syrtis">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="The Gap">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

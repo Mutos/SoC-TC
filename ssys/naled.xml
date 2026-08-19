@@ -7,34 +7,34 @@
   </general>
   <pos x="-1574.12" y="-3249.744"/>
   <spobs>
-    <spob>Naled VIII.1</spob>
-    <spob>Naled III</spob>
-    <spob>Naled I</spob>
-    <spob>Naled II</spob>
-    <spob>Naled VIII</spob>
-    <spob>Naled VI.1</spob>
     <spob>Naled VIII.3</spob>
+    <spob>Naled IX</spob>
     <spob>Naled X</spob>
     <spob>Naled IV</spob>
+    <spob>Naled I</spob>
+    <spob>Naled VI.1</spob>
     <spob>Naled VII</spob>
-    <spob>Naled IX</spob>
-    <spob>Naled VIII.4</spob>
     <spob>Naled V</spob>
-    <spob>Naled VI</spob>
+    <spob>Naled VIII</spob>
     <spob>Naled VIII.2</spob>
+    <spob>Naled VIII.4</spob>
+    <spob>Naled III</spob>
+    <spob>Naled VIII.1</spob>
+    <spob>Naled VI</spob>
+    <spob>Naled II</spob>
   </spobs>
   <jumps>
     <jump target="CS-TPL-RQL - 1 - 1">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="9508.957410" y="-6648.086009"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ind 0004">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-6857.288363" y="7094.196804"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ind 0007">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-12997.522392" y="-3481.076358"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

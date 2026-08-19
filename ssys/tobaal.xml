@@ -7,21 +7,21 @@
   </general>
   <pos x="-3977.62976" y="-1190.03712"/>
   <spobs>
-    <spob>Dadiida</spob>
     <spob>Lilin'a</spob>
+    <spob>Dadiida</spob>
   </spobs>
   <jumps>
     <jump target="BI 0177">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Eshii-Niishin">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gala'as">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

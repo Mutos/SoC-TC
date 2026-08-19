@@ -7,25 +7,25 @@
   </general>
   <pos x="-2282.6" y="259.824"/>
   <spobs>
-    <spob>Fahrenheit</spob>
-    <spob>Heavy Clouds</spob>
-    <spob>Ahn Trading Post</spob>
     <spob>Hammerfall</spob>
     <spob>Virtual Miner Local</spob>
+    <spob>Fahrenheit</spob>
+    <spob>Ahn Trading Post</spob>
     <spob>Crusher</spob>
+    <spob>Heavy Clouds</spob>
   </spobs>
   <jumps>
     <jump target="CL 0039">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CL 0041">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Nyotekundu">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -7,25 +7,25 @@
   </general>
   <pos x="-1079.912" y="-1058.64"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Nouvelle Mars</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="FK Aquarii">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Mir">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Vikra">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Zeta 2 Reticuli">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

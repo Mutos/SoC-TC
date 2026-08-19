@@ -22,9 +22,9 @@
     <bar>(null)</bar>
   </general>
   <tech>
+    <item price_mod="1.0">r</item>
+    <item price_mod="1.0">T</item>
     <item price_mod="1.0">e</item>
     <item price_mod="1.0">u</item>
-    <item price_mod="1.0">T</item>
-    <item price_mod="1.0">r</item>
   </tech>
 </spob>

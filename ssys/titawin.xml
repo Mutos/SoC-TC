@@ -7,24 +7,24 @@
   </general>
   <pos x="-844.256" y="411.256"/>
   <spobs>
-    <spob>Samh</spob>
-    <spob>Titawin Ae</spob>
-    <spob>Majriti</spob>
     <spob>Astrolabe</spob>
+    <spob>Samh</spob>
+    <spob>Majriti</spob>
+    <spob>Titawin Ae</spob>
     <spob>Saffar</spob>
   </spobs>
   <jumps>
     <jump target="AC 0007">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ashioto - Purgatoire">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Edasich">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

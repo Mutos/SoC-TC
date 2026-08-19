@@ -7,22 +7,22 @@
   </general>
   <pos x="2379.544" y="-3030.288"/>
   <spobs>
+    <spob>Akeloth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Irilia-13</spob>
-    <spob>Akeloth</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0109">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0114">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0238">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

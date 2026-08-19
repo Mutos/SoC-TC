@@ -7,21 +7,21 @@
   </general>
   <pos x="-785.504" y="794.872"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Persephone's Bane</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="AC 0019">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="AC 0021">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="T'Kal">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

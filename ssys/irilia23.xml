@@ -7,21 +7,21 @@
   </general>
   <pos x="-1641.8" y="-3779.8"/>
   <spobs>
-    <spob>Irilia-23</spob>
     <spob>High-Woods Memento</spob>
+    <spob>Irilia-23</spob>
   </spobs>
   <jumps>
     <jump target="Aareli">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Eltth-Ssaan">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Kalausi (Kli'gat)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

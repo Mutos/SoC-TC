@@ -7,14 +7,14 @@
   </general>
   <pos x="-1506.88128" y="-640.29792"/>
   <spobs>
+    <spob>Fork II</spob>
     <spob>Fork III</spob>
     <spob>Fork I</spob>
-    <spob>Fork II</spob>
   </spobs>
   <jumps>
     <jump target="New Earth (Eta Cassiopeia)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

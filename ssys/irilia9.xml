@@ -7,24 +7,24 @@
   </general>
   <pos x="2815.13824" y="-2874.768"/>
   <spobs>
-    <spob>Ortir-9</spob>
     <spob>Irilia-9</spob>
     <spob>Raltir-9</spob>
+    <spob>Ortir-9</spob>
     <spob>Ermel-9</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0120">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0122">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0132">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

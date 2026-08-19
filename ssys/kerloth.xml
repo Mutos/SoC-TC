@@ -7,27 +7,27 @@
   </general>
   <pos x="3378.04" y="-2708.016"/>
   <spobs>
-    <spob>Kerloth Transfer Station</spob>
     <spob>Heth no Dirnae</spob>
     <spob>Heth</spob>
+    <spob>Kerloth Transfer Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0136">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0138">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0141">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0244">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

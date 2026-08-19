@@ -7,21 +7,21 @@
   </general>
   <pos x="2718.232" y="-445.2"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Hath Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0007">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0060">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thaim Krinai">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

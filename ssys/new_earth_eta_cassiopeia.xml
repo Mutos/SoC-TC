@@ -7,25 +7,25 @@
   </general>
   <pos x="-1429.192" y="-594.136"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>New Earth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Fork (Gl 302)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Heaven (Delta Pavonis)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Rencard (Gl 229)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Tau3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

@@ -7,14 +7,14 @@
   </general>
   <pos x="-1205.92" y="-432.864"/>
   <spobs>
-    <spob>No Life Station</spob>
     <spob>Ventose</spob>
     <spob>39 Leo Bunch</spob>
+    <spob>No Life Station</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3622">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

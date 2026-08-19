@@ -7,28 +7,28 @@
   </general>
   <pos x="-1205.914" y="-893.413333"/>
   <spobs>
+    <spob>LiangXi Mechanics</spob>
+    <spob>Oryol</spob>
     <spob>Voronin</spob>
     <spob>Mir</spob>
-    <spob>LiangXi Mechanics</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Oryol</spob>
   </spobs>
   <jumps>
     <jump target="Nouvelle Mars">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Peschinka">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Tripoint">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Vikra">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

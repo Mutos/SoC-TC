@@ -7,19 +7,19 @@
   </general>
   <pos x="319.768" y="-2639.76"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Al Nour</spob>
     <spob>Haasen</spob>
     <spob>Musashi Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Al Nour</spob>
   </spobs>
   <jumps>
     <jump target="PA 0096">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA-Iri - 3 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

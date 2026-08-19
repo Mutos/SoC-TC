@@ -7,27 +7,27 @@
   </general>
   <pos x="2595.68224" y="-2121.36"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Matholn'ejj</spob>
     <spob>Melaneth Cache</spob>
     <spob>Matholnisht</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0099">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0101">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0130">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irilia-5">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

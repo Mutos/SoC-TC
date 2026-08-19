@@ -7,17 +7,17 @@
   </general>
   <pos x="172.888" y="-2368.464"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Farlander III</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="PA 0093">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA 0099">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

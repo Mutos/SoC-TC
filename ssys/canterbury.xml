@@ -7,25 +7,25 @@
   </general>
   <pos x="447.552" y="-190.08"/>
   <spobs>
-    <spob>Canterbury</spob>
     <spob>Annuschka</spob>
+    <spob>Canterbury</spob>
   </spobs>
   <jumps>
     <jump target="KT 143">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 36">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 66">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KT 79">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

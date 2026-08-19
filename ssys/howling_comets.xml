@@ -7,17 +7,17 @@
   </general>
   <pos x="-12.008" y="-3223.824"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Howling Comets</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0034">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RQL 0057">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -12,12 +12,12 @@
   </spobs>
   <jumps>
     <jump target="Duran">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="2115.660025" y="-8449.091389"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thaim Krinai">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

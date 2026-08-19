@@ -7,22 +7,22 @@
   </general>
   <pos x="-1474.824" y="-274.72"/>
   <spobs>
-    <spob>Gl 902 b</spob>
-    <spob>Gateway IV</spob>
     <spob>The Wall's Wreck</spob>
+    <spob>Gateway IV</spob>
+    <spob>Gl 902 b</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3076">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Kapteyns">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Sol">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>
