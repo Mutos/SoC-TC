@@ -8,26 +8,26 @@
   <pos x="-2788.904" y="-1482.0"/>
   <spobs>
     <spob>Cloudy Resort</spob>
+    <spob>Gamma World</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Fallen Sun</spob>
-    <spob>Gamma World</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gamma 3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gamma 5">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0017">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

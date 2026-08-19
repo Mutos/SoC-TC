@@ -10,17 +10,17 @@
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
+    <jump target="LHS 1140">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="PA 0004">
       <autopos/>
-      <hide>1.250000</hide>
-    </jump>
-    <jump target="PA 0018">
-      <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Spider's Web">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

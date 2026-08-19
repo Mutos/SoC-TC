@@ -7,17 +7,17 @@
   </general>
   <pos x="356.56" y="210.936"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>L'Linal't 0002</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="KT 53">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RkL 2163">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

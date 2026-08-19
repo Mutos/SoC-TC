@@ -7,22 +7,22 @@
   </general>
   <pos x="989.48" y="-1803.92"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Skamh</spob>
     <spob>Irilia-4</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0011">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0013">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0034">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

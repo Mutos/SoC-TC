@@ -8,25 +8,25 @@
   <pos x="1007.424" y="-654.912"/>
   <spobs>
     <spob>K'Tint</spob>
-    <spob>K'Tint Nilal</spob>
     <spob>Virtual Truce Local</spob>
+    <spob>K'Tint Nilal</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0119 (KT 38)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri-KR-KC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri-KR-KC - 1 - 4">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ka'Ralt Corridor">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

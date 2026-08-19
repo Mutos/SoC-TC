@@ -7,21 +7,21 @@
   </general>
   <pos x="-3672.776" y="-828.24"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Nya Jorden</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Gleipnir">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0044">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0049">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

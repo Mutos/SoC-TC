@@ -11,12 +11,12 @@
   </spobs>
   <jumps>
     <jump target="RS-3 - Hochbergspitze">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-7618.114526" y="-5738.682463"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-5">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-3750.260865" y="11885.899039"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

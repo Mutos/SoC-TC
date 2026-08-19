@@ -7,34 +7,34 @@
   </general>
   <pos x="-3137.96" y="-3127.056"/>
   <spobs>
+    <spob>Elnat Relay</spob>
     <spob>Elnat</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Elnat Relay</spob>
   </spobs>
   <jumps>
     <jump target="CS 0054">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0055">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0056">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0059">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0060">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Raam'Lik">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

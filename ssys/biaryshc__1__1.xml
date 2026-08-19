@@ -10,23 +10,23 @@
   <jumps>
     <jump target="Ary-ShC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Delta 13">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-16786.398286" y="-8401.226700"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Erathan">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Heart of the Long Link">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Tsaahm Arythem">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

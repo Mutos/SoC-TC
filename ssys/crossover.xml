@@ -7,21 +7,21 @@
   </general>
   <pos x="-2035.784" y="595.632"/>
   <spobs>
-    <spob>Abandoned Station</spob>
     <spob>Marduk</spob>
+    <spob>Abandoned Station</spob>
   </spobs>
   <jumps>
     <jump target="CL 0044">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CL 0051">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Delta 2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -14,19 +14,19 @@
   <jumps>
     <jump target="Ary 0063">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0064">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0129">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL-Ary - 1 - 3">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="3239.952221" y="-7249.333480"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

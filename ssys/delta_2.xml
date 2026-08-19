@@ -7,31 +7,31 @@
   </general>
   <pos x="-1893.512" y="552.144"/>
   <spobs>
-    <spob>Delta 2 D</spob>
-    <spob>Delta 2 C</spob>
-    <spob>Delta 2 A</spob>
     <spob>Delta 2 B</spob>
+    <spob>Delta 2 D</spob>
+    <spob>Delta 2 A</spob>
+    <spob>Delta 2 C</spob>
   </spobs>
   <jumps>
     <jump target="CL 0051">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Crossover">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Delta 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Delta 9">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-7 - Delta Lock">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="3078.904103" y="2175.633156"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

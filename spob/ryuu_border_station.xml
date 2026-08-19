@@ -29,9 +29,9 @@
     <bar>Planetarist Patrol pilots boasting on their Hekka homologues and talking of their victories over smugglers and pirates</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

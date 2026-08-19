@@ -8,34 +8,34 @@
   <pos x="-2291.24" y="-3781.968"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eb'Aareli</spob>
     <spob>Black Rose</spob>
     <spob>Thim Aareli</spob>
-    <spob>Eb'Aareli</spob>
   </spobs>
   <jumps>
     <jump target="Eeraniinal">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Eltth-Ssaan">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gogen">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irilia-23">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Raam'Lik">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thom Aareli-1">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-4951.465851" y="-1961.328929"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

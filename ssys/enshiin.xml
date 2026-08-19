@@ -7,25 +7,25 @@
   </general>
   <pos x="-2386.28" y="798.96"/>
   <spobs>
-    <spob>Enshiin Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Enshiin Border Station</spob>
   </spobs>
   <jumps>
     <jump target="Ary-ShC - 1 - 2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0056">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0058">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="ShC 0059">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

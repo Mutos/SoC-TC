@@ -7,21 +7,21 @@
   </general>
   <pos x="5060.912" y="-2105.6"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>FastFlyers Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="IS 0069">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IS 0072">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irm-IS - 2 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -7,18 +7,18 @@
   </general>
   <pos x="-2604.008" y="-1295.376"/>
   <spobs>
-    <spob>Dim Ember</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Dim Ember</spob>
     <spob>Black Hole</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="SC-PT - 1 - 3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

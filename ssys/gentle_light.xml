@@ -8,18 +8,18 @@
   <pos x="280.024" y="-2892.048"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Beautiful Sands</spob>
     <spob>Burning Clouds</spob>
     <spob>Gentle Light</spob>
+    <spob>Beautiful Sands</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0032">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="The Line">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

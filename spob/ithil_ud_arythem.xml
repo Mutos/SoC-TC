@@ -29,11 +29,11 @@
     <bar>Proud Arythem pilots and a mix of rith, sshaad, human and k'rinns merchants</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

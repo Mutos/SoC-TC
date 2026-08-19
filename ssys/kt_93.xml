@@ -7,22 +7,22 @@
   </general>
   <pos x="-298.8" y="-521.664"/>
   <spobs>
+    <spob>Azul</spob>
     <spob>Stromboli</spob>
     <spob>FeuerTurm</spob>
-    <spob>Azul</spob>
   </spobs>
   <jumps>
     <jump target="Anel'f T'en">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="8629.464595" y="7639.887546"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="CL-KC - 1 - 2">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-11469.777843" y="-7990.868527"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-1 - Freiheit Turen">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-13786.690121" y="5955.199280"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

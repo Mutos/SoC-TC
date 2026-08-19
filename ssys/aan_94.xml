@@ -7,21 +7,21 @@
   </general>
   <pos x="-6516.2" y="-1568.4"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eriin-Harsh Remnants</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Aan 23">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Aan 39">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Aan 51">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

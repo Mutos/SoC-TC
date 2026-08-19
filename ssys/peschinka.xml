@@ -7,21 +7,21 @@
   </general>
   <pos x="-1202.28" y="-749.944"/>
   <spobs>
-    <spob>Medved</spob>
     <spob>Nova Russia</spob>
+    <spob>Medved</spob>
   </spobs>
   <jumps>
     <jump target="CL-KC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Mir">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Tau3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

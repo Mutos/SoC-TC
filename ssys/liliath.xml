@@ -12,15 +12,15 @@
   <jumps>
     <jump target="Iri 0040">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0042">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thim Irilia">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="3832.877897" y="6883.132478"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

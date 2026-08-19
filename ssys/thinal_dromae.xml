@@ -7,23 +7,23 @@
   </general>
   <pos x="4238.872" y="-1768.848"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ainal</spob>
     <spob>Salinath</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Thinal</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0049">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irm 0058">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irm 0106">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

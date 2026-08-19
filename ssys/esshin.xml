@@ -7,30 +7,30 @@
   </general>
   <pos x="-4717.352" y="-927.312"/>
   <spobs>
-    <spob>Tshiaa'Shaan</spob>
-    <spob>Ub'Ul</spob>
-    <spob>Aan'Tsch'</spob>
-    <spob>Tshiaa'rsh</spob>
-    <spob>Tsch'Ishin</spob>
-    <spob>Tshiaa'Han</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ol'Gam</spob>
-    <spob>K'Aareli</spob>
     <spob>Tshiaa'Tshasha</spob>
     <spob>I'An</spob>
+    <spob>Ol'Gam</spob>
+    <spob>Aan'Tsch'</spob>
+    <spob>Tshiaa'Han</spob>
+    <spob>Tshiaa'rsh</spob>
+    <spob>Tsch'Ishin</spob>
+    <spob>Ub'Ul</spob>
+    <spob>K'Aareli</spob>
+    <spob>Tshiaa'Shaan</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Al'Fagal">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ka'Rkara">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ram'Rit">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

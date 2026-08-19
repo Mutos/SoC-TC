@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ary-IC-ShC - 1 - 2">
+<ssys name="Arythem-17">
   <general>
     <radius>10000.0</radius>
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-1442.792" y="1364.016"/>
+  <pos x="-1492.904" y="1827.12"/>
   <spobs/>
   <jumps>
-    <jump target="Ary-ShC - 1 - 1">
+    <jump target="Lithyra">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="Ary-ShC - 1 - 2">
+    <jump target="O'zod">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="Maetel">
+    <jump target="Sha'shing">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

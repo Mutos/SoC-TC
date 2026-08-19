@@ -7,17 +7,17 @@
   </general>
   <pos x="1938.76576" y="875.40672"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Relit Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0048">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0050">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

@@ -37,12 +37,12 @@ Another decisive event was the heroic deeds of a couple of ex-Adrimai smuggled f
     <bar>A crowd of natives in their peculiar sea-dweller attire, with a few Thiskai and Idrimarai wearing distinctive Irilia markings</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

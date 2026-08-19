@@ -7,21 +7,21 @@
   </general>
   <pos x="-426.08" y="487.288"/>
   <spobs>
-    <spob>Issun Derelict 1</spob>
     <spob>Issun b</spob>
-    <spob>Issun d</spob>
     <spob>L'Linal't 0005</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Issun Derelict 1</spob>
     <spob>Issun c</spob>
+    <spob>Issun d</spob>
   </spobs>
   <jumps>
     <jump target="AC 0014">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="AC 0015">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

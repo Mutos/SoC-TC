@@ -7,24 +7,24 @@
   </general>
   <pos x="1019.608" y="-2356.368"/>
   <spobs>
-    <spob>Ghanilan</spob>
-    <spob>Eral</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ereth</spob>
+    <spob>Eral</spob>
     <spob>Daleth ud Eralth</spob>
+    <spob>Ghanilan</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 00174">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 00177">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0179">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

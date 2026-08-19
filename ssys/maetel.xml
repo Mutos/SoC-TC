@@ -7,28 +7,28 @@
   </general>
   <pos x="-2560.808" y="1270.704"/>
   <spobs>
-    <spob>Matae</spob>
-    <spob>Mae ud Matae</spob>
     <spob>Aareli ud Mae</spob>
     <spob>Aareli Rendez-Vous</spob>
+    <spob>Matae</spob>
+    <spob>Mae ud Matae</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ak'ri">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="Ary-IC-ShC - 1 - 2">
+    <jump target="Akthaim">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iralii">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Lanilt'sh">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

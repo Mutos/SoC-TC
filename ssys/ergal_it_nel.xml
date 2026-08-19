@@ -8,23 +8,23 @@
   <pos x="520.216" y="1287.984"/>
   <spobs>
     <spob>Kajath</spob>
-    <spob>Ergajith Border Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Rakh ud Ergal</spob>
+    <spob>Ergajith Border Station</spob>
     <spob>Ergal ud Kajath</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0071">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary-ShC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="HnH-Ary - 1 - 3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

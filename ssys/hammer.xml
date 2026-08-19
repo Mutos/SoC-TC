@@ -7,21 +7,21 @@
   </general>
   <pos x="-3554.408" y="-1782.672"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Iron Hammer</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Alshiinal">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0037">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0061">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

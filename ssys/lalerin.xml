@@ -8,26 +8,26 @@
   <pos x="-3746.216" y="-2641.488"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Asteroids Cluser 610275</spob>
     <spob>Lalerin</spob>
     <spob>Ishaal</spob>
+    <spob>Asteroids Cluser 610275</spob>
   </spobs>
   <jumps>
     <jump target="CS 0048">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0049">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS 0051">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ka'Alai">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

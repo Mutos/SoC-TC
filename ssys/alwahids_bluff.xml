@@ -7,27 +7,27 @@
   </general>
   <pos x="-1953.248" y="-2239.456"/>
   <spobs>
+    <spob>Nour</spob>
     <spob>Salam</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Freeport 5</spob>
-    <spob>Nour</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="1786.570969" y="-4794.319654"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Shadow">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Shadow Grave">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="9598.418524" y="2612.468437"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Teufelfeuer">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-3551.650058" y="5687.942116"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

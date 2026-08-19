@@ -7,27 +7,27 @@
   </general>
   <pos x="-4765.736" y="-460.752"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Hraasrnor</spob>
     <spob>Oliirth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shoosoln</spob>
+    <spob>Hraasrnor</spob>
   </spobs>
   <jumps>
     <jump target="BI 0075">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0077">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0105">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="BI 0107">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

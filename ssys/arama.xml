@@ -7,36 +7,36 @@
   </general>
   <pos x="-2748.648" y="-2168.712"/>
   <spobs>
-    <spob>Blue Water</spob>
+    <spob>Mim'Sa</spob>
     <spob>The Watcher</spob>
     <spob>Rhombus-1</spob>
-    <spob>Jasp</spob>
-    <spob>Mim'Sa</spob>
-    <spob>Onyx</spob>
+    <spob>Hyena Pup</spob>
     <spob>Garden's Wall</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Jasp</spob>
+    <spob>Onyx</spob>
+    <spob>Jade</spob>
+    <spob>Bone Pearl</spob>
     <spob>Moonless</spob>
     <spob>Rhombus-2</spob>
-    <spob>Bone Pearl</spob>
-    <spob>Hyena Pup</spob>
-    <spob>Jade</spob>
+    <spob>Blue Water</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ab Yoht">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Krisebii">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Shaeb">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Yaheb">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

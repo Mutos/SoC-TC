@@ -7,26 +7,26 @@
   </general>
   <pos x="-2075.072" y="-2125.984"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>FeuerRing Memorial</spob>
     <spob>FeuerRing</spob>
+    <spob>FeuerRing Memorial</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="6684.784384" y="-5293.734994"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="CS-SC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Shadow">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Shadow Grave">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

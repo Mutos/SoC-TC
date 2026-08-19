@@ -7,55 +7,55 @@
   </general>
   <pos x="-1644.92288" y="-220.0592"/>
   <spobs>
-    <spob>Oberon</spob>
-    <spob>Neptune</spob>
-    <spob>Earth</spob>
-    <spob>Io</spob>
-    <spob>Jupiter</spob>
-    <spob>Deimos</spob>
-    <spob>Moon</spob>
-    <spob>Calif High Shipyards</spob>
-    <spob>Saturn</spob>
-    <spob>Asteroids Marker</spob>
-    <spob>Tuskegee Training Academy</spob>
-    <spob>Ceres</spob>
     <spob>Titania</spob>
-    <spob>New Taxaco</spob>
-    <spob>Venus</spob>
-    <spob>Olympus Yards</spob>
-    <spob>Callisto</spob>
-    <spob>Jupiter Station</spob>
-    <spob>Uranus</spob>
-    <spob>Umbriel</spob>
-    <spob>Mars</spob>
+    <spob>Io</spob>
+    <spob>Oberon</spob>
     <spob>Ganymede</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Neptune</spob>
     <spob>Phobos</spob>
     <spob>Titan</spob>
     <spob>Europe</spob>
-    <spob>Mercury</spob>
     <spob>Triton</spob>
+    <spob>Mars</spob>
+    <spob>Earth</spob>
+    <spob>Jupiter Station</spob>
+    <spob>Uranus</spob>
+    <spob>New Taxaco</spob>
+    <spob>Jupiter</spob>
+    <spob>Mercury</spob>
+    <spob>Deimos</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Callisto</spob>
+    <spob>Umbriel</spob>
+    <spob>Olympus Yards</spob>
+    <spob>Ceres</spob>
+    <spob>Asteroids Marker</spob>
+    <spob>Venus</spob>
+    <spob>Saturn</spob>
+    <spob>Tuskegee Training Academy</spob>
+    <spob>Calif High Shipyards</spob>
+    <spob>Moon</spob>
   </spobs>
   <jumps>
     <jump target="Alpha Corvi">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="2787.760428" y="27792.995978"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Barnard's Star">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-135.630440" y="-10217.909009"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gateway">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gl 252">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-42175.742928" y="-14425.028952"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gl 380">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-458.941178" y="-1700.568928"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -7,27 +7,27 @@
   </general>
   <pos x="-1555.112" y="-1345.488"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Hermes Border Station</spob>
-    <spob>Zeus</spob>
     <spob>Hephaistos</spob>
+    <spob>Zeus</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Eldorado">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Teegarden">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Tripoint">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Zeta 2 Reticuli">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

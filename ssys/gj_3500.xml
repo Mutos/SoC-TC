@@ -7,17 +7,17 @@
   </general>
   <pos x="-1866.17248" y="-1164.58688"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Virtual Pirate Small</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Eden (Gl 304)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Gl 293.2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

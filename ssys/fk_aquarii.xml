@@ -11,20 +11,20 @@
   </spobs>
   <jumps>
     <jump target="FL Aquarii">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="6151.874710" y="3300.198259"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Fomalhaut">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Nouvelle Mars">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Rho Indi">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

@@ -7,31 +7,31 @@
   </general>
   <pos x="1371.432" y="-334.088"/>
   <spobs>
-    <spob>Elinth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>KT-134 Station</spob>
     <spob>Irilia-12</spob>
+    <spob>Elinth</spob>
+    <spob>KT-134 Station</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0120 (KT 76)">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0123">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="KC-Ary-Iri - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RkL 3639">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RkL 3891">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

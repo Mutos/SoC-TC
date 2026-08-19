@@ -7,25 +7,25 @@
   </general>
   <pos x="1826.584" y="-3313.68"/>
   <spobs>
-    <spob>Irilia-16</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irilia-16</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0191">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0208">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0209">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="iri 0207">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

@@ -7,22 +7,22 @@
   </general>
   <pos x="-4648.232" y="1389.936"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eliinal Outpost</spob>
     <spob>Eliinal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="IC 0066">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IC 0082">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="IC 0083">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -33,12 +33,12 @@ The Council has however been allowed to send researchers to the Sigma Sector und
     <bar>Mostly Sshaads and Rithai, and a few K'Rinns, all research types and asteroid miners.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

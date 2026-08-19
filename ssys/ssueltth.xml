@@ -12,19 +12,19 @@
   <jumps>
     <jump target="Aan 42">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Aan 48">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ssi'Fer">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="5659.647116" y="2251.085921"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Thom Aareli-4">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="4608.143845" y="-601.328857"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

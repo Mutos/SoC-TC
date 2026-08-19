@@ -29,10 +29,10 @@
     <bar>Mostly warlike Sshaads and some merchants, a few people from other species sit uneasy, ostensbly ignored by regular patrons.</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

@@ -7,17 +7,17 @@
   </general>
   <pos x="-3370.088" y="-781.584"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Utopia</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="PT 0040">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PT 0060">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

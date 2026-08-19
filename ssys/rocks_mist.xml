@@ -7,25 +7,25 @@
   </general>
   <pos x="-761.96" y="-3968.592"/>
   <spobs>
-    <spob>Rock Bottom</spob>
     <spob>Eclaireur-4</spob>
+    <spob>Rock Bottom</spob>
   </spobs>
   <jumps>
     <jump target="Miners' Crossroad">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-6705.389208" y="4910.310326"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ocean">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="1067.068744" y="-5356.553863"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL 0019">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-1135.861319" y="7023.712152"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL 0028">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="5317.026680" y="3443.938224"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

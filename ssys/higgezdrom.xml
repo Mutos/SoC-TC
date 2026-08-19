@@ -8,29 +8,29 @@
   <pos x="1486.02976" y="1248.65472"/>
   <spobs>
     <spob>Higop'h-Green</spob>
-    <spob>Arythem-8</spob>
-    <spob>Higop'h-White</spob>
     <spob>Higanth-Green</spob>
     <spob>Higanth-White</spob>
+    <spob>Higop'h-White</spob>
+    <spob>Arythem-8</spob>
     <spob>Higop'h-Blue</spob>
     <spob>Higanth-Blue</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0032">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0033">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="6480.678524" y="-3160.426130"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0051">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-11927.943816" y="-4882.718727"/>
+      <hide>1.25</hide>
     </jump>
     <jump target="Ary 0052">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-5445.182949" y="4748.301964"/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

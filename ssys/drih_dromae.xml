@@ -7,26 +7,26 @@
   </general>
   <pos x="1681.432" y="-3004.368"/>
   <spobs>
+    <spob>Drih Skarae</spob>
     <spob>Irol</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Drih Skarae</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0214">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0215">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0219">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Iri 0224">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

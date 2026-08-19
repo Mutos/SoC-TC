@@ -7,30 +7,30 @@
   </general>
   <pos x="-1893.144" y="45.112"/>
   <spobs>
+    <spob>Villera I</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Villera IV</spob>
-    <spob>Mahanadee</spob>
     <spob>Villera III</spob>
     <spob>Villera High</spob>
     <spob>Villera II</spob>
-    <spob>Villera I</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Mahanadee</spob>
   </spobs>
   <jumps>
     <jump target="Anhui">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Mytilene">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Pollux">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Savitri">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -8,26 +8,26 @@
   <pos x="-266.976" y="-660.672"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Sinjiang Trading Station</spob>
-    <spob>Vertigo</spob>
     <spob>Embruns</spob>
+    <spob>Vertigo</spob>
+    <spob>Sinjiang Trading Station</spob>
   </spobs>
   <jumps>
     <jump target="Anel'f T'en">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Nouvelle-Hong-Kong">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="PA-KC - 1 - 2">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RS-1 - Freiheit Turen">
-      <autopos/>
-      <hide>1.250000</hide>
+      <pos x="-13757.504093" y="6271.269151"/>
+      <hide>2.0</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -7,16 +7,16 @@
   </general>
   <pos x="-1312.0" y="-1383.0"/>
   <spobs>
-    <spob>Purgatorian's Den</spob>
-    <spob>GJ 1001 e</spob>
     <spob>GJ 1001 c</spob>
-    <spob>GJ 1001 B</spob>
+    <spob>GJ 1001 e</spob>
     <spob>GJ 1001 d</spob>
+    <spob>GJ 1001 B</spob>
+    <spob>Purgatorian's Den</spob>
   </spobs>
   <jumps>
     <jump target="Theta 3">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

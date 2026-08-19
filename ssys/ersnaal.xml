@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0165">
+<ssys name="Ersnaal">
   <general>
     <radius>10000.0</radius>
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-1463.528" y="1614.576"/>
+  <pos x="-1491.528" y="1634.576"/>
   <spobs/>
   <jumps>
-    <jump target="BI 0164">
+    <jump target="Nf 0002">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="BI 0168">
+    <jump target="Nf 0010">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="O'zod">
+      <autopos/>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

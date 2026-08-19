@@ -7,26 +7,26 @@
   </general>
   <pos x="-1856.16864" y="-2097.744"/>
   <spobs>
-    <spob>Freeport 3</spob>
-    <spob>Shadow Grave</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shadow Grave</spob>
+    <spob>Freeport 3</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Devereau's Holds">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="HnH-SC - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Teufelfeuer">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

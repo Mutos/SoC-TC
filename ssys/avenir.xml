@@ -7,17 +7,17 @@
   </general>
   <pos x="-701.48" y="-953.232"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Avenir</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Rho Indi">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Scholzs Star">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

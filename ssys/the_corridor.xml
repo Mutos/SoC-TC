@@ -7,18 +7,18 @@
   </general>
   <pos x="3263.38144" y="-3741.5328"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>The Corridor</spob>
     <spob>The Protector</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Lone Star">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL-Iri - 1 - 1">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

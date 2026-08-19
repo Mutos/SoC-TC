@@ -7,23 +7,23 @@
   </general>
   <pos x="-1143.848" y="-3973.776"/>
   <spobs>
-    <spob>Ssaan</spob>
     <spob>Eltth</spob>
-    <spob>Doub'n</spob>
+    <spob>Ssaan</spob>
     <spob>Nana'k</spob>
+    <spob>Doub'n</spob>
   </spobs>
   <jumps>
     <jump target="Aareli">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Alinath">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Irilia-23">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

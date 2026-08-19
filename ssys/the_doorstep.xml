@@ -7,29 +7,29 @@
   </general>
   <pos x="302.488" y="-4215.696"/>
   <spobs>
-    <spob>Talinsa</spob>
-    <spob>Melina</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Shesinda</spob>
-    <spob>Cresina</spob>
     <spob>Teshinda</spob>
+    <spob>Talinsa</spob>
+    <spob>Cresina</spob>
+    <spob>Melina</spob>
+    <spob>Shesinda</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Shine">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL 0083">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL 0087">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="TPL 0088">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

@@ -35,13 +35,13 @@ Whether from Council or Secession, every K'Rinn volunteering for Aimaa has to be
     <bar>(null)</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

@@ -7,25 +7,25 @@
   </general>
   <pos x="-1775.184" y="112.616"/>
   <spobs>
-    <spob>Anhui Habitat</spob>
-    <spob>Shenyang</spob>
     <spob>Wu</spob>
+    <spob>Shenyang</spob>
     <spob>Suzhou</spob>
-    <spob>Suzhou Research Station</spob>
     <spob>Wei</spob>
+    <spob>Anhui Habitat</spob>
+    <spob>Suzhou Research Station</spob>
   </spobs>
   <jumps>
     <jump target="CL 0060">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Savitri">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Villera">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

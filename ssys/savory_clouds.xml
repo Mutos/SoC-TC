@@ -7,22 +7,22 @@
   </general>
   <pos x="-466.76" y="-2942.448"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Savory Clouds</spob>
     <spob>Divers' Beach</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0023">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RQL 0025">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="RQL 0036">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>

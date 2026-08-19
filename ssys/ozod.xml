@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0164">
+<ssys name="O'zod">
   <general>
     <radius>10000.0</radius>
     <spacedust>400</spacedust>
@@ -8,21 +8,21 @@
   <pos x="-1377.128" y="1726.896"/>
   <spobs/>
   <jumps>
-    <jump target="BI 0163">
+    <jump target="Arythem-16">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="BI 0165">
+    <jump target="Arythem-17">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="BI 0166">
+    <jump target="Ersnaal">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
-    <jump target="BI 0167">
+    <jump target="Laelith">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

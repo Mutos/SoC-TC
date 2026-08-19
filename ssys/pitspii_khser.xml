@@ -7,18 +7,18 @@
   </general>
   <pos x="-3014.648" y="-2167.712"/>
   <spobs>
-    <spob>Sschot</spob>
     <spob>Diidyi</spob>
     <spob>Tossch</spob>
+    <spob>Sschot</spob>
   </spobs>
   <jumps>
     <jump target="Dhreb">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Shaeb">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

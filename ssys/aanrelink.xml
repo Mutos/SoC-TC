@@ -7,17 +7,17 @@
   </general>
   <pos x="-6645.8" y="-1276.368"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Aan-Relink</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Aan 09">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Aan 29">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
 </ssys>

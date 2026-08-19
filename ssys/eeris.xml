@@ -8,21 +8,21 @@
   <pos x="-6072.104" y="-1100.112"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Eetin Alshaan</spob>
     <spob>Lalth ish Eeris</spob>
+    <spob>Eetin Alshaan</spob>
   </spobs>
   <jumps>
     <jump target="Aan 04">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Aan 06">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
     <jump target="Aan 92">
       <autopos/>
-      <hide>1.250000</hide>
+      <hide>1.25</hide>
     </jump>
   </jumps>
   <asteroids>
