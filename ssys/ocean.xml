@@ -7,8 +7,8 @@
   </general>
   <pos x="-354.152" y="-4217.424"/>
   <spobs>
-    <spob>Ocean</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ocean</spob>
   </spobs>
   <jumps>
     <jump target="Rocks Mist">

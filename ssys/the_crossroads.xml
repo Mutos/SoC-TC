@@ -7,8 +7,8 @@
   </general>
   <pos x="604.888" y="-4051.536"/>
   <spobs>
-    <spob>Crossroads Relay</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Crossroads Relay</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0071">

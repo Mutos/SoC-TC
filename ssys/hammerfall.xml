@@ -8,11 +8,11 @@
   <pos x="-2282.6" y="259.824"/>
   <spobs>
     <spob>Hammerfall</spob>
+    <spob>Ahn Trading Post</spob>
+    <spob>Heavy Clouds</spob>
+    <spob>Crusher</spob>
     <spob>Virtual Miner Local</spob>
     <spob>Fahrenheit</spob>
-    <spob>Ahn Trading Post</spob>
-    <spob>Crusher</spob>
-    <spob>Heavy Clouds</spob>
   </spobs>
   <jumps>
     <jump target="CL 0039">

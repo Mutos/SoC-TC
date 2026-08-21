@@ -24,23 +24,25 @@
       <shipyard/>
       <commodity/>
     </services>
-    <description>Toki no Namida is meaning "Tears of time" in old Hekka / Japanese. Burrowed in a hollowed Moonlet orbiting Ashioto, this Station was originally a policorporatist base and spaceyard, until it was taken by Harmand's Irregulars troops, and became a major headquarter for the rebellion.
-  After wars, it was refurbished to a Transit Station, and before the creation of the Ashioto Cluster, it was not rare it host small traffics and reunion for somewhat illegal business. Now, under the supervision, these activity should have ended, and it is still a crowded transit Spacestation,
-  still renowned for its Restaurant who serve various nice meals from all the sophontness. Except the Aligot. Awful. Don't try it. </description>
-    <bar>Old style Restaurant crowded with spacers, tourists and legal merchants, enjoying the view of Ashioto, who seems to somewhat slowly turning green again ... </bar>
+    <description>Toki no Namida means "Tears of time" in old Hekka / Japanese. Built from a hollowed moonlet orbiting Ashioto, this station was originally a policorporatist base and spaceyard, 
+until it was taken by Harmand's Irregulars and became a major headquarter for the rebellion. 
+After the Planetarist wars, it was refurbished into a transit station. Before the Ashioto Cluster was founded, it frequently hosted small traffics and acted as a meeting place for somewhat illegal business.
+Now, under the supervision of the Ashioto Cluster, these activities should have ended, but the place is still a crowded transit spacestation, still renowned for one of its restaurants who serve various nice meals from all the sophontness.
+Except the Aligot. Awful. Don't try it. </description>
+    <bar>This old-style restaurant is crowded with spacers, tourists and merchants, enjoying the view of Ashioto, that seems to slowly turn green again ... </bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

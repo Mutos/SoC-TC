@@ -7,9 +7,9 @@
   </general>
   <pos x="-8.552" y="-2463.504"/>
   <spobs>
-    <spob>Ghilan's Pride</spob>
-    <spob>Light of Dawn</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Light of Dawn</spob>
+    <spob>Ghilan's Pride</spob>
   </spobs>
   <jumps>
     <jump target="PA 0091">

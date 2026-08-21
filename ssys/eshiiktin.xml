@@ -8,8 +8,8 @@
   <pos x="-2026.856" y="-2888.592"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>K'tin Trade Center</spob>
     <spob>Giant</spob>
+    <spob>K'tin Trade Center</spob>
   </spobs>
   <jumps>
     <jump target="Ind 0004">

@@ -7,11 +7,11 @@
   </general>
   <pos x="520.216" y="1287.984"/>
   <spobs>
-    <spob>Kajath</spob>
     <spob>Rakh ud Ergal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ergajith Border Station</spob>
     <spob>Ergal ud Kajath</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Kajath</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0071">

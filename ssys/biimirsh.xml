@@ -7,8 +7,8 @@
   </general>
   <pos x="-3908.648" y="-1793.04"/>
   <spobs>
-    <spob>Biimas</spob>
     <spob>Biim Border Station</spob>
+    <spob>Biimas</spob>
   </spobs>
   <jumps>
     <jump target="BI 0003">

@@ -29,11 +29,11 @@
     <bar>A number of K'Rinns and Humans, many of them playing Spiraxy.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

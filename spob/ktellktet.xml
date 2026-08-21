@@ -29,9 +29,9 @@
     <bar>Half the K'Rinns stationned there are Defenders, which gives the bar a proud yet dark feel</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

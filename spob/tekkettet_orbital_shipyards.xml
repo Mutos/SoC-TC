@@ -31,11 +31,11 @@ The Tek'Kettet shipyard is now a major shipbuilder of k'rinn space, on a par wit
     <bar>Workers ans Spacers talking about ships</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

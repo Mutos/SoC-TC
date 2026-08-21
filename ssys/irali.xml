@@ -7,9 +7,9 @@
   </general>
   <pos x="3003.352" y="-1300.56"/>
   <spobs>
-    <spob>Gadhonex</spob>
     <spob>Irali Core Guard</spob>
     <spob>Irali</spob>
+    <spob>Gadhonex</spob>
   </spobs>
   <jumps>
     <jump target="Drom">

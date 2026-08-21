@@ -7,10 +7,10 @@
   </general>
   <pos x="-284.384" y="658.36"/>
   <spobs>
-    <spob>Neel'Rilk Internal Surveyor</spob>
-    <spob>Neel'Rilk Border Station</spob>
-    <spob>Neel'Rilk External Surveyor</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Neel'Rilk Border Station</spob>
+    <spob>Neel'Rilk Internal Surveyor</spob>
+    <spob>Neel'Rilk External Surveyor</spob>
   </spobs>
   <jumps>
     <jump target="AC 0014">

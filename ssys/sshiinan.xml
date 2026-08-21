@@ -7,9 +7,9 @@
   </general>
   <pos x="-3315.944" y="757.488"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Sshiinan Border Station</spob>
     <spob>Aarinel</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0056">

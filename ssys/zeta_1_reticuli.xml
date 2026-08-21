@@ -7,8 +7,8 @@
   </general>
   <pos x="-905.17472" y="-1272.66304"/>
   <spobs>
-    <spob>Yana</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Yana</spob>
   </spobs>
   <jumps>
     <jump target="Alphecca">

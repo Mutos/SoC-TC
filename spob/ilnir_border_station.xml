@@ -29,11 +29,11 @@
     <bar>Several sshaad pilots and merchants sit there, along with a few nonshaad beings</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

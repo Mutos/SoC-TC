@@ -7,8 +7,8 @@
   </general>
   <pos x="-12.008" y="-3223.824"/>
   <spobs>
-    <spob>Howling Comets</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Howling Comets</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0034">

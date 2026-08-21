@@ -7,8 +7,8 @@
   </general>
   <pos x="-2172.38848" y="-1651.41088"/>
   <spobs>
-    <spob>Cerberus Fortress</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Cerberus Fortress</spob>
   </spobs>
   <jumps>
     <jump target="33 G Librae">

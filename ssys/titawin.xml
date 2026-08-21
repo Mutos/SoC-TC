@@ -7,10 +7,10 @@
   </general>
   <pos x="-844.256" y="411.256"/>
   <spobs>
-    <spob>Astrolabe</spob>
-    <spob>Samh</spob>
-    <spob>Majriti</spob>
     <spob>Titawin Ae</spob>
+    <spob>Samh</spob>
+    <spob>Astrolabe</spob>
+    <spob>Majriti</spob>
     <spob>Saffar</spob>
   </spobs>
   <jumps>

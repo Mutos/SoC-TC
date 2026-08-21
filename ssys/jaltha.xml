@@ -7,10 +7,10 @@
   </general>
   <pos x="1119.832" y="1567.92"/>
   <spobs>
-    <spob>Jaltha nel Nalth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Eral ud Nal</spob>
     <spob>Jaltha</spob>
+    <spob>Eral ud Nal</spob>
+    <spob>Jaltha nel Nalth</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0069">

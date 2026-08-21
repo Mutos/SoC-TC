@@ -7,9 +7,9 @@
   </general>
   <pos x="-298.8" y="-521.664"/>
   <spobs>
+    <spob>FeuerTurm</spob>
     <spob>Azul</spob>
     <spob>Stromboli</spob>
-    <spob>FeuerTurm</spob>
   </spobs>
   <jumps>
     <jump target="Anel'f T'en">

@@ -8,9 +8,9 @@
   <pos x="-241.256" y="-1157.712"/>
   <spobs>
     <spob>Hades</spob>
-    <spob>Inferno</spob>
-    <spob>Dlanhergh Toll imh Derr</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Dlanhergh Toll imh Derr</spob>
+    <spob>Inferno</spob>
   </spobs>
   <jumps>
     <jump target="Gl 48">

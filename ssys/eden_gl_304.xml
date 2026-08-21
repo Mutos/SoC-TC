@@ -7,11 +7,11 @@
   </general>
   <pos x="-1910.2816" y="-1285.27264"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Utsukushi</spob>
     <spob>Tanuki</spob>
     <spob>Eden</spob>
     <spob>Eden High</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="GJ 3466">

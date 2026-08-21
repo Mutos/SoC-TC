@@ -7,9 +7,9 @@
   </general>
   <pos x="131.416" y="-2202.576"/>
   <spobs>
-    <spob>Ulaan Gazar</spob>
-    <spob>Tenger</spob>
     <spob>Etugen</spob>
+    <spob>Tenger</spob>
+    <spob>Ulaan Gazar</spob>
   </spobs>
   <jumps>
     <jump target="Arcturus">

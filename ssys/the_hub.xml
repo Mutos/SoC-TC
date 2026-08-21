@@ -7,10 +7,10 @@
   </general>
   <pos x="-2133.52" y="-86.112"/>
   <spobs>
-    <spob>Torche</spob>
-    <spob>Freeport 4</spob>
-    <spob>Roussette</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Roussette</spob>
+    <spob>Freeport 4</spob>
+    <spob>Torche</spob>
   </spobs>
   <jumps>
     <jump target="CL 0015">
