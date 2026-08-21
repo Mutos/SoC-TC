@@ -7,8 +7,8 @@
   </general>
   <pos x="-851.26048" y="-1487.26656"/>
   <spobs>
-    <spob>Freiheit Raumstation</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Freiheit Raumstation</spob>
   </spobs>
   <jumps>
     <jump target="PA 0004">

@@ -31,13 +31,13 @@ It is also said that the stealth station over Banthory IV, that later became Beu
     <bar>The bar is full of Shoden spacers and researchers talking about all possible ways to wipe non-Sshaads from the face of the universe</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

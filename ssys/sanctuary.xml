@@ -7,9 +7,9 @@
   </general>
   <pos x="-852.8272" y="-1729.6128"/>
   <spobs>
-    <spob>Mahavikra Flight School</spob>
-    <spob>Sanctuary</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Sanctuary</spob>
+    <spob>Mahavikra Flight School</spob>
   </spobs>
   <jumps>
     <jump target="LHS 1140">

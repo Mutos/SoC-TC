@@ -7,8 +7,8 @@
   </general>
   <pos x="-1202.28" y="-749.944"/>
   <spobs>
-    <spob>Nova Russia</spob>
     <spob>Medved</spob>
+    <spob>Nova Russia</spob>
   </spobs>
   <jumps>
     <jump target="CL-KC - 1 - 1">

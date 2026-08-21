@@ -8,9 +8,9 @@
   <pos x="-1907.456" y="-2482.528"/>
   <spobs>
     <spob>Haven</spob>
-    <spob>Dawn Moon</spob>
-    <spob>Dusk Moon</spob>
     <spob>New Link Station</spob>
+    <spob>Dusk Moon</spob>
+    <spob>Dawn Moon</spob>
   </spobs>
   <jumps>
     <jump target="PA-SC - 1 - 2">

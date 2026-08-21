@@ -31,10 +31,10 @@ It is 13-Planets-League custom to name a colony after a major feature of the pla
     <bar>Small groups of locals and an occasional Spacer</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

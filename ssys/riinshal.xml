@@ -7,8 +7,8 @@
   </general>
   <pos x="-2944.424" y="-343.248"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Riinshal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="CL-ShC - 1 - 1">

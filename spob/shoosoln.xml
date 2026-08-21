@@ -35,12 +35,12 @@ When Complementarism began to spread into the Baartish, the Anarchs were fervent
     <bar>The bar is filled with Sshaads and Shapeshifters, many of them talking eagerly about Complementarism</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

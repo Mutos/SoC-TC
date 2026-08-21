@@ -33,7 +33,7 @@ Fortunately, the indigenous biotopes, quite simple, are around 85% biocompatible
     <bar>Typical Shoden landspeople, mildly hostile with non-Sshaads but quite ordinary otherwise</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>

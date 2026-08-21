@@ -7,11 +7,11 @@
   </general>
   <pos x="-1205.914" y="-893.413333"/>
   <spobs>
-    <spob>LiangXi Mechanics</spob>
-    <spob>Oryol</spob>
-    <spob>Voronin</spob>
-    <spob>Mir</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Voronin</spob>
+    <spob>Oryol</spob>
+    <spob>Mir</spob>
+    <spob>LiangXi Mechanics</spob>
   </spobs>
   <jumps>
     <jump target="Nouvelle Mars">

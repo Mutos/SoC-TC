@@ -33,11 +33,11 @@ It is secretly conducting an ambitious exploration program to find a sshaads-fre
     <bar>Lots of Shapeshifters from diverse Hives, nearly all of them in their natural shape</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

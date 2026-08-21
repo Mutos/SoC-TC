@@ -7,9 +7,9 @@
   </general>
   <pos x="-1002.33376" y="-1677.26592"/>
   <spobs>
-    <spob>LHS 1140 b</spob>
     <spob>LHS 1140 d</spob>
     <spob>LHS 1140 c</spob>
+    <spob>LHS 1140 b</spob>
   </spobs>
   <jumps>
     <jump target="PA 0017">

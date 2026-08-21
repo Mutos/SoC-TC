@@ -29,13 +29,13 @@
     <bar>A host of miners and merchants, most of them Humans with some K'Rinns and Rithai from the nearby Shadow Complex</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

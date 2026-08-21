@@ -33,17 +33,17 @@ After peace was signed and the Commonwealth was created, Starsling Station urned
     <bar>The bar is host to a mixed crowd consisting mainly of Humans, K'Rinns and Rithai, with occasional visitors of all other species</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

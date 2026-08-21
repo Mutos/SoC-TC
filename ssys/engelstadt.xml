@@ -7,11 +7,11 @@
   </general>
   <pos x="-2284.22048" y="-1377.02688"/>
   <spobs>
-    <spob>Krasnoia Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Hallier</spob>
+    <spob>Krasnoia Station</spob>
     <spob>Engelstadt</spob>
     <spob>Smernya</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="GJ 1097">

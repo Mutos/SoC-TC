@@ -7,8 +7,8 @@
   </general>
   <pos x="-965.216" y="188.344"/>
   <spobs>
-    <spob>Jokers Patrol Base</spob>
     <spob>Loki</spob>
+    <spob>Jokers Patrol Base</spob>
   </spobs>
   <jumps>
     <jump target="Maru">

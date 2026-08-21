@@ -35,13 +35,13 @@ Ships willing to land on Bamara need a military accreditation from the Core Leag
     <bar>Human pilots and merchants, the latter sometimes screening an occasional Sshaad partner from the former.</bar>
   </general>
   <tech>
+    <item price_mod="1.0">Human Food</item>
     <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

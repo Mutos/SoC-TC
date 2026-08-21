@@ -7,8 +7,8 @@
   </general>
   <pos x="-45.0992" y="-1265.0528"/>
   <spobs>
-    <spob>Thalin</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Thalin</spob>
   </spobs>
   <jumps>
     <jump target="Althaim">

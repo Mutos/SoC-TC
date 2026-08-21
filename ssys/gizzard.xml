@@ -7,8 +7,8 @@
   </general>
   <pos x="342.232" y="1974.0"/>
   <spobs>
-    <spob>Gizzard Mining Prison</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Gizzard Mining Prison</spob>
   </spobs>
   <jumps>
     <jump target="Heart of the Long Link">

@@ -35,12 +35,12 @@ With the prison ship that got trapped inside a purgatorian planetoid emerging in
     <bar>Many Sshaads and a few Rithai drinking various mild intoxicants.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

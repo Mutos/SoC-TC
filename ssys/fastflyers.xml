@@ -7,8 +7,8 @@
   </general>
   <pos x="5060.912" y="-2105.6"/>
   <spobs>
-    <spob>FastFlyers Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>FastFlyers Border Station</spob>
   </spobs>
   <jumps>
     <jump target="IS 0069">

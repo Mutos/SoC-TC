@@ -29,9 +29,9 @@
     <bar>A chattering crowd of Ka'Ralters, naturally with a large proportion of Defenders</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

@@ -7,9 +7,9 @@
   </general>
   <pos x="429.416" y="77.544"/>
   <spobs>
-    <spob>Mar'K'Rinn'Ra</spob>
-    <spob>K'Tal</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>K'Tal</spob>
+    <spob>Mar'K'Rinn'Ra</spob>
   </spobs>
   <jumps>
     <jump target="KT 58">

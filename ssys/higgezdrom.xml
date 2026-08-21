@@ -7,13 +7,13 @@
   </general>
   <pos x="1486.02976" y="1248.65472"/>
   <spobs>
-    <spob>Higop'h-Green</spob>
-    <spob>Higanth-Green</spob>
-    <spob>Higanth-White</spob>
-    <spob>Higop'h-White</spob>
-    <spob>Arythem-8</spob>
-    <spob>Higop'h-Blue</spob>
     <spob>Higanth-Blue</spob>
+    <spob>Arythem-8</spob>
+    <spob>Higop'h-Green</spob>
+    <spob>Higanth-White</spob>
+    <spob>Higanth-Green</spob>
+    <spob>Higop'h-Blue</spob>
+    <spob>Higop'h-White</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0032">

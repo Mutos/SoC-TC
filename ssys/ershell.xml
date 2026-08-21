@@ -7,8 +7,8 @@
   </general>
   <pos x="-3079.208" y="695.28"/>
   <spobs>
-    <spob>Ershell Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ershell Border Station</spob>
   </spobs>
   <jumps>
     <jump target="ShC 0024">

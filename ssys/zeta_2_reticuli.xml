@@ -8,8 +8,8 @@
   <pos x="-1126.312" y="-1185.424"/>
   <spobs>
     <spob>Nicophar</spob>
-    <spob>Lithene</spob>
     <spob>Nufar</spob>
+    <spob>Lithene</spob>
   </spobs>
   <jumps>
     <jump target="Alphecca">

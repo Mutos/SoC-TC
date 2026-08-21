@@ -7,8 +7,8 @@
   </general>
   <pos x="2611.096" y="-1283.28"/>
   <spobs>
-    <spob>Alethai Core Guard</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Alethai Core Guard</spob>
   </spobs>
   <jumps>
     <jump target="Firdal">

@@ -7,8 +7,8 @@
   </general>
   <pos x="-1742.92" y="-579.064"/>
   <spobs>
-    <spob>Thoas</spob>
     <spob>Agrios</spob>
+    <spob>Thoas</spob>
   </spobs>
   <jumps>
     <jump target="Hope (Tau Ceti)">

@@ -7,8 +7,8 @@
   </general>
   <pos x="-761.96" y="-3968.592"/>
   <spobs>
-    <spob>Eclaireur-4</spob>
     <spob>Rock Bottom</spob>
+    <spob>Eclaireur-4</spob>
   </spobs>
   <jumps>
     <jump target="Miners' Crossroad">
