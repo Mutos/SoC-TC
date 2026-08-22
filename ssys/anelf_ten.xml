@@ -7,8 +7,8 @@
   </general>
   <pos x="-143.712" y="-492.48"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Anel'f Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="KT 35">

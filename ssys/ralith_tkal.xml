@@ -7,8 +7,8 @@
   </general>
   <pos x="-454.376" y="164.784"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ralith T'Kal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Meg-Ur-K'ik">

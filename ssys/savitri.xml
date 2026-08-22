@@ -7,9 +7,9 @@
   </general>
   <pos x="-1931.24" y="141.456"/>
   <spobs>
-    <spob>Savitri D</spob>
-    <spob>Savitri A</spob>
     <spob>Savitri B</spob>
+    <spob>Savitri A</spob>
+    <spob>Savitri D</spob>
     <spob>Savitri C</spob>
   </spobs>
   <jumps>

@@ -7,9 +7,9 @@
   </general>
   <pos x="-2075.072" y="-2125.984"/>
   <spobs>
-    <spob>FeuerRing</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>FeuerRing Memorial</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>FeuerRing</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">

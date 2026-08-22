@@ -33,12 +33,13 @@ The mix of populations with very different views on life has prompted some conce
     <bar>A mixed lot of Rithai of diverse ethnies and mostly Ka'Raltian K'Rinns</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Human Food</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

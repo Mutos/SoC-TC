@@ -33,8 +33,9 @@ However, being largely freer from traditionalists than other Irilia worlds, Iril
     <bar>A small but animated crowd mainly of Rithai, some wearing ostensible dri'h markings</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

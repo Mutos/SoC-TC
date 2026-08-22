@@ -33,12 +33,13 @@ Its other prominent feature is the Stellar Police Pan-Kohl High Security Prison 
     <bar>A mix of aged middle-class people along with some natives and Stellar Police officers on leave, all of them mainly Humans, with only a few Rithai and K'Rinns</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Human Food</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

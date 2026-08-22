@@ -7,12 +7,12 @@
   </general>
   <pos x="302.488" y="-4215.696"/>
   <spobs>
-    <spob>Talinsa</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Cresina</spob>
-    <spob>Shesinda</spob>
     <spob>Melina</spob>
     <spob>Teshinda</spob>
+    <spob>Shesinda</spob>
+    <spob>Talinsa</spob>
   </spobs>
   <jumps>
     <jump target="Shine">

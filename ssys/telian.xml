@@ -7,8 +7,8 @@
   </general>
   <pos x="-865.064" y="-1114.512"/>
   <spobs>
-    <spob>Telian Zone</spob>
     <spob>Telian</spob>
+    <spob>Telian Zone</spob>
   </spobs>
   <jumps>
     <jump target="Alphecca">

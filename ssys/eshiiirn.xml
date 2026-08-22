@@ -7,8 +7,8 @@
   </general>
   <pos x="-2455.4" y="1016.688"/>
   <spobs>
-    <spob>Ud Irn</spob>
     <spob>Irna'K</spob>
+    <spob>Ud Irn</spob>
   </spobs>
   <jumps>
     <jump target="Sh'Rak">

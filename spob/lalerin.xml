@@ -33,12 +33,13 @@ The planet has always had contacts with other sentients and has evolved into a r
     <bar>Groups of Sshaads and Shapeshifters, most of the latter mimicing Sshaads but a few relaxed on their natural form, play along other sentients</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>

@@ -7,8 +7,8 @@
   </general>
   <pos x="-186.352" y="-122.16"/>
   <spobs>
-    <spob>T'Kilnath Base</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>T'Kilnath Base</spob>
   </spobs>
   <jumps>
     <jump target="KT 241">

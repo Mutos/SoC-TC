@@ -7,8 +7,8 @@
   </general>
   <pos x="-792.1392" y="-1052.0688"/>
   <spobs>
-    <spob>Coronis</spob>
     <spob>Dagon</spob>
+    <spob>Coronis</spob>
   </spobs>
   <jumps>
     <jump target="FK Aquarii">

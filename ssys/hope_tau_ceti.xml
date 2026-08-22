@@ -7,19 +7,19 @@
   </general>
   <pos x="-1807.152" y="-637.4"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Tau Ceti II</spob>
-    <spob>Hope-5</spob>
-    <spob>Tau Ceti IV</spob>
     <spob>Hope-3.1</spob>
-    <spob>Hope</spob>
-    <spob>Tarkhov</spob>
-    <spob>Tau Ceti III</spob>
-    <spob>Hope-3</spob>
-    <spob>Ares High</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Hope-4</spob>
-    <spob>Tau Ceti I</spob>
     <spob>Ares</spob>
+    <spob>Tau Ceti I</spob>
+    <spob>Hope</spob>
+    <spob>Hope-3</spob>
+    <spob>Tau Ceti III</spob>
+    <spob>Tarkhov</spob>
+    <spob>Tau Ceti IV</spob>
+    <spob>Hope-5</spob>
+    <spob>Ares High</spob>
+    <spob>Tau Ceti II</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3753">

@@ -22,9 +22,10 @@
     <bar>(null)</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">e</item>
-    <item price_mod="1.0">r</item>
     <item price_mod="1.0">T</item>
+    <item price_mod="1.0">r</item>
     <item price_mod="1.0">u</item>
   </tech>
 </spob>

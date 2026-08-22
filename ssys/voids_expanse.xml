@@ -7,8 +7,8 @@
   </general>
   <pos x="29.464" y="-3868.368"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Void's Expanse</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0092">

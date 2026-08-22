@@ -7,8 +7,8 @@
   </general>
   <pos x="-1832.0" y="-913.0"/>
   <spobs>
-    <spob>Jabir</spob>
     <spob>Syrtis IV</spob>
+    <spob>Jabir</spob>
   </spobs>
   <jumps>
     <jump target="Gl 293.2">

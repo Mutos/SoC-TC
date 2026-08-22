@@ -31,10 +31,11 @@ In fact, the pirate threat is quite low and the base could rather be described a
     <bar>Mean-looking K'Rinns, most of them visibly renegade Defenders, some even exhibiting their cyborg implants as a regular K'Rinn would never do</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">K'Rinn Food</item>
   </tech>
 </spob>

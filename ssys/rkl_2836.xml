@@ -7,10 +7,10 @@
   </general>
   <pos x="14.416" y="129.72"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>T'Tamen</spob>
     <spob>K'Til'n 0004</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>T'Timor</spob>
+    <spob>T'Tamen</spob>
   </spobs>
   <jumps>
     <jump target="Ek'In">

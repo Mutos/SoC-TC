@@ -33,12 +33,13 @@ As currently the Aan sector is locked out by pirate presence, exploration has lo
     <bar>A few Sshaads and K'Rinns with scientific fervour in their eyes</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Human Food</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

@@ -7,9 +7,9 @@
   </general>
   <pos x="2355.352" y="-1729.104"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Halisht Relay</spob>
     <spob>Halisht</spob>
+    <spob>Halisht Relay</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0102">

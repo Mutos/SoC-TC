@@ -8,11 +8,11 @@
   <pos x="-4388.168" y="-1276.656"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Lhass</spob>
+    <spob>Altan'Ssh</spob>
+    <spob>Nanai'Sh</spob>
     <spob>Shiin</spob>
     <spob>Oshiinal</spob>
-    <spob>Nanai'Sh</spob>
-    <spob>Altan'Ssh</spob>
+    <spob>Lhass</spob>
   </spobs>
   <jumps>
     <jump target="BI 0010">

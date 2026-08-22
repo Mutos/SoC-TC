@@ -7,9 +7,9 @@
   </general>
   <pos x="-3815.336" y="1192.944"/>
   <spobs>
+    <spob>Shiren</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shilian</spob>
-    <spob>Shiren</spob>
   </spobs>
   <jumps>
     <jump target="IC 0032">
