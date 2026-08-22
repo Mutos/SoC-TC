@@ -7,8 +7,8 @@
   </general>
   <pos x="-3588.968" y="-322.512"/>
   <spobs>
-    <spob>Talshimaal Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Talshimaal Border Station</spob>
   </spobs>
   <jumps>
     <jump target="BI 0052">

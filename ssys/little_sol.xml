@@ -7,10 +7,10 @@
   </general>
   <pos x="-1662.96" y="-682.776"/>
   <spobs>
+    <spob>Hercules</spob>
+    <spob>Megara</spob>
     <spob>Fort Solis</spob>
     <spob>PIF High-Station</spob>
-    <spob>Megara</spob>
-    <spob>Hercules</spob>
   </spobs>
   <jumps>
     <jump target="CL-HnH - 2 - 1">

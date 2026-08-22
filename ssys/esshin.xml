@@ -7,17 +7,17 @@
   </general>
   <pos x="-4717.352" y="-927.312"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Tshiaa'Han</spob>
-    <spob>Tshiaa'Tshasha</spob>
     <spob>I'An</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>K'Aareli</spob>
+    <spob>Tsch'Ishin</spob>
+    <spob>Tshiaa'Shaan</spob>
     <spob>Tshiaa'rsh</spob>
     <spob>Ub'Ul</spob>
-    <spob>Aan'Tsch'</spob>
-    <spob>Tshiaa'Shaan</spob>
     <spob>Ol'Gam</spob>
-    <spob>Tsch'Ishin</spob>
+    <spob>Tshiaa'Tshasha</spob>
+    <spob>Aan'Tsch'</spob>
+    <spob>Tshiaa'Han</spob>
   </spobs>
   <jumps>
     <jump target="Al'Fagal">

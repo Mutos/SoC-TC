@@ -29,8 +29,9 @@
     <bar>Fiery-looking Gham Garri looking down on any non-Rith daring enough to enter the bar</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

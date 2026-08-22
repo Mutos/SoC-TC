@@ -37,9 +37,10 @@ Still now, while the planet is naturally a rich agricultural world thanks to its
     <bar>Typical marine-dweller local Arythem, with only a few visitors from off-planet</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Rith Food</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>

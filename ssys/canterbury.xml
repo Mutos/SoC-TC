@@ -7,8 +7,8 @@
   </general>
   <pos x="447.552" y="-190.08"/>
   <spobs>
-    <spob>Canterbury</spob>
     <spob>Annuschka</spob>
+    <spob>Canterbury</spob>
   </spobs>
   <jumps>
     <jump target="KT 143">

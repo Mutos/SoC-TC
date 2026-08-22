@@ -7,8 +7,8 @@
   </general>
   <pos x="-2961.704" y="-1805.136"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Brinn Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 11">

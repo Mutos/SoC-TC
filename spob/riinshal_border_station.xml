@@ -29,9 +29,10 @@
     <bar>The mess is filled by proud Shoden pilots ready to scramble and a few mean-looking sshaad merchants, looking down on an occasional human visitor</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Sshaad Food</item>
   </tech>
 </spob>

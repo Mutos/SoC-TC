@@ -7,11 +7,11 @@
   </general>
   <pos x="-2175.464" y="2388.72"/>
   <spobs>
-    <spob>Aareli</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ashilles</spob>
     <spob>Ergal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Tshak'kala Station</spob>
+    <spob>Aareli</spob>
+    <spob>Ashilles</spob>
   </spobs>
   <jumps>
     <jump target="BI 0137">

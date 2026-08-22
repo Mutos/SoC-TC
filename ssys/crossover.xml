@@ -7,8 +7,8 @@
   </general>
   <pos x="-2035.784" y="595.632"/>
   <spobs>
-    <spob>Abandoned Station</spob>
     <spob>Marduk</spob>
+    <spob>Abandoned Station</spob>
   </spobs>
   <jumps>
     <jump target="CL 0044">

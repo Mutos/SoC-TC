@@ -7,8 +7,8 @@
   </general>
   <pos x="-2655.848" y="-2933.52"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Eeraniinal Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Aareli">

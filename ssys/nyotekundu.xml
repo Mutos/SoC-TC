@@ -8,8 +8,8 @@
   <pos x="-2229.032" y="382.512"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Virtual Miner Local</spob>
     <spob>Mhandari</spob>
+    <spob>Virtual Miner Local</spob>
   </spobs>
   <jumps>
     <jump target="CL 0041">

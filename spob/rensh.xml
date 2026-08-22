@@ -31,12 +31,13 @@ The Ren'sh Planetary Council is the closest thing in the Sshaad Sphere to a full
     <bar>You stand among a crowd of proud Ren'shers with some spacesshaads and an occasional offworld merchant</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>

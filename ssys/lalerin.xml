@@ -7,10 +7,10 @@
   </general>
   <pos x="-3746.216" y="-2641.488"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Asteroids Cluser 610275</spob>
     <spob>Ishaal</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Lalerin</spob>
+    <spob>Asteroids Cluser 610275</spob>
   </spobs>
   <jumps>
     <jump target="CS 0048">

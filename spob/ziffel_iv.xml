@@ -39,8 +39,9 @@ When news broke of a plague decimating the Ziffelan population, a quarantine was
     <bar>The bar is peopled with Humans and you wonder... none of them seems to be sick</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

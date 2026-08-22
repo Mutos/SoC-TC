@@ -35,12 +35,13 @@ Hermes Border Station now also dubs as a major trade exchange center, nearly on 
     <bar>Numerous HnHers and Spacers stand at the bar, laughing about the planetside States.</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Human Food</item>
+    <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Luxury Goods</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

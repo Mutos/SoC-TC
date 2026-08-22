@@ -31,9 +31,10 @@ Many colonists indeed come from Irmothem-6 and, as the new world is quite ore-ri
     <bar>A largely Irmothem crowd, along with a few merchants of mixed Irmothem and Arythem origin</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

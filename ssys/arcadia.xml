@@ -7,8 +7,8 @@
   </general>
   <pos x="-3249.512" y="-1462.568"/>
   <spobs>
-    <spob>Arcadia</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Arcadia</spob>
   </spobs>
   <jumps>
     <jump target="PT 0020">

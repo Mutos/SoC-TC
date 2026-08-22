@@ -31,9 +31,10 @@ Under Irilia protection by treaty, but administered by Free Adrimai, the station
     <bar>The bar is filled with Rithai, most of them Free Adrimai</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Medicine</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

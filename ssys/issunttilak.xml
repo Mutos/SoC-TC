@@ -7,12 +7,12 @@
   </general>
   <pos x="-426.08" y="487.288"/>
   <spobs>
-    <spob>Issun c</spob>
-    <spob>Issun d</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>L'Linal't 0005</spob>
     <spob>Issun Derelict 1</spob>
+    <spob>Issun c</spob>
     <spob>Issun b</spob>
+    <spob>Issun d</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="AC 0014">

@@ -7,8 +7,8 @@
   </general>
   <pos x="-875.344" y="-909.376"/>
   <spobs>
-    <spob>Rho Indi b</spob>
     <spob>La Mulana</spob>
+    <spob>Rho Indi b</spob>
   </spobs>
   <jumps>
     <jump target="Avenir">

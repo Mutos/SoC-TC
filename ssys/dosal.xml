@@ -7,9 +7,9 @@
   </general>
   <pos x="818.408" y="-1627.664"/>
   <spobs>
+    <spob>Dosal Relay</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Dosal</spob>
-    <spob>Dosal Relay</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0018">

@@ -39,12 +39,13 @@ Now, Tshiaa'rint is split between a generally Complementarist population, a numb
     <bar>You see numerous Sshaads... or are they Shapeshifters ? You know they often indulge in sshaad shape. Several ones are recognizable, either only partially transformed or in their plain natural shape.</bar>
   </general>
   <tech>
+    <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Shapeshifter Food</item>
     <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>

@@ -29,15 +29,16 @@
     <bar>Mostly sshaad and rithai Spacers, celebrating freedom and free traders with large gulps of various intoxicants, probably smuggled in by passing ships !</bar>
   </general>
   <tech>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
+    <item>Standard Core Outfits</item>
     <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>
