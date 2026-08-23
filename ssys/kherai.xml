@@ -7,8 +7,8 @@
   </general>
   <pos x="912.472" y="-2909.328"/>
   <spobs>
-    <spob>Kherai Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Kherai Border Station</spob>
   </spobs>
   <jumps>
     <jump target="Alinath">

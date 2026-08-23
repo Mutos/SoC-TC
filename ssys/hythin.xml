@@ -7,8 +7,8 @@
   </general>
   <pos x="2851.288" y="-1134.672"/>
   <spobs>
-    <spob>Hythin Core Guard</spob>
     <spob>Hythin</spob>
+    <spob>Hythin Core Guard</spob>
   </spobs>
   <jumps>
     <jump target="Duran">

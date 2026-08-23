@@ -7,8 +7,8 @@
   </general>
   <pos x="-1020.05408" y="-3624.72"/>
   <spobs>
-    <spob>Candlelight</spob>
     <spob>Ariisha Elasaii</spob>
+    <spob>Candlelight</spob>
   </spobs>
   <jumps>
     <jump target="CS-TPL-RQL - 1 - 1">

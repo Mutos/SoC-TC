@@ -7,11 +7,11 @@
   </general>
   <pos x="1019.608" y="-2356.368"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Ghanilan</spob>
-    <spob>Daleth ud Eralth</spob>
-    <spob>Ereth</spob>
     <spob>Eral</spob>
+    <spob>Ereth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Daleth ud Eralth</spob>
+    <spob>Ghanilan</spob>
   </spobs>
   <jumps>
     <jump target="Iri 00174">

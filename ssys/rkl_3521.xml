@@ -8,9 +8,9 @@
   <pos x="-138.24" y="-248.832"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>T'Eltin</spob>
     <spob>L'Laler</spob>
     <spob>K'Til'n 0002</spob>
+    <spob>T'Eltin</spob>
   </spobs>
   <jumps>
     <jump target="KT 258">

@@ -7,14 +7,14 @@
   </general>
   <pos x="-2077.68448" y="-1477.16288"/>
   <spobs>
-    <spob>Carrouf V</spob>
-    <spob>Carrouf</spob>
     <spob>Carrouf VI</spob>
     <spob>Carrouf III</spob>
-    <spob>Carrouf I</spob>
-    <spob>Carrouf VII</spob>
-    <spob>Carrouf IV</spob>
     <spob>Carrouf II</spob>
+    <spob>Carrouf V</spob>
+    <spob>Carrouf IV</spob>
+    <spob>Carrouf</spob>
+    <spob>Carrouf VII</spob>
+    <spob>Carrouf I</spob>
   </spobs>
   <jumps>
     <jump target="Anquan Tiankong">

@@ -34,11 +34,11 @@ Most werewhale symbionts are at first awed by these magnificent creatures and fe
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Luxury Goods</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
   </tech>
 </spob>

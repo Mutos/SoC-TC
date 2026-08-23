@@ -7,17 +7,17 @@
   </general>
   <pos x="-1242.344" y="-1597.776"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Vigma-2</spob>
-    <spob>Vigma-4.2</spob>
+    <spob>Vigma-1</spob>
     <spob>Vigma-5</spob>
+    <spob>Vigma-4.1</spob>
+    <spob>Ninh Long's Lair</spob>
     <spob>Dumbach Meetpoint</spob>
     <spob>Vigma-3</spob>
-    <spob>Vigma-4</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Vigma-2</spob>
     <spob>Vigma-2.1</spob>
-    <spob>Ninh Long's Lair</spob>
-    <spob>Vigma-1</spob>
-    <spob>Vigma-4.1</spob>
+    <spob>Vigma-4.2</spob>
+    <spob>Vigma-4</spob>
   </spobs>
   <jumps>
     <jump target="Theta 2">

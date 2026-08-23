@@ -7,9 +7,9 @@
   </general>
   <pos x="1268.44" y="-1808.592"/>
   <spobs>
+    <spob>Thalinel Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Thalinel</spob>
-    <spob>Thalinel Station</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0010">

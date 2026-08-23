@@ -7,34 +7,34 @@
   </general>
   <pos x="-1644.92288" y="-220.0592"/>
   <spobs>
-    <spob>Jupiter</spob>
-    <spob>Titania</spob>
-    <spob>Venus</spob>
-    <spob>Ganymede</spob>
-    <spob>Earth</spob>
     <spob>Jupiter Station</spob>
-    <spob>Umbriel</spob>
-    <spob>Uranus</spob>
-    <spob>Neptune</spob>
-    <spob>Olympus Yards</spob>
-    <spob>Tuskegee Training Academy</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Oberon</spob>
     <spob>Saturn</spob>
-    <spob>Asteroids Marker</spob>
+    <spob>New Taxaco</spob>
+    <spob>Triton</spob>
+    <spob>Titania</spob>
+    <spob>Europe</spob>
+    <spob>Earth</spob>
+    <spob>Deimos</spob>
+    <spob>Mercury</spob>
+    <spob>Moon</spob>
+    <spob>Jupiter</spob>
+    <spob>Titan</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Mars</spob>
     <spob>Io</spob>
-    <spob>Callisto</spob>
-    <spob>Moon</spob>
     <spob>Calif High Shipyards</spob>
-    <spob>Europe</spob>
-    <spob>Phobos</spob>
-    <spob>New Taxaco</spob>
+    <spob>Venus</spob>
+    <spob>Neptune</spob>
+    <spob>Ganymede</spob>
+    <spob>Umbriel</spob>
     <spob>Ceres</spob>
-    <spob>Mercury</spob>
-    <spob>Deimos</spob>
-    <spob>Triton</spob>
-    <spob>Titan</spob>
+    <spob>Tuskegee Training Academy</spob>
+    <spob>Uranus</spob>
+    <spob>Oberon</spob>
+    <spob>Olympus Yards</spob>
+    <spob>Asteroids Marker</spob>
+    <spob>Phobos</spob>
+    <spob>Callisto</spob>
   </spobs>
   <jumps>
     <jump target="Alpha Corvi">

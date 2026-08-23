@@ -7,9 +7,9 @@
   </general>
   <pos x="-923.744" y="290.296"/>
   <spobs>
-    <spob>Darius-Twin</spob>
     <spob>Darius</spob>
     <spob>Darius-Alpha</spob>
+    <spob>Darius-Twin</spob>
     <spob>Xerxes</spob>
   </spobs>
   <jumps>

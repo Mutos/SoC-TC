@@ -7,8 +7,8 @@
   </general>
   <pos x="720.664" y="303.024"/>
   <spobs>
-    <spob>R'itlel Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>R'itlel Border Station</spob>
   </spobs>
   <jumps>
     <jump target="KC-Ary - 2 - 1">

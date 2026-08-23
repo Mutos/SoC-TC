@@ -8,8 +8,8 @@
   <pos x="-50.112" y="-146.88"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>K'Til'n 0001</spob>
     <spob>T'Talin</spob>
+    <spob>K'Til'n 0001</spob>
   </spobs>
   <jumps>
     <jump target="Ek'In">

@@ -7,13 +7,13 @@
   </general>
   <pos x="2258.584" y="531.12"/>
   <spobs>
-    <spob>Karnil Quarantine Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Arythem-5 EWS Buoy #1</spob>
     <spob>Arythem-5</spob>
-    <spob>Themia</spob>
-    <spob>Arythem-5 EWS Buoy #3</spob>
     <spob>Arythem-5 EWS Buoy #2</spob>
+    <spob>Themia</spob>
+    <spob>Karnil Quarantine Station</spob>
+    <spob>Arythem-5 EWS Buoy #1</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Arythem-5 EWS Buoy #3</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0011">

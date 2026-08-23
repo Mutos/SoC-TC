@@ -7,9 +7,9 @@
   </general>
   <pos x="5083.376" y="-2834.816"/>
   <spobs>
+    <spob>Explorers' Bench</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>The Eye</spob>
-    <spob>Explorers' Bench</spob>
   </spobs>
   <jumps>
     <jump target="IS 0028">
