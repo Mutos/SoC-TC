@@ -7,9 +7,9 @@
   </general>
   <pos x="255.832" y="-4087.824"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Setting Sun</spob>
     <spob>Pink Dawn</spob>
+    <spob>Setting Sun</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="TPL 0083">

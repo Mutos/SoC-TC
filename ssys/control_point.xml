@@ -7,13 +7,13 @@
   </general>
   <pos x="-2804.88672" y="-1980.67712"/>
   <spobs>
+    <spob>Control Point 1</spob>
+    <spob>Control Point 3</spob>
+    <spob>Bubbles</spob>
+    <spob>Control Point</spob>
+    <spob>Control Point 2</spob>
     <spob>Blossom</spob>
     <spob>Buttercup</spob>
-    <spob>Control Point 1</spob>
-    <spob>Control Point</spob>
-    <spob>Bubbles</spob>
-    <spob>Control Point 2</spob>
-    <spob>Control Point 3</spob>
   </spobs>
   <jumps>
     <jump target="'Ha'Rtiish">

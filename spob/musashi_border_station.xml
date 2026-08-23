@@ -6,7 +6,7 @@
     <exterior>station04.png</exterior>
   </GFX>
   <presence>
-    <faction>Alliance</faction>
+    <faction>Planetarist Alliance</faction>
     <base>100.0</base>
     <bonus>0</bonus>
     <range>2</range>
@@ -30,10 +30,10 @@
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

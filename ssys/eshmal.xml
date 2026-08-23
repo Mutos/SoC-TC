@@ -8,9 +8,9 @@
   <pos x="-4800.296" y="951.024"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Aan-in-Mali</spob>
-    <spob>Mali</spob>
     <spob>Irsh-Mal</spob>
+    <spob>Mali</spob>
+    <spob>Aan-in-Mali</spob>
   </spobs>
   <jumps>
     <jump target="IC 0049">

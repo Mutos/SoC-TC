@@ -7,8 +7,8 @@
   </general>
   <pos x="-5332.52" y="-77.136"/>
   <spobs>
-    <spob>Morpheus Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Morpheus Station</spob>
   </spobs>
   <jumps>
     <jump target="PR 0001">

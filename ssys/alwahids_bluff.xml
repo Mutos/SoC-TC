@@ -7,10 +7,10 @@
   </general>
   <pos x="-1953.248" y="-2239.456"/>
   <spobs>
-    <spob>Nour</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Freeport 5</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Salam</spob>
+    <spob>Nour</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">

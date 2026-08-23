@@ -7,8 +7,8 @@
   </general>
   <pos x="-1079.912" y="-1058.64"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Nouvelle Mars</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="FK Aquarii">

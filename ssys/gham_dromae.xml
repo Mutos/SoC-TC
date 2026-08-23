@@ -7,8 +7,8 @@
   </general>
   <pos x="1372.096" y="-3324.256"/>
   <spobs>
-    <spob>Garri ud Skarae</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Garri ud Skarae</spob>
   </spobs>
   <jumps>
     <jump target="GG 0001">

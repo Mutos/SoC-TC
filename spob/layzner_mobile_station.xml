@@ -6,7 +6,7 @@
     <exterior>station05.png</exterior>
   </GFX>
   <presence>
-    <faction>HnH</faction>
+    <faction>Hoshi no Hekka</faction>
     <base>0.0</base>
     <bonus>0</bonus>
     <range>0</range>

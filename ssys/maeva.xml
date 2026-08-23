@@ -7,8 +7,8 @@
   </general>
   <pos x="3053.464" y="-1245.264"/>
   <spobs>
-    <spob>Aerith</spob>
     <spob>Danae</spob>
+    <spob>Aerith</spob>
   </spobs>
   <jumps>
     <jump target="Irali">

@@ -6,7 +6,7 @@
     <exterior>station04.png</exterior>
   </GFX>
   <presence>
-    <faction>Alliance</faction>
+    <faction>Planetarist Alliance</faction>
     <base>250.0</base>
     <bonus>0</bonus>
     <range>3</range>

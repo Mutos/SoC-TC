@@ -7,9 +7,9 @@
   </general>
   <pos x="-1506.88128" y="-640.29792"/>
   <spobs>
-    <spob>Fork I</spob>
-    <spob>Fork II</spob>
     <spob>Fork III</spob>
+    <spob>Fork II</spob>
+    <spob>Fork I</spob>
   </spobs>
   <jumps>
     <jump target="New Earth (Eta Cassiopeia)">

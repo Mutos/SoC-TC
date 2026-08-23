@@ -7,9 +7,9 @@
   </general>
   <pos x="-3542.888" y="-1443.408"/>
   <spobs>
-    <spob>Paradiso</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Gallant's Moon</spob>
+    <spob>Paradiso</spob>
   </spobs>
   <jumps>
     <jump target="PT 0052">

@@ -7,10 +7,10 @@
   </general>
   <pos x="319.768" y="-2639.76"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Musashi Border Station</spob>
-    <spob>Al Nour</spob>
     <spob>Haasen</spob>
+    <spob>Al Nour</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="PA 0096">

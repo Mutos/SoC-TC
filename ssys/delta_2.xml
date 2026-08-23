@@ -7,10 +7,10 @@
   </general>
   <pos x="-1893.512" y="552.144"/>
   <spobs>
-    <spob>Delta 2 D</spob>
-    <spob>Delta 2 C</spob>
-    <spob>Delta 2 B</spob>
     <spob>Delta 2 A</spob>
+    <spob>Delta 2 B</spob>
+    <spob>Delta 2 C</spob>
+    <spob>Delta 2 D</spob>
   </spobs>
   <jumps>
     <jump target="CL 0051">

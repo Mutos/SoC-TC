@@ -7,12 +7,12 @@
   </general>
   <pos x="-4388.168" y="-1276.656"/>
   <spobs>
-    <spob>Oshiinal</spob>
     <spob>Shiin</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Altan'Ssh</spob>
+    <spob>Oshiinal</spob>
     <spob>Lhass</spob>
     <spob>Nanai'Sh</spob>
-    <spob>Altan'Ssh</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="BI 0010">
