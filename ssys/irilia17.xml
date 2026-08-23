@@ -7,11 +7,11 @@
   </general>
   <pos x="2069.944" y="-1648.176"/>
   <spobs>
+    <spob>Irilia-17</spob>
     <spob>Left-Hand Moon</spob>
+    <spob>Seynbeg Kemae</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Right-Hand Moon</spob>
-    <spob>Seynbeg Kemae</spob>
-    <spob>Irilia-17</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0015">

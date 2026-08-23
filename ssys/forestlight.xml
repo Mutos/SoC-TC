@@ -7,8 +7,8 @@
   </general>
   <pos x="-746.0624" y="-3313.40352"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>ForestLight V</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0026">

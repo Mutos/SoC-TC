@@ -7,33 +7,33 @@
   </general>
   <pos x="-1644.92288" y="-220.0592"/>
   <spobs>
-    <spob>Jupiter Station</spob>
+    <spob>Jupiter</spob>
+    <spob>Phobos</spob>
+    <spob>Umbriel</spob>
+    <spob>Deimos</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ganymede</spob>
+    <spob>Titania</spob>
     <spob>Saturn</spob>
     <spob>New Taxaco</spob>
-    <spob>Triton</spob>
-    <spob>Titania</spob>
-    <spob>Europe</spob>
-    <spob>Earth</spob>
-    <spob>Deimos</spob>
-    <spob>Mercury</spob>
-    <spob>Moon</spob>
-    <spob>Jupiter</spob>
-    <spob>Titan</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Mars</spob>
-    <spob>Io</spob>
-    <spob>Calif High Shipyards</spob>
-    <spob>Venus</spob>
     <spob>Neptune</spob>
-    <spob>Ganymede</spob>
-    <spob>Umbriel</spob>
-    <spob>Ceres</spob>
-    <spob>Tuskegee Training Academy</spob>
     <spob>Uranus</spob>
-    <spob>Oberon</spob>
+    <spob>Earth</spob>
+    <spob>Moon</spob>
     <spob>Olympus Yards</spob>
+    <spob>Mars</spob>
     <spob>Asteroids Marker</spob>
-    <spob>Phobos</spob>
+    <spob>Calif High Shipyards</spob>
+    <spob>Ceres</spob>
+    <spob>Triton</spob>
+    <spob>Venus</spob>
+    <spob>Europe</spob>
+    <spob>Jupiter Station</spob>
+    <spob>Oberon</spob>
+    <spob>Titan</spob>
+    <spob>Io</spob>
+    <spob>Tuskegee Training Academy</spob>
+    <spob>Mercury</spob>
     <spob>Callisto</spob>
   </spobs>
   <jumps>

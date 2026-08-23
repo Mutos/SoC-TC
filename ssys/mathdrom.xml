@@ -7,10 +7,10 @@
   </general>
   <pos x="2595.68224" y="-2121.36"/>
   <spobs>
-    <spob>Matholn'ejj</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Matholnisht</spob>
     <spob>Melaneth Cache</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Matholn'ejj</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0099">

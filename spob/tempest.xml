@@ -6,7 +6,7 @@
     <exterior>mining3.png</exterior>
   </GFX>
   <presence>
-    <faction>HnH</faction>
+    <faction>Hoshi no Hekka</faction>
     <base>50.0</base>
     <bonus>0</bonus>
     <range>3</range>
@@ -36,8 +36,8 @@ The story was only revealed in 2242 outside of Fortresses-related circles and be
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

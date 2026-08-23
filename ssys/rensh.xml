@@ -7,10 +7,10 @@
   </general>
   <pos x="-3818.792" y="-2109.264"/>
   <spobs>
-    <spob>Ren'sh</spob>
-    <spob>Reedal Ebii Trading Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Reedal Ebii Trading Station</spob>
     <spob>Traanil</spob>
+    <spob>Ren'sh</spob>
   </spobs>
   <jumps>
     <jump target="BI-CS - 1 - 1">

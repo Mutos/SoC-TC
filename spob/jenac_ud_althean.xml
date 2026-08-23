@@ -6,7 +6,7 @@
     <exterior>station03.png</exterior>
   </GFX>
   <presence>
-    <faction>JnI</faction>
+    <faction>Jenac nah Ikar</faction>
     <base>340.0</base>
     <bonus>0</bonus>
     <range>4</range>
@@ -34,9 +34,9 @@ After the war, the JnI was outlawed by the Major Clans and the Rithai Kemae, and
   </general>
   <tech>
     <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

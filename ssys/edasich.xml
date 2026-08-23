@@ -7,8 +7,8 @@
   </general>
   <pos x="-932.384" y="368.056"/>
   <spobs>
-    <spob>Eldritch</spob>
     <spob>Hypatia</spob>
+    <spob>Eldritch</spob>
   </spobs>
   <jumps>
     <jump target="AC 0001">

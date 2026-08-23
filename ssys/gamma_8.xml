@@ -7,10 +7,10 @@
   </general>
   <pos x="-2788.904" y="-1482.0"/>
   <spobs>
-    <spob>Cloudy Resort</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Fallen Sun</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Gamma World</spob>
+    <spob>Cloudy Resort</spob>
   </spobs>
   <jumps>
     <jump target="Gamma 2">

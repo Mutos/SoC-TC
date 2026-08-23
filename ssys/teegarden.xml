@@ -8,9 +8,9 @@
   <pos x="-1573.0" y="-886.0"/>
   <spobs>
     <spob>Tee d</spob>
+    <spob>Garden Center</spob>
     <spob>Tee c</spob>
     <spob>Tee b</spob>
-    <spob>Garden Center</spob>
   </spobs>
   <jumps>
     <jump target="Hermes">

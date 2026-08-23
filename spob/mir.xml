@@ -6,7 +6,7 @@
     <exterior>desertic.png</exterior>
   </GFX>
   <presence>
-    <faction>Alliance</faction>
+    <faction>Planetarist Alliance</faction>
     <base>150.0</base>
     <bonus>0</bonus>
     <range>0</range>
@@ -34,12 +34,12 @@ Its other prominent feature is the Stellar Police Pan-Kohl High Security Prison 
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

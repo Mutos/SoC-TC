@@ -34,12 +34,12 @@ The Council has however been allowed to send researchers to the Sigma Sector und
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Luxury Goods</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Sshaad Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

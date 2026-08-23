@@ -7,10 +7,10 @@
   </general>
   <pos x="-2291.24" y="-3781.968"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Eb'Aareli</spob>
     <spob>Black Rose</spob>
     <spob>Thim Aareli</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eb'Aareli</spob>
   </spobs>
   <jumps>
     <jump target="Eeraniinal">

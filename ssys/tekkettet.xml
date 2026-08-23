@@ -7,11 +7,11 @@
   </general>
   <pos x="1110.928" y="41.344"/>
   <spobs>
-    <spob>Tek'Kettet Orbital Shipyards</spob>
     <spob>K'Tenat</spob>
-    <spob>Tek'Kettet</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>K'Tanet</spob>
+    <spob>Tek'Kettet Orbital Shipyards</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Tek'Kettet</spob>
   </spobs>
   <jumps>
     <jump target="KT 149">

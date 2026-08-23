@@ -7,21 +7,21 @@
   </general>
   <pos x="-1574.12" y="-3249.744"/>
   <spobs>
-    <spob>Naled III</spob>
-    <spob>Naled VI</spob>
-    <spob>Naled V</spob>
+    <spob>Naled I</spob>
+    <spob>Naled VIII.4</spob>
+    <spob>Naled VIII.3</spob>
     <spob>Naled VII</spob>
     <spob>Naled II</spob>
-    <spob>Naled VIII.3</spob>
-    <spob>Naled VIII.2</spob>
-    <spob>Naled VIII.1</spob>
-    <spob>Naled IX</spob>
-    <spob>Naled I</spob>
-    <spob>Naled IV</spob>
-    <spob>Naled X</spob>
     <spob>Naled VIII</spob>
-    <spob>Naled VIII.4</spob>
+    <spob>Naled VIII.2</spob>
+    <spob>Naled III</spob>
+    <spob>Naled VIII.1</spob>
     <spob>Naled VI.1</spob>
+    <spob>Naled VI</spob>
+    <spob>Naled IV</spob>
+    <spob>Naled V</spob>
+    <spob>Naled IX</spob>
+    <spob>Naled X</spob>
   </spobs>
   <jumps>
     <jump target="CS-TPL-RQL - 1 - 1">

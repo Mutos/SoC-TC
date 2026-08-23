@@ -7,13 +7,13 @@
   </general>
   <pos x="81.216" y="-409.536"/>
   <spobs>
-    <spob>El'Tinal</spob>
-    <spob>T'Ilnet</spob>
     <spob>Uktalm</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>T'Ilnet</spob>
+    <spob>T'Telnar</spob>
+    <spob>El'Tinal</spob>
     <spob>Alin'T</spob>
     <spob>A'Ilnet</spob>
-    <spob>T'Telnar</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="KT 35">

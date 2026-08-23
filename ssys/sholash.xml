@@ -7,12 +7,12 @@
   </general>
   <pos x="-3917.288" y="847.344"/>
   <spobs>
-    <spob>Ha'Rsshiinan Base</spob>
-    <spob>Eresh</spob>
-    <spob>Sshain al Linaal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Oshiin</spob>
     <spob>Linaal</spob>
+    <spob>Ha'Rsshiinan Base</spob>
+    <spob>Oshiin</spob>
+    <spob>Eresh</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Sshain al Linaal</spob>
   </spobs>
   <jumps>
     <jump target="IC 0006">

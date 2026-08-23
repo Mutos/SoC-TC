@@ -8,16 +8,16 @@
   <pos x="200.536" y="-4283.088"/>
   <spobs>
     <spob>Fierce</spob>
-    <spob>Cradle's Warder</spob>
-    <spob>Pupeteers' Second Earth</spob>
     <spob>Purr-1 Station</spob>
     <spob>Pupeteers' Earth</spob>
-    <spob>Starting Block</spob>
     <spob>The Cradle</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Yellow Clouds</spob>
     <spob>The Tormentor's Kitchen</spob>
+    <spob>Yellow Clouds</spob>
     <spob>Pupeteers' Third Earth</spob>
+    <spob>Starting Block</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Pupeteers' Second Earth</spob>
+    <spob>Cradle's Warder</spob>
   </spobs>
   <jumps>
     <jump target="The Doorstep">

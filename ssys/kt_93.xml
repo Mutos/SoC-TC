@@ -7,8 +7,8 @@
   </general>
   <pos x="-298.8" y="-521.664"/>
   <spobs>
-    <spob>FeuerTurm</spob>
     <spob>Stromboli</spob>
+    <spob>FeuerTurm</spob>
     <spob>Azul</spob>
   </spobs>
   <jumps>

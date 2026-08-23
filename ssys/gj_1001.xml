@@ -7,10 +7,10 @@
   </general>
   <pos x="-1312.0" y="-1383.0"/>
   <spobs>
-    <spob>GJ 1001 d</spob>
-    <spob>GJ 1001 B</spob>
     <spob>GJ 1001 c</spob>
     <spob>GJ 1001 e</spob>
+    <spob>GJ 1001 d</spob>
+    <spob>GJ 1001 B</spob>
     <spob>Purgatorian's Den</spob>
   </spobs>
   <jumps>

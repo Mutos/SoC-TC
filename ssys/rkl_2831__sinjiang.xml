@@ -8,9 +8,9 @@
   <pos x="-266.976" y="-660.672"/>
   <spobs>
     <spob>Vertigo</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Embruns</spob>
     <spob>Sinjiang Trading Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Anel'f T'en">
