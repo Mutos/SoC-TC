@@ -7,10 +7,10 @@
   </general>
   <pos x="-1962.92" y="-2681.232"/>
   <spobs>
-    <spob>K'Talth</spob>
-    <spob>Edge</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Edge Border Station</spob>
+    <spob>Edge</spob>
+    <spob>K'Talth</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0043">

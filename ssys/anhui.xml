@@ -8,11 +8,11 @@
   <pos x="-1775.184" y="112.616"/>
   <spobs>
     <spob>Suzhou Research Station</spob>
-    <spob>Wei</spob>
-    <spob>Suzhou</spob>
-    <spob>Anhui Habitat</spob>
     <spob>Shenyang</spob>
     <spob>Wu</spob>
+    <spob>Anhui Habitat</spob>
+    <spob>Wei</spob>
+    <spob>Suzhou</spob>
   </spobs>
   <jumps>
     <jump target="CL 0060">

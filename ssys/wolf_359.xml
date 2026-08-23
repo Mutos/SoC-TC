@@ -7,8 +7,8 @@
   </general>
   <pos x="-1706.504" y="-501.072"/>
   <spobs>
-    <spob>Station-B</spob>
     <spob>Wolf-5</spob>
+    <spob>Station-B</spob>
     <spob>Wolf-1</spob>
   </spobs>
   <jumps>

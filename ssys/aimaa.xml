@@ -7,14 +7,14 @@
   </general>
   <pos x="-3761.768" y="-108.24"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Hiini</spob>
-    <spob>Anil'haan</spob>
-    <spob>Aimaa</spob>
-    <spob>Eraan'tsh</spob>
-    <spob>Eraanol</spob>
-    <spob>Ets'aalin</spob>
     <spob>Oreel</spob>
+    <spob>Anil'haan</spob>
+    <spob>Ets'aalin</spob>
+    <spob>Hiini</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eraanol</spob>
+    <spob>Eraan'tsh</spob>
+    <spob>Aimaa</spob>
   </spobs>
   <jumps>
     <jump target="BI 0050">

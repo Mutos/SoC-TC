@@ -34,8 +34,8 @@ When the station was built, this naming had been perceived as a gesture of defia
     <item>Standard Core Outfits</item>
     <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

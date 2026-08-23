@@ -7,8 +7,8 @@
   </general>
   <pos x="-3457.64" y="188.976"/>
   <spobs>
-    <spob>Shoden Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Shoden Station</spob>
   </spobs>
   <jumps>
     <jump target="ShC 0013">

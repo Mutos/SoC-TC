@@ -7,8 +7,8 @@
   </general>
   <pos x="-2873.576" y="650.352"/>
   <spobs>
-    <spob>Irniish</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Irniish</spob>
   </spobs>
   <jumps>
     <jump target="ShC 0026">

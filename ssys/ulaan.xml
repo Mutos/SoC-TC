@@ -8,8 +8,8 @@
   <pos x="131.416" y="-2202.576"/>
   <spobs>
     <spob>Tenger</spob>
-    <spob>Etugen</spob>
     <spob>Ulaan Gazar</spob>
+    <spob>Etugen</spob>
   </spobs>
   <jumps>
     <jump target="Arcturus">

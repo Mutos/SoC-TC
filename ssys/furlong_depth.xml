@@ -7,8 +7,8 @@
   </general>
   <pos x="-818.4656" y="-3031.69344"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Furlong Depth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0012">

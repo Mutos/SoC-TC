@@ -7,10 +7,10 @@
   </general>
   <pos x="-4765.736" y="-460.752"/>
   <spobs>
-    <spob>Hraasrnor</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Oliirth</spob>
     <spob>Shoosoln</spob>
+    <spob>Hraasrnor</spob>
   </spobs>
   <jumps>
     <jump target="BI 0075">

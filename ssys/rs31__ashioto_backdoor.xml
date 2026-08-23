@@ -7,8 +7,8 @@
   </general>
   <pos x="-990.056" y="24.816"/>
   <spobs>
-    <spob>Neufreistadt</spob>
     <spob>Raumhansa</spob>
+    <spob>Neufreistadt</spob>
   </spobs>
   <jumps>
     <jump target="Backdoor">

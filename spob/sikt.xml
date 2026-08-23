@@ -36,9 +36,9 @@ This episode fueled renewed hostility between the Council and Ka'Ralt and from t
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Rith Food</item>
   </tech>
 </spob>

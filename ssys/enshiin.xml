@@ -7,8 +7,8 @@
   </general>
   <pos x="-2386.28" y="798.96"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Enshiin Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary-ShC - 1 - 2">

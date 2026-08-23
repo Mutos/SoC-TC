@@ -7,10 +7,10 @@
   </general>
   <pos x="2484.952" y="-2525.712"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Holin Altham</spob>
     <spob>Altham Etrel</spob>
     <spob>Altham Irla</spob>
+    <spob>Holin Altham</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0044">

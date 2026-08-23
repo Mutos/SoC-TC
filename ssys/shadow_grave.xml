@@ -7,9 +7,9 @@
   </general>
   <pos x="-1856.16864" y="-2097.744"/>
   <spobs>
-    <spob>Shadow Grave</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Freeport 3</spob>
+    <spob>Shadow Grave</spob>
   </spobs>
   <jumps>
     <jump target="Al-Wahid's Bluff">

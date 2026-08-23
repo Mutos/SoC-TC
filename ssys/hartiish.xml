@@ -7,10 +7,10 @@
   </general>
   <pos x="-3030.648" y="-2052.712"/>
   <spobs>
-    <spob>Koh'alish</spob>
-    <spob>Hey'ett</spob>
-    <spob>Sperah</spob>
     <spob>Rumett'</spob>
+    <spob>Koh'alish</spob>
+    <spob>Sperah</spob>
+    <spob>Hey'ett</spob>
   </spobs>
   <jumps>
     <jump target="Control Point">

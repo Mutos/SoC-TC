@@ -7,9 +7,9 @@
   </general>
   <pos x="-1503.272" y="-2150.736"/>
   <spobs>
-    <spob>Ryuu Border Station</spob>
-    <spob>Aoiyama</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aoiyama</spob>
+    <spob>Ryuu Border Station</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">

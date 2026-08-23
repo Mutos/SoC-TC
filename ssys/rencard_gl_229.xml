@@ -7,8 +7,8 @@
   </general>
   <pos x="-1556.352" y="-546.48"/>
   <spobs>
-    <spob>Rencard Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Rencard Station</spob>
   </spobs>
   <jumps>
     <jump target="Cul-de-Sac">

@@ -8,9 +8,9 @@
   <pos x="-2002.664" y="1951.536"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Alinal Surveyor Outpost</spob>
     <spob>Athanor</spob>
     <spob>Alshain</spob>
+    <spob>Alinal Surveyor Outpost</spob>
   </spobs>
   <jumps>
     <jump target="BI 0116">

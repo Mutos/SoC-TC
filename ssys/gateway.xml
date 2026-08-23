@@ -8,8 +8,8 @@
   <pos x="-1474.824" y="-274.72"/>
   <spobs>
     <spob>Gl 902 b</spob>
-    <spob>Gateway IV</spob>
     <spob>The Wall's Wreck</spob>
+    <spob>Gateway IV</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3076">
