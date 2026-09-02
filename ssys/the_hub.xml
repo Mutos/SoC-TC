@@ -7,21 +7,21 @@
   </general>
   <pos x="-2133.52" y="-86.112"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Freeport 4</spob>
-    <spob>Roussette</spob>
     <spob>Torche</spob>
+    <spob>Roussette</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
-    <jump target="CL 0015">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="CL 0028">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="CL 0029">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Kruger 60">
       <autopos/>
       <hide>1.25</hide>
     </jump>
@@ -32,49 +32,41 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-6070.119988" y="-1810.386663"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-2529.216662" y="1641.772219"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-1437.659997" y="-1331.166664"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3949.127770" y="-3483.219438"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5191.549990" y="-66.558333"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-5218.173323" y="-1331.166664"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-2742.203328" y="1837.009996"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-1863.633330" y="-9957.126647"/>
       <density>0.500000</density>

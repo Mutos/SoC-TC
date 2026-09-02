@@ -36,11 +36,11 @@ But the Core League Explorastro Corps also thinks there could be a connexion to 
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Human Food</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

@@ -7,12 +7,12 @@
   </general>
   <pos x="-1308.008" y="1911.792"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Estiis Base</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Biimis Border Station</spob>
   </spobs>
   <jumps>
-    <jump target="BI 0217">
+    <jump target="A' Tsaa'Di">
       <autopos/>
       <hide>1.25</hide>
     </jump>

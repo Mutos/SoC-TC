@@ -25,25 +25,21 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="463.177370" y="-9987.352531"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-158.594368" y="-9630.407468"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="332.338951" y="-9381.141599"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-831.979165" y="-10094.680536"/>
       <density>0.500000</density>

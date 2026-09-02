@@ -7,9 +7,9 @@
   </general>
   <pos x="319.768" y="-2639.76"/>
   <spobs>
-    <spob>Musashi Border Station</spob>
-    <spob>Haasen</spob>
     <spob>Al Nour</spob>
+    <spob>Haasen</spob>
+    <spob>Musashi Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
@@ -24,43 +24,36 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="9688.070531" y="-913.876088"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4984.614985" y="9469.223892"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4696.195541" y="8914.571115"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-5376.196170" y="-1114.989076"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-7173.373880" y="6474.098897"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4208.101097" y="9092.060003"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="8734.067755" y="-1024.806643"/>
       <density>0.500000</density>

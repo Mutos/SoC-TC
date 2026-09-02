@@ -5,9 +5,10 @@
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-2595.368" y="1889.328"/>
+  <pos x="-2528.368" y="1868.328"/>
   <spobs>
     <spob>Sen'Frrish</spob>
+    <spob>E'Sen'Frri</spob>
   </spobs>
   <jumps>
     <jump target="Af'Zent">

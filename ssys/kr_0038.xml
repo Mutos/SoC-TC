@@ -27,115 +27,96 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2688.956661" y="3674.019993"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3531.289345" y="-4751.525454"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-9753.054809" y="-1770.331727"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3209.777020" y="-9688.312129"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-9686.456092" y="-2631.272772"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-10063.619980" y="-1150.127998"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-9075.890056" y="3113.626515"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5854.668198" y="4283.151998"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4245.694781" y="2779.691231"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="8535.325637" y="4672.467407"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="1140.654643" y="4788.726281"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="496.845632" y="10103.924748"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-9073.581280" y="-3900.688922"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="13514.464025" y="9274.632174"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="6023.085432" y="-4344.927992"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4397.933273" y="2243.703776"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-8860.315177" y="-3375.528136"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="463.177370" y="-9987.352531"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-8393.148517" y="3352.624533"/>
       <density>0.500000</density>

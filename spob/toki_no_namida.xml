@@ -3,7 +3,7 @@
   <pos x="1192.322044" y="-1838.223348"/>
   <GFX>
     <space>Asteroid-Base-001-Fighters-Base.png</space>
-    <exterior>station05.png</exterior>
+    <exterior>scrapped_station.png</exterior>
   </GFX>
   <presence>
     <faction>Ashioto Cluster</faction>
@@ -33,17 +33,17 @@ Except the Aligot. Awful. Don't try it. </description>
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

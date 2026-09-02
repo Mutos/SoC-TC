@@ -5,8 +5,9 @@
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-2752.616" y="2020.656"/>
+  <pos x="-2781.616" y="2059.656"/>
   <spobs>
+    <spob>E'Zaffr</spob>
     <spob>Zaff'Rin</spob>
   </spobs>
   <jumps>

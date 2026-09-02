@@ -7,8 +7,8 @@
   </general>
   <pos x="5083.376" y="-2834.816"/>
   <spobs>
-    <spob>The Eye</spob>
     <spob>Explorers' Bench</spob>
+    <spob>The Eye</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
@@ -27,37 +27,31 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="166.395833" y="-9162.247590"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4280.070593" y="4395.931396"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-5595.830236" y="4688.664806"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="135.581790" y="-9778.528453"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-732.141665" y="-9473.469426"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-1264.608331" y="-9895.005536"/>
       <density>0.500000</density>

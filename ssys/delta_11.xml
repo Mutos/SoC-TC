@@ -8,15 +8,15 @@
   <pos x="-442.28" y="1092.72"/>
   <spobs/>
   <jumps>
-    <jump target="AC 0021">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Delta 10">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Delta 12">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Ek'knat">
       <autopos/>
       <hide>1.25</hide>
     </jump>

@@ -7,10 +7,10 @@
   </general>
   <pos x="280.024" y="-2892.048"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Burning Clouds</spob>
-    <spob>Beautiful Sands</spob>
     <spob>Gentle Light</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Beautiful Sands</spob>
+    <spob>Burning Clouds</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0032">
@@ -24,25 +24,21 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2736.287032" y="-2847.217587"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-7339.905078" y="2403.495366"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="1035.351850" y="3660.708326"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="1971.687908" y="-3196.854263"/>
       <density>0.500000</density>

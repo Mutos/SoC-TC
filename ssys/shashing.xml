@@ -12,15 +12,15 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="BI 0158">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="BI 0160">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Biimis nal Estiis">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa 0016">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa'di-8">
       <autopos/>
       <hide>1.25</hide>
     </jump>

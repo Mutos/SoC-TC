@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ol'mine">
+  <pos x="3127.62538" y="-2434.309409"/>
+  <GFX>
+    <space>M10.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

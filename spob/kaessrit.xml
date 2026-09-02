@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ka'Ess'Rit">
+  <pos x="-1109.305553" y="-1602.330244"/>
+  <GFX>
+    <space>moon-G00.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

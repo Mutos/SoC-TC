@@ -9,8 +9,8 @@
   <spobs>
     <spob>Ohashi External Surveyor</spob>
     <spob>Ohashi Border Station</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ohashi Internal Surveyor</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Crag Path">

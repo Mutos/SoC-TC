@@ -7,9 +7,9 @@
   </general>
   <pos x="3848.632" y="-1423.248"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Irmothem-4</spob>
     <spob>Athorm</spob>
+    <spob>Irmothem-4</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0003">

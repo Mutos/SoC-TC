@@ -6,7 +6,9 @@
     <interference>100.0</interference>
   </general>
   <pos x="86.992" y="630.84"/>
-  <spobs/>
+  <spobs>
+    <spob>L'Linalt 0003</spob>
+  </spobs>
   <jumps>
     <jump target="KT 17">
       <autopos/>

@@ -8,14 +8,14 @@
   <pos x="-788.96" y="333.496"/>
   <spobs>
     <spob>Toki no Namida</spob>
-    <spob>Purgatoire EWS Buoy #2</spob>
     <spob>Okami</spob>
     <spob>Purgatoire EWS Buoy #1</spob>
-    <spob>Research Monitoring Base</spob>
+    <spob>Purgatoire EWS Buoy #2</spob>
     <spob>Purgatoire EWS Buoy #3</spob>
-    <spob>Purgatoire</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ashura</spob>
+    <spob>Purgatoire</spob>
+    <spob>Research Monitoring Base</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Chalawan">

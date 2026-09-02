@@ -8,8 +8,8 @@
   <pos x="1294.22176" y="1481.93472"/>
   <spobs>
     <spob>Erilanth</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Erilanth nel Nath</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0070">
@@ -23,25 +23,21 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3698.301459" y="-9224.491957"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5207.573292" y="1247.968748"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3734.045749" y="-2457.728082"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-539.245755" y="-61.628086"/>
       <density>0.500000</density>

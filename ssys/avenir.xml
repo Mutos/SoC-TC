@@ -7,8 +7,8 @@
   </general>
   <pos x="-701.48" y="-953.232"/>
   <spobs>
-    <spob>Avenir</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Avenir</spob>
   </spobs>
   <jumps>
     <jump target="Rho Indi">

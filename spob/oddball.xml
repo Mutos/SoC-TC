@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Oddball">
+  <pos x="1888.216089" y="-3348.887328"/>
+  <GFX>
+    <space>S00.png</space>
+    <exterior>Station-SR001.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

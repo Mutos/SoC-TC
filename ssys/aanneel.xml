@@ -7,8 +7,8 @@
   </general>
   <pos x="-4821.032" y="600.24"/>
   <spobs>
-    <spob>Aan-Neel Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aan-Neel Border Station</spob>
   </spobs>
   <jumps>
     <jump target="BI-IC - 2 - 1">
@@ -30,7 +30,6 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-884.334837" y="-7067.526607"/>
       <density>0.500000</density>

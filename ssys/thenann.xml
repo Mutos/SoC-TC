@@ -7,9 +7,9 @@
   </general>
   <pos x="2268.952" y="-2422.032"/>
   <spobs>
+    <spob>Thenann</spob>
     <spob>Thenann Relay</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Thenann</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0047">
@@ -27,13 +27,11 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-4525.966658" y="110.930555"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="976.188887" y="-2773.263883"/>
       <density>0.500000</density>

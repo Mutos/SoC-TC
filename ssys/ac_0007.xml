@@ -8,11 +8,11 @@
   <pos x="-780.32" y="480.376"/>
   <spobs/>
   <jumps>
-    <jump target="AC 0011">
+    <jump target="Titawin">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Titawin">
+    <jump target="Tonbo no haka">
       <autopos/>
       <hide>1.25</hide>
     </jump>

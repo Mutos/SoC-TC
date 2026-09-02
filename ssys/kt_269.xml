@@ -6,17 +6,19 @@
     <interference>100.0</interference>
   </general>
   <pos x="-54.704" y="568.632"/>
-  <spobs/>
+  <spobs>
+    <spob>Teel'Inet</spob>
+  </spobs>
   <jumps>
-    <jump target="AC-KC - 2 - 1">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="KT 108">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="KT 17">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Lin'Rankt (KT 116)">
       <autopos/>
       <hide>1.25</hide>
     </jump>

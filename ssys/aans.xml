@@ -7,9 +7,9 @@
   </general>
   <pos x="-3841.256" y="615.792"/>
   <spobs>
+    <spob>Anniin es Losth</spob>
     <spob>Aans Border Station</spob>
     <spob>Eshell</spob>
-    <spob>Anniin es Losth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
@@ -28,43 +28,36 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3778.793464" y="-7446.646433"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5513.817046" y="787.770172"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4789.244023" y="-7189.048639"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-343.316276" y="-5122.609817"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-662.796275" y="-4643.389818"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4397.967107" y="-7762.424990"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4741.740381" y="1426.730170"/>
       <density>0.500000</density>

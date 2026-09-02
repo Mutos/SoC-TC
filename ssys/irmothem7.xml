@@ -7,10 +7,10 @@
   </general>
   <pos x="4547.42368" y="-265.90272"/>
   <spobs>
-    <spob>Elirth</spob>
-    <spob>Irmothem-7</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Lanith</spob>
+    <spob>Irmothem-7</spob>
+    <spob>Elirth</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0145">
@@ -24,13 +24,11 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-905.932869" y="2089.192126"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3827.104159" y="-2717.798606"/>
       <density>0.500000</density>

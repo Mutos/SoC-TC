@@ -7,8 +7,8 @@
   </general>
   <pos x="-1852.73376" y="-1055.62784"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shin Yokosuka</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Delanney's Freezer">
@@ -30,43 +30,36 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2848.985539" y="-4491.999012"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-2195.325848" y="-3448.332121"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="855.945643" y="-2656.997934"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-361.532459" y="-5562.448554"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-1682.537164" y="-3017.137889"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2112.033470" y="-1984.578647"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="1151.098020" y="-2218.207292"/>
       <density>0.500000</density>

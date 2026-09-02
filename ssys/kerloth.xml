@@ -7,10 +7,10 @@
   </general>
   <pos x="3378.04" y="-2708.016"/>
   <spobs>
-    <spob>Heth no Dirnae</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Kerloth Transfer Station</spob>
     <spob>Heth</spob>
+    <spob>Kerloth Transfer Station</spob>
+    <spob>Heth no Dirnae</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0136">
@@ -32,7 +32,6 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-2747.527995" y="-3865.707992"/>
       <density>0.500000</density>

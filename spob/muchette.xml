@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Muchette">
+  <pos x="3736.202732" y="-2452.284267"/>
+  <GFX>
+    <space>moon-O01.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

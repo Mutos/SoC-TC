@@ -30,21 +30,21 @@ The outpost was to be protected by the very limited traffic to and from Banthory
 
 The station was hastily evacuated for unknown reasons while it was still uncomplete. It had been salvaged by a motley group of smugglers, comprised of a Human privateer, a lone Shapeshifter traveller, a Pupeteer sociology student and a Sshaad cyborg leftover in the evacuation. They turned it into what it currently is : a discreet trade platform, away from the larger routes and able to survive in autarcy, thanks to the pastoral world it orbits around.
   </description>
-    <bar>None</bar>
+    <bar>Spacers, smugglers and merchants from all the sophontness enjoying a drink at the bar : banthory wine, hand-made cocktails, or maybe a house coffee made by the cyber-Sshaad barista. </bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Malferria">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2520.592" y="-310.752"/>
+  <spobs>
+    <spob>Malferria</spob>
+  </spobs>
+  <jumps>
+    <jump target="CL 0023">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

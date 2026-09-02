@@ -26,7 +26,6 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="7711.317012" y="2147.430667"/>
       <density>0.500000</density>

@@ -7,15 +7,15 @@
   </general>
   <pos x="-1733.096" y="1870.32"/>
   <spobs>
-    <spob>Urshaal</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Urshaal</spob>
   </spobs>
   <jumps>
-    <jump target="BI 0158">
+    <jump target="Lithyra">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Lithyra">
+    <jump target="Tsaa'di-8">
       <autopos/>
       <hide>1.25</hide>
     </jump>

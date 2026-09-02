@@ -8,11 +8,11 @@
   <pos x="-2479.728" y="-2131.92"/>
   <spobs/>
   <jumps>
-    <jump target="CS-SC - 1 - 1">
+    <jump target="Gamma 13">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Gamma 13">
+    <jump target="Ta'ndow">
       <autopos/>
       <hide>1.25</hide>
     </jump>

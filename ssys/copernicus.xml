@@ -7,28 +7,28 @@
   </general>
   <pos x="-2180.216" y="-327.504"/>
   <spobs>
-    <spob>Bruno</spob>
-    <spob>Lipperhey</spob>
     <spob>Cunitz</spob>
-    <spob>Brahe</spob>
-    <spob>Galilee</spob>
     <spob>Janssen</spob>
+    <spob>Brahe</spob>
+    <spob>Lipperhey</spob>
+    <spob>Bruno</spob>
+    <spob>Galilee</spob>
     <spob>Harriot</spob>
   </spobs>
   <jumps>
-    <jump target="CL 0015">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="CL 0020">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="CL 0030">
+    <jump target="Kruger 60">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Sirius">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Struve 2398">
       <autopos/>
       <hide>1.25</hide>
     </jump>

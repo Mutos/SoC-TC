@@ -7,21 +7,21 @@
   </general>
   <pos x="-2002.664" y="1951.536"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Alinal Surveyor Outpost</spob>
     <spob>Athanor</spob>
+    <spob>Alinal Surveyor Outpost</spob>
     <spob>Alshain</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
-    <jump target="BI 0116">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="BI 0133">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="BI 0157">
+    <jump target="Tsaa'di-5">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa'di-7">
       <autopos/>
       <hide>1.25</hide>
     </jump>

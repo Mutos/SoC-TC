@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aoi Nami">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2353.448" y="-1604.688"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gl 250 A">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Kujira no Sangosho">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+  <asteroids>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3616.336104" y="3438.847215"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="5746.202766" y="-2728.891661"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="2210.298947" y="-943.513893"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="463.177370" y="-9987.352531"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="771.943502" y="6061.358634"/>
+      <density>0.500000</density>
+    </asteroid>
+    <asteroid>
+      <radius>1000.000000</radius>
+      <pos x="3113.626515" y="-3776.100242"/>
+      <density>0.500000</density>
+    </asteroid>
+  </asteroids>
+</ssys>

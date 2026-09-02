@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Maigo">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-2584.0" y="-1615.0"/>
+  <spobs>
+    <spob>Satsuki</spob>
+    <spob>Wishbone Derelict</spob>
+    <spob>Mei</spob>
+  </spobs>
+  <jumps>
+    <jump target="Gamma 6">
+      <autopos/>
+      <hide>3.0</hide>
+    </jump>
+    <jump target="Kujira no Sangosho">
+      <autopos/>
+      <hide>3.0</hide>
+    </jump>
+  </jumps>
+</ssys>

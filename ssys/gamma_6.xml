@@ -16,5 +16,9 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
+    <jump target="Maigo">
+      <autopos/>
+      <hide>3.0</hide>
+    </jump>
   </jumps>
 </ssys>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="E'Zaffr">
+  <pos x="-2810.240735" y="-2773.263883"/>
+  <GFX>
+    <space>Station-001-Comm-Hub.png</space>
+    <exterior>aquatic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Confederated Sshaad Stars</faction>
+    <base>200.0</base>
+    <bonus>0</bonus>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2500000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

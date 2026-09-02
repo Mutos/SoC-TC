@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tsaa 0002">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-1414.0" y="1580.0"/>
+  <spobs/>
+  <jumps>
+    <jump target="Ara'al">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Arythem-16">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Ersnaal">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Ka'leth">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

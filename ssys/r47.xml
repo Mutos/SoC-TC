@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="R-47">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-1714.63776" y="-828.29984"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gl 3753">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Little Sol">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Rockstealers' Grove">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="The Gap">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

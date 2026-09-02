@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Etshia'lash">
+  <pos x="-3036.337914" y="2346.261115"/>
+  <GFX>
+    <space>M10.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

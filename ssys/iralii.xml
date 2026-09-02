@@ -7,8 +7,8 @@
   </general>
   <pos x="-3585.512" y="1113.456"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Iralii Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="IC 0003">
@@ -26,19 +26,16 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4002.838685" y="-2846.745440"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3500.960338" y="-3433.839933"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2810.758324" y="-3165.963875"/>
       <density>0.500000</density>

@@ -7,9 +7,9 @@
   </general>
   <pos x="-2337.0" y="-97.0"/>
   <spobs>
-    <spob>Ad Astra</spob>
     <spob>Per Aspera</spob>
     <spob>Chiron</spob>
+    <spob>Ad Astra</spob>
   </spobs>
   <jumps>
     <jump target="Proxi">

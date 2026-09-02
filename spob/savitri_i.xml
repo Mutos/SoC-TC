@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Savitri I">
+  <pos x="1898.054814" y="1501.50346"/>
+  <GFX>
+    <space>A02.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>
