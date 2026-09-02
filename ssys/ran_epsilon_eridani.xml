@@ -7,10 +7,10 @@
   </general>
   <pos x="-923.744" y="290.296"/>
   <spobs>
-    <spob>Xerxes</spob>
-    <spob>Darius</spob>
     <spob>Darius-Twin</spob>
+    <spob>Darius</spob>
     <spob>Darius-Alpha</spob>
+    <spob>Xerxes</spob>
   </spobs>
   <jumps>
     <jump target="Ashioto - Purgatoire">

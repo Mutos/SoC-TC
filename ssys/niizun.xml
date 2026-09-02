@@ -6,7 +6,10 @@
     <interference>0.0</interference>
   </general>
   <pos x="-2694.159259" y="1955.831481"/>
-  <spobs/>
+  <spobs>
+    <spob>Etshia'lash</spob>
+    <spob>Danesh es Sen'frr </spob>
+  </spobs>
   <jumps>
     <jump target="Af'Zent">
       <autopos/>

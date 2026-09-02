@@ -7,8 +7,8 @@
   </general>
   <pos x="-2172.38848" y="-1651.41088"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Cerberus Fortress</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="33 G Librae">
@@ -19,15 +19,15 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
+    <jump target="Aoi Nami">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="GJ 1097">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="GJ 1103">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="HnH-Gam - 1 - 2">
       <autopos/>
       <hide>1.25</hide>
     </jump>

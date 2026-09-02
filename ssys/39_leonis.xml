@@ -7,9 +7,9 @@
   </general>
   <pos x="-1205.92" y="-432.864"/>
   <spobs>
-    <spob>39 Leo Bunch</spob>
     <spob>Ventose</spob>
     <spob>No Life Station</spob>
+    <spob>39 Leo Bunch</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3622">

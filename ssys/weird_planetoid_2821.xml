@@ -7,8 +7,8 @@
   </general>
   <pos x="-7083.46784" y="-2740.12224"/>
   <spobs>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Weird Planetoid #2821</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Uncharted 0732">
@@ -30,7 +30,6 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-11629.745015" y="-2090.804908"/>
       <density>0.500000</density>

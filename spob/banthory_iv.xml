@@ -28,12 +28,12 @@ After some hard years when the colonists were heading for starvation without sup
 
 From then on, the Banthory IV population resolved to stay away from the interstellar civilisation, and never used their remaining starships to send any news back to Sol. They were rediscovered 50 years later by planetarist explorers using maps from the Better Worlds archives. They expressed their wish to remain in isolation and stayed this way until recently, only establishing a token membership to the Alliance, which was later transferred to the Core League.
   </description>
-    <bar>None</bar>
+    <bar>Old-style tavern, mainly populated with superstitious Humans farmers and merchants, and maybe some outworlders in disguise.</bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

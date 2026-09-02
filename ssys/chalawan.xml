@@ -7,20 +7,20 @@
   </general>
   <pos x="-678.368" y="452.728"/>
   <spobs>
-    <spob>Taphao Thong</spob>
-    <spob>Taphao Kaew</spob>
     <spob>Krai Thong</spob>
+    <spob>Taphao Kaew</spob>
+    <spob>Taphao Thong</spob>
   </spobs>
   <jumps>
-    <jump target="AC 0011">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="AC 0012">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Ashioto - Purgatoire">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tonbo no haka">
       <autopos/>
       <hide>1.25</hide>
     </jump>

@@ -7,9 +7,9 @@
   </general>
   <pos x="-1503.272" y="-2150.736"/>
   <spobs>
-    <spob>Aoiyama</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Ryuu Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Aoiyama</spob>
   </spobs>
   <jumps>
     <jump target="Elathon">
@@ -27,19 +27,16 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3138.821247" y="-1276.841162"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3727.266659" y="-954.002776"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3438.847215" y="-1774.888885"/>
       <density>0.500000</density>

@@ -7,13 +7,13 @@
   </general>
   <pos x="-1893.144" y="45.112"/>
   <spobs>
-    <spob>Villera I</spob>
     <spob>Villera High</spob>
-    <spob>Villera III</spob>
-    <spob>Villera II</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Mahanadee</spob>
+    <spob>Villera II</spob>
+    <spob>Villera I</spob>
+    <spob>Villera III</spob>
     <spob>Villera IV</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
     <jump target="Anhui">
@@ -35,19 +35,16 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="13183.227161" y="8612.158447"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="13514.464025" y="9274.632174"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-5697.274050" y="8413.416329"/>
       <density>0.500000</density>

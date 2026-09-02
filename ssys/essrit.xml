@@ -6,18 +6,24 @@
     <interference>0.0</interference>
   </general>
   <pos x="-5033.576" y="-490.128"/>
-  <spobs/>
+  <spobs>
+    <spob>Od'Ess'Rit</spob>
+    <spob>Ka'Ess'Rit</spob>
+    <spob>Rit'Ess'Rit</spob>
+    <spob>Ro'da</spob>
+    <spob>Al'Ess'Rit</spob>
+  </spobs>
   <jumps>
     <jump target="BI 0188">
-      <autopos/>
+      <pos x="-3322.584609" y="-6269.605303"/>
       <hide>1.25</hide>
     </jump>
     <jump target="BI 0190">
-      <autopos/>
+      <pos x="2456.475549" y="-1470.715119"/>
       <hide>1.25</hide>
     </jump>
     <jump target="BI 0191">
-      <autopos/>
+      <pos x="-2247.249140" y="-1231.407653"/>
       <hide>1.25</hide>
     </jump>
   </jumps>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Groombridge 34">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2201.608" y="-460.984"/>
+  <spobs/>
+  <jumps>
+    <jump target="Lalande 21185">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Struve 2398">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Ziffel">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

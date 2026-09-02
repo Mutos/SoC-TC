@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Parma Central">
+  <pos x="-9871.931981" y="-1597.399997"/>
+  <GFX>
+    <space>Station-HQ-001-Grey.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Hoshi no Hekka</faction>
+    <base>100.0</base>
+    <bonus>0</bonus>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>500</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <refuel/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

@@ -32,8 +32,8 @@ It is k'rinned with the elitemost pilots in the Secession fleet and always has a
   </general>
   <tech>
     <item>Standard Core Outfits</item>
+    <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Medicine</item>
   </tech>
 </spob>

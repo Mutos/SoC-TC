@@ -8,8 +8,8 @@
   <pos x="1560.384" y="-825.984"/>
   <spobs>
     <spob>Ka'Ralt</spob>
-    <spob>Ren'Lin</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ren'Lin</spob>
   </spobs>
   <jumps>
     <jump target="KR 0001">

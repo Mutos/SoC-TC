@@ -7,9 +7,9 @@
   </general>
   <pos x="-6072.104" y="-1100.112"/>
   <spobs>
-    <spob>Lalth ish Eeris</spob>
-    <spob>Eetin Alshaan</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Eetin Alshaan</spob>
+    <spob>Lalth ish Eeris</spob>
   </spobs>
   <jumps>
     <jump target="Aan 04">
@@ -27,61 +27,51 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="6375.314959" y="1760.057130"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3696.500327" y="2928.030744"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5106.487700" y="887.422714"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="6049.360168" y="2123.105009"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5458.151889" y="2922.834686"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="6086.510586" y="1318.179274"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4185.647505" y="990.017244"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3498.364762" y="2172.638900"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3616.503093" y="1580.708898"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4510.838883" y="3240.889108"/>
       <density>0.500000</density>

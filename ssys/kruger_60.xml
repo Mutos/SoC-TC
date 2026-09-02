@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Kruger 60">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2062.656" y="-286.992"/>
+  <spobs/>
+  <jumps>
+    <jump target="Copernicus">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Luhman 16">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="The Hub">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

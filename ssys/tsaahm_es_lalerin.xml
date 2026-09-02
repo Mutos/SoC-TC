@@ -7,20 +7,20 @@
   </general>
   <pos x="-4029.608" y="-2568.912"/>
   <spobs>
-    <spob>Doors of Lalerin Station</spob>
     <spob>Aniinal</spob>
-    <spob>Ram'az</spob>
+    <spob>Doors of Lalerin Station</spob>
     <spob>E'zral</spob>
+    <spob>Ram'az</spob>
     <spob>NehS Tsaahm</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
-    <jump target="CS 0046">
-      <autopos/>
+    <jump target="Aan-Llala">
+      <pos x="-7942.771328" y="4609.986237"/>
       <hide>1.25</hide>
     </jump>
-    <jump target="CS-IC - 1 - 3">
-      <pos x="-7942.771328" y="4609.986237"/>
+    <jump target="CS 0046">
+      <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Ka'Alai">

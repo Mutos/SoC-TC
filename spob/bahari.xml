@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Bahari">
+  <pos x="4219.173804" y="-1107.438428"/>
+  <GFX>
+    <space>M04.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

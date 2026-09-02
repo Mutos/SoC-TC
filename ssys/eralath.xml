@@ -7,10 +7,10 @@
   </general>
   <pos x="5031.26368" y="-1294.06272"/>
   <spobs>
-    <spob>Eralth</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Eralath Border Station</spob>
     <spob>Lothinal</spob>
+    <spob>Eralath Border Station</spob>
+    <spob>Eralth</spob>
   </spobs>
   <jumps>
     <jump target="Irm 0101">
@@ -32,43 +32,36 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-1987.899518" y="3598.258532"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3882.175702" y="-2117.746472"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-1618.131000" y="3937.213007"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="3239.172216" y="-8896.630538"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-2542.552295" y="3382.560230"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2482.105413" y="-9347.662535"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2950.752772" y="-9628.772203"/>
       <density>0.500000</density>

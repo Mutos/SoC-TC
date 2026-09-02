@@ -3,7 +3,7 @@
   <pos x="-6889.726758" y="3378.616006"/>
   <GFX>
     <space>asteroids-001.png</space>
-    <exterior>station05.png</exterior>
+    <exterior>uninhabited-rocky-airless-00.png</exterior>
   </GFX>
   <presence>
     <faction>Miner</faction>
@@ -20,8 +20,8 @@
       <bar/>
       <missions/>
     </services>
-    <description>(null)</description>
-    <bar>(null)</bar>
+    <description>A cluster of small space habitats, inhabited by astroidians miners.</description>
+    <bar>Spacers sharing true family kitchen with rare passer-by in the system.</bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>

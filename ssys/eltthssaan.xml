@@ -7,10 +7,10 @@
   </general>
   <pos x="-1143.848" y="-3973.776"/>
   <spobs>
-    <spob>Nana'k</spob>
-    <spob>Eltth</spob>
-    <spob>Ssaan</spob>
     <spob>Doub'n</spob>
+    <spob>Ssaan</spob>
+    <spob>Eltth</spob>
+    <spob>Nana'k</spob>
   </spobs>
   <jumps>
     <jump target="Aareli">

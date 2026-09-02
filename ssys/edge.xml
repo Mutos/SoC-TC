@@ -8,8 +8,8 @@
   <pos x="-1962.92" y="-2681.232"/>
   <spobs>
     <spob>Edge</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Edge Border Station</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>K'Talth</spob>
   </spobs>
   <jumps>
@@ -32,67 +32,56 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-2291.381551" y="8874.444427"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="16377.148230" y="-3371.898407"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="9296.670141" y="-2146.178365"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="8652.521039" y="2847.577600"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4858.758324" y="3327.916660"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-8251.967469" y="4741.673453"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5335.315989" y="-1948.827996"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-33123.686335" y="-4173.584478"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-7173.373880" y="6474.098897"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="6165.963988" y="-2108.567996"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="6740.024134" y="-6028.168380"/>
       <density>0.500000</density>

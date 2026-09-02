@@ -17,14 +17,15 @@
     <hide>0.25</hide>
     <services>
       <land/>
+      <bar/>
       <blackmarket/>
     </services>
-    <description>
-"New Life" was the name of a promising colony on the Ventose planet, but like many colonies at this time, its supply lines were managed by the Better Worlds Company and felt with the failure of the company. The planetary colony didn't survive the blow and the few remaining colonists were evacuated. Now its transit station's hulk remains empty, its "New Life" panels tagged with a big "No".
+    <description> "New Life" was the name of a promising colony on the Ventose planet, but like many colonies at this time, its supply lines were managed by the Better Worlds Company and felt with the failure of the company. The planetary colony didn't survive the blow and the few remaining colonists were evacuated. Now its transit station's hulk remains empty, its "New Life" panels tagged with a big "No".
 
 In the early XXIIIth century, it served as a contraband cache and hiding place for the dreaded Hopper's Ogres, a branch of the Hopper Connexion, who then started to build a Humans farm within the deserted domes on the planetary surface. These installations were dismantled by the "Furet" squad, with the help of hired mercenaries, who exfiltred the poors victims of the farm.
 
 The derelict station is once more an empty hulk, sometimes housing squatters, spacers or smugglers in its vast abandonned halls.</description>
+    <bar>Only dust and rubbish in the corridor... or did you hear something ?</bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>

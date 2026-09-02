@@ -8,10 +8,6 @@
   <pos x="-1753.256" y="745.968"/>
   <spobs/>
   <jumps>
-    <jump target="CL 0054">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Delta 2">
       <autopos/>
       <hide>1.25</hide>
@@ -21,6 +17,10 @@
       <hide>1.25</hide>
     </jump>
     <jump target="Delta 8">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Mipaka">
       <autopos/>
       <hide>1.25</hide>
     </jump>

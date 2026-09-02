@@ -8,10 +8,6 @@
   <pos x="-1933.256" y="710.832"/>
   <spobs/>
   <jumps>
-    <jump target="CL 0054">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Crossover">
       <autopos/>
       <hide>1.25</hide>
@@ -20,46 +16,43 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
+    <jump target="Mipaka">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="5854.668198" y="4283.151998"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="8031.372207" y="-2948.534161"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="1931.670737" y="-2578.765643"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="4187.487624" y="2350.865317"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2467.095551" y="-2223.048329"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="7582.103616" y="-3593.553843"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-11277.643978" y="7539.727985"/>
       <density>0.500000</density>

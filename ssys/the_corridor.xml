@@ -8,8 +8,8 @@
   <pos x="3263.38144" y="-3741.5328"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>The Corridor</spob>
     <spob>The Protector</spob>
+    <spob>The Corridor</spob>
   </spobs>
   <jumps>
     <jump target="Lone Star">

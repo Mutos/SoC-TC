@@ -3,7 +3,7 @@
   <pos x="-766.751998" y="-9239.361582"/>
   <GFX>
     <space>station-sphere.png</space>
-    <exterior>traderoom.png</exterior>
+    <exterior>station04.png</exterior>
   </GFX>
   <presence>
     <faction>Core League</faction>

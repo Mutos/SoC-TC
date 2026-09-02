@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Struve 2398">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2203.112" y="-395.088"/>
+  <spobs/>
+  <jumps>
+    <jump target="Copernicus">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Groombridge 34">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

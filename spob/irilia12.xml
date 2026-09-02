@@ -42,10 +42,10 @@ Only the tilkath mining regions remains strictly under Irilia control, especiall
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
     <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

@@ -8,8 +8,8 @@
   <pos x="-466.76" y="-2942.448"/>
   <spobs>
     <spob>Savory Clouds</spob>
-    <spob>Divers' Beach</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Divers' Beach</spob>
   </spobs>
   <jumps>
     <jump target="RQL 0023">
@@ -27,13 +27,11 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="9340.352759" y="-2617.961106"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-5058.433323" y="3483.219438"/>
       <density>0.500000</density>

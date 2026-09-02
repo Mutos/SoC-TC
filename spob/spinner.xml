@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spinner">
+  <pos x="-1242.42222" y="-1042.74722"/>
+  <GFX>
+    <space>K02.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

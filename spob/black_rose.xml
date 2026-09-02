@@ -23,26 +23,27 @@
       <refuel/>
       <shipyard/>
       <commodity/>
+      <blackmarket/>
     </services>
     <description>This miners' settlement is well hidden in the middle of a dense Asteroids Field and is itself built from an asteroid, an ideal camouflage.
 
 It trades everything that comes near to it, thanks to its captain's many connections, and gathers raw minerals from the local asteroid fields and a few independant systems beyond the nearby jump point.
   </description>
-    <bar>None</bar>
+    <bar>Miners, spacers and travellers' from nearby all the sophontess. Eb'ish Sshaads from the nearby Eb'aareli and Irilian Rithai from Irilia-23 are especially well represented. </bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">K'Rinn Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Human Food</item>
-    <item price_mod="1.0">Rith Food</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Pupeteer Food</item>
     <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">K'Rinn Food</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

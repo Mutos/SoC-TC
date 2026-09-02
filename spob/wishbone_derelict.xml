@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wishbone Derelict">
+  <pos x="1644.679987" y="-2196.48983"/>
+  <GFX>
+    <space>Asteroid-Base-008a-Derelict-Mining-Station.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <base>10.0</base>
+    <bonus>0</bonus>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+    </services>
+    <description>None</description>
+    <bar>ah ?</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

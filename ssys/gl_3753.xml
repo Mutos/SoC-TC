@@ -8,15 +8,15 @@
   <pos x="-1786.504" y="-744.856"/>
   <spobs/>
   <jumps>
-    <jump target="CL-HnH - 2 - 1">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Hope (Tau Ceti)">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Little Sol">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="R-47">
       <autopos/>
       <hide>1.25</hide>
     </jump>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ro'da">
+  <pos x="-4058.209483" y="-5993.84496"/>
+  <GFX>
+    <space>Station-009-Outpost.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

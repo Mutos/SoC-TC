@@ -7,19 +7,19 @@
   </general>
   <pos x="-1980.424" y="-359.032"/>
   <spobs>
-    <spob>Luhman 16 B</spob>
     <spob>Freeport 2</spob>
+    <spob>Luhman 16 B</spob>
   </spobs>
   <jumps>
     <jump target="Argelanders Star">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="CL 0015">
+    <jump target="Hermit's Star">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Hermit's Star">
+    <jump target="Kruger 60">
       <autopos/>
       <hide>1.25</hide>
     </jump>
@@ -30,13 +30,11 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="954.002776" y="5923.691655"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3768.146624" y="2890.049107"/>
       <density>0.500000</density>

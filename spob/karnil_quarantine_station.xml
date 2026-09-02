@@ -34,8 +34,8 @@ After the tragedy struck the planetside settlements, the station was hastily con
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Generic Food</item>
     <item price_mod="1.0">Medicine</item>
     <item price_mod="1.0">Rith Food</item>
+    <item price_mod="1.0">Generic Food</item>
   </tech>
 </spob>

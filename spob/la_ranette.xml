@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="La Ranette">
+  <pos x="6686.647363" y="-1925.877697"/>
+  <GFX>
+    <space>M04.png</space>
+    <exterior>oceanic2.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

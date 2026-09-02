@@ -2,31 +2,13 @@
 <spob name="Sen'Frrish">
   <pos x="-5328.261628" y="-1117.009064"/>
   <GFX>
-    <space>M10.png</space>
+    <space>H03.png</space>
     <exterior>station04.png</exterior>
   </GFX>
-  <presence>
-    <faction>Confederated Sshaad Stars</faction>
-    <base>400.0</base>
-    <bonus>0</bonus>
-    <range>3</range>
-  </presence>
   <general>
     <class>A</class>
-    <population>2500000</population>
+    <population>0</population>
     <hide>0.25</hide>
-    <services>
-      <land/>
-      <bar/>
-      <missions/>
-      <outfits/>
-      <refuel/>
-      <shipyard/>
-    </services>
-    <description>(null)</description>
-    <bar>(null)</bar>
+    <services/>
   </general>
-  <tech>
-    <item>Standard Core Outfits</item>
-  </tech>
 </spob>

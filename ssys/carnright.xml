@@ -7,8 +7,8 @@
   </general>
   <pos x="-2945.384" y="-1035.752"/>
   <spobs>
-    <spob>Carnright High Spaceyard</spob>
     <spob>Wotan</spob>
+    <spob>Carnright High Spaceyard</spob>
   </spobs>
   <jumps>
     <jump target="Cartel">

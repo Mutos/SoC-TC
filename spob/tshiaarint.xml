@@ -24,7 +24,7 @@
       <shipyard/>
       <commodity/>
     </services>
-    <description>This planet is very special, being the Shapeshifters' cradleworld. It had been settled by a joint effort between Baartish Intersystem and Hash'riss Colonisation Corporation, but elements had been kept secret from the colonists by the exploration compagny that discovered the planet : satellites had been found and destroyed, and places showed signs of civilisation, seemingly hidden or destroyed on purpose.
+    <description>This planet is very special, being the Shapeshifters' cradleworld. It had been settled by a joint effort between Baartish Intersystem and Hash'riss Colonisation Corporation, but elements had been kept secret from the colonists by the exploration company that discovered the planet : satellites had been found and destroyed, and places showed signs of civilisation, seemingly hidden or destroyed on purpose.
 
 First contact occurred in several places with very different outcomes, ranging from the first seeds of Complementarism to burned-down shapeshifter hives. However, planetside Baartish officials, quickly groking the benefits that Complementarism had to offer to both species, did support the new ideology nearly from the start.
 
@@ -40,12 +40,12 @@ Now, Tshiaa'rint is split between a generally Complementarist population, a numb
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Shapeshifter Food</item>
-    <item price_mod="1.0">Industrial Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Luxury Goods</item>
     <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Ore</item>
     <item price_mod="1.0">Sshaad Food</item>
+    <item price_mod="1.0">Ore</item>
+    <item price_mod="1.0">Shapeshifter Food</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Industrial Goods</item>
   </tech>
 </spob>

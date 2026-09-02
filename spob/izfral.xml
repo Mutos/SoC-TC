@@ -5,28 +5,10 @@
     <space>M01.png</space>
     <exterior>station05.png</exterior>
   </GFX>
-  <presence>
-    <faction>Confederated Sshaad Stars</faction>
-    <base>400.0</base>
-    <bonus>0</bonus>
-    <range>3</range>
-  </presence>
   <general>
     <class>A</class>
-    <population>250000</population>
+    <population>0</population>
     <hide>0.25</hide>
-    <services>
-      <land/>
-      <bar/>
-      <missions/>
-      <outfits/>
-      <refuel/>
-      <shipyard/>
-    </services>
-    <description>(null)</description>
-    <bar>(null)</bar>
+    <services/>
   </general>
-  <tech>
-    <item>Standard Core Outfits</item>
-  </tech>
 </spob>

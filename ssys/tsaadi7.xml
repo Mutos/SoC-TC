@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tsaa'di-7">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-1866.152" y="1996.464"/>
+  <spobs/>
+  <jumps>
+    <jump target="Alinal">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="BI 0133">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa'di-8">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

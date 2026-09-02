@@ -7,9 +7,9 @@
   </general>
   <pos x="-8.552" y="-2463.504"/>
   <spobs>
-    <spob>Ghilan's Pride</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Light of Dawn</spob>
+    <spob>Ghilan's Pride</spob>
   </spobs>
   <jumps>
     <jump target="PA 0091">
@@ -27,25 +27,21 @@
   </jumps>
   <asteroids>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-8719.141649" y="5169.363879"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2396.099995" y="-4148.802770"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="1819.261108" y="-4481.594436"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
-   <group>default</group>
       <radius>1000.000000</radius>
       <pos x="7654.208318" y="6500.530543"/>
       <density>0.500000</density>
