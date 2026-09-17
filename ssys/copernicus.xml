@@ -7,16 +7,16 @@
   </general>
   <pos x="-2180.216" y="-327.504"/>
   <spobs>
-    <spob>Cunitz</spob>
-    <spob>Janssen</spob>
     <spob>Brahe</spob>
     <spob>Lipperhey</spob>
-    <spob>Bruno</spob>
+    <spob>Janssen</spob>
     <spob>Galilee</spob>
+    <spob>Cunitz</spob>
     <spob>Harriot</spob>
+    <spob>Bruno</spob>
   </spobs>
   <jumps>
-    <jump target="CL 0020">
+    <jump target="Imori">
       <autopos/>
       <hide>1.25</hide>
     </jump>

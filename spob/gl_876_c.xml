@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gl 876 c">
+  <pos x="2129.866662" y="-2706.70555"/>
+  <GFX>
+    <space>I07.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

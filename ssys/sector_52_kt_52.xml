@@ -7,8 +7,8 @@
   </general>
   <pos x="-158.384" y="300.792"/>
   <spobs>
-    <spob>Sector 52 Memorial</spob>
     <spob>Sector 52 Derelicts</spob>
+    <spob>Sector 52 Memorial</spob>
   </spobs>
   <jumps>
     <jump target="KT 123">

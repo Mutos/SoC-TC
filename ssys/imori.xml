@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Imori">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2206.64" y="-255.976"/>
+  <spobs/>
+  <jumps>
+    <jump target="51 Pegasi">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Copernicus">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Haro 6-47">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

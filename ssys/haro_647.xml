@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Haro 6-47">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2197.456" y="-172.512"/>
+  <spobs/>
+  <jumps>
+    <jump target="51 Pegasi">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Imori">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="The Hub">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

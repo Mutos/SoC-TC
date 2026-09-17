@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Lost Bar">
+  <pos x="7475.831985" y="-4281.031992"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Traders</faction>
+    <base>25.0</base>
+    <bonus>0</bonus>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <refuel/>
+      <blackmarket/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

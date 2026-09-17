@@ -8,11 +8,11 @@
   <pos x="-1268.264" y="-2876.496"/>
   <spobs/>
   <jumps>
-    <jump target="RQL 0008">
+    <jump target="RQL 0040">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="RQL 0040">
+    <jump target="Shallow Reef">
       <autopos/>
       <hide>1.25</hide>
     </jump>

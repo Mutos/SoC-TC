@@ -7,21 +7,17 @@
   </general>
   <pos x="-1929.42432" y="-1438.3296"/>
   <spobs>
-    <spob>Godjaveri Staryards</spob>
-    <spob>Runners' Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Dwarves' Tunnels</spob>
+    <spob>Godjaveri Staryards</spob>
+    <spob>Runners' Station</spob>
   </spobs>
   <jumps>
     <jump target="Carrouf">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="GJ 3466">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="GL 283 A">
+    <jump target="Hoshi no Kushi">
       <autopos/>
       <hide>1.25</hide>
     </jump>
@@ -29,9 +25,14 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
+    <jump target="Uchu no Mori (Gl 283)">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
   </jumps>
   <asteroids>
     <asteroid>
+      <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-3949.127770" y="2196.424996"/>
       <density>0.500000</density>

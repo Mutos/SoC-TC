@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tau-3812">
+  <pos x="-5860.831007" y="-3512.800919"/>
+  <GFX>
+    <space>asteroids-006.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

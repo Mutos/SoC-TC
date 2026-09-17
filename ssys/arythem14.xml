@@ -5,7 +5,7 @@
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-1022.0" y="1571.0"/>
+  <pos x="-1036.4" y="1504.76"/>
   <spobs/>
   <jumps>
     <jump target="Akthaim">
@@ -17,6 +17,10 @@
       <hide>1.25</hide>
     </jump>
     <jump target="Tsaa 0005">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa 0020">
       <autopos/>
       <hide>1.25</hide>
     </jump>

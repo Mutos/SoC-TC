@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Meetpoint">
+  <pos x="-3578.175993" y="2364.151995"/>
+  <GFX>
+    <space>Station-HQ-001-Grey.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Hoshi no Hekka</faction>
+    <base>300.0</base>
+    <bonus>0</bonus>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>50000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+      <blackmarket/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

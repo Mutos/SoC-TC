@@ -7,8 +7,8 @@
   </general>
   <pos x="1130.06176" y="1039.56672"/>
   <spobs>
-    <spob>Ithil ud Arythem</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Ithil ud Arythem</spob>
   </spobs>
   <jumps>
     <jump target="Ary 0037">

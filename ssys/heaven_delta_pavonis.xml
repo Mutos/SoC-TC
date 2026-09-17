@@ -7,26 +7,34 @@
   </general>
   <pos x="-1303.696" y="-496.824"/>
   <spobs>
-    <spob>Venus 2</spob>
-    <spob>Cuisine de l'Enfer</spob>
-    <spob>Belter</spob>
-    <spob>Lilith</spob>
-    <spob>Reve du Mineur</spob>
-    <spob>Heaven</spob>
-    <spob>Antartica</spob>
     <spob>Markow's Place</spob>
+    <spob>Belter</spob>
+    <spob>Venus 2</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Antartica</spob>
+    <spob>Reve du Mineur</spob>
+    <spob>Lilith</spob>
+    <spob>Cuisine de l'Enfer</spob>
+    <spob>Heaven</spob>
   </spobs>
   <jumps>
     <jump target="GJ 9209">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Gl 3622">
+    <jump target="Gl 784">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 832">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="New Earth (Eta Cassiopeia)">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Pathway">
       <autopos/>
       <hide>1.25</hide>
     </jump>

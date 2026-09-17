@@ -24,6 +24,10 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
+    <jump target="Tsaa 0023">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="Tsaahm Arythem">
       <autopos/>
       <hide>1.25</hide>

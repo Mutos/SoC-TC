@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heaven's Gates">
+  <pos x="1182.075998" y="-4792.199991"/>
+  <GFX>
+    <space>Jump-Gate-001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>0.0</base>
+    <bonus>0</bonus>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <refuel/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

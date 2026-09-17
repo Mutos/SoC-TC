@@ -10,10 +10,6 @@
     <spob>Thestias</spob>
   </spobs>
   <jumps>
-    <jump target="CL 0029">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Le Manege">
       <autopos/>
       <hide>1.25</hide>
@@ -23,6 +19,10 @@
       <hide>1.25</hide>
     </jump>
     <jump target="Savitri">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Sparrow's Nest">
       <autopos/>
       <hide>1.25</hide>
     </jump>

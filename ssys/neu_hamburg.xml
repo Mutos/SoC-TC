@@ -7,8 +7,8 @@
   </general>
   <pos x="-3731.624" y="-1068.584"/>
   <spobs>
-    <spob>Neu Hamburg Border Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Neu Hamburg Border Station</spob>
   </spobs>
   <jumps>
     <jump target="PT 0041">

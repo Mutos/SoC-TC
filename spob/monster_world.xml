@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Monster World">
+  <pos x="3772.419833" y="-5520.614389"/>
+  <GFX>
+    <space>G01.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Rokh's Nest">
+  <pos x="3457.335641" y="3124.543975"/>
+  <GFX>
+    <space>Asteroid-Base-002-Fighters-Base.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

@@ -6,7 +6,13 @@
     <interference>100.0</interference>
   </general>
   <pos x="-1405.8" y="-710.04"/>
-  <spobs/>
+  <spobs>
+    <spob>Nyame</spob>
+    <spob>Anansi</spob>
+    <spob>Tau-3812</spob>
+    <spob>Asase Ya</spob>
+    <spob>Tau-Sigma</spob>
+  </spobs>
   <jumps>
     <jump target="New Earth (Eta Cassiopeia)">
       <autopos/>
@@ -17,11 +23,11 @@
       <hide>1.25</hide>
     </jump>
     <jump target="Teegarden">
-      <autopos/>
+      <pos x="-5834.477178" y="-3496.062099"/>
       <hide>1.25</hide>
     </jump>
     <jump target="Tripoint">
-      <autopos/>
+      <pos x="725.149004" y="-6801.715268"/>
       <hide>1.25</hide>
     </jump>
   </jumps>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 849">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2300.752" y="28.168"/>
+  <spobs>
+    <spob>Gl 849 c</spob>
+    <spob>Gl 849 b</spob>
+  </spobs>
+  <jumps>
+    <jump target="Gl 687">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Outslide">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Sparrow's Nest">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

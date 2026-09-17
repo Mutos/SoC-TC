@@ -8,15 +8,15 @@
   <pos x="-1759.016" y="-2446.224"/>
   <spobs/>
   <jumps>
+    <jump target="CD-47 399">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="KC-SC - 1 - 2">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Orkaria">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="SC 0013">
       <autopos/>
       <hide>1.25</hide>
     </jump>

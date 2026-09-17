@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ro'klon">
+  <pos x="191.688" y="-3450.383993"/>
+  <GFX>
+    <space>Station-HQ-001-Grey.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Baartish Intersystems</faction>
+    <base>100.0</base>
+    <bonus>0</bonus>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>20000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

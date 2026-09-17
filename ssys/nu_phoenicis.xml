@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Nu Phoenicis">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-2391.464" y="-2529.168"/>
+  <spobs>
+    <spob>Rokh's Nest</spob>
+    <spob>Takham</spob>
+    <spob>Simorg</spob>
+  </spobs>
+  <jumps>
+    <jump target="SC 0003">
+      <pos x="3204.697735" y="4000.346786"/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="SC 0004">
+      <pos x="5461.757810" y="-3459.399687"/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

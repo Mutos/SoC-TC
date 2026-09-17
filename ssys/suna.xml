@@ -8,15 +8,15 @@
   <pos x="-1056.8" y="461.368"/>
   <spobs/>
   <jumps>
-    <jump target="AC 0001">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="AC 0018">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="Edasich">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 341">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 370">
       <autopos/>
       <hide>1.25</hide>
     </jump>

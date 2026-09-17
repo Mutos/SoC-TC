@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tsaa 0024">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-803.032" y="1635.296"/>
+  <spobs/>
+  <jumps>
+    <jump target="Tsaa 0020">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa 0021">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tsaa 0023">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

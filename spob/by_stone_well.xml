@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="By Stone Well">
+  <pos x="-1564.174077" y="2806.312314"/>
+  <GFX>
+    <space>M05.png</space>
+    <exterior>aquatic3.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

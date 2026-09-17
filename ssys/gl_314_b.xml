@@ -8,11 +8,11 @@
   <pos x="-2133.54848" y="-1340.52288"/>
   <spobs/>
   <jumps>
-    <jump target="GJ 1097">
+    <jump target="Fruits' Garden (Gl 334)">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Gl 334">
+    <jump target="GJ 1097">
       <autopos/>
       <hide>1.25</hide>
     </jump>

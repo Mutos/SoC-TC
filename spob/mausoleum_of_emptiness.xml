@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mausoleum of emptiness">
+  <pos x="1693.652931" y="-1729.332457"/>
+  <GFX>
+    <space>001.png</space>
+    <exterior>Outpost-KTiln.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

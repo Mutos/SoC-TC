@@ -10,11 +10,11 @@
     <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
-    <jump target="Gl 293.2">
+    <jump target="Fruits' Garden (Gl 334)">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Gl 334">
+    <jump target="Gl 293.2">
       <autopos/>
       <hide>1.25</hide>
     </jump>
@@ -25,26 +25,31 @@
   </jumps>
   <asteroids>
     <asteroid>
+      <group>default</group>
       <radius>1000.000000</radius>
       <pos x="7674.011818" y="6060.152212"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
+      <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2844.905498" y="-2156.413321"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
+      <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2844.905498" y="-1804.985321"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
+      <group>default</group>
       <radius>1000.000000</radius>
       <pos x="-9039.750478" y="-4488.617316"/>
       <density>0.500000</density>
     </asteroid>
     <asteroid>
+      <group>default</group>
       <radius>1000.000000</radius>
       <pos x="2173.997500" y="-2124.465321"/>
       <density>0.500000</density>

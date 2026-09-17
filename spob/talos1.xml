@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Talos-1">
+  <pos x="5910.379988" y="26.623333"/>
+  <GFX>
+    <space>Station-SSY004.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>50.0</base>
+    <bonus>0</bonus>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>10000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

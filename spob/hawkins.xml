@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Hawkins">
+  <pos x="1171.426664" y="-2901.943328"/>
+  <GFX>
+    <space>K03.png</space>
+    <exterior>desertic4.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

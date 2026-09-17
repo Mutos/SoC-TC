@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Fuxi">
+  <pos x="-3627.069662" y="-2995.809751"/>
+  <GFX>
+    <space>I01.png</space>
+    <exterior>snow.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

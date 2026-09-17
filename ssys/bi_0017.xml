@@ -8,11 +8,11 @@
   <pos x="-4313.0" y="-1230.864"/>
   <spobs/>
   <jumps>
-    <jump target="BI 0009">
+    <jump target="Ari'Essh">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="BI 0016">
+    <jump target="BI 0009">
       <autopos/>
       <hide>1.25</hide>
     </jump>

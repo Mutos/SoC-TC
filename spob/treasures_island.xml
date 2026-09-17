@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Treasure's Island">
+  <pos x="1837.009996" y="-2103.243329"/>
+  <GFX>
+    <space>Station-001-Comm-Hub.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Free Traders</faction>
+    <base>100.0</base>
+    <bonus>0</bonus>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

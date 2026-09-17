@@ -7,8 +7,8 @@
   </general>
   <pos x="-1884.584" y="786.864"/>
   <spobs>
-    <spob>Ziwa Kubwa</spob>
     <spob>Bahari</spob>
+    <spob>Ziwa Kubwa</spob>
   </spobs>
   <jumps>
     <jump target="CL 0051">

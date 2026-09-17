@@ -7,8 +7,8 @@
   </general>
   <pos x="653.272" y="-2002.128"/>
   <spobs>
-    <spob>Higgez</spob>
     <spob>Hastur</spob>
+    <spob>Higgez</spob>
   </spobs>
   <jumps>
     <jump target="Iri 0034">

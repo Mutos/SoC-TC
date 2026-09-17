@@ -7,8 +7,8 @@
   </general>
   <pos x="172.888" y="-2368.464"/>
   <spobs>
-    <spob>Farlander III</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Farlander III</spob>
   </spobs>
   <jumps>
     <jump target="PA 0093">

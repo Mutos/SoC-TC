@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gliese 784 b">
+  <pos x="1091.556665" y="-1304.543331"/>
+  <GFX>
+    <space>S01.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

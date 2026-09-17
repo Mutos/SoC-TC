@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mytilene-1">
+  <pos x="-3594.149993" y="772.076665"/>
+  <GFX>
+    <space>Station-SCO003.png</space>
+    <exterior>scrapped_station.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>100.0</base>
+    <bonus>0</bonus>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>50000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

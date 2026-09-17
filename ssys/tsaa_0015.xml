@@ -5,14 +5,14 @@
     <spacedust>400</spacedust>
     <interference>0.0</interference>
   </general>
-  <pos x="-1313.192" y="2117.424"/>
+  <pos x="-1401.32" y="2183.088"/>
   <spobs/>
   <jumps>
     <jump target="Tsaa 0016">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Tsaa 0018">
+    <jump target="Tsaa 0017">
       <autopos/>
       <hide>1.25</hide>
     </jump>

@@ -7,10 +7,10 @@
   </general>
   <pos x="-2540.072" y="-2311.44"/>
   <spobs>
-    <spob>Ol'mine</spob>
-    <spob>Shadow Bonfire</spob>
     <spob>Lenett</spob>
     <spob>La Ranette</spob>
+    <spob>Shadow Bonfire</spob>
+    <spob>Ol'mine</spob>
   </spobs>
   <jumps>
     <jump target="CS 0038">

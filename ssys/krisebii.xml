@@ -6,10 +6,19 @@
     <interference>0.0</interference>
   </general>
   <pos x="-2633.448" y="-2134.512"/>
-  <spobs/>
+  <spobs>
+    <spob>Holle</spob>
+    <spob>Kur</spob>
+    <spob>By Stone Well</spob>
+    <spob>Ryugu-Jo</spob>
+    <spob>Monster World</spob>
+    <spob>Gaea</spob>
+    <spob>Inbetween</spob>
+    <spob>Oz</spob>
+  </spobs>
   <jumps>
     <jump target="Arama">
-      <autopos/>
+      <pos x="5825.246507" y="5987.000138"/>
       <hide>1.25</hide>
     </jump>
   </jumps>

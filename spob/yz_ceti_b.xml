@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="YZ Ceti b">
+  <pos x="63.896" y="1501.555997"/>
+  <GFX>
+    <space>G02.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

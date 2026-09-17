@@ -7,23 +7,23 @@
   </general>
   <pos x="-4388.168" y="-1276.656"/>
   <spobs>
+    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>Shiin</spob>
+    <spob>Oshiinal</spob>
     <spob>Nanai'Sh</spob>
     <spob>Lhass</spob>
     <spob>Altan'Ssh</spob>
-    <spob>Oshiinal</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
   </spobs>
   <jumps>
+    <jump target="Ari'Essh">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="BI 0010">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="BI 0012">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="BI 0016">
       <autopos/>
       <hide>1.25</hide>
     </jump>

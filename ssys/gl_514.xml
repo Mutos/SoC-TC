@@ -7,8 +7,8 @@
   </general>
   <pos x="-350.70464" y="-1231.00384"/>
   <spobs>
-    <spob>Gl 514 b</spob>
     <spob>Muchette</spob>
+    <spob>Gl 514 b</spob>
   </spobs>
   <jumps>
     <jump target="Inferno">

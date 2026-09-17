@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 687">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>100.0</interference>
+  </general>
+  <pos x="-2391.464" y="-21.84"/>
+  <spobs/>
+  <jumps>
+    <jump target="Banthory">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="DX Cancri">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 849">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

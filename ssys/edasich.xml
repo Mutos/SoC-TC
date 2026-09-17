@@ -11,15 +11,15 @@
     <spob>Eldritch</spob>
   </spobs>
   <jumps>
-    <jump target="AC 0001">
+    <jump target="Gl 341">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="AC 0018">
+    <jump target="Gl 370">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="Ran (Epsilon Eridani)">
+    <jump target="Ran">
       <autopos/>
       <hide>1.25</hide>
     </jump>

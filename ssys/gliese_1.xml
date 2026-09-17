@@ -8,7 +8,7 @@
   <pos x="-2201.608" y="-632.056"/>
   <spobs/>
   <jumps>
-    <jump target="CL 0003">
+    <jump target="Tepiamenit">
       <autopos/>
       <hide>1.25</hide>
     </jump>

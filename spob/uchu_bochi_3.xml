@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Uchu Bochi 3">
+  <pos x="5303.36799" y="2811.423994"/>
+  <GFX>
+    <space>Asteroid-Base-005-Trapped-Ship.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

@@ -8,6 +8,10 @@
   <pos x="-2250.464" y="-2577.28"/>
   <spobs/>
   <jumps>
+    <jump target="Nu Phoenicis">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
     <jump target="SC 0003">
       <autopos/>
       <hide>1.25</hide>
@@ -17,10 +21,6 @@
       <hide>1.25</hide>
     </jump>
     <jump target="SC 0014">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="SC 0017">
       <autopos/>
       <hide>1.25</hide>
     </jump>
