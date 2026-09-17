@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gl 849 c">
+  <pos x="4210.78047" y="-5117.839564"/>
+  <GFX>
+    <space>J07.png</space>
+    <exterior>aquatic3.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

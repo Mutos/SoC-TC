@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Arion">
+  <pos x="3124.543975" y="-4270.82638"/>
+  <GFX>
+    <space>moon-D02.png</space>
+    <exterior>uninhabited-rocky-airless-00.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>50.0</base>
+    <bonus>0</bonus>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>10000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

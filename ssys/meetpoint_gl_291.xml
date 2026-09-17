@@ -6,7 +6,10 @@
     <interference>100.0</interference>
   </general>
   <pos x="-1999.76448" y="-1344.02688"/>
-  <spobs/>
+  <spobs>
+    <spob>Argo</spob>
+    <spob>Meetpoint</spob>
+  </spobs>
   <jumps>
     <jump target="Carrouf">
       <autopos/>

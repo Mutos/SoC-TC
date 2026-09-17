@@ -6,21 +6,32 @@
     <interference>100.0</interference>
   </general>
   <pos x="-738.848" y="578.872"/>
-  <spobs/>
+  <spobs>
+    <spob>Uchu Bochi 1</spob>
+    <spob>Uchu Bochi 5</spob>
+    <spob>Uchu Bochi 3</spob>
+    <spob>Uchu Bochi 2</spob>
+    <spob>Mausoleum of emptiness</spob>
+    <spob>Uchu Bochi 4</spob>
+  </spobs>
   <jumps>
-    <jump target="AC 0007">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="AC 0012">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
     <jump target="AC 0017">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Chalawan">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 1132">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 367">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="KT 18">
       <autopos/>
       <hide>1.25</hide>
     </jump>

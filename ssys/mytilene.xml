@@ -6,17 +6,20 @@
     <interference>0.0</interference>
   </general>
   <pos x="-1880.048" y="-30.624"/>
-  <spobs/>
+  <spobs>
+    <spob>Eolia</spob>
+    <spob>Mytilene-1</spob>
+  </spobs>
   <jumps>
-    <jump target="CL 0058">
-      <autopos/>
-      <hide>1.25</hide>
-    </jump>
-    <jump target="CL 0062">
+    <jump target="Gl 454">
       <autopos/>
       <hide>1.25</hide>
     </jump>
     <jump target="Pollux">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Ross 878">
       <autopos/>
       <hide>1.25</hide>
     </jump>

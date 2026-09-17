@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 832">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-1377.0" y="-478.0"/>
+  <spobs>
+    <spob>Gl 832 c</spob>
+    <spob>Gl 832 b</spob>
+  </spobs>
+  <jumps>
+    <jump target="Heaven (Delta Pavonis)">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

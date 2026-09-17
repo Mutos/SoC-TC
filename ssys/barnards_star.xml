@@ -7,26 +7,32 @@
   </general>
   <pos x="-1728.68" y="-310.744"/>
   <spobs>
-    <spob>Barnard c</spob>
-    <spob>Barnard b</spob>
     <spob>Barnard d</spob>
+    <spob>Arion</spob>
+    <spob>Boreas</spob>
+    <spob>Talos-1</spob>
+    <spob>Barnard c</spob>
+    <spob>Cora</spob>
+    <spob>Despina</spob>
+    <spob>Chione</spob>
     <spob>Barnard e</spob>
+    <spob>Barnard b</spob>
   </spobs>
   <jumps>
     <jump target="Gl 3001">
-      <autopos/>
+      <pos x="-13177.896527" y="-374.756729"/>
       <hide>1.25</hide>
     </jump>
     <jump target="Gl 534.1">
-      <autopos/>
+      <pos x="4117.107360" y="-4864.290655"/>
       <hide>1.25</hide>
     </jump>
     <jump target="McLeod">
-      <autopos/>
+      <pos x="-3724.691102" y="-4819.218259"/>
       <hide>1.25</hide>
     </jump>
     <jump target="Sol">
-      <autopos/>
+      <pos x="6225.813431" y="-827.270107"/>
       <hide>1.25</hide>
     </jump>
   </jumps>

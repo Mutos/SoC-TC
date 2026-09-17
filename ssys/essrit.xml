@@ -7,10 +7,10 @@
   </general>
   <pos x="-5033.576" y="-490.128"/>
   <spobs>
-    <spob>Od'Ess'Rit</spob>
-    <spob>Ka'Ess'Rit</spob>
     <spob>Rit'Ess'Rit</spob>
+    <spob>Ka'Ess'Rit</spob>
     <spob>Ro'da</spob>
+    <spob>Od'Ess'Rit</spob>
     <spob>Al'Ess'Rit</spob>
   </spobs>
   <jumps>

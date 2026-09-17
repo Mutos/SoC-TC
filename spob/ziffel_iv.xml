@@ -40,8 +40,8 @@ When news broke of a plague decimating the Ziffelan population, a quarantine was
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ziffelan Minidragons</item>
     <item price_mod="1.0">Human Food</item>
   </tech>
 </spob>

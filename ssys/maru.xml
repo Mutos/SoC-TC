@@ -10,7 +10,7 @@
     <spob>Ahra</spob>
   </spobs>
   <jumps>
-    <jump target="Ashioto - Purgatoire">
+    <jump target="Ashioto">
       <autopos/>
       <hide>1.25</hide>
     </jump>

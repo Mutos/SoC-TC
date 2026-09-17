@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 454">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-1723.68" y="-40.608"/>
+  <spobs/>
+  <jumps>
+    <jump target="Alpha Corvi">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Gl 876">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Mytilene">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

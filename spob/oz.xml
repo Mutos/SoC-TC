@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Oz">
+  <pos x="1656.184317" y="-2530.281595"/>
+  <GFX>
+    <space>H04.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

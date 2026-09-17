@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Uchu Bochi 4">
+  <pos x="3845.516856" y="-5774.775638"/>
+  <GFX>
+    <space>asteroids-001.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

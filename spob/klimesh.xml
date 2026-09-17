@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Kli'mesh">
+  <pos x="-1533.503997" y="-1763.529597"/>
+  <GFX>
+    <space>A04.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

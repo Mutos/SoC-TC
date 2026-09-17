@@ -1,0 +1,7 @@
+name = "Flak Turret"
+display = "Flak Turret"
+description = "This slot is used for low-power turrets intended for self-defence against fighters and missiles."
+required = false
+exclusive = true
+icon = "turret"
+tags = ["turret"]

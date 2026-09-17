@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Gl 849 b">
+  <pos x="-3047.379143" y="-2384.905416"/>
+  <GFX>
+    <space>J05.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

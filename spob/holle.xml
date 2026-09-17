@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Holle">
+  <pos x="-11225.249258" y="-6946.773106"/>
+  <GFX>
+    <space>P02.png</space>
+    <exterior>forest2-Red.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

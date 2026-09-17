@@ -16,6 +16,10 @@
       <autopos/>
       <hide>1.25</hide>
     </jump>
+    <jump target="O'oo">
+      <autopos/>
+      <hide>3.0</hide>
+    </jump>
     <jump target="Tsaa'di-4">
       <autopos/>
       <hide>1.25</hide>

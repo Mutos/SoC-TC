@@ -6,10 +6,15 @@
     <interference>100.0</interference>
   </general>
   <pos x="-1494.904" y="-186.904"/>
-  <spobs/>
+  <spobs>
+    <spob>Sequana</spob>
+    <spob>Artio-1</spob>
+    <spob>Artio</spob>
+    <spob>Sirona</spob>
+  </spobs>
   <jumps>
     <jump target="Sol">
-      <autopos/>
+      <pos x="-4109.581150" y="-3659.550224"/>
       <hide>1.25</hide>
     </jump>
   </jumps>

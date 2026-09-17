@@ -30,18 +30,18 @@ During the Corporatist Wars between Cartel Sol and the Planetarist Alliance, the
 
 The Hoshi no Hekka never forgot Solar forces came by Hermes first. Only weeks after the Solar fleet was routed at Eldorado, the Hermes system was patrolled by a 1st-generation Fortress of the same class as the late Banshee. At the end of the war, it was stripped from its jump drives and turned into an insystem mobile defense station.
 
-Hermes Border Station now also dubs as a major trade exchange center, nearly on a par with Shin Yokohama.
+Hermes Border Station now also dubs as a major trade exchange center, nearly on a par with Shin Yokosuka.
   </description>
     <bar>Numerous HnHers and Spacers stand at the bar, laughing about the planetside States.</bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>
     <item price_mod="1.0">Ziffelan Minidragons</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Luxury Goods</item>
-    <item price_mod="1.0">Medicine</item>
-    <item price_mod="1.0">Industrial Goods</item>
     <item price_mod="1.0">Human Food</item>
+    <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Industrial Goods</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

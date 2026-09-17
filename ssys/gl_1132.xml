@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 1132">
+  <general>
+    <radius>10000.0</radius>
+    <spacedust>400</spacedust>
+    <interference>0.0</interference>
+  </general>
+  <pos x="-854.96" y="484.496"/>
+  <spobs/>
+  <jumps>
+    <jump target="Gl 370">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Titawin">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+    <jump target="Tonbo no haka">
+      <autopos/>
+      <hide>1.25</hide>
+    </jump>
+  </jumps>
+</ssys>

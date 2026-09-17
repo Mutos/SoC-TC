@@ -8,9 +8,11 @@
   <pos x="-2520.592" y="-310.752"/>
   <spobs>
     <spob>Malferria</spob>
+    <spob>YZ Ceti b</spob>
+    <spob>YZ Ceti c</spob>
   </spobs>
   <jumps>
-    <jump target="CL 0023">
+    <jump target="Alma">
       <autopos/>
       <hide>1.25</hide>
     </jump>

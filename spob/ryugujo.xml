@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ryugu-Jo">
+  <pos x="6532.727027" y="4646.517111"/>
+  <GFX>
+    <space>I06.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

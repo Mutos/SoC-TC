@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Dreamer">
+  <pos x="-3098.955994" y="-1309.867997"/>
+  <GFX>
+    <space>moon-P03.png</space>
+    <exterior>snow.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

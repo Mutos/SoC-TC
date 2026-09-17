@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Heqet">
+  <pos x="3118.550767" y="-4664.088511"/>
+  <GFX>
+    <space>M03.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

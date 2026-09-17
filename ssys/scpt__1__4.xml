@@ -8,11 +8,11 @@
   <pos x="-2362.184" y="-1184.352"/>
   <spobs/>
   <jumps>
-    <jump target="Procyon">
+    <jump target="Mudlarks' Trench">
       <autopos/>
       <hide>1.25</hide>
     </jump>
-    <jump target="SC-PT - 1 - 3">
+    <jump target="Procyon">
       <autopos/>
       <hide>1.25</hide>
     </jump>

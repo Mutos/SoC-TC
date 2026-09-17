@@ -8,12 +8,12 @@
   <pos x="-81.128" y="-792.528"/>
   <spobs>
     <spob>Virtual Independent Area 3 Jumps</spob>
-    <spob>Virtual Pirate Small</spob>
     <spob>Nouvelle-Hong-Kong</spob>
+    <spob>Virtual Pirate Small</spob>
     <spob>Nouvelle-Shenzen</spob>
   </spobs>
   <jumps>
-    <jump target="Iri-CL - 1 - 1">
+    <jump target="Dorado">
       <autopos/>
       <hide>1.25</hide>
     </jump>

@@ -7,8 +7,8 @@
   </general>
   <pos x="-3267.56" y="-346.704"/>
   <spobs>
-    <spob>Rarilash Research Station</spob>
     <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Rarilash Research Station</spob>
   </spobs>
   <jumps>
     <jump target="Eshodal">

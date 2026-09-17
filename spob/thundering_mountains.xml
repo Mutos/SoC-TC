@@ -26,16 +26,16 @@
     </services>
     <description>This green and blue planet, equally split between oceans and verdant continents, takes its name from its many active volcanoes. It have been bestowed quite recently, after decades of being only known as Colony 9.
 
-It is 13-Planets-League custom to name a colony after a major feature of the planetary surface. Settlers often discuss their planet's name for years or even decades before they reach a decision, and proposed names can be very diverse. Before being officially named, the planet is only known as the nth colony.
+It is 13-Planets-League custom to name a colony after a major feature of the planetary surface. Settlers often discuss their planet's name for years or even decades before they reach a decision, and proposed names can be very diverse.
   </description>
     <bar>Small groups of locals and an occasional Spacer</bar>
   </general>
   <tech>
     <item>Standard Core Outfits</item>
-    <item price_mod="1.0">Generic Food</item>
-    <item price_mod="1.0">Pupeteer Food</item>
-    <item price_mod="1.0">Ore</item>
-    <item price_mod="1.0">Luxury Goods</item>
     <item price_mod="1.0">Medicine</item>
+    <item price_mod="1.0">Luxury Goods</item>
+    <item price_mod="1.0">Pupeteer Food</item>
+    <item price_mod="1.0">Generic Food</item>
+    <item price_mod="1.0">Ore</item>
   </tech>
 </spob>

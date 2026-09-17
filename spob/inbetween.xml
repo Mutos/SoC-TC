@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Inbetween">
+  <pos x="-2760.307195" y="4140.460792"/>
+  <GFX>
+    <space>Outpost-PurrSphere-001-Base-100px.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Independent</faction>
+    <base>25.0</base>
+    <bonus>0</bonus>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>2000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <refuel/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

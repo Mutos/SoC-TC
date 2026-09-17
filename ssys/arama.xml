@@ -7,19 +7,19 @@
   </general>
   <pos x="-2748.648" y="-2168.712"/>
   <spobs>
-    <spob>Rhombus-1</spob>
+    <spob>Virtual Independent Area 3 Jumps</spob>
+    <spob>Rhombus-2</spob>
+    <spob>Hyena Pup</spob>
+    <spob>Blue Water</spob>
+    <spob>Moonless</spob>
     <spob>Bone Pearl</spob>
-    <spob>Jasp</spob>
     <spob>Onyx</spob>
     <spob>Jade</spob>
-    <spob>Blue Water</spob>
-    <spob>Garden's Wall</spob>
-    <spob>Hyena Pup</spob>
-    <spob>Moonless</spob>
-    <spob>Rhombus-2</spob>
-    <spob>Mim'Sa</spob>
-    <spob>Virtual Independent Area 3 Jumps</spob>
     <spob>The Watcher</spob>
+    <spob>Rhombus-1</spob>
+    <spob>Mim'Sa</spob>
+    <spob>Garden's Wall</spob>
+    <spob>Jasp</spob>
   </spobs>
   <jumps>
     <jump target="Ab Yoht">

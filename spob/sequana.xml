@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sequana">
+  <pos x="-2332.203995" y="-2907.267994"/>
+  <GFX>
+    <space>O05.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>50.0</base>
+    <bonus>0</bonus>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>200000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>Sequana is an Ocean world, where genenginering experiment where conducted on Human by Human, giving birth to Amphibs people, Human able to breath in air and water.</description>
+    <bar>Sequanians and tourists.</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

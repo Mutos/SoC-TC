@@ -1,0 +1,6 @@
+name        = "Hull Plating"
+display     = "Hull Plating"
+description = "The ship's external plating, affecting the hull's mass, cargo space, strength and stealth capabilities."
+exclusive   = true
+required    = true
+icon        = "hull"

@@ -6,10 +6,19 @@
     <interference>0.0</interference>
   </general>
   <pos x="-2707.648" y="-2244.712"/>
-  <spobs/>
+  <spobs>
+    <spob>Black Dog</spob>
+    <spob>Billy Bones</spob>
+    <spob>Hawkins</spob>
+    <spob>Treasure's Island</spob>
+    <spob>Smollett</spob>
+    <spob>Lost Bar</spob>
+    <spob>Trelawney</spob>
+    <spob>Long Jones Silver</spob>
+  </spobs>
   <jumps>
     <jump target="Arama">
-      <autopos/>
+      <pos x="7679.869550" y="-3371.198114"/>
       <hide>1.25</hide>
     </jump>
   </jumps>

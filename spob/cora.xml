@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Cora">
+  <pos x="-2847.217587" y="-4548.152769"/>
+  <GFX>
+    <space>moon-L00.png</space>
+    <exterior>snowy_cliffs.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>50.0</base>
+    <bonus>0</bonus>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>10000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <outfits/>
+      <refuel/>
+      <shipyard/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>

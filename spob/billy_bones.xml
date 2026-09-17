@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Billy Bones">
+  <pos x="-1597.399997" y="3540.903326"/>
+  <GFX>
+    <space>moon-P03.png</space>
+    <exterior>oceanic.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

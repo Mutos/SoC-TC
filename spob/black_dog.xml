@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Black Dog">
+  <pos x="-1571.516201" y="3975.011566"/>
+  <GFX>
+    <space>asteroid-D05.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <general>
+    <class>A</class>
+    <population>0</population>
+    <hide>0.25</hide>
+    <services/>
+  </general>
+</spob>

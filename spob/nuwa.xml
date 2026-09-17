@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Nuwa">
+  <pos x="2664.130814" y="-674.057194"/>
+  <GFX>
+    <space>H03.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Core League</faction>
+    <base>50.0</base>
+    <bonus>0</bonus>
+    <range>0</range>
+  </presence>
+  <general>
+    <class>A</class>
+    <population>10000</population>
+    <hide>0.25</hide>
+    <services>
+      <land/>
+      <bar/>
+      <missions/>
+      <refuel/>
+    </services>
+    <description>(null)</description>
+    <bar>(null)</bar>
+  </general>
+  <tech>
+    <item>Standard Core Outfits</item>
+  </tech>
+</spob>
